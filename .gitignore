@@ -1,0 +1,22 @@
+# Credenciais e Sessões Locais (NUNCA enviar para o GitHub!)
+.env
+sessao_ml.json
+sessao_whatsapp.json
+wpp_perfil/
+ml_perfil_temp/
+historico_envios.json
+temp_oferta.jpg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/

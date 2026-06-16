@@ -1,0 +1,305 @@
+import os
+import sys
+import json
+import time
+import random
+import re
+
+# Importa nossos módulos locais
+from garimpeiro import buscar_promocoes, buscar_ofertas_do_dia
+from amazon_scraper import buscar_promocoes_amazon, buscar_ofertas_do_dia_amazon
+from categorizador import categorizar_produto
+from bot_afiliado import gerar_link_bot
+from whatsapp_sender import WhatsAppSender
+
+# Configura o stdout para UTF-8 no Windows
+sys.stdout.reconfigure(encoding='utf-8')
+
+HISTORICO_FILE = "historico_envios.json"
+
+# =========================================================
+# CONFIGURAÇÕES DO BOT
+# =========================================================
+# Modos de Busca:
+# "OFERTAS_DO_DIA" -> Garimpa a página oficial de Ofertas do Dia do ML (100% piloto automático)
+# "TERMOS_ESPECIFICOS" -> Busca termos específicos configurados abaixo (ML + Amazon)
+MODO_DE_BUSCA = "OFERTAS_DO_DIA"
+# MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
+
+# Limite máximo de ofertas que serão postadas nesta execução (para evitar inundar o grupo de uma vez)
+LIMITE_MENSAGENS_POR_RODADA = 13
+
+# Desconto mínimo para aceitar uma oferta (%)
+DESCONTO_MINIMO_GERAL = 10
+
+# Configuração de envio do WhatsApp:
+# Se True, envia todas as ofertas para um único grupo/canal unificado.
+# Se False, envia para grupos separados por categoria (Moda, Games, Fitness, Informática, Geral).
+UNIFICAR_GRUPOS = True
+GRUPO_UNICO_NOME = "Ofertas - Geral"  # Nome do grupo/canal unificado no WhatsApp
+
+
+# Termos específicos (usados apenas se MODO_DE_BUSCA = "TERMOS_ESPECIFICOS")
+TERMOS_BUSCA = [
+    # Tecnologia & Gamers (Alto valor e desejo de compra)
+    {"termo": "Console PlayStation 5", "desconto_minimo": 10},
+    {"termo": "Nintendo Switch", "desconto_minimo": 8},
+    {"termo": "SSD Nvme 1TB", "desconto_minimo": 15},
+    {"termo": "Monitor Gamer 144hz", "desconto_minimo": 12},
+    {"termo": "Mesa Gamer", "desconto_minimo": 15},
+    {"termo": "Placa de Vídeo RTX", "desconto_minimo": 15},
+    {"termo": "Notebook Ryzen", "desconto_minimo": 10},
+    {"termo": "Notebook Intel Ultra", "desconto_minimo": 10},
+    
+    # Eletrônicos & Smart Home (Mais vendidos)
+    {"termo": "iPhone 15", "desconto_minimo": 10},
+    {"termo": "iPhone 16", "desconto_minimo": 10},
+    {"termo": "Samsung Galaxy S26", "desconto_minimo": 12},
+    {"termo": "Samsung Galaxy S25", "desconto_minimo": 12},
+    {"termo": "Alexa Echo Dot", "desconto_minimo": 15},
+    {"termo": "Fire TV Stick", "desconto_minimo": 15},
+    {"termo": "Smart TV 55", "desconto_minimo": 10},
+    
+    # Eletroportáteis & Casa (Altíssima conversão de vendas)
+    {"termo": "Fritadeira Airfryer", "desconto_minimo": 15},
+    {"termo": "Robô Aspirador", "desconto_minimo": 15},
+    {"termo": "Geladeira", "desconto_minimo": 10},
+    {"termo": "Cafeteira Nespresso", "desconto_minimo": 15},
+    
+    # Fitness & Saúde (Público fiel e compra recorrente)
+    {"termo": "Whey", "desconto_minimo": 15},
+    {"termo": "Camisa dryfit", "desconto_minimo": 15},
+    {"termo": "Creatina pura", "desconto_minimo": 15},
+    
+    # Moda & Calçados
+    {"termo": "Tênis Adidas", "desconto_minimo": 20},
+    {"termo": "Tênis Nike Masculino", "desconto_minimo": 20}
+]
+# =========================================================
+
+def carregar_historico():
+    """Carrega o histórico de envios locais para evitar duplicidades"""
+    if os.path.exists(HISTORICO_FILE):
+        try:
+            with open(HISTORICO_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except:
+            return []
+    return []
+
+def salvar_historico(historico):
+    """Salva o histórico atualizado em arquivo JSON"""
+    with open(HISTORICO_FILE, "w", encoding="utf-8") as f:
+        json.dump(historico, f, indent=4, ensure_ascii=False)
+
+def obter_id_unico(url):
+    """
+    Retorna uma string identificadora única para o produto (ASIN para Amazon, MLB ID para Mercado Livre).
+    Se não conseguir identificar, retorna a própria URL limpa como fallback.
+    """
+    url_limpa = url.strip()
+    
+    # 1. AMAZON
+    if "amazon.com" in url_limpa:
+        asin_match = re.search(r'/(?:dp|gp/product)/([A-Z0-9]{10})', url_limpa, re.IGNORECASE)
+        if asin_match:
+            return f"AMAZON_{asin_match.group(1).upper()}"
+            
+    # 2. MERCADO LIVRE
+    elif "mercadolivre.com" in url_limpa or "mercadolibre.com" in url_limpa:
+        ml_match = re.search(r'(MLB[U]?[-]?\d+)', url_limpa, re.IGNORECASE)
+        if ml_match:
+            return f"ML_{ml_match.group(1).replace('-', '').upper()}"
+            
+    return url_limpa.split("?")[0].split("#")[0]
+
+def formatar_mensagem_oferta(titulo, preco_original, preco_atual, desconto, link_afiliado):
+    """Gera o texto formatado para envio no WhatsApp com visual premium"""
+    msg = f"🔥 *{titulo}*\n\n"
+    
+    if preco_original > preco_atual:
+        msg += f"❌ De: ~R$ {preco_original:.2f}~\n"
+        
+    msg += f"💰 *Por: R$ {preco_atual:.2f}*\n"
+    msg += f"📉 *Desconto: {desconto}% OFF*\n\n"
+    msg += f"🛒 *Compre com segurança aqui:* {link_afiliado}\n\n"
+    msg += "⚠️ _Oferta sujeita a alteração de preço e estoque a qualquer momento._"
+    return msg
+
+def baixar_imagem(url, caminho_destino):
+    """Baixa uma imagem de uma URL e salva localmente"""
+    if not url:
+        return False
+    import urllib.request
+    import ssl
+    try:
+        # Define cabeçalhos de navegador comum para evitar bloqueios de CDN
+        req = urllib.request.Request(
+            url, 
+            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36'}
+        )
+        # Ignora verificação SSL para evitar erros com proxies corporativos ou antivírus
+        contexto_ssl = ssl._create_unverified_context()
+        with urllib.request.urlopen(req, context=contexto_ssl, timeout=10) as response:
+            with open(caminho_destino, 'wb') as out_file:
+                out_file.write(response.read())
+        return True
+    except Exception as e:
+        print(f"⚠️ Erro ao baixar imagem da oferta: {e}")
+        return False
+
+def orquestrar_bot():
+    # Salvaguarda: Evita enviar mensagens de madrugada (das 23h às 08h) para não incomodar os membros
+    import datetime
+    hora_atual = datetime.datetime.now().hour
+    if hora_atual >= 23 or hora_atual < 8:
+        print("💤 Shhh! Está muito tarde ou muito cedo. Evitando envios de madrugada para não incomodar os membros.")
+        print("🏁 Operação cancelada devido ao horário silencioso.")
+        return
+
+    print("🚀 =========================================")
+    print("🤖 BOT DE AFILIADOS MERCADO LIVRE & WHATSAPP")
+    print(f"📡 Modo de Busca Ativo: {MODO_DE_BUSCA}")
+    print("🚀 =========================================\n")
+    
+    historico = carregar_historico()
+    ofertas_encontradas = []
+    seen_ids = set() # Evita duplicados capturados na mesma execução do bot
+    
+    # 1. FASE DE SCRAPING: Busca as ofertas do Mercado Livre e Amazon
+    print("🔍 [1/3] Iniciando varredura de ofertas...")
+    
+    if MODO_DE_BUSCA == "OFERTAS_DO_DIA":
+        # Garimpa a página geral de ofertas do ML (traz até 30 ofertas)
+        resultados = buscar_ofertas_do_dia(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=30)
+        for item in resultados:
+            item_id = obter_id_unico(item["link_bruto"])
+            if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
+                seen_ids.add(item_id)
+                categoria = categorizar_produto(item["titulo"])
+                item["categoria"] = categoria
+                ofertas_encontradas.append(item)
+                
+        # Garimpa a página geral de ofertas da Amazon (traz até 15 ofertas)
+        resultados_amz = buscar_ofertas_do_dia_amazon(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=15)
+        for item in resultados_amz:
+            item_id = obter_id_unico(item["link_bruto"])
+            if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
+                seen_ids.add(item_id)
+                categoria = categorizar_produto(item["titulo"])
+                item["categoria"] = categoria
+                ofertas_encontradas.append(item)
+    else:
+        # Garimpa termo por termo (busca no Mercado Livre E na Amazon)
+        for busca in TERMOS_BUSCA:
+            termo = busca["termo"]
+            desc_min = busca["desconto_minimo"]
+            
+            # Busca no Mercado Livre
+            ml_res = buscar_promocoes(termo, desconto_minimo=desc_min, limite=1)
+            for item in ml_res:
+                item_id = obter_id_unico(item["link_bruto"])
+                if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
+                    seen_ids.add(item_id)
+                    item["categoria"] = categorizar_produto(item["titulo"])
+                    ofertas_encontradas.append(item)
+                    
+            # Busca na Amazon
+            amz_res = buscar_promocoes_amazon(termo, desconto_minimo=desc_min, limite=1)
+            for item in amz_res:
+                item_id = obter_id_unico(item["link_bruto"])
+                if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
+                    seen_ids.add(item_id)
+                    item["categoria"] = categorizar_produto(item["titulo"])
+                    ofertas_encontradas.append(item)
+                    
+            time.sleep(1.5)
+            
+    # Filtra e ordena as ofertas encontradas pelo maior desconto
+    ofertas_encontradas = sorted(ofertas_encontradas, key=lambda x: x['desconto'], reverse=True)
+    
+    # Limita o número de posts desta rodada para não dar spam
+    ofertas_encontradas = ofertas_encontradas[:LIMITE_MENSAGENS_POR_RODADA]
+    
+    print(f"\n📊 Encontradas {len(ofertas_encontradas)} novas ofertas aptas para envio nesta rodada!")
+    if not ofertas_encontradas:
+        print("🤷‍♂️ Nenhuma oferta nova para enviar nesta rodada.")
+        return
+        
+    # 2. FASE DE CONVERSÃO: Converte os links para afiliados instantaneamente (sem navegador)
+    print("\n🔗 [2/3] Iniciando conversão de links brutas para links de afiliado...")
+    ofertas_prontas = []
+    
+    for item in ofertas_encontradas:
+        print(f"🔄 Convertendo link para: {item['titulo'][:40]}...")
+        link_afiliado = gerar_link_bot(item["link_bruto"])
+        
+        if link_afiliado:
+            item["link_afiliado"] = link_afiliado
+            ofertas_prontas.append(item)
+        else:
+            print(f"❌ Não foi possível gerar link de afiliado para '{item['titulo'][:30]}'")
+        
+    print(f"\n✅ {len(ofertas_prontas)} links convertidos com sucesso!")
+    if not ofertas_prontas:
+        print("🤷‍♂️ Nenhuma oferta com link convertido pronto para envio.")
+        return
+
+    # 3. FASE DE ENVIO WHATSAPP: Abre o WhatsApp e envia as mensagens
+    print("\n📱 [3/3] Iniciando conexão com o WhatsApp Web para envio...")
+    whatsapp = WhatsAppSender()
+    
+    # Inicia o WhatsApp (pode rodar headless=True se você já salvou a sessão)
+    if whatsapp.iniciar(headless=False):
+        for idx, item in enumerate(ofertas_prontas):
+            mensagem = formatar_mensagem_oferta(
+                titulo=item["titulo"],
+                preco_original=item["preco_original"],
+                preco_atual=item["preco_atual"],
+                desconto=item["desconto"],
+                link_afiliado=item["link_afiliado"]
+            )
+            
+            # Faz o download da imagem do produto se existir
+            caminho_imagem = None
+            url_img = item.get("link_imagem")
+            if url_img:
+                caminho_imagem = "temp_oferta.jpg"
+                print(f"📥 Baixando imagem do produto para envio...")
+                baixado = baixar_imagem(url_img, caminho_imagem)
+                if not baixado:
+                    caminho_imagem = None
+            
+            # Define se envia para o grupo unificado ou para o grupo de categoria
+            grupo_destino = GRUPO_UNICO_NOME if UNIFICAR_GRUPOS else item["categoria"]
+            
+            # Envia para o grupo de destino com a imagem correspondente
+            sucesso = whatsapp.enviar_mensagem_grupo(grupo_destino, message_cap := mensagem, caminho_imagem)
+            
+            # Limpa o arquivo de imagem temporário após o envio
+            if caminho_imagem and os.path.exists(caminho_imagem):
+                try:
+                    os.remove(caminho_imagem)
+                except Exception as ex:
+                    print(f"⚠️ Erro ao remover imagem temporária: {ex}")
+            
+            if sucesso:
+                # Adiciona ao histórico local o ID único para evitar duplicações mesmo se a URL mudar parâmetros de busca
+                item_id = obter_id_unico(item["link_bruto"])
+                historico.append(item_id)
+                salvar_historico(historico)
+            
+            # Adiciona delay humanizado anti-banimento se ainda houver mais mensagens a enviar
+            if idx < len(ofertas_prontas) - 1:
+                delay_tempo = random.randint(10, 25)
+                print(f"⏳ Aguardando {delay_tempo} segundos (delay anti-ban) antes do próximo envio...")
+                time.sleep(delay_tempo)
+            
+        whatsapp.fechar()
+    else:
+        print("🚨 Falha ao conectar no WhatsApp Web. Verifique a sessão.")
+
+    print("\n🏁 Operação concluída com sucesso!")
+
+if __name__ == "__main__":
+    orquestrar_bot()
