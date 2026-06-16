@@ -8,6 +8,7 @@ import re
 # Importa nossos módulos locais
 from garimpeiro import buscar_promocoes, buscar_ofertas_do_dia
 from amazon_scraper import buscar_promocoes_amazon, buscar_ofertas_do_dia_amazon
+from magalu_scraper import buscar_promocoes_magalu, buscar_ofertas_do_dia_magalu
 from categorizador import categorizar_produto
 from bot_afiliado import gerar_link_bot
 from whatsapp_sender import WhatsAppSender
@@ -21,10 +22,19 @@ HISTORICO_FILE = "historico_envios.json"
 # CONFIGURAÇÕES DO BOT
 # =========================================================
 # Modos de Busca:
-# "OFERTAS_DO_DIA" -> Garimpa a página oficial de Ofertas do Dia do ML (100% piloto automático)
-# "TERMOS_ESPECIFICOS" -> Busca termos específicos configurados abaixo (ML + Amazon)
+# "OFERTAS_DO_DIA" -> Garimpa as páginas oficiais de Ofertas do Dia / Destaques
+# "TERMOS_ESPECIFICOS" -> Busca termos específicos configurados na lista TERMOS_BUSCA
 MODO_DE_BUSCA = "OFERTAS_DO_DIA"
 # MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
+
+# Lojas ativas para busca:
+BUSCAR_NO_MERCADO_LIVRE = True
+BUSCAR_NA_AMAZON = True
+BUSCAR_NA_MAGALU = True
+
+# Se True, no modo OFERTAS_DO_DIA, o bot só envia ofertas que contêm algum termo da lista TERMOS_BUSCA.
+# Se False, envia qualquer boa oferta encontrada nas páginas de ofertas do dia.
+FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = False
 
 # Limite máximo de ofertas que serão postadas nesta execução (para evitar inundar o grupo de uma vez)
 LIMITE_MENSAGENS_POR_RODADA = 13
@@ -94,7 +104,8 @@ def salvar_historico(historico):
 
 def obter_id_unico(url):
     """
-    Retorna uma string identificadora única para o produto (ASIN para Amazon, MLB ID para Mercado Livre).
+    Retorna uma string identificadora única para o produto.
+    ASIN para Amazon, MLB ID para Mercado Livre, ID numérico/hash para Magalu.
     Se não conseguir identificar, retorna a própria URL limpa como fallback.
     """
     url_limpa = url.strip()
@@ -110,6 +121,12 @@ def obter_id_unico(url):
         ml_match = re.search(r'(MLB[U]?[-]?\d+)', url_limpa, re.IGNORECASE)
         if ml_match:
             return f"ML_{ml_match.group(1).replace('-', '').upper()}"
+            
+    # 3. MAGAZINE LUIZA / MAGAZINE VOCE
+    elif "magazineluiza.com" in url_limpa or "magazinevoce.com" in url_limpa:
+        magalu_match = re.search(r'/p/([a-zA-Z0-9]+)', url_limpa)
+        if magalu_match:
+            return f"MAGALU_{magalu_match.group(1).upper()}"
             
     return url_limpa.split("?")[0].split("#")[0]
 
@@ -148,6 +165,15 @@ def baixar_imagem(url, caminho_destino):
         print(f"⚠️ Erro ao baixar imagem da oferta: {e}")
         return False
 
+def atende_filtro_termos(titulo):
+    """Retorna True se o titulo do produto contiver algum dos termos especificos configurados"""
+    titulo_lower = titulo.lower()
+    for busca in TERMOS_BUSCA:
+        termo = busca["termo"].lower()
+        if termo in titulo_lower:
+            return True
+    return False
+
 def orquestrar_bot():
     # Salvaguarda: Evita enviar mensagens de madrugada (das 23h às 08h) para não incomodar os membros
     import datetime
@@ -166,53 +192,84 @@ def orquestrar_bot():
     ofertas_encontradas = []
     seen_ids = set() # Evita duplicados capturados na mesma execução do bot
     
-    # 1. FASE DE SCRAPING: Busca as ofertas do Mercado Livre e Amazon
+    # 1. FASE DE SCRAPING: Busca as ofertas do Mercado Livre, Amazon e Magalu
     print("🔍 [1/3] Iniciando varredura de ofertas...")
     
     if MODO_DE_BUSCA == "OFERTAS_DO_DIA":
-        # Garimpa a página geral de ofertas do ML (traz até 30 ofertas)
-        resultados = buscar_ofertas_do_dia(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=30)
-        for item in resultados:
-            item_id = obter_id_unico(item["link_bruto"])
-            if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
-                seen_ids.add(item_id)
-                categoria = categorizar_produto(item["titulo"])
-                item["categoria"] = categoria
-                ofertas_encontradas.append(item)
-                
-        # Garimpa a página geral de ofertas da Amazon (traz até 15 ofertas)
-        resultados_amz = buscar_ofertas_do_dia_amazon(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=15)
-        for item in resultados_amz:
-            item_id = obter_id_unico(item["link_bruto"])
-            if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
-                seen_ids.add(item_id)
-                categoria = categorizar_produto(item["titulo"])
-                item["categoria"] = categoria
-                ofertas_encontradas.append(item)
+        # Mercado Livre
+        if BUSCAR_NO_MERCADO_LIVRE:
+            resultados = buscar_ofertas_do_dia(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=30)
+            for item in resultados:
+                if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
+                    continue
+                item_id = obter_id_unico(item["link_bruto"])
+                if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
+                    seen_ids.add(item_id)
+                    categoria = categorizar_produto(item["titulo"])
+                    item["categoria"] = categoria
+                    ofertas_encontradas.append(item)
+                    
+        # Amazon
+        if BUSCAR_NA_AMAZON:
+            resultados_amz = buscar_ofertas_do_dia_amazon(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=15)
+            for item in resultados_amz:
+                if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
+                    continue
+                item_id = obter_id_unico(item["link_bruto"])
+                if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
+                    seen_ids.add(item_id)
+                    categoria = categorizar_produto(item["titulo"])
+                    item["categoria"] = categoria
+                    ofertas_encontradas.append(item)
+
+        # Magazine Luiza
+        if BUSCAR_NA_MAGALU:
+            resultados_mgl = buscar_ofertas_do_dia_magalu(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=15)
+            for item in resultados_mgl:
+                if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
+                    continue
+                item_id = obter_id_unico(item["link_bruto"])
+                if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
+                    seen_ids.add(item_id)
+                    categoria = categorizar_produto(item["titulo"])
+                    item["categoria"] = categoria
+                    ofertas_encontradas.append(item)
     else:
-        # Garimpa termo por termo (busca no Mercado Livre E na Amazon)
+        # Garimpa termo por termo nas lojas ativas
         for busca in TERMOS_BUSCA:
             termo = busca["termo"]
             desc_min = busca["desconto_minimo"]
             
-            # Busca no Mercado Livre
-            ml_res = buscar_promocoes(termo, desconto_minimo=desc_min, limite=1)
-            for item in ml_res:
-                item_id = obter_id_unico(item["link_bruto"])
-                if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
-                    seen_ids.add(item_id)
-                    item["categoria"] = categorizar_produto(item["titulo"])
-                    ofertas_encontradas.append(item)
-                    
-            # Busca na Amazon
-            amz_res = buscar_promocoes_amazon(termo, desconto_minimo=desc_min, limite=1)
-            for item in amz_res:
-                item_id = obter_id_unico(item["link_bruto"])
-                if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
-                    seen_ids.add(item_id)
-                    item["categoria"] = categorizar_produto(item["titulo"])
-                    ofertas_encontradas.append(item)
-                    
+            # Mercado Livre
+            if BUSCAR_NO_MERCADO_LIVRE:
+                ml_res = buscar_promocoes(termo, desconto_minimo=desc_min, limite=1)
+                for item in ml_res:
+                    item_id = obter_id_unico(item["link_bruto"])
+                    if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
+                        seen_ids.add(item_id)
+                        item["categoria"] = categorizar_produto(item["titulo"])
+                        ofertas_encontradas.append(item)
+                        
+            # Amazon
+            if BUSCAR_NA_AMAZON:
+                amz_res = buscar_promocoes_amazon(termo, desconto_minimo=desc_min, limite=1)
+                for item in amz_res:
+                    item_id = obter_id_unico(item["link_bruto"])
+                    if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
+                        seen_ids.add(item_id)
+                        item["categoria"] = categorizar_produto(item["titulo"])
+                        ofertas_encontradas.append(item)
+
+            # Magazine Luiza
+            if BUSCAR_NA_MAGALU:
+                mgl_res = buscar_promocoes_magalu(termo, desconto_minimo=desc_min, limite=1)
+                for item in mgl_res:
+                    item_id = obter_id_unico(item["link_bruto"])
+                    if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
+                        seen_ids.add(item_id)
+                        item["categoria"] = categorizar_produto(item["titulo"])
+                        ofertas_encontradas.append(item)
+                        
             time.sleep(1.5)
             
     # Filtra e ordena as ofertas encontradas pelo maior desconto
