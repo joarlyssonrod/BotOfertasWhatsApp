@@ -1,6 +1,7 @@
 import re
 import urllib.parse
 import sys
+from shopee_api import converter_link_shopee
 
 # Configura o stdout para UTF-8 no Windows
 sys.stdout.reconfigure(encoding='utf-8')
@@ -58,10 +59,9 @@ def gerar_link_bot(url_produto, pagina_ativa=None):
         print(f"✅ Link Instant Gaming convertido: {link_afiliado}")
         return link_afiliado
 
-    # 5. SHOPEE (Aviso)
+    # 5. SHOPEE
     elif "shopee.com" in url_limpa:
-        print(f"⚠️ Link Shopee detectado. Como você não possui a API ativa, ele será enviado no formato original (bruto): {url_produto}")
-        return url_produto
+        return converter_link_shopee(url_produto)
         
     # Outros sites retornam o link bruto sem modificação
     return url_produto

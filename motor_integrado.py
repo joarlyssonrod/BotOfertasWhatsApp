@@ -9,6 +9,7 @@ import re
 from garimpeiro import buscar_promocoes, buscar_ofertas_do_dia
 from amazon_scraper import buscar_promocoes_amazon, buscar_ofertas_do_dia_amazon
 from magalu_scraper import buscar_promocoes_magalu, buscar_ofertas_do_dia_magalu
+from shopee_api import buscar_promocoes_shopee, buscar_ofertas_do_dia_shopee
 from categorizador import categorizar_produto
 from bot_afiliado import gerar_link_bot
 from whatsapp_sender import WhatsAppSender
@@ -31,10 +32,11 @@ MODO_DE_BUSCA = "OFERTAS_DO_DIA"
 BUSCAR_NO_MERCADO_LIVRE = True
 BUSCAR_NA_AMAZON = True
 BUSCAR_NA_MAGALU = True
+BUSCAR_NA_SHOPEE = True
 
 # Se True, no modo OFERTAS_DO_DIA, o bot só envia ofertas que contêm algum termo da lista TERMOS_BUSCA.
 # Se False, envia qualquer boa oferta encontrada nas páginas de ofertas do dia.
-FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = False
+FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = True
 
 # Limite máximo de ofertas que serão postadas nesta execução (para evitar inundar o grupo de uma vez)
 LIMITE_MENSAGENS_POR_RODADA = 13
@@ -56,8 +58,13 @@ TERMOS_BUSCA = [
     {"termo": "Nintendo Switch", "desconto_minimo": 8},
     {"termo": "SSD Nvme 1TB", "desconto_minimo": 15},
     {"termo": "Monitor Gamer 144hz", "desconto_minimo": 12},
+    {"termo": "Memoria RAM DDR4", "desconto_minimo": 12},
     {"termo": "Mesa Gamer", "desconto_minimo": 15},
     {"termo": "Placa de Vídeo RTX", "desconto_minimo": 15},
+    {"termo": "Headset Gamer", "desconto_minimo": 15},
+    {"termo": "SSD SATA 2.5", "desconto_minimo": 15},
+    {"termo": "Gabinete Gamer", "desconto_minimo": 15},
+    {"termo": "Fonte 80 Plus", "desconto_minimo": 10},
     {"termo": "Notebook Ryzen", "desconto_minimo": 10},
     {"termo": "Notebook Intel Ultra", "desconto_minimo": 10},
     
@@ -66,23 +73,38 @@ TERMOS_BUSCA = [
     {"termo": "iPhone 16", "desconto_minimo": 10},
     {"termo": "Samsung Galaxy S26", "desconto_minimo": 12},
     {"termo": "Samsung Galaxy S25", "desconto_minimo": 12},
+    {"termo": "Samsung 5G NFC 8GB", "desconto_minimo": 12},
+    {"termo": "Celular Xiaomi NFC 8GB", "desconto_minimo": 15},
+    {"termo": "Samsung 5G NFC 12GB", "desconto_minimo": 12},
     {"termo": "Alexa Echo Dot", "desconto_minimo": 15},
+    {"termo": "Roku Stick", "desconto_minimo": 15},
     {"termo": "Fire TV Stick", "desconto_minimo": 15},
-    {"termo": "Smart TV 55", "desconto_minimo": 10},
+    {"termo": "Smart TV", "desconto_minimo": 10},
     
     # Eletroportáteis & Casa (Altíssima conversão de vendas)
     {"termo": "Fritadeira Airfryer", "desconto_minimo": 15},
     {"termo": "Robô Aspirador", "desconto_minimo": 15},
     {"termo": "Geladeira", "desconto_minimo": 10},
-    {"termo": "Cafeteira Nespresso", "desconto_minimo": 15},
+    {"termo": "Sanduicheira", "desconto_minimo": 10},
+    {"termo": "Liquidificador", "desconto_minimo": 12},
+    {"termo": "Microondas", "desconto_minimo": 10},
+    {"termo": "Geladeira", "desconto_minimo": 10},
+    {"termo": "Chapinha", "desconto_minimo": 10},
+    {"termo": "Ventilador", "desconto_minimo": 10},
+    {"termo": "Cafeteira", "desconto_minimo": 15},
     
     # Fitness & Saúde (Público fiel e compra recorrente)
-    {"termo": "Whey", "desconto_minimo": 15},
+    {"termo": "Whey Protein", "desconto_minimo": 15},
     {"termo": "Camisa dryfit", "desconto_minimo": 15},
+    {"termo": "Beta Alanina", "desconto_minimo": 15},
+    {"termo": "Magnesio", "desconto_minimo": 15},
+    {"termo": "Garrafa Academia", "desconto_minimo": 10},
     {"termo": "Creatina pura", "desconto_minimo": 15},
     
     # Moda & Calçados
     {"termo": "Tênis Adidas", "desconto_minimo": 20},
+    {"termo": "Camisa Selecao Brasileira", "desconto_minimo": 15},
+    {"termo": "dryfit", "desconto_minimo": 20},
     {"termo": "Tênis Nike Masculino", "desconto_minimo": 20}
 ]
 # =========================================================
@@ -127,6 +149,16 @@ def obter_id_unico(url):
         magalu_match = re.search(r'/p/([a-zA-Z0-9]+)', url_limpa)
         if magalu_match:
             return f"MAGALU_{magalu_match.group(1).upper()}"
+            
+    # 4. SHOPEE
+    elif "shopee.com" in url_limpa:
+        # Padrões comuns: shopee.com.br/product/shopId/itemId ou shopee.com.br/product-i.shopId.itemId ou s.shopee.com.br/hash
+        shopee_match = re.search(r'product/(\d+)/(\d+)', url_limpa)
+        if shopee_match:
+            return f"SHOPEE_{shopee_match.group(2)}"
+        shopee_match2 = re.search(r'-i\.(\d+)\.(\d+)', url_limpa)
+        if shopee_match2:
+            return f"SHOPEE_{shopee_match2.group(2)}"
             
     return url_limpa.split("?")[0].split("#")[0]
 
@@ -192,7 +224,7 @@ def orquestrar_bot():
     ofertas_encontradas = []
     seen_ids = set() # Evita duplicados capturados na mesma execução do bot
     
-    # 1. FASE DE SCRAPING: Busca as ofertas do Mercado Livre, Amazon e Magalu
+    # 1. FASE DE SCRAPING: Busca as ofertas do Mercado Livre, Amazon, Magalu e Shopee
     print("🔍 [1/3] Iniciando varredura de ofertas...")
     
     if MODO_DE_BUSCA == "OFERTAS_DO_DIA":
@@ -234,6 +266,19 @@ def orquestrar_bot():
                     categoria = categorizar_produto(item["titulo"])
                     item["categoria"] = categoria
                     ofertas_encontradas.append(item)
+
+        # Shopee
+        if BUSCAR_NA_SHOPEE:
+            resultados_shp = buscar_ofertas_do_dia_shopee(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=15)
+            for item in resultados_shp:
+                if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
+                    continue
+                item_id = obter_id_unico(item["link_bruto"])
+                if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
+                    seen_ids.add(item_id)
+                    categoria = categorizar_produto(item["titulo"])
+                    item["categoria"] = categoria
+                    ofertas_encontradas.append(item)
     else:
         # Garimpa termo por termo nas lojas ativas
         for busca in TERMOS_BUSCA:
@@ -264,6 +309,16 @@ def orquestrar_bot():
             if BUSCAR_NA_MAGALU:
                 mgl_res = buscar_promocoes_magalu(termo, desconto_minimo=desc_min, limite=1)
                 for item in mgl_res:
+                    item_id = obter_id_unico(item["link_bruto"])
+                    if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
+                        seen_ids.add(item_id)
+                        item["categoria"] = categorizar_produto(item["titulo"])
+                        ofertas_encontradas.append(item)
+
+            # Shopee
+            if BUSCAR_NA_SHOPEE:
+                shp_res = buscar_promocoes_shopee(termo, desconto_minimo=desc_min, limite=1)
+                for item in shp_res:
                     item_id = obter_id_unico(item["link_bruto"])
                     if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
                         seen_ids.add(item_id)
