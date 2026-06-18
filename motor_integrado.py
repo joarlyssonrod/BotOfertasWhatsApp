@@ -25,8 +25,8 @@ HISTORICO_FILE = "historico_envios.json"
 # Modos de Busca:
 # "OFERTAS_DO_DIA" -> Garimpa as páginas oficiais de Ofertas do Dia / Destaques
 # "TERMOS_ESPECIFICOS" -> Busca termos específicos configurados na lista TERMOS_BUSCA
-MODO_DE_BUSCA = "OFERTAS_DO_DIA"
-# MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
+# MODO_DE_BUSCA = "OFERTAS_DO_DIA"
+MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
 
 # Lojas ativas para busca:
 BUSCAR_NO_MERCADO_LIVRE = True
@@ -36,10 +36,10 @@ BUSCAR_NA_SHOPEE = True
 
 # Se True, no modo OFERTAS_DO_DIA, o bot só envia ofertas que contêm algum termo da lista TERMOS_BUSCA.
 # Se False, envia qualquer boa oferta encontrada nas páginas de ofertas do dia.
-FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = True
+FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = False
 
 # Limite máximo de ofertas que serão postadas nesta execução (para evitar inundar o grupo de uma vez)
-LIMITE_MENSAGENS_POR_RODADA = 13
+LIMITE_MENSAGENS_POR_RODADA = 15
 
 # Desconto mínimo para aceitar uma oferta (%)
 DESCONTO_MINIMO_GERAL = 10
@@ -53,59 +53,63 @@ GRUPO_UNICO_NOME = "Ofertas - Geral"  # Nome do grupo/canal unificado no WhatsAp
 
 # Termos específicos (usados apenas se MODO_DE_BUSCA = "TERMOS_ESPECIFICOS")
 TERMOS_BUSCA = [
-    # Tecnologia & Gamers (Alto valor e desejo de compra)
+    # Tecnologia & Hardware
     {"termo": "Console PlayStation 5", "desconto_minimo": 10},
     {"termo": "Nintendo Switch", "desconto_minimo": 8},
-    {"termo": "SSD Nvme 1TB", "desconto_minimo": 15},
-    {"termo": "Monitor Gamer 144hz", "desconto_minimo": 12},
-    {"termo": "Memoria RAM DDR4", "desconto_minimo": 12},
-    {"termo": "Mesa Gamer", "desconto_minimo": 15},
-    {"termo": "Placa de Vídeo RTX", "desconto_minimo": 15},
-    {"termo": "Headset Gamer", "desconto_minimo": 15},
-    {"termo": "SSD SATA 2.5", "desconto_minimo": 15},
-    {"termo": "Gabinete Gamer", "desconto_minimo": 15},
-    {"termo": "Fonte 80 Plus", "desconto_minimo": 10},
-    {"termo": "Notebook Ryzen", "desconto_minimo": 10},
-    {"termo": "Notebook Intel Ultra", "desconto_minimo": 10},
+    {"termo": "Processador Ryzen", "desconto_minimo": 10},
+    {"termo": "Placa de vídeo RTX", "desconto_minimo": 12},
+    {"termo": "Placa mãe", "desconto_minimo": 10},
+    {"termo": "Memoria RAM", "desconto_minimo": 12},
+    {"termo": "Fonte para PC", "desconto_minimo": 10},
+    {"termo": "Monitor", "desconto_minimo": 12},
+    {"termo": "Teclado mecânico", "desconto_minimo": 15},
+    {"termo": "Mouse pad gamer", "desconto_minimo": 15},
+    {"termo": "Notebook", "desconto_minimo": 10},
+    {"termo": "Tablet", "desconto_minimo": 10},
+    {"termo": "Impressora", "desconto_minimo": 10},
+    {"termo": "Mesa para PC", "desconto_minimo": 15},
+    {"termo": "Cadeira gamer", "desconto_minimo": 12},
     
-    # Eletrônicos & Smart Home (Mais vendidos)
-    {"termo": "iPhone 15", "desconto_minimo": 10},
-    {"termo": "iPhone 16", "desconto_minimo": 10},
-    {"termo": "Samsung Galaxy S26", "desconto_minimo": 12},
-    {"termo": "Samsung Galaxy S25", "desconto_minimo": 12},
-    {"termo": "Samsung 5G NFC 8GB", "desconto_minimo": 12},
-    {"termo": "Celular Xiaomi NFC 8GB", "desconto_minimo": 15},
-    {"termo": "Samsung 5G NFC 12GB", "desconto_minimo": 12},
-    {"termo": "Alexa Echo Dot", "desconto_minimo": 15},
-    {"termo": "Roku Stick", "desconto_minimo": 15},
-    {"termo": "Fire TV Stick", "desconto_minimo": 15},
+    # Eletrônicos & Smart Home
+    {"termo": "Celular", "desconto_minimo": 12},
+    {"termo": "Relógio inteligente", "desconto_minimo": 15},
+    {"termo": "Fone de ouvido bluetooth", "desconto_minimo": 15},
     {"termo": "Smart TV", "desconto_minimo": 10},
+    {"termo": "Alexa Echo Dot", "desconto_minimo": 15},
     
-    # Eletroportáteis & Casa (Altíssima conversão de vendas)
+    # Eletrodomésticos & Eletroportáteis
+    {"termo": "Geladeira", "desconto_minimo": 10},
+    {"termo": "Aspirador de pó vertical", "desconto_minimo": 15},
     {"termo": "Fritadeira Airfryer", "desconto_minimo": 15},
-    {"termo": "Robô Aspirador", "desconto_minimo": 15},
-    {"termo": "Geladeira", "desconto_minimo": 10},
-    {"termo": "Sanduicheira", "desconto_minimo": 10},
-    {"termo": "Liquidificador", "desconto_minimo": 12},
-    {"termo": "Microondas", "desconto_minimo": 10},
-    {"termo": "Geladeira", "desconto_minimo": 10},
-    {"termo": "Chapinha", "desconto_minimo": 10},
     {"termo": "Ventilador", "desconto_minimo": 10},
     {"termo": "Cafeteira", "desconto_minimo": 15},
+    {"termo": "Ar condicionado", "desconto_minimo": 10},
+    {"termo": "Microondas", "desconto_minimo": 10},
+    {"termo": "Mixer", "desconto_minimo": 15},
+    {"termo": "Máquina de barbear", "desconto_minimo": 15},
     
-    # Fitness & Saúde (Público fiel e compra recorrente)
-    {"termo": "Whey Protein", "desconto_minimo": 15},
-    {"termo": "Camisa dryfit", "desconto_minimo": 15},
-    {"termo": "Beta Alanina", "desconto_minimo": 15},
-    {"termo": "Magnesio", "desconto_minimo": 15},
-    {"termo": "Garrafa Academia", "desconto_minimo": 10},
+    # Fitness, Saúde & Suplementos
+    {"termo": "Whey protein", "desconto_minimo": 15},
     {"termo": "Creatina pura", "desconto_minimo": 15},
+    {"termo": "Bicicleta ergométrica", "desconto_minimo": 15},
+    {"termo": "Roupa de academia", "desconto_minimo": 15},
     
-    # Moda & Calçados
-    {"termo": "Tênis Adidas", "desconto_minimo": 20},
-    {"termo": "Camisa Selecao Brasileira", "desconto_minimo": 15},
-    {"termo": "dryfit", "desconto_minimo": 20},
-    {"termo": "Tênis Nike Masculino", "desconto_minimo": 20}
+    # Beleza & Cuidado Pessoal
+    {"termo": "Perfume importado", "desconto_minimo": 15},
+    {"termo": "Protetor solar facial", "desconto_minimo": 15},
+    {"termo": "Hidratante facial", "desconto_minimo": 15},
+    {"termo": "Shampoo e condicionador", "desconto_minimo": 20},
+    {"termo": "Máscara capilar", "desconto_minimo": 20},
+    {"termo": "Sabonete líquido facial", "desconto_minimo": 15},
+    
+    # Moda, Calçados & Utilitários
+    {"termo": "Camisa dryfit", "desconto_minimo": 15},
+    {"termo": "Camiseta masculina", "desconto_minimo": 15},
+    {"termo": "Tênis", "desconto_minimo": 20},
+    {"termo": "Kit de meias", "desconto_minimo": 20},
+    {"termo": "Chinelo", "desconto_minimo": 20},
+    {"termo": "Kit Cuecas Boxer", "desconto_minimo": 15},
+    {"termo": "Copo térmico", "desconto_minimo": 15}
 ]
 # =========================================================
 
