@@ -66,16 +66,20 @@ TERMOS_BUSCA = [
     {"termo": "Mouse pad gamer", "desconto_minimo": 15},
     {"termo": "Notebook", "desconto_minimo": 10},
     {"termo": "Tablet", "desconto_minimo": 10},
+    {"termo": "Gabinete Gamer", "desconto_minimo": 10},
+    {"termo": "Fan ARGB", "desconto_minimo": 10},
     {"termo": "Impressora", "desconto_minimo": 10},
     {"termo": "Mesa para PC", "desconto_minimo": 15},
     {"termo": "Cadeira gamer", "desconto_minimo": 12},
     
     # Eletrônicos & Smart Home
     {"termo": "Celular", "desconto_minimo": 12},
+    {"termo": "Samsung NFC 8GB", "desconto_minimo": 12},
     {"termo": "Relógio inteligente", "desconto_minimo": 15},
     {"termo": "Fone de ouvido bluetooth", "desconto_minimo": 15},
     {"termo": "Smart TV", "desconto_minimo": 10},
-    {"termo": "Alexa Echo Dot", "desconto_minimo": 15},
+    {"termo": "Fire Stick", "desconto_minimo": 15},
+    {"termo": "Alexa Echo", "desconto_minimo": 15},
     
     # Eletrodomésticos & Eletroportáteis
     {"termo": "Geladeira", "desconto_minimo": 10},
@@ -92,6 +96,9 @@ TERMOS_BUSCA = [
     {"termo": "Whey protein", "desconto_minimo": 15},
     {"termo": "Creatina pura", "desconto_minimo": 15},
     {"termo": "Bicicleta ergométrica", "desconto_minimo": 15},
+    {"termo": "Garrafa academia", "desconto_minimo": 15},
+    {"termo": "Multivitaminico", "desconto_minimo": 15},
+    {"termo": "Magnesio", "desconto_minimo": 10},
     {"termo": "Roupa de academia", "desconto_minimo": 15},
     
     # Beleza & Cuidado Pessoal
