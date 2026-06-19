@@ -18,7 +18,7 @@ if errorlevel 1 (
 )
 
 :: Tenta importar os modulos necessarios e iniciar o chromium para garantir que tudo esta funcional
-python -c "import bs4; from playwright.sync_api import sync_playwright; p = sync_playwright().start(); p.chromium.launch(headless=True).close(); p.stop()" >nul 2>&1
+python -c "import bs4, requests; from playwright.sync_api import sync_playwright; p = sync_playwright().start(); p.chromium.launch(headless=True).close(); p.stop()" >nul 2>&1
 if errorlevel 1 (
     echo 📦 Dependencias ausentes detectadas.
     echo 📦 Instalando dependencias: playwright, beautifulsoup4...
