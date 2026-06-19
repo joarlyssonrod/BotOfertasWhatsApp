@@ -25,8 +25,8 @@ HISTORICO_FILE = "historico_envios.json"
 # Modos de Busca:
 # "OFERTAS_DO_DIA" -> Garimpa as páginas oficiais de Ofertas do Dia / Destaques
 # "TERMOS_ESPECIFICOS" -> Busca termos específicos configurados na lista TERMOS_BUSCA
-# MODO_DE_BUSCA = "OFERTAS_DO_DIA"
-MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
+MODO_DE_BUSCA = "OFERTAS_DO_DIA"
+# MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
 
 # Lojas ativas para busca:
 BUSCAR_NO_MERCADO_LIVRE = True
@@ -36,7 +36,7 @@ BUSCAR_NA_SHOPEE = True
 
 # Se True, no modo OFERTAS_DO_DIA, o bot só envia ofertas que contêm algum termo da lista TERMOS_BUSCA.
 # Se False, envia qualquer boa oferta encontrada nas páginas de ofertas do dia.
-FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = False
+FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = True
 
 # Limite máximo de ofertas que serão postadas nesta execução (para evitar inundar o grupo de uma vez)
 LIMITE_MENSAGENS_POR_RODADA = 15
@@ -61,6 +61,10 @@ TERMOS_BUSCA = [
     {"termo": "Placa mãe", "desconto_minimo": 10},
     {"termo": "Memoria RAM", "desconto_minimo": 12},
     {"termo": "Fonte para PC", "desconto_minimo": 10},
+    {"termo": "Gabinete Gamer", "desconto_minimo": 10},
+    {"termo": "Mousepad", "desconto_minimo": 10},
+    {"termo": "Teclado gamer", "desconto_minimo": 10},
+    {"termo": "Water Cooler", "desconto_minimo": 10},
     {"termo": "Monitor", "desconto_minimo": 12},
     {"termo": "Teclado mecânico", "desconto_minimo": 15},
     {"termo": "Mouse pad gamer", "desconto_minimo": 15},
@@ -85,6 +89,8 @@ TERMOS_BUSCA = [
     {"termo": "Cafeteira", "desconto_minimo": 15},
     {"termo": "Ar condicionado", "desconto_minimo": 10},
     {"termo": "Microondas", "desconto_minimo": 10},
+    {"termo": "Parafusadeira", "desconto_minimo": 10},
+    {"termo": "Furadeira", "desconto_minimo": 10},
     {"termo": "Mixer", "desconto_minimo": 15},
     {"termo": "Máquina de barbear", "desconto_minimo": 15},
     
