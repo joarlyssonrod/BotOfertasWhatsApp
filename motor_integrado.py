@@ -36,7 +36,7 @@ BUSCAR_NA_SHOPEE = True
 
 # Se True, no modo OFERTAS_DO_DIA, o bot só envia ofertas que contêm algum termo da lista TERMOS_BUSCA.
 # Se False, envia qualquer boa oferta encontrada nas páginas de ofertas do dia.
-FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = True
+FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = False
 
 # Limite máximo de ofertas que serão postadas nesta execução (para evitar inundar o grupo de uma vez)
 LIMITE_MENSAGENS_POR_RODADA = 15
