@@ -197,13 +197,27 @@ def parse_item(item):
     else:
         desconto = 0.0
         
+    # 4. Cupom
+    coupon = None
+    coupon_elem = item.find(class_=lambda c: c and "coupon" in c)
+    if coupon_elem:
+        coupon = coupon_elem.text.strip()
+    else:
+        # Busca texto que mencione cupom
+        for tag in item.find_all(["span", "div", "p"]):
+            text = tag.text.strip() if tag.text else ""
+            if text and "cupom" in text.lower() and len(text) < 35:
+                coupon = text
+                break
+        
     return {
         "titulo": titulo,
         "preco_original": preco_original,
         "preco_atual": preco_atual,
         "desconto": desconto,
         "link_bruto": link_bruto,
-        "link_imagem": link_imagem
+        "link_imagem": link_imagem,
+        "cupom": coupon
     }
 
 if __name__ == "__main__":

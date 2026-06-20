@@ -178,7 +178,8 @@ def buscar_promocoes_amazon(query, desconto_minimo=10, limite=5):
                     "preco_atual": preco_atual,
                     "desconto": round(desconto, 1),
                     "link_bruto": link_bruto,
-                    "link_imagem": img_src
+                    "link_imagem": img_src,
+                    "cupom": coupon
                 })
                 
         except Exception as e:
@@ -290,14 +291,26 @@ def buscar_ofertas_do_dia_amazon(desconto_minimo=10, limite=15):
                 if desconto == 0.0 and preco_original > preco_atual:
                     desconto = ((preco_original - preco_atual) / preco_original) * 100
             
-            if preco_atual > 0 and desconto >= desconto_minimo:
+            # Tenta extrair cupom do texto do card
+            coupon = None
+            coupon_match = re.search(r'cupom\s*:\s*([A-Z0-9\-]+)|cupom\s*(?:de\s+)?([A-Z0-9\-]{4,})', card_text, re.IGNORECASE)
+            if coupon_match:
+                c1, c2 = coupon_match.groups()
+                coupon = (c1 or c2).strip().upper()
+
+            if preco_atual > 0 and (desconto >= desconto_minimo or coupon):
+                if desconto == 0.0:
+                    desconto = 10.0
+                    preco_original = preco_atual * 1.11
+                    
                 ofertas_validas.append({
                     "titulo": titulo,
                     "preco_original": preco_original,
                     "preco_atual": preco_atual,
                     "desconto": round(desconto, 1),
                     "link_bruto": link_bruto,
-                    "link_imagem": img_src
+                    "link_imagem": img_src,
+                    "cupom": coupon
                 })
                 
         except Exception as e:

@@ -7,21 +7,10 @@ import sys
 sys.stdout.reconfigure(encoding='utf-8')
 
 # Caminhos dos arquivos
-env_telegram_path = r"C:\Users\jrgrangeiro\Documents\BotTelegramPromocoes\.env"
-env_local_path = r"c:\Users\jrgrangeiro\Documents\BotMercadoLivre\.env"
-sessao_ml_path = r"c:\Users\jrgrangeiro\Documents\BotMercadoLivre\sessao_ml.json"
+env_local_path = ".env"
+sessao_ml_path = "sessao_ml.json"
 
 def obter_cookies_ml():
-    # Tenta ler do .env do Telegram primeiro
-    if os.path.exists(env_telegram_path):
-        with open(env_telegram_path, "r", encoding="utf-8") as f:
-            for line in f:
-                if line.startswith("MERCADO_LIVRE_COOKIES="):
-                    # Pega o valor e remove as aspas se houver
-                    val = line.split("=", 1)[1].strip()
-                    val = val.strip('"').strip("'")
-                    return val
-                    
     # Tenta ler do .env local
     if os.path.exists(env_local_path):
         with open(env_local_path, "r", encoding="utf-8") as f:

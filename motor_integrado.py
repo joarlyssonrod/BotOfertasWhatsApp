@@ -179,7 +179,7 @@ def obter_id_unico(url):
             
     return url_limpa.split("?")[0].split("#")[0]
 
-def formatar_mensagem_oferta(titulo, preco_original, preco_atual, desconto, link_afiliado):
+def formatar_mensagem_oferta(titulo, preco_original, preco_atual, desconto, link_afiliado, cupom=None):
     """Gera o texto formatado para envio no WhatsApp com visual premium"""
     msg = f"🔥 *{titulo}*\n\n"
     
@@ -187,8 +187,12 @@ def formatar_mensagem_oferta(titulo, preco_original, preco_atual, desconto, link
         msg += f"❌ De: ~R$ {preco_original:.2f}~\n"
         
     msg += f"💰 *Por: R$ {preco_atual:.2f}*\n"
-    msg += f"📉 *Desconto: {desconto}% OFF*\n\n"
-    msg += f"🛒 *Compre com segurança aqui:* {link_afiliado}\n\n"
+    msg += f"📉 *Desconto: {desconto}% OFF*\n"
+    
+    if cupom:
+        msg += f"🏷️ *Cupom ativo:* `{cupom}`\n"
+        
+    msg += f"\n🛒 *Compre com segurança aqui:* {link_afiliado}\n\n"
     msg += "⚠️ _Oferta sujeita a alteração de preço e estoque a qualquer momento._"
     return msg
 
@@ -386,7 +390,8 @@ def orquestrar_bot():
                 preco_original=item["preco_original"],
                 preco_atual=item["preco_atual"],
                 desconto=item["desconto"],
-                link_afiliado=item["link_afiliado"]
+                link_afiliado=item["link_afiliado"],
+                cupom=item.get("cupom")
             )
             
             # Faz o download da imagem do produto se existir
