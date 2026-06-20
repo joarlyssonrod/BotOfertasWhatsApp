@@ -24,13 +24,5 @@ env/
 backup/
 backup_approved/
 
-# Scripts de Desenvolvimento, Inspeção e Testes
-inspect_*.py
-test_*.py
-parse_*.py
-print_*.py
-search_*.py
-check_*.py
-click_*.png
-next_data.json
-promobit_test.html
+# Pasta de Desenvolvimento, Inspeção e Testes
+testes_dev/
