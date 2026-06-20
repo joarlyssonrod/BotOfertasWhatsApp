@@ -1,58 +1,64 @@
-from playwright.sync_api import sync_playwright
+import os
 import sys
+import shutil
+import subprocess
+from playwright.sync_api import sync_playwright
 
 # Habilita UTF8 para os prints no Windows
 sys.stdout.reconfigure(encoding='utf-8')
 
 def salvar_sessao():
-    # Usaremos uma pasta de perfil temporária para simular um navegador de uso real
-    perfil_dir = "ml_perfil_temp"
+    perfil_dir = os.path.abspath("ml_perfil_temp")
     
-    with sync_playwright() as p:
-        print("\n🚀 Abrindo navegador seguro...")
-        # Lançamento persistente com remoção de sinalizadores de automação e usando o Chrome local
-        contexto = p.chromium.launch_persistent_context(
-            user_data_dir=perfil_dir,
-            headless=False,
-            channel="chrome", # Abre o seu Chrome real instalado no Windows (mais confiável)
-            ignore_default_args=["--enable-automation"],
-            args=[
-                '--disable-blink-features=AutomationControlled',
-                '--no-sandbox',
-                '--disable-setuid-sandbox'
-            ]
-        )
-        pagina = contexto.new_page()
-        
-        # Remove a propriedade 'webdriver' que entrega ao reCAPTCHA que é um bot
-        pagina.add_init_script("delete navigator.__proto__.webdriver;")
-
-        # Acessa o Mercado Livre
-        pagina.goto("https://www.mercadolivre.com.br/")
-
-        print("\n🚨 ATENÇÃO: O navegador do Playwright foi aberto!")
-        print("1. Vá até o navegador que abriu, clique em 'Entre' no topo direito.")
-        print("2. Faça o seu login no Mercado Livre.")
-        print("3. Resolva o reCAPTCHA (Clique nas imagens se solicitado) e passe pelas validações de SMS/E-mail.")
-        print("4. Quando estiver logado e vendo a página inicial com seu nome, volte para esta tela preta.")
-        
-        # O script vai pausar aqui e esperar você apertar ENTER no teclado
-        input("\n👉 Aperte ENTER aqui no terminal APÓS ter concluído o login no navegador... ")
-
-        # Salva a sessão (cookies, tokens) em um arquivo JSON
-        contexto.storage_state(path="sessao_ml.json")
-        print("\n✅ Sucesso! Sessão do Mercado Livre salva no arquivo 'sessao_ml.json'.")
-
-        contexto.close()
-        
-        # Tenta apagar a pasta temporária de perfil
+    # Garante que a pasta temporária anterior seja apagada
+    if os.path.exists(perfil_dir):
         try:
-            import shutil
-            import time
-            time.sleep(1)
             shutil.rmtree(perfil_dir, ignore_errors=True)
         except:
             pass
+            
+    print("\n🚀 Iniciando login seguro no Mercado Livre...")
+    print("Estamos abrindo o seu Google Chrome original em um perfil temporário.")
+    print("Isso impede o bloqueio de CAPTCHA, pois o navegador NÃO estará sob controle de robôs.")
+    print("\n👉 O que você precisa fazer:")
+    print("1. Na janela do Chrome que abriu, clique em 'Entrar' ou faça login na sua conta.")
+    print("2. Conclua o login e resolva o CAPTCHA/SMS normalmente.")
+    print("3. Quando estiver logado e vendo a página inicial com seu nome, FECHE totalmente a janela do Chrome.")
+    print("4. Volte para esta tela preta e aperte ENTER.")
+    
+    # Abre o Chrome original no Windows com um perfil específico
+    cmd = f'start chrome --user-data-dir="{perfil_dir}" "https://www.mercadolivre.com.br/"'
+    try:
+        subprocess.Popen(cmd, shell=True)
+    except Exception as e:
+        print(f"\n🚨 Erro ao tentar abrir o Chrome automaticamente: {e}")
+        print(f"Por favor, abra o menu Executar (Win+R) e digite:")
+        print(f'chrome --user-data-dir="{perfil_dir}" "https://www.mercadolivre.com.br/"')
+        
+    input("\n👉 Aperte ENTER aqui no terminal APÓS ter concluído o login e fechado a janela do Chrome... ")
+
+    print("\n💾 Extraindo dados da sessão...")
+    try:
+        with sync_playwright() as p:
+            # Carrega o perfil que o usuário acabou de logar e salva o estado de sessão
+            contexto = p.chromium.launch_persistent_context(
+                user_data_dir=perfil_dir,
+                headless=True
+            )
+            contexto.storage_state(path="sessao_ml.json")
+            contexto.close()
+            
+        print("\n✅ Sucesso! Sessão do Mercado Livre salva no arquivo 'sessao_ml.json'.")
+        print("Agora o bot está pronto para rodar sem pedir login ou CAPTCHA!")
+    except Exception as e:
+        print(f"\n🚨 Erro ao extrair sessão do perfil temporário: {e}")
+        print("Verifique se você realmente fechou a janela do Chrome antes de apertar ENTER.")
+
+    # Tenta apagar a pasta temporária de perfil
+    try:
+        shutil.rmtree(perfil_dir, ignore_errors=True)
+    except:
+        pass
 
 if __name__ == "__main__":
     salvar_sessao()
