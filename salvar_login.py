@@ -45,6 +45,10 @@ def salvar_sessao():
                 user_data_dir=perfil_dir,
                 headless=True
             )
+            pagina = contexto.new_page()
+            pagina.goto("https://www.mercadolivre.com.br/", timeout=30000)
+            pagina.wait_for_load_state("domcontentloaded")
+            pagina.wait_for_timeout(2000) # Pequena pausa para garantir carregamento dos cookies na memória
             contexto.storage_state(path="sessao_ml.json")
             contexto.close()
             
