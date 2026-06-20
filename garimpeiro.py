@@ -79,9 +79,20 @@ def _executar_scraping(url, desconto_minimo, limite, usar_sessao=True, headless=
             else:
                 html_da_pagina = pagina.content()
         except Exception as e:
-            print(f"🚨 Erro durante o carregamento da página no Playwright: {e}")
+            # Mesmo se der erro (ex: Page.content falhar porque está navegando),
+            # verificamos se a URL final era de captcha/verificação
+            try:
+                if "account-verification" in pagina.url or "captcha" in pagina.url:
+                    redirecionado = True
+            except:
+                pass
+            if not redirecionado:
+                print(f"🚨 Erro durante o carregamento da página no Playwright: {e}")
         finally:
-            navegador.close()
+            try:
+                navegador.close()
+            except:
+                pass
 
     if redirecionado:
         if usar_sessao and os.path.exists(sessao_path):

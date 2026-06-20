@@ -70,7 +70,10 @@ def buscar_promocoes_magalu(query, desconto_minimo=10, limite=5):
         except Exception as e:
             print(f"   🚨 [Magalu] Erro ao carregar pagina de busca: {e}")
         finally:
-            browser.close()
+            try:
+                browser.close()
+            except:
+                pass
             
     if not html:
         return []

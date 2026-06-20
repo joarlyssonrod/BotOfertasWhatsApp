@@ -89,7 +89,10 @@ def buscar_promocoes_amazon(query, desconto_minimo=10, limite=5):
         except Exception as e:
             print(f"   🚨 [Amazon] Erro ao carregar pagina de busca: {e}")
         finally:
-            navegador.close()
+            try:
+                navegador.close()
+            except:
+                pass
             
     if not html:
         return []
@@ -210,7 +213,10 @@ def buscar_ofertas_do_dia_amazon(desconto_minimo=10, limite=15):
         except Exception as e:
             print(f"🚨 Erro ao acessar as ofertas da Amazon: {e}")
         finally:
-            navegador.close()
+            try:
+                navegador.close()
+            except:
+                pass
             
     if not html_da_pagina:
         return []

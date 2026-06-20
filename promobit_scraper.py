@@ -71,7 +71,10 @@ def resolve_target_url(offer_url):
         except Exception as e:
             print(f"🚨 [Promobit Resolver] Erro ao resolver URL via Playwright: {e}")
         finally:
-            browser.close()
+            try:
+                browser.close()
+            except:
+                pass
             
     return final_url
 
