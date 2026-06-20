@@ -461,6 +461,56 @@ def checar_pagina_produto(page, url, preco_original_envio):
         except Exception as e:
             print(f"⚠️ [Verificador] Erro ao checar Shopee: {e}")
             
+    # 5. ALIEXPRESS
+    elif "aliexpress.com" in url_lower:
+        try:
+            unavailable = page.locator("text='esgotado'").first.is_visible() or page.locator("text='indisponível'").first.is_visible() or page.locator("text='out of stock'").first.is_visible()
+            if unavailable:
+                return True, None, "esgotado/indisponível"
+                
+            # Tenta meta tags primeiro
+            meta_price = page.locator('meta[itemprop="price"]').first.get_attribute("content")
+            if not meta_price:
+                meta_price = page.locator('meta[property="og:price:amount"]').first.get_attribute("content")
+                
+            preco_atual = None
+            if meta_price:
+                try:
+                    preco_atual = float(meta_price)
+                except ValueError:
+                    pass
+                    
+            if preco_atual is None:
+                price_selectors = [
+                    ".product-price-value",
+                    ".uniform-banner-box-price",
+                    ".price--current",
+                    ".product-price"
+                ]
+                for sel in price_selectors:
+                    el = page.locator(sel).first
+                    if el.is_visible():
+                        price_text = el.text_content()
+                        if price_text:
+                            match = re.search(r'R\$\s*([\d\.,]+)', price_text)
+                            if match:
+                                price_clean = match.group(1).replace(".", "").replace(",", ".")
+                            else:
+                                price_clean = price_text.replace("R$", "").strip().replace(".", "").replace(",", ".")
+                            try:
+                                preco_atual = float(price_clean)
+                                break
+                            except ValueError:
+                                pass
+                                
+            if preco_atual is not None:
+                if preco_atual > preco_original_envio * 1.05:
+                    return True, preco_atual, f"preço subiu para R$ {preco_atual:.2f}"
+                return False, preco_atual, "ok"
+                
+        except Exception as e:
+            print(f"⚠️ [Verificador] Erro ao checar AliExpress: {e}")
+            
     return False, None, "não pôde determinar"
 
 def checar_e_alertar_expirados(whatsapp, historico):

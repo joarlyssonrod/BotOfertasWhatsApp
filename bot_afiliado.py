@@ -2,6 +2,7 @@ import re
 import urllib.parse
 import sys
 from shopee_api import converter_link_shopee
+from aliexpress_api import gerar_link_afiliado_aliexpress
 
 # Configura o stdout para UTF-8 no Windows
 sys.stdout.reconfigure(encoding='utf-8')
@@ -62,6 +63,10 @@ def gerar_link_bot(url_produto, pagina_ativa=None):
     # 5. SHOPEE
     elif "shopee.com" in url_limpa:
         return converter_link_shopee(url_produto)
+        
+    # 6. ALIEXPRESS
+    elif "aliexpress.com" in url_limpa:
+        return gerar_link_afiliado_aliexpress(url_produto)
         
     # Outros sites retornam o link bruto sem modificação
     return url_produto

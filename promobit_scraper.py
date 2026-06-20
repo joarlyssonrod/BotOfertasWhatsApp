@@ -15,7 +15,8 @@ DOMINIOS_SUPORTADOS = [
     "amazon.com.br",
     "mercadolivre.com.br",
     "magazineluiza.com.br",
-    "shopee.com.br"
+    "shopee.com.br",
+    "aliexpress.com"
 ]
 
 def resolve_target_url(offer_url):
