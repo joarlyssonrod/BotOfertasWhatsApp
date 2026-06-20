@@ -44,7 +44,7 @@ FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = False
 LIMITE_MENSAGENS_POR_RODADA = 15
 
 # Desconto mínimo para aceitar uma oferta (%)
-DESCONTO_MINIMO_GERAL = 10
+DESCONTO_MINIMO_GERAL = 15
 
 # Configuração de envio do WhatsApp:
 # Se True, envia todas as ofertas para um único grupo/canal unificado.
