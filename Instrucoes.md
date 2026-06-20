@@ -45,10 +45,14 @@ Como o computador do seu trabalho já executa o bat agendado a cada 3 horas, voc
    Isso abrirá uma janela do navegador. Escaneie o QR Code com o celular do grupo de ofertas e feche a janela do navegador após carregar as conversas. O login ficará salvo permanentemente no arquivo de sessão.
 4. **Gerar cookies do Mercado Livre:**
    Se pedir CAPTCHA ou login no Mercado Livre no PC do trabalho:
-   * Abra o Chrome no seu perfil pessoal logado do Mercado Livre.
-   * Pressione `F12`, vá na aba **Console**, cole o código para extrair cookies (conforme instruções de `gerar_sessao_cookies.py`), copie o resultado.
-   * No PC do trabalho, cole esse resultado no arquivo `.env` na variável `MERCADO_LIVRE_COOKIES`.
-   * Rode: `python gerar_sessao_cookies.py` para gerar a sessão sem precisar passar pelo CAPTCHA.
+   * Abra o Google Chrome e entre na sua conta do Mercado Livre.
+   * Pressione `F12` (ou clique com botão direito e escolha "Inspecionar") e vá na aba **Console**.
+   * Digite exatamente o comando abaixo e aperte **ENTER** (isso copia automaticamente todos os cookies para a sua área de transferência):
+     ```javascript
+     copy(document.cookie)
+     ```
+   * No PC do trabalho, cole esse resultado no arquivo `.env` na variável `MERCADO_LIVRE_COOKIES` (exemplo: `MERCADO_LIVRE_COOKIES="conteudo_copiado"`).
+   * Rode: `python gerar_sessao_cookies.py` para gerar o arquivo `sessao_ml.json` sem precisar passar pelo CAPTCHA.
 
 ---
 
