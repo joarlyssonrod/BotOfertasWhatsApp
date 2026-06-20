@@ -7,47 +7,66 @@ from bs4 import BeautifulSoup
 # Configura o stdout para suportar UTF-8 no Windows (evita erros com emojis)
 sys.stdout.reconfigure(encoding='utf-8')
 
-def buscar_promocoes(termo, desconto_minimo=10, limite=5):
+def buscar_promocoes(termo, desconto_minimo=10, limite=5, headless=True):
     """
     Busca promoções no Mercado Livre para um determinado termo de busca.
     """
     print(f"🔍 [Mercado Livre Scraper] Garimpando ofertas para o termo: '{termo}'...")
     termo_url = termo.replace(" ", "-")
     url_busca = f"https://lista.mercadolivre.com.br/{urllib.parse.quote(termo_url)}"
-    return _executar_scraping(url_busca, desconto_minimo, limite)
+    return _executar_scraping(url_busca, desconto_minimo, limite, headless=headless)
 
-def buscar_ofertas_do_dia(desconto_minimo=10, limite=20):
+def buscar_ofertas_do_dia(desconto_minimo=10, limite=20, headless=True):
     """
     Busca as ofertas em destaque diretamente da página oficial de Ofertas do Dia.
     """
     print("🔥 [Mercado Livre Scraper] Garimpando as 'Ofertas do Dia' oficiais do Mercado Livre...")
     url_ofertas = "https://www.mercadolivre.com.br/ofertas"
-    return _executar_scraping(url_ofertas, desconto_minimo, limite)
+    return _executar_scraping(url_ofertas, desconto_minimo, limite, headless=headless)
 
-def _executar_scraping(url, desconto_minimo, limite):
+def _executar_scraping(url, desconto_minimo, limite, usar_sessao=True, headless=True):
     """
-    Função interna que abre o navegador em segundo plano (headless) carregando a sessão logada,
+    Função interna que abre o navegador carregando a sessão logada,
     evitando CAPTCHAs, e extrai as ofertas usando BeautifulSoup.
     """
     sessao_path = "sessao_ml.json"
     html_da_pagina = ""
+    redirecionado = False
     
     with sync_playwright() as p:
-        navegador = p.chromium.launch(headless=True)
+        # Configurações do navegador
+        launch_args = {
+            "headless": headless
+        }
         
-        # Carrega a sessão se ela existir
-        if os.path.exists(sessao_path):
+        # Em modo headful (visível), tenta usar o Chrome local e argumentos que ocultam automação
+        if not headless:
+            launch_args["channel"] = "chrome"
+            launch_args["ignore_default_args"] = ["--enable-automation"]
+            launch_args["args"] = [
+                '--disable-blink-features=AutomationControlled',
+                '--no-sandbox',
+                '--disable-setuid-sandbox'
+            ]
+            
+        navegador = p.chromium.launch(**launch_args)
+        
+        # Carrega a sessão se ela existir e usar_sessao for True
+        if usar_sessao and os.path.exists(sessao_path):
             contexto = navegador.new_context(
                 storage_state=sessao_path,
                 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
             )
         else:
-            print("⚠️ Sessão 'sessao_ml.json' não encontrada. Rodando sem login...")
+            if usar_sessao:
+                print("⚠️ Sessão 'sessao_ml.json' não encontrada. Rodando sem login...")
             contexto = navegador.new_context(
                 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
             )
             
         pagina = contexto.new_page()
+        # Injeta init script para esconder webdriver
+        pagina.add_init_script("delete navigator.__proto__.webdriver;")
         
         try:
             pagina.goto(url, timeout=30000)
@@ -56,15 +75,22 @@ def _executar_scraping(url, desconto_minimo, limite):
             
             # Se for redirecionado para página de verificação (CAPTCHA)
             if "account-verification" in pagina.url or "captcha" in pagina.url:
-                print("🚨 Bloqueio de verificação detectado! A sessão logada no arquivo 'sessao_ml.json' expirou ou é inválida.")
-                print("👉 Por favor, execute o script 'python salvar_login.py' e conclua o login no navegador visível para renovar a sessão.")
-                return []
-                
-            html_da_pagina = pagina.content()
+                redirecionado = True
+            else:
+                html_da_pagina = pagina.content()
         except Exception as e:
             print(f"🚨 Erro durante o carregamento da página no Playwright: {e}")
         finally:
             navegador.close()
+
+    if redirecionado:
+        if usar_sessao and os.path.exists(sessao_path):
+            print("⚠️ Bloqueio de verificação detectado com cookies de sessão. Tentando novamente como visitante sem login...")
+            return _executar_scraping(url, desconto_minimo, limite, usar_sessao=False, headless=headless)
+        else:
+            print("🚨 Bloqueio de verificação detectado mesmo sem login! O Mercado Livre bloqueou o IP/navegador temporariamente.")
+            print("👉 Por favor, execute o script 'python salvar_login.py' e conclua o login no navegador visível para obter novos cookies.")
+            return []
             
     if not html_da_pagina:
         return []

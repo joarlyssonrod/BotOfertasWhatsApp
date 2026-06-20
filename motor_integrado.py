@@ -309,6 +309,15 @@ def checar_pagina_produto(page, url, preco_original_envio):
         
     # 1. MERCADO LIVRE
     if "mercadolivre.com" in url_lower or "mercadolibre.com" in url_lower:
+        # Primeiro, verifica se fomos redirecionados para captcha ou verificação de conta
+        try:
+            current_url = page.url.lower()
+            if "account-verification" in current_url or "captcha" in current_url:
+                print(f"⚠️ [Verificador] Mercado Livre exigiu verificação na URL: {page.url}")
+                return False, None, "bloqueio_verificacao"
+        except Exception as e:
+            print(f"⚠️ [Verificador] Erro ao checar URL da página: {e}")
+            
         try:
             paused = page.locator("p.ui-pdp-color--BLACK:has-text('Anúncio pausado')").is_visible()
             out_of_stock = page.locator(".ui-pdp-buybox__out-of-stock").is_visible()
@@ -567,6 +576,26 @@ def checar_e_alertar_expirados(whatsapp, historico):
             
             expirou, preco_novo, motivo = checar_pagina_produto(temp_page, link_bruto, preco_envio)
             
+            # Se fomos bloqueados por cookies expirados/inválidos no Mercado Livre, limpamos os cookies e tentamos novamente sem login
+            if "mercadolivre.com" in link_bruto.lower() and motivo == "bloqueio_verificacao":
+                print("   [Verificador] Mercado Livre exigiu verificação. Limpando cookies e tentando novamente...")
+                try:
+                    whatsapp.context.clear_cookies(domain="mercadolivre.com.br")
+                    whatsapp.context.clear_cookies(domain=".mercadolivre.com.br")
+                    whatsapp.context.clear_cookies(domain="mercadolibre.com")
+                    whatsapp.context.clear_cookies(domain=".mercadolibre.com")
+                except Exception as e:
+                    print(f"   [Verificador] Erro ao limpar cookies do Mercado Livre: {e}")
+                    
+                # Fecha a página bloqueada e abre uma nova
+                temp_page.close()
+                temp_page = whatsapp.context.new_page()
+                temp_page.goto(link_bruto, timeout=25000)
+                temp_page.wait_for_load_state("domcontentloaded")
+                temp_page.wait_for_timeout(2000)
+                
+                expirou, preco_novo, motivo = checar_pagina_produto(temp_page, link_bruto, preco_envio)
+            
             if expirou:
                 print(f"🚨 [Verificador] Oferta expirada! Motivo: {motivo}")
                 item["expirado"] = True
@@ -583,7 +612,10 @@ def checar_e_alertar_expirados(whatsapp, historico):
                 whatsapp.enviar_mensagem_grupo(grupo_destino, msg_alerta)
                 time.sleep(2)
             else:
-                print(f"   [Verificador] Oferta ativa (Preço atual: R$ {preco_novo if preco_novo else preco_envio})")
+                if motivo == "bloqueio_verificacao":
+                    print(f"   [Verificador] Não foi possível verificar o item (Bloqueio de CAPTCHA/Verificação). Mantendo ativo.")
+                else:
+                    print(f"   [Verificador] Oferta ativa (Preço atual: R$ {preco_novo if preco_novo else preco_envio})")
                 
         except Exception as err:
             print(f"⚠️ [Verificador] Erro ao checar item {titulo[:20]}: {err}")
@@ -643,7 +675,7 @@ def orquestrar_bot():
         # Mercado Livre
         if BUSCAR_NO_MERCADO_LIVRE:
             try:
-                resultados = buscar_ofertas_do_dia(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=30)
+                resultados = buscar_ofertas_do_dia(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=30, headless=headless_mode)
                 for item in resultados:
                     if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
                         continue
@@ -712,7 +744,7 @@ def orquestrar_bot():
             # Mercado Livre
             if BUSCAR_NO_MERCADO_LIVRE:
                 try:
-                    ml_res = buscar_promocoes(termo, desconto_minimo=desc_min, limite=1)
+                    ml_res = buscar_promocoes(termo, desconto_minimo=desc_min, limite=1, headless=headless_mode)
                     for item in ml_res:
                         item_id = obter_id_unico(item["link_bruto"])
                         if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
