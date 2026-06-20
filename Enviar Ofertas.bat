@@ -38,10 +38,19 @@ echo 🚀 Iniciando o Bot de Ofertas...
 echo ====================================================
 echo.
 set PYTHONUTF8=1
-python motor_integrado.py
+
+set HEADLESS_ARG=
+if "%1"=="--headless" (
+    set HEADLESS_ARG=--headless
+)
+
+python motor_integrado.py %HEADLESS_ARG%
 echo.
 echo ====================================================
 echo 🏁 Execucao concluida!
 echo ====================================================
 echo.
-pause
+
+if not "%1"=="--headless" (
+    pause
+)

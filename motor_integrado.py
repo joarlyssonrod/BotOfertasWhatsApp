@@ -10,6 +10,7 @@ from garimpeiro import buscar_promocoes, buscar_ofertas_do_dia
 from amazon_scraper import buscar_promocoes_amazon, buscar_ofertas_do_dia_amazon
 from magalu_scraper import buscar_promocoes_magalu, buscar_ofertas_do_dia_magalu
 from shopee_api import buscar_promocoes_shopee, buscar_ofertas_do_dia_shopee
+from promobit_scraper import buscar_ofertas_promobit
 from categorizador import categorizar_produto
 from bot_afiliado import gerar_link_bot
 from whatsapp_sender import WhatsAppSender
@@ -25,14 +26,15 @@ HISTORICO_FILE = "historico_envios.json"
 # Modos de Busca:
 # "OFERTAS_DO_DIA" -> Garimpa as páginas oficiais de Ofertas do Dia / Destaques
 # "TERMOS_ESPECIFICOS" -> Busca termos específicos configurados na lista TERMOS_BUSCA
-MODO_DE_BUSCA = "OFERTAS_DO_DIA"
-# MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
+# MODO_DE_BUSCA = "OFERTAS_DO_DIA"
+MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
 
 # Lojas ativas para busca:
 BUSCAR_NO_MERCADO_LIVRE = True
 BUSCAR_NA_AMAZON = True
 BUSCAR_NA_MAGALU = True
 BUSCAR_NA_SHOPEE = True
+BUSCAR_NO_PROMOBIT = True
 
 # Se True, no modo OFERTAS_DO_DIA, o bot só envia ofertas que contêm algum termo da lista TERMOS_BUSCA.
 # Se False, envia qualquer boa oferta encontrada nas páginas de ofertas do dia.
@@ -57,6 +59,7 @@ TERMOS_BUSCA = [
     {"termo": "Console PlayStation 5", "desconto_minimo": 10},
     {"termo": "Nintendo Switch", "desconto_minimo": 8},
     {"termo": "Processador Ryzen", "desconto_minimo": 10},
+    {"termo": "Processador Intel", "desconto_minimo": 10},
     {"termo": "Placa de vídeo RTX", "desconto_minimo": 12},
     {"termo": "Placa mãe", "desconto_minimo": 10},
     {"termo": "Memoria RAM", "desconto_minimo": 12},
@@ -83,6 +86,7 @@ TERMOS_BUSCA = [
     {"termo": "Fone de ouvido bluetooth", "desconto_minimo": 15},
     {"termo": "Smart TV", "desconto_minimo": 10},
     {"termo": "Fire Stick", "desconto_minimo": 15},
+    {"termo": "Caixa de Som Bluetooth", "desconto_minimo": 25},
     {"termo": "Alexa Echo", "desconto_minimo": 15},
     
     # Eletrodomésticos & Eletroportáteis
@@ -93,8 +97,8 @@ TERMOS_BUSCA = [
     {"termo": "Cafeteira", "desconto_minimo": 15},
     {"termo": "Ar condicionado", "desconto_minimo": 10},
     {"termo": "Microondas", "desconto_minimo": 10},
-    {"termo": "Parafusadeira", "desconto_minimo": 10},
-    {"termo": "Furadeira", "desconto_minimo": 10},
+    #{"termo": "Parafusadeira", "desconto_minimo": 10},
+    #{"termo": "Furadeira", "desconto_minimo": 10},
     {"termo": "Mixer", "desconto_minimo": 15},
     {"termo": "Máquina de barbear", "desconto_minimo": 15},
     
@@ -127,14 +131,36 @@ TERMOS_BUSCA = [
 # =========================================================
 
 def carregar_historico():
-    """Carrega o histórico de envios locais para evitar duplicidades"""
+    """Carrega o histórico de envios locais para evitar duplicidades e normaliza registros antigos"""
+    historico = []
     if os.path.exists(HISTORICO_FILE):
         try:
             with open(HISTORICO_FILE, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except:
+                dados = json.load(f)
+                if isinstance(dados, list):
+                    for item in dados:
+                        if isinstance(item, str):
+                            item_id = obter_id_unico(item)
+                            historico.append({
+                                "id": item_id,
+                                "link_bruto": item if item.startswith("http") else "",
+                                "titulo": "",
+                                "preco": 0.0,
+                                "timestamp": os.path.getmtime(HISTORICO_FILE) if os.path.exists(HISTORICO_FILE) else time.time(),
+                                "expirado": False
+                            })
+                        elif isinstance(item, dict):
+                            if "id" not in item:
+                                item["id"] = obter_id_unico(item.get("link_bruto", ""))
+                            if "timestamp" not in item:
+                                item["timestamp"] = time.time()
+                            if "expirado" not in item:
+                                item["expirado"] = False
+                            historico.append(item)
+        except Exception as e:
+            print(f"⚠️ Erro ao carregar histórico: {e}. Retornando lista vazia.")
             return []
-    return []
+    return historico
 
 def salvar_historico(historico):
     """Salva o histórico atualizado em arquivo JSON"""
@@ -179,9 +205,13 @@ def obter_id_unico(url):
             
     return url_limpa.split("?")[0].split("#")[0]
 
-def formatar_mensagem_oferta(titulo, preco_original, preco_atual, desconto, link_afiliado, cupom=None):
+def formatar_mensagem_oferta(titulo, preco_original, preco_atual, desconto, link_afiliado, cupom=None, menor_preco=False):
     """Gera o texto formatado para envio no WhatsApp com visual premium"""
-    msg = f"🔥 *{titulo}*\n\n"
+    msg = ""
+    if menor_preco:
+        msg += "📉 *MENOR PREÇO HISTÓRICO REGISTRADO!*\n\n"
+        
+    msg += f"🔥 *{titulo}*\n\n"
     
     if preco_original > preco_atual:
         msg += f"❌ De: ~R$ {preco_original:.2f}~\n"
@@ -227,6 +257,296 @@ def atende_filtro_termos(titulo):
             return True
     return False
 
+def obter_palavras_chave(titulo):
+    """Remove caracteres especiais e extrai palavras-chave significativas"""
+    palavras = re.findall(r'[a-zA-Z0-9]{3,}', titulo.lower())
+    stop_words = {"com", "para", "sem", "pro", "plus", "new", "lite", "azul", "preto", "branco", "cinza", "verde", "rosa", "vermelho", "bivolt", "110v", "220v"}
+    return set([p for p in palavras if p not in stop_words])
+
+def encontrar_preco_minimo_historico(item_id, titulo, historico):
+    """Varre o histórico para encontrar o menor preço do produto por ID ou título similar"""
+    preco_min = float('inf')
+    palavras_item = obter_palavras_chave(titulo)
+    
+    for h in historico:
+        if not isinstance(h, dict):
+            continue
+            
+        # 1. Match exato por ID
+        if h.get("id") == item_id:
+            preco = h.get("preco", 0)
+            if 0 < preco < preco_min:
+                preco_min = preco
+            continue
+            
+        # 2. Match por similaridade de título (intersecção de palavras-chave)
+        h_titulo = h.get("titulo", "")
+        if h_titulo:
+            palavras_h = obter_palavras_chave(h_titulo)
+            if palavras_item and palavras_h:
+                comum = palavras_item.intersection(palavras_h)
+                total = max(len(palavras_item), len(palavras_h))
+                if len(comum) / total >= 0.60:
+                    preco = h.get("preco", 0)
+                    if 0 < preco < preco_min:
+                        preco_min = preco
+                        
+    return preco_min
+
+def checar_pagina_produto(page, url, preco_original_envio):
+    """
+    Navega em uma página de produto e verifica se a oferta expirou ou preço subiu.
+    """
+    url_lower = url.lower()
+    
+    # Verifica erro geral / página não encontrada
+    try:
+        title = page.title().lower()
+        if "página não encontrada" in title or "404" in title or "error" in title:
+            return True, None, "página não encontrada / 404"
+    except:
+        pass
+        
+    # 1. MERCADO LIVRE
+    if "mercadolivre.com" in url_lower or "mercadolibre.com" in url_lower:
+        try:
+            paused = page.locator("p.ui-pdp-color--BLACK:has-text('Anúncio pausado')").is_visible()
+            out_of_stock = page.locator(".ui-pdp-buybox__out-of-stock").is_visible()
+            buy_btn = page.locator(".ui-pdp-actions__button").first
+            no_buy_button = not buy_btn.is_visible() or buy_btn.get_attribute("disabled") is not None
+            
+            if paused or out_of_stock or no_buy_button:
+                return True, None, "fora de estoque/anúncio pausado"
+                
+            meta_price = page.locator('meta[itemprop="price"]').first.get_attribute("content")
+            if not meta_price:
+                meta_price = page.locator('meta[property="product:price:amount"]').first.get_attribute("content")
+            
+            preco_atual = None
+            if meta_price:
+                try:
+                    preco_atual = float(meta_price)
+                except ValueError:
+                    pass
+            
+            if preco_atual is None:
+                price_fraction_elem = page.locator(".ui-pdp-price__part .andes-money-amount__fraction").first
+                if price_fraction_elem.is_visible():
+                    price_str = price_fraction_elem.text_content().replace(".", "")
+                    cents_elem = page.locator(".ui-pdp-price__part .andes-money-amount__cents").first
+                    if cents_elem.is_visible():
+                        price_str += f".{cents_elem.text_content()}"
+                    try:
+                        preco_atual = float(price_str)
+                    except ValueError:
+                        pass
+            
+            if preco_atual is not None:
+                if preco_atual > preco_original_envio * 1.05:
+                    return True, preco_atual, f"preço subiu para R$ {preco_atual:.2f}"
+                return False, preco_atual, "ok"
+                
+        except Exception as e:
+            print(f"⚠️ [Verificador] Erro ao checar Mercado Livre: {e}")
+            
+    # 2. AMAZON
+    elif "amazon.com" in url_lower:
+        try:
+            out_of_stock_selectors = [
+                "#outOfStock", 
+                "#availability:has-text('Não disponível')",
+                "#availability:has-text('Fora de estoque')",
+                "#availability:has-text('Não temos previsão')",
+                "#availability:has-text('indisponível')"
+            ]
+            for sel in out_of_stock_selectors:
+                if page.locator(sel).first.is_visible():
+                    return True, None, "fora de estoque"
+            
+            price_selectors = [
+                "#corePrice_feature_div .a-price .a-offscreen",
+                ".a-price.apexPriceToPay .a-offscreen",
+                ".priceToPay .a-offscreen",
+                "span.a-price .a-offscreen",
+                "#priceblock_ourprice",
+                "#priceblock_dealprice"
+            ]
+            
+            preco_atual = None
+            for sel in price_selectors:
+                el = page.locator(sel).first
+                if el.is_visible():
+                    price_text = el.text_content()
+                    if price_text:
+                        price_clean = price_text.replace("R$", "").strip().replace(".", "").replace(",", ".")
+                        try:
+                            preco_atual = float(price_clean)
+                            break
+                        except ValueError:
+                            pass
+                            
+            if preco_atual is not None:
+                if preco_atual > preco_original_envio * 1.05:
+                    return True, preco_atual, f"preço subiu para R$ {preco_atual:.2f}"
+                return False, preco_atual, "ok"
+                
+        except Exception as e:
+            print(f"⚠️ [Verificador] Erro ao checar Amazon: {e}")
+            
+    # 3. MAGAZINE LUIZA
+    elif "magazineluiza.com" in url_lower or "magazinevoce.com" in url_lower:
+        try:
+            unavailable = page.locator("[data-testid='product-unavailable']").is_visible() or page.locator("text='indisponível'").first.is_visible()
+            if unavailable:
+                return True, None, "fora de estoque/indisponível"
+                
+            price_selectors = [
+                "[data-testid='price-value']",
+                ".price-template",
+                ".priceToPay"
+            ]
+            preco_atual = None
+            for sel in price_selectors:
+                el = page.locator(sel).first
+                if el.is_visible():
+                    price_text = el.text_content()
+                    if price_text:
+                        match = re.search(r'R\$\s*([\d\.,]+)', price_text)
+                        if match:
+                            price_clean = match.group(1).replace(".", "").replace(",", ".")
+                        else:
+                            price_clean = price_text.replace("R$", "").strip().replace(".", "").replace(",", ".")
+                        try:
+                            preco_atual = float(price_clean)
+                            break
+                        except ValueError:
+                            pass
+                            
+            if preco_atual is not None:
+                if preco_atual > preco_original_envio * 1.05:
+                    return True, preco_atual, f"preço subiu para R$ {preco_atual:.2f}"
+                return False, preco_atual, "ok"
+                
+        except Exception as e:
+            print(f"⚠️ [Verificador] Erro ao checar Magalu: {e}")
+            
+    # 4. SHOPEE
+    elif "shopee.com" in url_lower:
+        try:
+            unavailable = page.locator("text='esgotado'").first.is_visible() or page.locator("text='indisponível'").first.is_visible()
+            if unavailable:
+                return True, None, "esgotado/indisponível"
+                
+            price_el = page.locator(".pmmxdd").first
+            if not price_el.is_visible():
+                price_el = page.locator("span:has-text('R$')").first
+                
+            preco_atual = None
+            if price_el.is_visible():
+                price_text = price_el.text_content()
+                if price_text:
+                    match = re.search(r'R\$\s*([\d\.,]+)', price_text)
+                    if match:
+                        price_clean = match.group(1).replace(".", "").replace(",", ".")
+                        try:
+                            preco_atual = float(price_clean)
+                        except ValueError:
+                            pass
+                            
+            if preco_atual is not None:
+                if preco_atual > preco_original_envio * 1.05:
+                    return True, preco_atual, f"preço subiu para R$ {preco_atual:.2f}"
+                return False, preco_atual, "ok"
+                
+        except Exception as e:
+            print(f"⚠️ [Verificador] Erro ao checar Shopee: {e}")
+            
+    return False, None, "não pôde determinar"
+
+def checar_e_alertar_expirados(whatsapp, historico):
+    """
+    Verifica se as ofertas enviadas nas últimas 12 horas mudaram de preço ou esgotaram.
+    """
+    print("\n🔍 [Verificador] Iniciando verificação de ofertas expiradas nas últimas 12 horas...")
+    agora = time.time()
+    limite_tempo = 12 * 3600
+    
+    recentes = [item for item in historico if isinstance(item, dict) and not item.get("expirado", False) and (agora - item.get("timestamp", 0)) < limite_tempo]
+    
+    if not recentes:
+        print("🤷‍♂️ [Verificador] Nenhuma oferta recente para verificar.")
+        return
+        
+    print(f"📊 [Verificador] {len(recentes)} ofertas recentes serão checadas.")
+    
+    try:
+        if os.path.exists("sessao_ml.json"):
+            with open("sessao_ml.json", "r", encoding="utf-8") as f:
+                ml_state = json.load(f)
+                ml_cookies = ml_state.get("cookies", [])
+                whatsapp.context.add_cookies(ml_cookies)
+                print("   [Verificador] Cookies do Mercado Livre injetados.")
+                
+        from amazon_scraper import ler_env_local, parse_cookies_amazon
+        env_vars = ler_env_local()
+        cookie_str = env_vars.get("AMAZON_COOKIES", "")
+        if cookie_str:
+            amz_cookies = parse_cookies_amazon(cookie_str)
+            whatsapp.context.add_cookies(amz_cookies)
+            print("   [Verificador] Cookies da Amazon injetados.")
+    except Exception as e:
+        print(f"⚠️ [Verificador] Erro ao injetar cookies para checagem: {e}")
+
+    historico_alterado = False
+    
+    for item in recentes:
+        link_bruto = item.get("link_bruto")
+        preco_envio = item.get("preco", 0.0)
+        titulo = item.get("titulo", "Produto")
+        
+        if not link_bruto or preco_envio <= 0:
+            continue
+            
+        print(f"🔄 [Verificador] Checando: '{titulo[:30]}'...")
+        temp_page = None
+        try:
+            temp_page = whatsapp.context.new_page()
+            temp_page.goto(link_bruto, timeout=25000)
+            temp_page.wait_for_load_state("domcontentloaded")
+            temp_page.wait_for_timeout(2000)
+            
+            expirou, preco_novo, motivo = checar_pagina_produto(temp_page, link_bruto, preco_envio)
+            
+            if expirou:
+                print(f"🚨 [Verificador] Oferta expirada! Motivo: {motivo}")
+                item["expirado"] = True
+                historico_alterado = True
+                
+                msg_alerta = f"⚠️ *OFERTA ENCERRADA* ⚠️\n\n*Produto:* {titulo}\n\nO produto esgotou ou voltou ao preço normal."
+                if preco_novo and preco_novo > preco_envio:
+                    msg_alerta = f"⚠️ *PREÇO ALTERADO* ⚠️\n\n*Produto:* {titulo}\n\nO valor subiu de ~R$ {preco_envio:.2f}~ para *R$ {preco_novo:.2f}*."
+                
+                categoria = categorizar_produto(titulo)
+                grupo_destino = GRUPO_UNICO_NOME if UNIFICAR_GRUPOS else categoria
+                
+                print(f"✉️ Enviando alerta de encerramento para grupo '{grupo_destino}'...")
+                whatsapp.enviar_mensagem_grupo(grupo_destino, msg_alerta)
+                time.sleep(2)
+            else:
+                print(f"   [Verificador] Oferta ativa (Preço atual: R$ {preco_novo if preco_novo else preco_envio})")
+                
+        except Exception as err:
+            print(f"⚠️ [Verificador] Erro ao checar item {titulo[:20]}: {err}")
+        finally:
+            if temp_page:
+                try:
+                    temp_page.close()
+                except:
+                    pass
+                    
+    if historico_alterado:
+        salvar_historico(historico)
+
 def orquestrar_bot():
     # Salvaguarda: Evita enviar mensagens de madrugada (das 23h às 08h) para não incomodar os membros
     import datetime
@@ -241,65 +561,98 @@ def orquestrar_bot():
     print(f"📡 Modo de Busca Ativo: {MODO_DE_BUSCA}")
     print("🚀 =========================================\n")
     
+    headless_mode = "--headless" in sys.argv
+    
     historico = carregar_historico()
+    historico_ids = {h["id"] for h in historico if isinstance(h, dict)}
+    historico_links = {h["link_bruto"] for h in historico if isinstance(h, dict) and h.get("link_bruto")}
+    
     ofertas_encontradas = []
     seen_ids = set() # Evita duplicados capturados na mesma execução do bot
     
-    # 1. FASE DE SCRAPING: Busca as ofertas do Mercado Livre, Amazon, Magalu e Shopee
+    # 1. FASE DE SCRAPING: Busca as ofertas do Mercado Livre, Amazon, Magalu, Shopee e Promobit
     print("🔍 [1/3] Iniciando varredura de ofertas...")
     
     if MODO_DE_BUSCA == "OFERTAS_DO_DIA":
+        # Promobit
+        if BUSCAR_NO_PROMOBIT:
+            try:
+                resultados_pb = buscar_ofertas_promobit(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=15)
+                for item in resultados_pb:
+                    if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
+                        continue
+                    item_id = obter_id_unico(item["link_bruto"])
+                    if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
+                        seen_ids.add(item_id)
+                        categoria = categorizar_produto(item["titulo"])
+                        item["categoria"] = categoria
+                        ofertas_encontradas.append(item)
+            except Exception as pb_err:
+                print(f"⚠️ Erro ao buscar no Promobit: {pb_err}")
+
         # Mercado Livre
         if BUSCAR_NO_MERCADO_LIVRE:
-            resultados = buscar_ofertas_do_dia(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=30)
-            for item in resultados:
-                if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
-                    continue
-                item_id = obter_id_unico(item["link_bruto"])
-                if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
-                    seen_ids.add(item_id)
-                    categoria = categorizar_produto(item["titulo"])
-                    item["categoria"] = categoria
-                    ofertas_encontradas.append(item)
+            try:
+                resultados = buscar_ofertas_do_dia(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=30)
+                for item in resultados:
+                    if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
+                        continue
+                    item_id = obter_id_unico(item["link_bruto"])
+                    if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
+                        seen_ids.add(item_id)
+                        categoria = categorizar_produto(item["titulo"])
+                        item["categoria"] = categoria
+                        ofertas_encontradas.append(item)
+            except Exception as ml_err:
+                print(f"⚠️ Erro ao buscar no Mercado Livre: {ml_err}")
                     
         # Amazon
         if BUSCAR_NA_AMAZON:
-            resultados_amz = buscar_ofertas_do_dia_amazon(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=15)
-            for item in resultados_amz:
-                if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
-                    continue
-                item_id = obter_id_unico(item["link_bruto"])
-                if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
-                    seen_ids.add(item_id)
-                    categoria = categorizar_produto(item["titulo"])
-                    item["categoria"] = categoria
-                    ofertas_encontradas.append(item)
+            try:
+                resultados_amz = buscar_ofertas_do_dia_amazon(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=15)
+                for item in resultados_amz:
+                    if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
+                        continue
+                    item_id = obter_id_unico(item["link_bruto"])
+                    if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
+                        seen_ids.add(item_id)
+                        categoria = categorizar_produto(item["titulo"])
+                        item["categoria"] = categoria
+                        ofertas_encontradas.append(item)
+            except Exception as amz_err:
+                print(f"⚠️ Erro ao buscar na Amazon: {amz_err}")
 
         # Magazine Luiza
         if BUSCAR_NA_MAGALU:
-            resultados_mgl = buscar_ofertas_do_dia_magalu(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=15)
-            for item in resultados_mgl:
-                if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
-                    continue
-                item_id = obter_id_unico(item["link_bruto"])
-                if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
-                    seen_ids.add(item_id)
-                    categoria = categorizar_produto(item["titulo"])
-                    item["categoria"] = categoria
-                    ofertas_encontradas.append(item)
+            try:
+                resultados_mgl = buscar_ofertas_do_dia_magalu(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=15)
+                for item in resultados_mgl:
+                    if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
+                        continue
+                    item_id = obter_id_unico(item["link_bruto"])
+                    if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
+                        seen_ids.add(item_id)
+                        categoria = categorizar_produto(item["titulo"])
+                        item["categoria"] = categoria
+                        ofertas_encontradas.append(item)
+            except Exception as mgl_err:
+                print(f"⚠️ Erro ao buscar na Magalu: {mgl_err}")
 
         # Shopee
         if BUSCAR_NA_SHOPEE:
-            resultados_shp = buscar_ofertas_do_dia_shopee(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=15)
-            for item in resultados_shp:
-                if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
-                    continue
-                item_id = obter_id_unico(item["link_bruto"])
-                if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
-                    seen_ids.add(item_id)
-                    categoria = categorizar_produto(item["titulo"])
-                    item["categoria"] = categoria
-                    ofertas_encontradas.append(item)
+            try:
+                resultados_shp = buscar_ofertas_do_dia_shopee(desconto_minimo=DESCONTO_MINIMO_GERAL, limite=15)
+                for item in resultados_shp:
+                    if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
+                        continue
+                    item_id = obter_id_unico(item["link_bruto"])
+                    if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
+                        seen_ids.add(item_id)
+                        categoria = categorizar_produto(item["titulo"])
+                        item["categoria"] = categoria
+                        ofertas_encontradas.append(item)
+            except Exception as shp_err:
+                print(f"⚠️ Erro ao buscar na Shopee: {shp_err}")
     else:
         # Garimpa termo por termo nas lojas ativas
         for busca in TERMOS_BUSCA:
@@ -308,43 +661,55 @@ def orquestrar_bot():
             
             # Mercado Livre
             if BUSCAR_NO_MERCADO_LIVRE:
-                ml_res = buscar_promocoes(termo, desconto_minimo=desc_min, limite=1)
-                for item in ml_res:
-                    item_id = obter_id_unico(item["link_bruto"])
-                    if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
-                        seen_ids.add(item_id)
-                        item["categoria"] = categorizar_produto(item["titulo"])
-                        ofertas_encontradas.append(item)
+                try:
+                    ml_res = buscar_promocoes(termo, desconto_minimo=desc_min, limite=1)
+                    for item in ml_res:
+                        item_id = obter_id_unico(item["link_bruto"])
+                        if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
+                            seen_ids.add(item_id)
+                            item["categoria"] = categorizar_produto(item["titulo"])
+                            ofertas_encontradas.append(item)
+                except Exception as ml_err:
+                    print(f"⚠️ Erro ao buscar '{termo}' no Mercado Livre: {ml_err}")
                         
             # Amazon
             if BUSCAR_NA_AMAZON:
-                amz_res = buscar_promocoes_amazon(termo, desconto_minimo=desc_min, limite=1)
-                for item in amz_res:
-                    item_id = obter_id_unico(item["link_bruto"])
-                    if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
-                        seen_ids.add(item_id)
-                        item["categoria"] = categorizar_produto(item["titulo"])
-                        ofertas_encontradas.append(item)
+                try:
+                    amz_res = buscar_promocoes_amazon(termo, desconto_minimo=desc_min, limite=1)
+                    for item in amz_res:
+                        item_id = obter_id_unico(item["link_bruto"])
+                        if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
+                            seen_ids.add(item_id)
+                            item["categoria"] = categorizar_produto(item["titulo"])
+                            ofertas_encontradas.append(item)
+                except Exception as amz_err:
+                    print(f"⚠️ Erro ao buscar '{termo}' na Amazon: {amz_err}")
 
             # Magazine Luiza
             if BUSCAR_NA_MAGALU:
-                mgl_res = buscar_promocoes_magalu(termo, desconto_minimo=desc_min, limite=1)
-                for item in mgl_res:
-                    item_id = obter_id_unico(item["link_bruto"])
-                    if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
-                        seen_ids.add(item_id)
-                        item["categoria"] = categorizar_produto(item["titulo"])
-                        ofertas_encontradas.append(item)
+                try:
+                    mgl_res = buscar_promocoes_magalu(termo, desconto_minimo=desc_min, limite=1)
+                    for item in mgl_res:
+                        item_id = obter_id_unico(item["link_bruto"])
+                        if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
+                            seen_ids.add(item_id)
+                            item["categoria"] = categorizar_produto(item["titulo"])
+                            ofertas_encontradas.append(item)
+                except Exception as mgl_err:
+                    print(f"⚠️ Erro ao buscar '{termo}' na Magalu: {mgl_err}")
 
             # Shopee
             if BUSCAR_NA_SHOPEE:
-                shp_res = buscar_promocoes_shopee(termo, desconto_minimo=desc_min, limite=1)
-                for item in shp_res:
-                    item_id = obter_id_unico(item["link_bruto"])
-                    if item_id not in historico and item_id not in seen_ids and item["link_bruto"] not in historico:
-                        seen_ids.add(item_id)
-                        item["categoria"] = categorizar_produto(item["titulo"])
-                        ofertas_encontradas.append(item)
+                try:
+                    shp_res = buscar_promocoes_shopee(termo, desconto_minimo=desc_min, limite=1)
+                    for item in shp_res:
+                        item_id = obter_id_unico(item["link_bruto"])
+                        if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
+                            seen_ids.add(item_id)
+                            item["categoria"] = categorizar_produto(item["titulo"])
+                            ofertas_encontradas.append(item)
+                except Exception as shp_err:
+                    print(f"⚠️ Erro ao buscar '{termo}' na Shopee: {shp_err}")
                         
             time.sleep(1.5)
             
@@ -355,7 +720,7 @@ def orquestrar_bot():
     ofertas_encontradas = ofertas_encontradas[:LIMITE_MENSAGENS_POR_RODADA]
     
     print(f"\n📊 Encontradas {len(ofertas_encontradas)} novas ofertas aptas para envio nesta rodada!")
-    if not ofertas_encontradas:
+    if not ofertas_encontradas and MODO_DE_BUSCA != "OFERTAS_DO_DIA": # No ofertas_do_dia, rodamos o verificador mesmo se sem novas ofertas
         print("🤷‍♂️ Nenhuma oferta nova para enviar nesta rodada.")
         return
         
@@ -374,24 +739,33 @@ def orquestrar_bot():
             print(f"❌ Não foi possível gerar link de afiliado para '{item['titulo'][:30]}'")
         
     print(f"\n✅ {len(ofertas_prontas)} links convertidos com sucesso!")
-    if not ofertas_prontas:
-        print("🤷‍♂️ Nenhuma oferta com link convertido pronto para envio.")
-        return
 
     # 3. FASE DE ENVIO WHATSAPP: Abre o WhatsApp e envia as mensagens
     print("\n📱 [3/3] Iniciando conexão com o WhatsApp Web para envio...")
     whatsapp = WhatsAppSender()
     
-    # Inicia o WhatsApp (pode rodar headless=True se você já salvou a sessão)
-    if whatsapp.iniciar(headless=False):
+    # Inicia o WhatsApp (usa o headless_mode detectado)
+    if whatsapp.iniciar(headless=headless_mode):
+        # Executa verificação e envio de alertas de ofertas expiradas antes de novos envios
+        checar_e_alertar_expirados(whatsapp, historico)
+        
         for idx, item in enumerate(ofertas_prontas):
+            item_id = obter_id_unico(item["link_bruto"])
+            
+            # Verifica se é menor preço histórico
+            menor_preco = False
+            preco_min_hist = encontrar_preco_minimo_historico(item_id, item["titulo"], historico)
+            if preco_min_hist != float('inf') and item["preco_atual"] < preco_min_hist:
+                menor_preco = True
+                
             mensagem = formatar_mensagem_oferta(
                 titulo=item["titulo"],
                 preco_original=item["preco_original"],
                 preco_atual=item["preco_atual"],
                 desconto=item["desconto"],
                 link_afiliado=item["link_afiliado"],
-                cupom=item.get("cupom")
+                cupom=item.get("cupom"),
+                menor_preco=menor_preco
             )
             
             # Faz o download da imagem do produto se existir
@@ -408,7 +782,7 @@ def orquestrar_bot():
             grupo_destino = GRUPO_UNICO_NOME if UNIFICAR_GRUPOS else item["categoria"]
             
             # Envia para o grupo de destino com a imagem correspondente
-            sucesso = whatsapp.enviar_mensagem_grupo(grupo_destino, message_cap := mensagem, caminho_imagem)
+            sucesso = whatsapp.enviar_mensagem_grupo(grupo_destino, mensagem, caminho_imagem)
             
             # Limpa o arquivo de imagem temporário após o envio
             if caminho_imagem and os.path.exists(caminho_imagem):
@@ -418,9 +792,15 @@ def orquestrar_bot():
                     print(f"⚠️ Erro ao remover imagem temporária: {ex}")
             
             if sucesso:
-                # Adiciona ao histórico local o ID único para evitar duplicações mesmo se a URL mudar parâmetros de busca
-                item_id = obter_id_unico(item["link_bruto"])
-                historico.append(item_id)
+                # Adiciona ao histórico o objeto detalhado
+                historico.append({
+                    "id": item_id,
+                    "link_bruto": item["link_bruto"],
+                    "titulo": item["titulo"],
+                    "preco": float(item["preco_atual"]),
+                    "timestamp": time.time(),
+                    "expirado": False
+                })
                 salvar_historico(historico)
             
             # Adiciona delay humanizado anti-banimento se ainda houver mais mensagens a enviar
