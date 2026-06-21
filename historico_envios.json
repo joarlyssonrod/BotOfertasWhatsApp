@@ -2846,5 +2846,125 @@
         "preco": 136.54,
         "timestamp": 1781981730.112267,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B01F2LA2WC",
+        "link_bruto": "https://www.amazon.com.br/Perfume-Invictus-Masculino-Paco-Rabanne/dp/B01F2LA2WC/ref=sr_1_40",
+        "titulo": "Invictus Masculino Eau de Toilette 100 ml",
+        "preco": 449.9,
+        "timestamp": 1782065176.8439336,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_28995092682",
+        "link_bruto": "https://s.shopee.com.br/18CO0f4tR",
+        "titulo": "Máscara Capilar Bond Gloss, Máscara Capilar Natural de Reparação Profunda, Máscara Capilar Anti-Frizz, Condicionador Con",
+        "preco": 78.7,
+        "timestamp": 1782065223.499087,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19140419",
+        "link_bruto": "https://www.mercadolivre.com.br/whey-isolate-protein-fuse-refil-18kg-dark-lab-mp-importad-sabor-creme-de-avel/p/MLB19140419",
+        "titulo": "Whey Isolate Protein Fuse Refil 1,8kg Dark Lab - Mp Importad Sabor Creme de avelã",
+        "preco": 151.9,
+        "timestamp": 1782065273.5545871,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB1871146249",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-1871146249-kit-4-cuecas-boxer-lupo-algodo-confortavel-box-original-_JM",
+        "titulo": "Kit 4 Cuecas Boxer Lupo Algodão Confortável Box Original",
+        "preco": 73.71,
+        "timestamp": 1782065315.2965791,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50731105",
+        "link_bruto": "https://www.mercadolivre.com.br/gabinete-gamer-tgt-jester-v2-preto-mini-tower-com-acrilico-e-2-fans-rainbow/p/MLB50731105",
+        "titulo": "Gabinete Gamer TGT Jester V2 Preto Mini-Tower com Acrílico e 2 Fans Rainbow",
+        "preco": 89.3,
+        "timestamp": 1782065358.9242234,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB46439076",
+        "link_bruto": "https://www.mercadolivre.com.br/impressora-no-58mm-usb-rede-com-guilhotina-cor-preto/p/MLB46439076",
+        "titulo": "Impressora Não 58mm Usb Rede Com Guilhotina Cor Preto",
+        "preco": 78.0,
+        "timestamp": 1782065392.151032,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB68395577",
+        "link_bruto": "https://www.mercadolivre.com.br/bicicleta-spinning-ergometrica-13kg-mecnica-com-monitor-de-velocidade-suporta-ate-120kg-calorias-tempo-e-distncia-sensor-de-pulso-assento-macio-pedal-metalico-ideal-para-140m-a-190m/p/MLB68395577",
+        "titulo": "Bicicleta Spinning Ergométrica 13kg Mecânica com Monitor de Velocidade, Suporta até 120kg, Calorias, Tempo e Distância, Sensor de Pulso, Assento Macio, Pedal Metálico, Ideal para 1,40m a 1,90m",
+        "preco": 1259.0,
+        "timestamp": 1782065435.8491404,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5402145264",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5402145264-tnis-feminino-sem-cadarco-calce-facil-confortavel-casual-_JM",
+        "titulo": "Tênis Feminino Sem Cadarço Calce Fácil Confortável Casual",
+        "preco": 24.9,
+        "timestamp": 1782065469.4423082,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3862675593",
+        "link_bruto": "https://www.mercadolivre.com.br/garrafa-800ml-termica-inox-academia-esportiva-agua-gelada/up/MLBU3862675593",
+        "titulo": "Garrafa 800ml Térmica Inox Academia Esportiva Água Gelada",
+        "preco": 25.28,
+        "timestamp": 1782065515.9922123,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3907250277",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-4-camisetas-dry-fit-masculina-academia-leve-confortavel/up/MLBU3907250277",
+        "titulo": "Kit 4 Camisetas Dry Fit Masculina Academia Leve Confortável",
+        "preco": 76.5,
+        "timestamp": 1782065550.6475396,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63853981",
+        "link_bruto": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-turbo-sweep-1350w-ho601-cinza/p/MLB63853981",
+        "titulo": "Aspirador De Pó Vertical Turbo Sweep 1350w - Ho601 Cinza",
+        "preco": 99.0,
+        "timestamp": 1782065590.9213088,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3849943671",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3849943671-shorts-feminino-tactel-academia-bermuda-treino-fitness-praia-_JM",
+        "titulo": "Shorts Feminino Tactel Academia Bermuda Treino Fitness Praia",
+        "preco": 16.9,
+        "timestamp": 1782065628.808122,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3903625692",
+        "link_bruto": "https://www.mercadolivre.com.br/caixa-de-som-inteligente-bluetooth-com-relogio-digital/up/MLBU3903625692",
+        "titulo": "Caixa De Som Inteligente Bluetooth Com Relógio Digital",
+        "preco": 94.79,
+        "timestamp": 1782065672.1911733,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB17973973",
+        "link_bruto": "https://www.mercadolivre.com.br/teclado-gamer-semimecnico-knup-kp-2043a-qwerty-abnt2-usb-preto-led-rgb/p/MLB17973973",
+        "titulo": "Teclado Gamer Semimecânico Knup KP-2043/A QWERTY ABNT2 USB Preto LED RGB",
+        "preco": 44.53,
+        "timestamp": 1782065706.5384212,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3657740832",
+        "link_bruto": "https://www.mercadolivre.com.br/copo-termica-600ml-inox-antivazamento-para-cafechabebidas/up/MLBU3657740832",
+        "titulo": "Copo Térmica 600ml Inox Anti-vazamento Para Café/chá/bebidas",
+        "preco": 33.94,
+        "timestamp": 1782065754.188834,
+        "expirado": false
     }
 ]

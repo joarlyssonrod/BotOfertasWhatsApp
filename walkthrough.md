@@ -47,10 +47,13 @@ Adicionamos inteligência para capturar e divulgar cupons ativos:
 ---
 
 ### 7. Resolução de Bloqueio de Sessão do Mercado Livre
-- **Fallback Automático para Modo Visitante**: Modificamos [garimpeiro.py](file:///E:/Apps/BotOfertasWhatsApp/garimpeiro.py) para que, se a sessão em `sessao_ml.json` estiver expirada ou se o Mercado Livre exigir verificação (CAPTCHA), ele feche o contexto de cookies e tente novamente sem login (como visitante anônimo). Como as páginas de Ofertas do Dia e busca pública funcionam para visitantes, isso permite que o bot continue extraindo dados de forma estável.
-- **Detecção de Bloqueio no Verificador**: Corrigimos `checar_pagina_produto` em [motor_integrado.py](file:///E:/Apps/BotOfertasWhatsApp/motor_integrado.py). Anteriormente, se a página do produto redirecionasse para verificação/CAPTCHA (devido a cookies de sessão expirados injetados no contexto do Playwright), a função interpretava erroneamente como "fora de estoque/anúncio pausado" e disparava falsos alertas de "OFERTA ENCERRADA" no WhatsApp. Agora, o bot reconhece o redirecionamento de verificação como `"bloqueio_verificacao"`.
-- **Limpeza Dinâmica de Cookies e Re-checagem**: Se o verificador detectar `"bloqueio_verificacao"`, ele limpa os cookies do Mercado Livre do contexto compartilhado do WhatsApp Web (sem afetar a sessão do WhatsApp), abre uma nova aba limpa, e refaz a checagem como visitante.
-- **Herança de Headless/Headful**: Propagamos o parâmetro `headless=headless_mode` de [motor_integrado.py](file:///E:/Apps/BotOfertasWhatsApp/motor_integrado.py) para [garimpeiro.py](file:///E:/Apps/BotOfertasWhatsApp/garimpeiro.py). Quando o bot é executado de forma manual e visível (sem o parâmetro `--headless`), ele roda a navegação do Mercado Livre também no modo visível utilizando o Chrome local e cabeçalhos avançados, o que naturalmente evita as barreiras de Captcha e verificação de robôs do Mercado Livre.
+- **Configuração Ultimate Stealth**: Atualizamos as rotinas do Playwright em [garimpeiro.py](file:///E:/Apps/BotOfertasWhatsApp/garimpeiro.py) para utilizar parâmetros avançados de evasão em ambos os modos (headless e headful):
+  * Vinculação com o canal nativo `"chrome"` para simular a engine oficial de navegação.
+  * Ocultação da propriedade `navigator.webdriver` via injeção de script nativa.
+  * Inclusão de cabeçalhos de geolocalização (`locale="pt-BR"`), fuso horário (`timezone_id="America/Sao_Paulo"`) e dimensões reais de viewport desktop.
+  * Evasão robusta que evita o carregamento do CAPTCHA em modo headless para visitante ou logado.
+- **Detecção de Bloqueio no Verificador**: Corrigimos `checar_pagina_produto` em [motor_integrado.py](file:///E:/Apps/BotOfertasWhatsApp/motor_integrado.py). Agora ele também rastreia o caminho `/sec/` na URL final como indicativo de bloqueio, efetuando a re-navegação do verificador dinamicamente após limpar os cookies de sessão corrompidos.
+- **Resiliência contra redirects de URL**: Implementamos tratamento de erro na leitura do HTML para recuperar o conteúdo mesmo quando o browser está no meio de navegação de redirecionamento (como o redirect padrão de letras maiúsculas/minúsculas).
 
 ### 8. Resolução de Ofertas Duplicadas (Shopee & Magalu)
 - **Extração de itemId na Shopee**: Atualizamos o [shopee_api.py](file:///E:/Apps/BotOfertasWhatsApp/shopee_api.py) para incluir a chave `"itemId"` nos itens retornados pela API (tanto no scraper de termos quanto de ofertas do dia).
