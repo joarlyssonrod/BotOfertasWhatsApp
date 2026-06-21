@@ -2853,7 +2853,7 @@
         "titulo": "Invictus Masculino Eau de Toilette 100 ml",
         "preco": 449.9,
         "timestamp": 1782065176.8439336,
-        "expirado": false
+        "expirado": true
     },
     {
         "id": "SHOPEE_28995092682",
@@ -2869,7 +2869,7 @@
         "titulo": "Whey Isolate Protein Fuse Refil 1,8kg Dark Lab - Mp Importad Sabor Creme de avelã",
         "preco": 151.9,
         "timestamp": 1782065273.5545871,
-        "expirado": false
+        "expirado": true
     },
     {
         "id": "ML_MLB1871146249",
@@ -2877,7 +2877,7 @@
         "titulo": "Kit 4 Cuecas Boxer Lupo Algodão Confortável Box Original",
         "preco": 73.71,
         "timestamp": 1782065315.2965791,
-        "expirado": false
+        "expirado": true
     },
     {
         "id": "ML_MLB50731105",
@@ -2885,7 +2885,7 @@
         "titulo": "Gabinete Gamer TGT Jester V2 Preto Mini-Tower com Acrílico e 2 Fans Rainbow",
         "preco": 89.3,
         "timestamp": 1782065358.9242234,
-        "expirado": false
+        "expirado": true
     },
     {
         "id": "ML_MLB46439076",
@@ -2893,7 +2893,7 @@
         "titulo": "Impressora Não 58mm Usb Rede Com Guilhotina Cor Preto",
         "preco": 78.0,
         "timestamp": 1782065392.151032,
-        "expirado": false
+        "expirado": true
     },
     {
         "id": "ML_MLB68395577",
@@ -2901,7 +2901,7 @@
         "titulo": "Bicicleta Spinning Ergométrica 13kg Mecânica com Monitor de Velocidade, Suporta até 120kg, Calorias, Tempo e Distância, Sensor de Pulso, Assento Macio, Pedal Metálico, Ideal para 1,40m a 1,90m",
         "preco": 1259.0,
         "timestamp": 1782065435.8491404,
-        "expirado": false
+        "expirado": true
     },
     {
         "id": "ML_MLB5402145264",
@@ -2909,7 +2909,7 @@
         "titulo": "Tênis Feminino Sem Cadarço Calce Fácil Confortável Casual",
         "preco": 24.9,
         "timestamp": 1782065469.4423082,
-        "expirado": false
+        "expirado": true
     },
     {
         "id": "ML_MLBU3862675593",
@@ -2925,7 +2925,7 @@
         "titulo": "Kit 4 Camisetas Dry Fit Masculina Academia Leve Confortável",
         "preco": 76.5,
         "timestamp": 1782065550.6475396,
-        "expirado": false
+        "expirado": true
     },
     {
         "id": "ML_MLB63853981",
@@ -2933,7 +2933,7 @@
         "titulo": "Aspirador De Pó Vertical Turbo Sweep 1350w - Ho601 Cinza",
         "preco": 99.0,
         "timestamp": 1782065590.9213088,
-        "expirado": false
+        "expirado": true
     },
     {
         "id": "ML_MLB3849943671",
@@ -2941,7 +2941,7 @@
         "titulo": "Shorts Feminino Tactel Academia Bermuda Treino Fitness Praia",
         "preco": 16.9,
         "timestamp": 1782065628.808122,
-        "expirado": false
+        "expirado": true
     },
     {
         "id": "ML_MLBU3903625692",
@@ -2949,7 +2949,7 @@
         "titulo": "Caixa De Som Inteligente Bluetooth Com Relógio Digital",
         "preco": 94.79,
         "timestamp": 1782065672.1911733,
-        "expirado": false
+        "expirado": true
     },
     {
         "id": "ML_MLB17973973",
@@ -2957,7 +2957,7 @@
         "titulo": "Teclado Gamer Semimecânico Knup KP-2043/A QWERTY ABNT2 USB Preto LED RGB",
         "preco": 44.53,
         "timestamp": 1782065706.5384212,
-        "expirado": false
+        "expirado": true
     },
     {
         "id": "ML_MLBU3657740832",
@@ -2965,6 +2965,126 @@
         "titulo": "Copo Térmica 600ml Inox Anti-vazamento Para Café/chá/bebidas",
         "preco": 33.94,
         "timestamp": 1782065754.188834,
+        "expirado": true
+    },
+    {
+        "id": "ML_MLBU3941040053",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-70-figurinhas--album-copa-do-mundo-fifa-2026-panini/up/MLBU3941040053",
+        "titulo": "Kit 70 Figurinhas + Álbum Copa Do Mundo Fifa 2026 Panini Brochura C/ 70 Figurinhas",
+        "preco": 76.53,
+        "timestamp": 1782079408.268409,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58202299064",
+        "link_bruto": "https://s.shopee.com.br/Ll32pkS7b",
+        "titulo": "Fatiador Profissional Multifuncional 16 em 1/3 em 1 de Aço Inoxidável - Ideal para Vegetais, Frutas e Legumes",
+        "preco": 26.99,
+        "timestamp": 1782079439.0582218,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_20699552381",
+        "link_bruto": "https://s.shopee.com.br/20tH1te6jx",
+        "titulo": "Furadeira/Parafusadeira 26V/48V Dual Baterias, Conjunto com Estuche e Ferramentas Inclusas",
+        "preco": 59.99,
+        "timestamp": 1782079469.3277843,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_18999497678",
+        "link_bruto": "https://s.shopee.com.br/3Vi4oeYOhM",
+        "titulo": "Balança Bioimpedância Digital Profissional via Bluethooth",
+        "preco": 26.9,
+        "timestamp": 1782079506.2821393,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_55057204520",
+        "link_bruto": "https://s.shopee.com.br/2BChECdTOy",
+        "titulo": "Chaleira Elétrica Inox 1.8 Litros Desligamento Automático Aquecimento Rápido",
+        "preco": 44.8,
+        "timestamp": 1782079545.0932298,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/smartphone-samsung-galaxy-s25-edge-512gb-titanio-jetblack-5g-12gb-ram-67-cam-dupla-selfie-12mp/divulgador/oferta/240247700/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/smartphone-samsung-galaxy-s25-edge-512gb-titanio-jetblack-5g-12gb-ram-67-cam-dupla-selfie-12mp/divulgador/oferta/240247700/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Samsung Galaxy S25 Edge 512GB Jetblack 5G",
+        "preco": 4029.0,
+        "timestamp": 1782079583.5299137,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58209640579",
+        "link_bruto": "https://s.shopee.com.br/W4TF8jomc",
+        "titulo": "Camiseta Masculina Blusa Brasil 3 Listras T-shirt Verão Manga Curta Camisa Algodão Premium",
+        "preco": 20.9,
+        "timestamp": 1782079619.7451172,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58202538784",
+        "link_bruto": "https://s.shopee.com.br/1LdaEfge5t",
+        "titulo": "Esmerilhadeira Lixadeira Elétrica Sem Fio Profissional 4 Pol 100mm 2 Baterias 48V 4 Discos",
+        "preco": 157.34,
+        "timestamp": 1782079658.9449327,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23193407563",
+        "link_bruto": "https://s.shopee.com.br/3LOecLZ22L",
+        "titulo": "Parafusadeira Furadeira 48V 2 Baterias Com Maleta e Acessórios Completo vipcssa",
+        "preco": 113.5,
+        "timestamp": 1782079692.782307,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB65374941",
+        "link_bruto": "https://www.mercadolivre.com.br/eps-6905-balaca-digital-epsilon-corporal-inteligente-bluetooth-com-app-lcd-vidro-temperado-180kg-fitns-peso-saude-casa-cor-preto/p/MLB65374941",
+        "titulo": "Eps-6905 Balaça Digital Epsilon Corporal Inteligente Bluetooth Com App, Lcd, Vidro Temperado, 180kg, Fitns, Peso, Saúde, Casa - Cor Preto",
+        "preco": 26.77,
+        "timestamp": 1782079738.7543628,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07Q78BR5M",
+        "link_bruto": "https://www.amazon.com.br/Aspirador-Electrolux-ERG21-Ergorapido-Branco/dp/B07Q78BR5M",
+        "titulo": "Aspirador de Pó vertical bateria Ergorapido 2 em 1 Electrolux 21min 2 velocidades capacidade 460Ml ERG21 Bivolt Branco",
+        "preco": 474.9,
+        "timestamp": 1782079778.5720115,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_18499668742",
+        "link_bruto": "https://s.shopee.com.br/2LW7QVcq43",
+        "titulo": "Jogo de Panelas 13 Peças + Panela de Pressão 2L Conjunto Teflon Antiaderente Frigideira Caçarola",
+        "preco": 179.99,
+        "timestamp": 1782079823.909235,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4144613495",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4144613495-kit-10-painel-3d-marmore-parede-autocolante-60-x-30-pdeals-_JM",
+        "titulo": "Kit 10 Painel 3d Mármore Parede Autocolante 60 X 30 Pdeals",
+        "preco": 36.38,
+        "timestamp": 1782079871.5787802,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3824417152",
+        "link_bruto": "https://www.mercadolivre.com.br/jaqueta-puffer-bobojaco-corta-vento-nylon-masculino-gominho/up/MLBU3824417152",
+        "titulo": "Jaqueta Puffer Bobojaco Corta Vento Nylon Masculino Gominho Preto G Gominho",
+        "preco": 73.99,
+        "timestamp": 1782079914.689658,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19530922",
+        "link_bruto": "https://www.mercadolivre.com.br/tnis-esportivo-masculino-delta-olympikus-liso/p/MLB19530922",
+        "titulo": "Tênis Esportivo Masculino Delta Olympikus Liso Preto 40 Br",
+        "preco": 110.69,
+        "timestamp": 1782079955.6268463,
         "expirado": false
     }
 ]
