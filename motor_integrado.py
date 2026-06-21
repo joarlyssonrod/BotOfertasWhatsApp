@@ -30,7 +30,7 @@ HISTORICO_FILE = "historico_envios.json"
 MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
 
 # Lojas ativas para busca:
-BUSCAR_NO_MERCADO_LIVRE = True
+BUSCAR_NO_MERCADO_LIVRE = False
 BUSCAR_NA_AMAZON = True
 BUSCAR_NA_MAGALU = True
 BUSCAR_NA_SHOPEE = True
@@ -151,7 +151,7 @@ def carregar_historico():
                             })
                         elif isinstance(item, dict):
                             if "id" not in item:
-                                item["id"] = obter_id_unico(item.get("link_bruto", ""))
+                                item["id"] = obter_id_unico(item)
                             if "timestamp" not in item:
                                 item["timestamp"] = time.time()
                             if "expirado" not in item:
@@ -167,13 +167,23 @@ def salvar_historico(historico):
     with open(HISTORICO_FILE, "w", encoding="utf-8") as f:
         json.dump(historico, f, indent=4, ensure_ascii=False)
 
-def obter_id_unico(url):
+def obter_id_unico(item_or_url):
     """
     Retorna uma string identificadora única para o produto.
     ASIN para Amazon, MLB ID para Mercado Livre, ID numérico/hash para Magalu.
     Se não conseguir identificar, retorna a própria URL limpa como fallback.
+    Aceita tanto uma string URL quanto um dicionário contendo o item.
     """
-    url_limpa = url.strip()
+    if isinstance(item_or_url, dict):
+        if "itemId" in item_or_url and item_or_url.get("itemId"):
+            return f"SHOPEE_{item_or_url['itemId']}"
+        url = item_or_url.get("link_bruto", "")
+    else:
+        url = item_or_url
+        
+    url_limpa = url.strip() if url else ""
+    if not url_limpa:
+        return ""
     
     # 1. AMAZON
     if "amazon.com" in url_limpa:
@@ -202,6 +212,16 @@ def obter_id_unico(url):
         shopee_match2 = re.search(r'-i\.(\d+)\.(\d+)', url_limpa)
         if shopee_match2:
             return f"SHOPEE_{shopee_match2.group(2)}"
+        # Captura o hash do link curto se for s.shopee.com.br
+        shopee_short = re.search(r's\.shopee\.com\.br/([a-zA-Z0-9]+)', url_limpa)
+        if shopee_short:
+            return f"SHOPEE_{shopee_short.group(1)}"
+            
+    # 5. ALIEXPRESS
+    elif "aliexpress.com" in url_limpa:
+        aliexpress_match = re.search(r'/item/(\d+)\.html', url_limpa)
+        if aliexpress_match:
+            return f"ALIEXPRESS_{aliexpress_match.group(1)}"
             
     return url_limpa.split("?")[0].split("#")[0]
 
@@ -663,7 +683,7 @@ def orquestrar_bot():
                 for item in resultados_pb:
                     if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
                         continue
-                    item_id = obter_id_unico(item["link_bruto"])
+                    item_id = obter_id_unico(item)
                     if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
                         seen_ids.add(item_id)
                         categoria = categorizar_produto(item["titulo"])
@@ -679,7 +699,7 @@ def orquestrar_bot():
                 for item in resultados:
                     if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
                         continue
-                    item_id = obter_id_unico(item["link_bruto"])
+                    item_id = obter_id_unico(item)
                     if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
                         seen_ids.add(item_id)
                         categoria = categorizar_produto(item["titulo"])
@@ -695,7 +715,7 @@ def orquestrar_bot():
                 for item in resultados_amz:
                     if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
                         continue
-                    item_id = obter_id_unico(item["link_bruto"])
+                    item_id = obter_id_unico(item)
                     if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
                         seen_ids.add(item_id)
                         categoria = categorizar_produto(item["titulo"])
@@ -711,7 +731,7 @@ def orquestrar_bot():
                 for item in resultados_mgl:
                     if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
                         continue
-                    item_id = obter_id_unico(item["link_bruto"])
+                    item_id = obter_id_unico(item)
                     if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
                         seen_ids.add(item_id)
                         categoria = categorizar_produto(item["titulo"])
@@ -727,7 +747,7 @@ def orquestrar_bot():
                 for item in resultados_shp:
                     if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
                         continue
-                    item_id = obter_id_unico(item["link_bruto"])
+                    item_id = obter_id_unico(item)
                     if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
                         seen_ids.add(item_id)
                         categoria = categorizar_produto(item["titulo"])
@@ -746,7 +766,7 @@ def orquestrar_bot():
                 try:
                     ml_res = buscar_promocoes(termo, desconto_minimo=desc_min, limite=1, headless=headless_mode)
                     for item in ml_res:
-                        item_id = obter_id_unico(item["link_bruto"])
+                        item_id = obter_id_unico(item)
                         if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
                             seen_ids.add(item_id)
                             item["categoria"] = categorizar_produto(item["titulo"])
@@ -759,7 +779,7 @@ def orquestrar_bot():
                 try:
                     amz_res = buscar_promocoes_amazon(termo, desconto_minimo=desc_min, limite=1)
                     for item in amz_res:
-                        item_id = obter_id_unico(item["link_bruto"])
+                        item_id = obter_id_unico(item)
                         if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
                             seen_ids.add(item_id)
                             item["categoria"] = categorizar_produto(item["titulo"])
@@ -772,7 +792,7 @@ def orquestrar_bot():
                 try:
                     mgl_res = buscar_promocoes_magalu(termo, desconto_minimo=desc_min, limite=1)
                     for item in mgl_res:
-                        item_id = obter_id_unico(item["link_bruto"])
+                        item_id = obter_id_unico(item)
                         if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
                             seen_ids.add(item_id)
                             item["categoria"] = categorizar_produto(item["titulo"])
@@ -785,7 +805,7 @@ def orquestrar_bot():
                 try:
                     shp_res = buscar_promocoes_shopee(termo, desconto_minimo=desc_min, limite=1)
                     for item in shp_res:
-                        item_id = obter_id_unico(item["link_bruto"])
+                        item_id = obter_id_unico(item)
                         if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
                             seen_ids.add(item_id)
                             item["categoria"] = categorizar_produto(item["titulo"])
@@ -832,7 +852,7 @@ def orquestrar_bot():
         checar_e_alertar_expirados(whatsapp, historico)
         
         for idx, item in enumerate(ofertas_prontas):
-            item_id = obter_id_unico(item["link_bruto"])
+            item_id = obter_id_unico(item)
             
             # Verifica se é menor preço histórico
             menor_preco = False

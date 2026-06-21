@@ -1,343 +1,2850 @@
 [
-    "https://www.mercadolivre.com.br/notebook-gamer-lenovo--loq-ci5-rtx3050-512gb-16gb-w11-ubook/up/MLBU3882664762",
-    "https://www.mercadolivre.com.br/ssd-wd-green-480gb-interno-sata-3-western-digital-wds480g3g0a-480gb-preto-p-computador-e-notebook/up/MLBU3039321626",
-    "https://www.mercadolivre.com.br/monitor-pc-lg-195-20mk400h-b-led-hd-hdmi-vga-d-sub-75hz-2msgtg-ajuste-de-inclinaco-reader-mode/p/MLB15121865",
-    "https://www.mercadolivre.com.br/console-playstation-5-pro-2tb-branco-sony-100v240v/p/MLB41975964",
-    "https://www.mercadolivre.com.br/console-nintendo-switch-lite-32gb-azul-turquesa-standard-tela-55-cor-azul-turquesa/p/MLB40199765",
-    "https://www.mercadolivre.com.br/controle-para-xbox-360-com-fio-usb-e-pc-preto-vibraco-console-joystick-manete-gamepass-steam-tv-pc-android-pc-controle-pc-gamer-redfin/p/MLB22778772",
-    "https://www.mercadolivre.com.br/tenis-masculino-supernova-ease-2-adidas/up/MLBU3645157173",
-    "https://produto.mercadolivre.com.br/MLB-4558830608-camiseta-reserva-masculina-listrado-nice-azul-marinho-_JM",
-    "https://www.mercadolivre.com.br/creatina-max-titanium-monohidratada-em-po-pote-300g-creatina-po-sem-sabor/p/MLB6104856",
-    "https://www.mercadolivre.com.br/creatina-sabor-morango-350g-integralmedica/p/MLB52936719",
-    "https://www.mercadolivre.com.br/fritadeira-sem-oleo-air-fryer-35l-mondial-1500w-af-31/p/MLB20552039",
-    "https://www.mercadolivre.com.br/nescafe-dolce-gusto-arno-genio-s-basic-branca-dgs1-cor-branco/p/MLB44389497",
-    "https://www.mercadolivre.com.br/monitor-pc-gamer-lg-27-ips-full-hd-100hz-hdmi-27ms500-b-bivolt/p/MLB41863403",
-    "https://www.mercadolivre.com.br/creatina-600g-suplemento-monohidratada-em-po-100-pura-soldiers-nutrition/p/MLB26989230",
-    "https://www.mercadolivre.com.br/creatina-monohidratada-pura-500g-dark-lab-unidade/p/MLB26796581",
-    "https://www.mercadolivre.com.br/kit-2-cmera-wifi-externa-a28-app-icsee-dupla-viso-3mp-prova-dagua-cor-branco/p/MLB42835779",
-    "https://www.mercadolivre.com.br/panela-de-presso-brinox-pressure-42l-20-x-145-cm-vanilla-baunilha/p/MLB22663071",
-    "https://www.mercadolivre.com.br/celular-samsung-galaxy-a07-256gb-8gb-cmera-50mp-tela-67-proteco-ip54-processador-6nm-preto/p/MLB54961556",
-    "https://www.mercadolivre.com.br/mochila-dos-homens-com-faixa-impermeavel-para-expansao/up/MLBU3454994034",
-    "https://www.mercadolivre.com.br/creatina-1kg-suplemento-monohidratada-em-po-100-pura-soldiers-nutrition/p/MLB18725310",
-    "https://www.mercadolivre.com.br/balanca-bioimpedancia-digital-180kg-smart-imc-profissional-rishon-com-aplicativo/p/MLB68838381",
-    "https://produto.mercadolivre.com.br/MLB-4888435024-kit-4-cuecas-lupo-boxer-poliamida-box-sem-costura-original-_JM",
-    "https://www.mercadolivre.com.br/creatina-monohidratada-pura-1kg-dark-lab-unidade-sem-sabor/p/MLB25929487",
-    "https://www.amazon.com.br/SANDISK-Unidade-estado-s%C3%B3lido-interna/dp/B0F4Y2VR8S/ref=sr_1_45",
-    "https://www.mercadolivre.com.br/lenovo-ideapad-d330-toque-intel-n4000-4g-64g-101-1280800px/up/MLBU3873340481",
-    "https://www.amazon.com.br/God-War-Ragnar%C3%B6k-Standard-PlayStation/dp/B0BH59HP23/ref=sr_1_48",
-    "https://www.amazon.com.br/Cafeteira-Espresso-Oster-PrimaLatte-BVSTEM6801R/dp/B0C7D72S7Z/ref=sr_1_13",
-    "https://www.amazon.com.br/Monitor-BRX-MBRX201BK-Slim-HDMI/dp/B0CXVGDFWS/ref=sr_1_56",
-    "https://www.mercadolivre.com.br/celular-samsung-galaxy-a07-256gb-8gb-cmera-50mp-verde/p/MLB54963045",
-    "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-5g-com-ia-128gb-4gb-ram-cm-de-50mp-tela-de-67-nfc-ip54-preto/p/MLB55027309",
-    "https://produto.mercadolivre.com.br/MLB-4359093019-tnis-masculino-casual-aramis-daily-slip-confortavel-moderno-_JM",
-    "https://www.mercadolivre.com.br/creatina-monohidratada-em-pote-300g-100-pura-dark-lab/p/MLB19506691",
-    "https://produto.mercadolivre.com.br/MLB-3978883539-kit3-short-futebol-bermuda-masculina-academia-treino-esporte-_JM",
-    "https://produto.mercadolivre.com.br/MLB-4321895847-powerbank-20000mah-carregador-225w-pd-portatil-carga-rapida-_JM",
-    "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-com-ia-128gb-4gb-ram-cm-de-50mp-tela-de-67-nfc-ip54-preto/p/MLB54987753",
-    "https://www.mercadolivre.com.br/nestle-moca-leite-condensado-integral-lata-395gr/p/MLB18308913",
-    "https://www.mercadolivre.com.br/impressora-hp-laser-107a-monocromatica-porta-usb-20-de-alta-velocidade-110-a-127-vca/p/MLB15084496",
-    "https://www.mercadolivre.com.br/monitor-gamer-portatil-156-1080p-fhd-ips-com-hdmi-usb/up/MLBU3228796835",
-    "https://www.mercadolivre.com.br/hipercalorico-dark-mass-3kg-dark-lab-sabor-baunilha/p/MLB19451614",
-    "https://produto.mercadolivre.com.br/MLB-4466276267-mochila-viagem-feminina-masculina-para-notebook-executiva-_JM",
-    "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-the-black-tools-profissional-tb-21px-2-baterias-com-maleta-60hz-amarelo/p/MLB30144703",
-    "https://produto.mercadolivre.com.br/MLB-2794030545-kit-6-cuecas-boxer-lupo-poliamida-sem-costura-box-original-_JM",
-    "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-neo-5g-256gb-24gb-12gb-ram-12gb-ram-boost-50mp-sony-camera-moto-ai-e-tela-15k-super-hd-latte/p/MLB58684606",
-    "https://www.mercadolivre.com.br/1200nm-chave-de-impacto-3-em-1--2-bateria-sem-fio-dobevi/up/MLBU2352281224",
-    "https://www.mercadolivre.com.br/controle-joystick-sem-fio-sony-playstation-dualsense-branco/p/MLB33997846",
-    "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-5g-com-ia-128gb-4gb-ram-cm-de-50mp-tela-de-67-nfc-ip54-cinza/p/MLB55521828",
-    "https://produto.mercadolivre.com.br/MLB-5408593708-tnis-casual-kappa-zenit-masculino-unissex-conforto-_JM",
-    "https://www.mercadolivre.com.br/jogo-toalhas-de-algodo-4-pecas-banho-e-rosto-bege-marrom-karsten/p/MLB43009568",
-    "https://produto.mercadolivre.com.br/MLB-4085597457-camiseta-light-t-shirt-insider-masculino-_JM",
-    "https://produto.mercadolivre.com.br/MLB-5166969060-kit-de-10-cuecas-boxer-mash-algodo-box-confortavel-original-_JM",
-    "https://produto.mercadolivre.com.br/MLB-4995928434-kit2-calca-moletom-masculina-academia-corrida-chimpa-esporte-_JM",
-    "https://www.mercadolivre.com.br/camera-seguranca-ip-externa-wifi-a28-app-icsee-a-prova-dagua/up/MLBU3403280878",
-    "https://www.mercadolivre.com.br/bicicleta-ergometrica-fitness-para-cardio-e-musculaco-com-base-cor-preto-e-vermelho-6kg-inercia-marca-sevenfit/p/MLB42978348",
-    "https://produto.mercadolivre.com.br/MLB-4118819755-sobretudo-feminino-elegante-casual-parka-peaky-blinders-_JM",
-    "https://www.mercadolivre.com.br/smart-tv-43-philco-p43vik-roku-led-dolby-audio-wi-fi-hdmi-hdr-full-hd-110220v/p/MLB63040715",
-    "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-21v--maleta-jogo-145-pcs/up/MLBU3983007468",
-    "https://produto.mercadolivre.com.br/MLB-3558833250-kit-3-pares-meias-puma-cano-alto-longo-confortavel-original-_JM",
-    "https://www.mercadolivre.com.br/kit-wella-professionals-oil-reflections-duo-2-produtos/up/MLBU726966529",
-    "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-neo-5g-256gb-24gb-12gb-ram-12gb-ram-boost-50mp-sony-camera-moto-ai-e-tela-15k-super-hd-cinza/p/MLB58684601",
-    "https://produto.mercadolivre.com.br/MLB-2147554247-tnis-lacoste-t-base-lancamento-_JM",
-    "https://produto.mercadolivre.com.br/MLB-3676440389-polo-masculina-lacoste-slim-fit-original-_JM",
-    "https://www.mercadolivre.com.br/suplemento-alimentar-omegafor-plus-epa-e-dha-240-capsulas-vitafor/p/MLB21961481",
-    "https://www.mercadolivre.com.br/essencial-intenso-deo-parfum-natura-masculino-100-ml/p/MLB22456050",
-    "https://www.mercadolivre.com.br/cmera-de-video-wi-fi-intelbras-im3-c-microsd-32gb-branco/p/MLB23409605",
-    "https://www.amazon.com.br/WAP-Fritadeira-El%C3%A9trica-Digital-Antiaderente/dp/B0CH5PR9G9/ref=sr_1_3",
-    "https://www.amazon.com.br/Yakuza-Directors-Cut-Nintendo-Switch/dp/B0F65ZBSXY/ref=sr_1_29",
-    "https://www.amazon.com.br/Notebook-ASUS-Vivobook-KeepOS-Silver/dp/B0F84PXR9V/ref=sr_1_28",
-    "https://www.amazon.com.br/Suporte-Echo-Gera%C3%A7%C3%A3o-WB-Branco/dp/B08ZGL2CKR/ref=sr_1_16",
-    "https://www.amazon.com.br/Thunderx3-61900-Cadeira-Preta-Windows/dp/B00ELBQIKA/ref=sr_1_14",
-    "https://www.amazon.com.br/Base-Carregamento-Do-Dualsense-PlayStation/dp/B09JH4PD8Q/ref=sr_1_47",
-    "https://www.amazon.com.br/LG-UltraGear-27GS60F-B-FreeSyncTM-DisplayPort/dp/B0DB6DF87Y/ref=sr_1_13",
-    "https://www.amazon.com.br/T%C3%AAnis-Adidas-Court-Preto-Branco/dp/B0CJTY5SQP/ref=sr_1_1",
-    "https://www.amazon.com.br/Azeite-Andorinha-Spray-Extra-Virgem/dp/B07FYNMF8B/ref=sr_1_18",
-    "https://www.mercadolivre.com.br/whey-isolate-protein-fuse-18kg-baunilha-dark-lab/p/MLB19140417",
-    "https://www.mercadolivre.com.br/cadeira-ergonmica-gamer-e-para-escritorio-thunderx3-yama1-preta-com-tela-mesh/p/MLB16097953",
-    "https://www.mercadolivre.com.br/fritadeira-sem-oleo-air-fryer-4l-mondial-1500w-afn-40-bft/p/MLB22530387",
-    "https://www.amazon.com.br/WAP-Fritadeira-El%C3%A9trica-Digital-Antiaderente/dp/B0CH5PR9G9/ref=sr_1_2",
-    "https://www.mercadolivre.com.br/azeite-de-oliva-extra-virgem-ea-500ml-1-unidade/p/MLB42314377",
-    "https://www.mercadolivre.com.br/monitor-portatil-173---pc-gamer-144hz-1080p-fhd-hdr-ips/up/MLBU3865750756",
-    "https://www.amazon.com.br/Cleanpro-Whey-450G-Sabor-Nutrify/dp/B08KQK629N/ref=sr_1_46",
-    "https://www.amazon.com.br/Yakuza-Directors-Cut-Nintendo-Switch/dp/B0F65ZBSXY/ref=sr_1_23",
-    "https://www.mercadolivre.com.br/assistente-virtual-amazon-echo-dot-de-5a-geraco-cor-preto-black/p/MLB59420607",
-    "https://www.amazon.com.br/Thunderx3-61900-Cadeira-Preta-Windows/dp/B00ELBQIKA/ref=sr_1_12",
-    "https://www.mercadolivre.com.br/tnis-casual-masculino-advantage-base-20-adidas/p/MLB38713267",
-    "https://www.amazon.com.br/Monitor-LG-UltraGear-DisplayPort-FreeSyncTM/dp/B0D8DPT7ZY/ref=sr_1_9",
-    "https://produto.mercadolivre.com.br/MLB-4002919471-capa-protetora-colcho-box-casal-padro-matelado-impermeavel-_JM",
-    "https://www.mercadolivre.com.br/chuveiro-lorenzetti-loren-shower-ultra-eletrnico-branco-7500w/p/MLB19590092",
-    "https://www.mercadolivre.com.br/combo-poderoso-shampoocondtonico-original/up/MLBU3315390582",
-    "https://www.mercadolivre.com.br/jogo-de-panelas-5-pecas-revestimento-ceramico-inducao-e-gas/up/MLBU3857789406",
-    "https://www.mercadolivre.com.br/tapete-decorativo-felpudo-200x150-sala-quarto-escritorio-cor-cinza-liso-pelo-alto-casa-laura-enxovais/p/MLB46020977",
-    "https://www.mercadolivre.com.br/mini-projetor-bettdow-ac1066-full-hd-1080p-120-android-13-wi-fi-bluetooth/p/MLB54317431",
-    "https://www.mercadolivre.com.br/lavadora-de-alta-presso-bosch-ghp-200-1700w-2000-psi-com-acessorios/p/MLB38520576",
-    "https://www.mercadolivre.com.br/lustre-led-sala-moderno-60w-3-arcos-pendente-luminaria-teto/up/MLBU3320959149",
-    "https://www.mercadolivre.com.br/smart-tv-32-philco-roku-tv-dolby-audio-hdr10-p32crb/p/MLB66055148",
-    "https://www.mercadolivre.com.br/projetor-smart-portatil-full-hd-4k-bluetooth-android-wifi/up/MLBU765509845",
-    "https://www.mercadolivre.com.br/smart-tv-philco-58-p58vik-4k-uhd-led-roku-dolby-audio-wi-fi-hdr10-110220v/p/MLB67275824",
-    "https://www.mercadolivre.com.br/celular-samsung-galaxy-a36-5g-256gb-8gb-ram-branco/p/MLB47106610",
-    "https://produto.mercadolivre.com.br/MLB-6225077892-jaqueta-masculina-puffer-bobojaco-nylon-frio-inverno-luxo-_JM",
-    "https://www.amazon.com.br/Whey-Protein-Chocolate-Parmalat-450G/dp/B09NQYX99X/ref=sr_1_41",
-    "https://www.amazon.com.br/Vitafor-Creatina-Creafort-30saches-3g/dp/B07L5TS4SH/ref=sr_1_47",
-    "https://www.amazon.com.br/New-Millen-Beta-Workout-Melancia/dp/B07RFLZJQ8/ref=sr_1_23",
-    "https://www.mercadolivre.com.br/pre-treino-carnage-uva-450g-com-creatina-dark-lab/p/MLB50746205",
-    "https://www.mercadolivre.com.br/rob-aspirador-de-po-inteligente-passa-pano-lydsto-g1-limpeza-3-em-1-compativel-xiaomi-home-app/p/MLB41918499",
-    "https://www.amazon.com.br/Apple-iPhone-Pro-Max-Recondicionado/dp/B0FTMR8BVD/ref=sr_1_40",
-    "https://www.amazon.com.br/Samsung-Galaxy-Processador-Qualcomm-Snapdragon/dp/B0FTMRT71M/ref=sr_1_21",
-    "https://www.mercadolivre.com.br/smart-tv-50--lg-4k-uhd-processador-a7-ai-ger8-4k-50ua7500psa/up/MLBU3826475876",
-    "https://www.amazon.com.br/WAP-Fritadeira-Temperatura-Revestimento-Antiaderente/dp/B0CH5MMSH5/ref=sr_1_35",
-    "https://www.mercadolivre.com.br/streaming-stick-familar-amazon-fire-tv-full-hd-com-alexa-e-controle-de-voz/p/MLB68436510",
-    "https://www.mercadolivre.com.br/vertuo-pop-pistachio-verde/p/MLB69762821",
-    "https://www.amazon.com.br/ASPIRADOR-INTELIGENTE-XIAOMI-BRANCO-XM865BRA/dp/B0F4K1H6X5/ref=sr_1_10",
-    "https://www.mercadolivre.com.br/tenis-vl-court-30-adidas/up/MLBU3894007393",
-    "ML_MLBU605239077",
-    "ML_MLBU605239077",
-    "AMAZON_B07Y3B33KG",
-    "ML_MLB65352564",
-    "ML_MLB65352564",
-    "ML_MLB46399969",
-    "ML_MLB46399969",
-    "ML_MLB46220740",
-    "ML_MLB46220740",
-    "ML_MLB28530314",
-    "ML_MLB28530314",
-    "AMAZON_B0C3WDHSJ4",
-    "AMAZON_B0FRCM6QZS",
-    "ML_MLB47115842",
-    "ML_MLB67267597",
-    "ML_MLB1837525408",
-    "ML_MLB57719621",
-    "ML_MLB19049038",
-    "ML_MLB34219371",
-    "ML_MLB19603205",
-    "ML_MLB67270079",
-    "ML_MLBU3881305329",
-    "ML_MLBU3961295990",
-    "ML_MLB4453649435",
-    "ML_MLB19542907",
-    "AMAZON_B0CJWVY67Q",
-    "ML_MLB18724648",
-    "ML_MLB66123686",
-    "ML_MLBU2927448939",
-    "ML_MLB68104527",
-    "ML_MLB22246671",
-    "AMAZON_B0FTR3T9KX",
-    "AMAZON_B0FTQZ98YD",
-    "ML_MLB61847545",
-    "ML_MLB23537280",
-    "AMAZON_B08VBXJY7P",
-    "ML_MLB53201474",
-    "ML_MLB29018262",
-    "ML_MLB4340888693",
-    "ML_MLB3670554997",
-    "ML_MLB62148588",
-    "ML_MLB1886834300",
-    "ML_MLB62511762",
-    "ML_MLB6723882632",
-    "ML_MLB5338159472",
-    "ML_MLB53222545",
-    "ML_MLB67714386",
-    "ML_MLB15911487",
-    "ML_MLB63904966",
-    "ML_MLB4007315723",
-    "ML_MLB64531693",
-    "ML_MLB47714127",
-    "ML_MLB30999973",
-    "ML_MLB19481428",
-    "ML_MLB67922755",
-    "AMAZON_B076HSRK2J",
-    "ML_MLB3597479075",
-    "AMAZON_B0GLR43HBC",
-    "ML_MLB26797988",
-    "ML_MLBU3940349724",
-    "ML_MLBU3896643809",
-    "ML_MLB32717965",
-    "ML_MLB34801962",
-    "AMAZON_B092NXNRZP",
-    "AMAZON_B0F65ZBSXY",
-    "MAGALU_FH5FA9B4J6",
-    "ML_MLBU3946202586",
-    "ML_MLB66357303",
-    "MAGALU_240949800",
-    "MAGALU_JJFCBEFB2D",
-    "MAGALU_HBJ57H8AHH",
-    "MAGALU_240145000",
-    "ML_MLB32978518",
-    "MAGALU_240428400",
-    "MAGALU_240428500",
-    "ML_MLBU3089775174",
-    "MAGALU_HJ9E4GG7JA",
-    "ML_MLB4277171251",
-    "ML_MLBU3054985330",
-    "MAGALU_HKF8719D40",
-    "ML_MLBU3892342728",
-    "ML_MLB39156440",
-    "AMAZON_B07BSRM75G",
-    "MAGALU_HA6F2DB4HJ",
-    "MAGALU_240933900",
-    "MAGALU_240087300",
-    "ML_MLB48955624",
-    "MAGALU_240465900",
-    "MAGALU_240424300",
-    "MAGALU_GF2B1D0567",
-    "https://s.shopee.com.br/gNmqSjXMC",
-    "https://s.shopee.com.br/4LH5Da5FQo",
-    "https://s.shopee.com.br/40eEoy6W6i",
-    "https://s.shopee.com.br/1863cLkDo",
-    "ML_MLB69620628",
-    "ML_MLB35961672",
-    "https://s.shopee.com.br/gNmqqJCs0",
-    "https://s.shopee.com.br/qhD39IZX3",
-    "https://s.shopee.com.br/W4MeXJqCx",
-    "https://s.shopee.com.br/4qDLoV3LPx",
-    "https://s.shopee.com.br/2VpR2DCE9H",
-    "ML_MLBU3392665458",
-    "ML_MLB58353028",
-    "ML_MLB52170796",
-    "AMAZON_B08CNG76SS",
-    "AMAZON_B08YZB3Z2V",
-    "AMAZON_B09QJF6DVY",
-    "AMAZON_B0C4QPGK3L",
-    "https://s.shopee.com.br/9UzCXbLqgu",
-    "AMAZON_B079VQDGCF",
-    "https://s.shopee.com.br/60PKMN9rxF",
-    "AMAZON_B07L5TS4SH",
-    "AMAZON_B07ZTPWJVY",
-    "https://s.shopee.com.br/4ftwmkZ2e5",
-    "https://s.shopee.com.br/2g8sP6fqaw",
-    "ML_MLBU3432966599",
-    "ML_MLB61994338",
-    "ML_MLB8729164",
-    "ML_MLB4286959269",
-    "AMAZON_B0BS4BY6VG",
-    "https://s.shopee.com.br/LkxpQ35Y0",
-    "ML_MLB5980219652",
-    "ML_MLB18932156",
-    "ML_MLB25263382",
-    "ML_MLB3756911067",
-    "https://s.shopee.com.br/9UzCXijUKM",
-    "ML_MLBU3989945084",
-    "ML_MLB18709030",
-    "https://s.shopee.com.br/7fXYLcCHQH",
-    "ML_MLB3239976866",
-    "https://s.shopee.com.br/4AxgBEptLp",
-    "ML_MLB37044452",
-    "https://s.shopee.com.br/3qKpmxPykJ",
-    "ML_MLB46056259",
-    "https://s.shopee.com.br/3VhzhGsz9X",
-    "https://s.shopee.com.br/30lj6LutAS",
-    "ML_MLB4004879205",
-    "AMAZON_B0FJPL1MGY",
-    "https://s.shopee.com.br/3qKq5sriTZ",
-    "ML_MLBU3791631254",
-    "ML_MLB69175240",
-    "ML_MLBU3840896018",
-    "https://s.shopee.com.br/3g1PtZsLoW",
-    "https://s.shopee.com.br/1qZliCzKX7",
-    "ML_MLB50156107",
-    "ML_MLB4049279695",
-    "ML_MLBU3668109961",
-    "https://s.shopee.com.br/2qSIu2vWVT",
-    "ML_MLB66383101",
-    "https://s.shopee.com.br/1BK5066yah",
-    "https://s.shopee.com.br/gNoPB8sbY",
-    "https://s.shopee.com.br/BRXoGAmcX",
-    "https://s.shopee.com.br/W4OCs9Vwd",
-    "https://s.shopee.com.br/9Kfmj6bt1B",
-    "https://s.shopee.com.br/9fId7iacLH",
-    "https://s.shopee.com.br/2VpSaY1tt5",
-    "https://s.shopee.com.br/2LW2OF2XE2",
-    "ML_MLB5908228586",
-    "https://s.shopee.com.br/9pc3K1Zz0I",
-    "https://s.shopee.com.br/20tBzd3ntw",
-    "https://s.shopee.com.br/qhEbU8FGb",
-    "ML_MLB47109375",
-    "ML_MLB68045631",
-    "AMAZON_B0CP6CYZ34",
-    "ML_MLBU3508869700",
-    "ML_MLB50181290",
-    "AMAZON_B0F3R2CC4V",
-    "https://s.shopee.com.br/3LOZmRNgPG",
-    "MAGALU_240354400",
-    "https://s.shopee.com.br/5AqExfpG1y",
-    "ML_MLB66597831",
-    "https://s.shopee.com.br/6pySyEl9Ha",
-    "https://s.shopee.com.br/7pr0A4hLFg",
-    "ML_MLB15561585",
-    "ML_MLBU777596893",
-    "https://s.shopee.com.br/5fmVa5paeD",
-    "https://s.shopee.com.br/5VT5NmqDzC",
-    "ML_MLB6297586954",
-    "https://s.shopee.com.br/9AMNkWcGY4",
-    "ML_MLB38661148",
-    "ML_MLB5265791338",
-    "MAGALU_DEF4EJHC50",
-    "MAGALU_240552300",
-    "ML_MLB61669343",
-    "ML_MLBU3628991905",
-    "https://s.shopee.com.br/7VE9wGkgDF",
-    "https://s.shopee.com.br/9AMNvKeKpj",
-    "ML_MLB5547123710",
-    "ML_MLB4100934467",
-    "https://s.shopee.com.br/7fXa8Zk2sI",
-    "https://s.shopee.com.br/7KujjxlJYC",
-    "ML_MLB4228693817",
-    "https://s.shopee.com.br/8KnGvnhVWU",
-    "ML_MLB23181844",
-    "ML_MLB70298066",
-    "https://s.shopee.com.br/9UzEJwd49p",
-    "https://s.shopee.com.br/70HtLLmaE6",
-    "https://s.shopee.com.br/80AQXBimCO",
-    "ML_MLB63036814",
-    "ML_MLB50232347",
-    "AMAZON_B09NQYX99X",
-    "https://s.shopee.com.br/8V6hc0aPG7",
-    "https://s.shopee.com.br/8KnHPl1Bp7",
-    "https://s.shopee.com.br/80AR11ZWev",
-    "AMAZON_B0F2JMYPQ9",
-    "https://s.shopee.com.br/5L9fqHAq9F",
-    "AMAZON_B07K8WF98V",
-    "https://s.shopee.com.br/6L2D1bTrKB",
-    "https://s.shopee.com.br/AAEvaugtuR",
-    "AMAZON_B07FMD7WC4",
-    "AMAZON_B0BH9GN5T7",
-    "AMAZON_B0CKKN7GLT",
-    "AMAZON_B0CVCF2J9Q",
-    "AMAZON_B0CH5PRZH9",
-    "MAGALU_JB9EHK9A99",
-    "https://s.shopee.com.br/9zvWYFReGl",
-    "https://s.shopee.com.br/8KnIZBXzeT",
-    "https://s.shopee.com.br/9Kfpl1UBcZ",
-    "https://s.shopee.com.br/9AMPYiUoxg",
-    "https://s.shopee.com.br/AAEwkYR0vm",
-    "https://s.shopee.com.br/8fQ8xnWiyd",
-    "https://s.shopee.com.br/8pjZA6W5de",
-    "https://s.shopee.com.br/AKYMwrQNan",
-    "https://s.shopee.com.br/AUrn9APkFo",
-    "https://s.shopee.com.br/8V6ilUXMJU",
-    "https://s.shopee.com.br/80ASAZZGKR",
-    "ML_MLBU3478875257",
-    "ML_MLB54986607",
-    "MAGALU_JHK586G7A3",
-    "ML_MLB58927765"
+    {
+        "id": "ML_MLBU3882664762",
+        "link_bruto": "https://www.mercadolivre.com.br/notebook-gamer-lenovo--loq-ci5-rtx3050-512gb-16gb-w11-ubook/up/MLBU3882664762",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3039321626",
+        "link_bruto": "https://www.mercadolivre.com.br/ssd-wd-green-480gb-interno-sata-3-western-digital-wds480g3g0a-480gb-preto-p-computador-e-notebook/up/MLBU3039321626",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB15121865",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-pc-lg-195-20mk400h-b-led-hd-hdmi-vga-d-sub-75hz-2msgtg-ajuste-de-inclinaco-reader-mode/p/MLB15121865",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB41975964",
+        "link_bruto": "https://www.mercadolivre.com.br/console-playstation-5-pro-2tb-branco-sony-100v240v/p/MLB41975964",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB40199765",
+        "link_bruto": "https://www.mercadolivre.com.br/console-nintendo-switch-lite-32gb-azul-turquesa-standard-tela-55-cor-azul-turquesa/p/MLB40199765",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB22778772",
+        "link_bruto": "https://www.mercadolivre.com.br/controle-para-xbox-360-com-fio-usb-e-pc-preto-vibraco-console-joystick-manete-gamepass-steam-tv-pc-android-pc-controle-pc-gamer-redfin/p/MLB22778772",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3645157173",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-masculino-supernova-ease-2-adidas/up/MLBU3645157173",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4558830608",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4558830608-camiseta-reserva-masculina-listrado-nice-azul-marinho-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB6104856",
+        "link_bruto": "https://www.mercadolivre.com.br/creatina-max-titanium-monohidratada-em-po-pote-300g-creatina-po-sem-sabor/p/MLB6104856",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB52936719",
+        "link_bruto": "https://www.mercadolivre.com.br/creatina-sabor-morango-350g-integralmedica/p/MLB52936719",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB20552039",
+        "link_bruto": "https://www.mercadolivre.com.br/fritadeira-sem-oleo-air-fryer-35l-mondial-1500w-af-31/p/MLB20552039",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB44389497",
+        "link_bruto": "https://www.mercadolivre.com.br/nescafe-dolce-gusto-arno-genio-s-basic-branca-dgs1-cor-branco/p/MLB44389497",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB41863403",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-pc-gamer-lg-27-ips-full-hd-100hz-hdmi-27ms500-b-bivolt/p/MLB41863403",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB26989230",
+        "link_bruto": "https://www.mercadolivre.com.br/creatina-600g-suplemento-monohidratada-em-po-100-pura-soldiers-nutrition/p/MLB26989230",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB26796581",
+        "link_bruto": "https://www.mercadolivre.com.br/creatina-monohidratada-pura-500g-dark-lab-unidade/p/MLB26796581",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB42835779",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-2-cmera-wifi-externa-a28-app-icsee-dupla-viso-3mp-prova-dagua-cor-branco/p/MLB42835779",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB22663071",
+        "link_bruto": "https://www.mercadolivre.com.br/panela-de-presso-brinox-pressure-42l-20-x-145-cm-vanilla-baunilha/p/MLB22663071",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54961556",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a07-256gb-8gb-cmera-50mp-tela-67-proteco-ip54-processador-6nm-preto/p/MLB54961556",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3454994034",
+        "link_bruto": "https://www.mercadolivre.com.br/mochila-dos-homens-com-faixa-impermeavel-para-expansao/up/MLBU3454994034",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB18725310",
+        "link_bruto": "https://www.mercadolivre.com.br/creatina-1kg-suplemento-monohidratada-em-po-100-pura-soldiers-nutrition/p/MLB18725310",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB68838381",
+        "link_bruto": "https://www.mercadolivre.com.br/balanca-bioimpedancia-digital-180kg-smart-imc-profissional-rishon-com-aplicativo/p/MLB68838381",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4888435024",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4888435024-kit-4-cuecas-lupo-boxer-poliamida-box-sem-costura-original-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB25929487",
+        "link_bruto": "https://www.mercadolivre.com.br/creatina-monohidratada-pura-1kg-dark-lab-unidade-sem-sabor/p/MLB25929487",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F4Y2VR8S",
+        "link_bruto": "https://www.amazon.com.br/SANDISK-Unidade-estado-s%C3%B3lido-interna/dp/B0F4Y2VR8S/ref=sr_1_45",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3873340481",
+        "link_bruto": "https://www.mercadolivre.com.br/lenovo-ideapad-d330-toque-intel-n4000-4g-64g-101-1280800px/up/MLBU3873340481",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BH59HP23",
+        "link_bruto": "https://www.amazon.com.br/God-War-Ragnar%C3%B6k-Standard-PlayStation/dp/B0BH59HP23/ref=sr_1_48",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C7D72S7Z",
+        "link_bruto": "https://www.amazon.com.br/Cafeteira-Espresso-Oster-PrimaLatte-BVSTEM6801R/dp/B0C7D72S7Z/ref=sr_1_13",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CXVGDFWS",
+        "link_bruto": "https://www.amazon.com.br/Monitor-BRX-MBRX201BK-Slim-HDMI/dp/B0CXVGDFWS/ref=sr_1_56",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54963045",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a07-256gb-8gb-cmera-50mp-verde/p/MLB54963045",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB55027309",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-5g-com-ia-128gb-4gb-ram-cm-de-50mp-tela-de-67-nfc-ip54-preto/p/MLB55027309",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4359093019",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4359093019-tnis-masculino-casual-aramis-daily-slip-confortavel-moderno-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19506691",
+        "link_bruto": "https://www.mercadolivre.com.br/creatina-monohidratada-em-pote-300g-100-pura-dark-lab/p/MLB19506691",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3978883539",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3978883539-kit3-short-futebol-bermuda-masculina-academia-treino-esporte-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4321895847",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4321895847-powerbank-20000mah-carregador-225w-pd-portatil-carga-rapida-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54987753",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-com-ia-128gb-4gb-ram-cm-de-50mp-tela-de-67-nfc-ip54-preto/p/MLB54987753",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB18308913",
+        "link_bruto": "https://www.mercadolivre.com.br/nestle-moca-leite-condensado-integral-lata-395gr/p/MLB18308913",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB15084496",
+        "link_bruto": "https://www.mercadolivre.com.br/impressora-hp-laser-107a-monocromatica-porta-usb-20-de-alta-velocidade-110-a-127-vca/p/MLB15084496",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3228796835",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-gamer-portatil-156-1080p-fhd-ips-com-hdmi-usb/up/MLBU3228796835",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19451614",
+        "link_bruto": "https://www.mercadolivre.com.br/hipercalorico-dark-mass-3kg-dark-lab-sabor-baunilha/p/MLB19451614",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4466276267",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4466276267-mochila-viagem-feminina-masculina-para-notebook-executiva-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB30144703",
+        "link_bruto": "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-the-black-tools-profissional-tb-21px-2-baterias-com-maleta-60hz-amarelo/p/MLB30144703",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB2794030545",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-2794030545-kit-6-cuecas-boxer-lupo-poliamida-sem-costura-box-original-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB58684606",
+        "link_bruto": "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-neo-5g-256gb-24gb-12gb-ram-12gb-ram-boost-50mp-sony-camera-moto-ai-e-tela-15k-super-hd-latte/p/MLB58684606",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU2352281224",
+        "link_bruto": "https://www.mercadolivre.com.br/1200nm-chave-de-impacto-3-em-1--2-bateria-sem-fio-dobevi/up/MLBU2352281224",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB33997846",
+        "link_bruto": "https://www.mercadolivre.com.br/controle-joystick-sem-fio-sony-playstation-dualsense-branco/p/MLB33997846",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB55521828",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-5g-com-ia-128gb-4gb-ram-cm-de-50mp-tela-de-67-nfc-ip54-cinza/p/MLB55521828",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5408593708",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5408593708-tnis-casual-kappa-zenit-masculino-unissex-conforto-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB43009568",
+        "link_bruto": "https://www.mercadolivre.com.br/jogo-toalhas-de-algodo-4-pecas-banho-e-rosto-bege-marrom-karsten/p/MLB43009568",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4085597457",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4085597457-camiseta-light-t-shirt-insider-masculino-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5166969060",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5166969060-kit-de-10-cuecas-boxer-mash-algodo-box-confortavel-original-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4995928434",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4995928434-kit2-calca-moletom-masculina-academia-corrida-chimpa-esporte-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3403280878",
+        "link_bruto": "https://www.mercadolivre.com.br/camera-seguranca-ip-externa-wifi-a28-app-icsee-a-prova-dagua/up/MLBU3403280878",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB42978348",
+        "link_bruto": "https://www.mercadolivre.com.br/bicicleta-ergometrica-fitness-para-cardio-e-musculaco-com-base-cor-preto-e-vermelho-6kg-inercia-marca-sevenfit/p/MLB42978348",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4118819755",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4118819755-sobretudo-feminino-elegante-casual-parka-peaky-blinders-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63040715",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-43-philco-p43vik-roku-led-dolby-audio-wi-fi-hdmi-hdr-full-hd-110220v/p/MLB63040715",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3983007468",
+        "link_bruto": "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-21v--maleta-jogo-145-pcs/up/MLBU3983007468",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3558833250",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3558833250-kit-3-pares-meias-puma-cano-alto-longo-confortavel-original-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU726966529",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-wella-professionals-oil-reflections-duo-2-produtos/up/MLBU726966529",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB58684601",
+        "link_bruto": "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-neo-5g-256gb-24gb-12gb-ram-12gb-ram-boost-50mp-sony-camera-moto-ai-e-tela-15k-super-hd-cinza/p/MLB58684601",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB2147554247",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-2147554247-tnis-lacoste-t-base-lancamento-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3676440389",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3676440389-polo-masculina-lacoste-slim-fit-original-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB21961481",
+        "link_bruto": "https://www.mercadolivre.com.br/suplemento-alimentar-omegafor-plus-epa-e-dha-240-capsulas-vitafor/p/MLB21961481",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB22456050",
+        "link_bruto": "https://www.mercadolivre.com.br/essencial-intenso-deo-parfum-natura-masculino-100-ml/p/MLB22456050",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB23409605",
+        "link_bruto": "https://www.mercadolivre.com.br/cmera-de-video-wi-fi-intelbras-im3-c-microsd-32gb-branco/p/MLB23409605",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CH5PR9G9",
+        "link_bruto": "https://www.amazon.com.br/WAP-Fritadeira-El%C3%A9trica-Digital-Antiaderente/dp/B0CH5PR9G9/ref=sr_1_3",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F65ZBSXY",
+        "link_bruto": "https://www.amazon.com.br/Yakuza-Directors-Cut-Nintendo-Switch/dp/B0F65ZBSXY/ref=sr_1_29",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F84PXR9V",
+        "link_bruto": "https://www.amazon.com.br/Notebook-ASUS-Vivobook-KeepOS-Silver/dp/B0F84PXR9V/ref=sr_1_28",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08ZGL2CKR",
+        "link_bruto": "https://www.amazon.com.br/Suporte-Echo-Gera%C3%A7%C3%A3o-WB-Branco/dp/B08ZGL2CKR/ref=sr_1_16",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B00ELBQIKA",
+        "link_bruto": "https://www.amazon.com.br/Thunderx3-61900-Cadeira-Preta-Windows/dp/B00ELBQIKA/ref=sr_1_14",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09JH4PD8Q",
+        "link_bruto": "https://www.amazon.com.br/Base-Carregamento-Do-Dualsense-PlayStation/dp/B09JH4PD8Q/ref=sr_1_47",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DB6DF87Y",
+        "link_bruto": "https://www.amazon.com.br/LG-UltraGear-27GS60F-B-FreeSyncTM-DisplayPort/dp/B0DB6DF87Y/ref=sr_1_13",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CJTY5SQP",
+        "link_bruto": "https://www.amazon.com.br/T%C3%AAnis-Adidas-Court-Preto-Branco/dp/B0CJTY5SQP/ref=sr_1_1",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07FYNMF8B",
+        "link_bruto": "https://www.amazon.com.br/Azeite-Andorinha-Spray-Extra-Virgem/dp/B07FYNMF8B/ref=sr_1_18",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19140417",
+        "link_bruto": "https://www.mercadolivre.com.br/whey-isolate-protein-fuse-18kg-baunilha-dark-lab/p/MLB19140417",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB16097953",
+        "link_bruto": "https://www.mercadolivre.com.br/cadeira-ergonmica-gamer-e-para-escritorio-thunderx3-yama1-preta-com-tela-mesh/p/MLB16097953",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB22530387",
+        "link_bruto": "https://www.mercadolivre.com.br/fritadeira-sem-oleo-air-fryer-4l-mondial-1500w-afn-40-bft/p/MLB22530387",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CH5PR9G9",
+        "link_bruto": "https://www.amazon.com.br/WAP-Fritadeira-El%C3%A9trica-Digital-Antiaderente/dp/B0CH5PR9G9/ref=sr_1_2",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB42314377",
+        "link_bruto": "https://www.mercadolivre.com.br/azeite-de-oliva-extra-virgem-ea-500ml-1-unidade/p/MLB42314377",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3865750756",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-portatil-173---pc-gamer-144hz-1080p-fhd-hdr-ips/up/MLBU3865750756",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08KQK629N",
+        "link_bruto": "https://www.amazon.com.br/Cleanpro-Whey-450G-Sabor-Nutrify/dp/B08KQK629N/ref=sr_1_46",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F65ZBSXY",
+        "link_bruto": "https://www.amazon.com.br/Yakuza-Directors-Cut-Nintendo-Switch/dp/B0F65ZBSXY/ref=sr_1_23",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB59420607",
+        "link_bruto": "https://www.mercadolivre.com.br/assistente-virtual-amazon-echo-dot-de-5a-geraco-cor-preto-black/p/MLB59420607",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B00ELBQIKA",
+        "link_bruto": "https://www.amazon.com.br/Thunderx3-61900-Cadeira-Preta-Windows/dp/B00ELBQIKA/ref=sr_1_12",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB38713267",
+        "link_bruto": "https://www.mercadolivre.com.br/tnis-casual-masculino-advantage-base-20-adidas/p/MLB38713267",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D8DPT7ZY",
+        "link_bruto": "https://www.amazon.com.br/Monitor-LG-UltraGear-DisplayPort-FreeSyncTM/dp/B0D8DPT7ZY/ref=sr_1_9",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4002919471",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4002919471-capa-protetora-colcho-box-casal-padro-matelado-impermeavel-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19590092",
+        "link_bruto": "https://www.mercadolivre.com.br/chuveiro-lorenzetti-loren-shower-ultra-eletrnico-branco-7500w/p/MLB19590092",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3315390582",
+        "link_bruto": "https://www.mercadolivre.com.br/combo-poderoso-shampoocondtonico-original/up/MLBU3315390582",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3857789406",
+        "link_bruto": "https://www.mercadolivre.com.br/jogo-de-panelas-5-pecas-revestimento-ceramico-inducao-e-gas/up/MLBU3857789406",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB46020977",
+        "link_bruto": "https://www.mercadolivre.com.br/tapete-decorativo-felpudo-200x150-sala-quarto-escritorio-cor-cinza-liso-pelo-alto-casa-laura-enxovais/p/MLB46020977",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54317431",
+        "link_bruto": "https://www.mercadolivre.com.br/mini-projetor-bettdow-ac1066-full-hd-1080p-120-android-13-wi-fi-bluetooth/p/MLB54317431",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB38520576",
+        "link_bruto": "https://www.mercadolivre.com.br/lavadora-de-alta-presso-bosch-ghp-200-1700w-2000-psi-com-acessorios/p/MLB38520576",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3320959149",
+        "link_bruto": "https://www.mercadolivre.com.br/lustre-led-sala-moderno-60w-3-arcos-pendente-luminaria-teto/up/MLBU3320959149",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66055148",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-32-philco-roku-tv-dolby-audio-hdr10-p32crb/p/MLB66055148",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU765509845",
+        "link_bruto": "https://www.mercadolivre.com.br/projetor-smart-portatil-full-hd-4k-bluetooth-android-wifi/up/MLBU765509845",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB67275824",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-philco-58-p58vik-4k-uhd-led-roku-dolby-audio-wi-fi-hdr10-110220v/p/MLB67275824",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB47106610",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a36-5g-256gb-8gb-ram-branco/p/MLB47106610",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB6225077892",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-6225077892-jaqueta-masculina-puffer-bobojaco-nylon-frio-inverno-luxo-_JM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09NQYX99X",
+        "link_bruto": "https://www.amazon.com.br/Whey-Protein-Chocolate-Parmalat-450G/dp/B09NQYX99X/ref=sr_1_41",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07L5TS4SH",
+        "link_bruto": "https://www.amazon.com.br/Vitafor-Creatina-Creafort-30saches-3g/dp/B07L5TS4SH/ref=sr_1_47",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07RFLZJQ8",
+        "link_bruto": "https://www.amazon.com.br/New-Millen-Beta-Workout-Melancia/dp/B07RFLZJQ8/ref=sr_1_23",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50746205",
+        "link_bruto": "https://www.mercadolivre.com.br/pre-treino-carnage-uva-450g-com-creatina-dark-lab/p/MLB50746205",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB41918499",
+        "link_bruto": "https://www.mercadolivre.com.br/rob-aspirador-de-po-inteligente-passa-pano-lydsto-g1-limpeza-3-em-1-compativel-xiaomi-home-app/p/MLB41918499",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FTMR8BVD",
+        "link_bruto": "https://www.amazon.com.br/Apple-iPhone-Pro-Max-Recondicionado/dp/B0FTMR8BVD/ref=sr_1_40",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FTMRT71M",
+        "link_bruto": "https://www.amazon.com.br/Samsung-Galaxy-Processador-Qualcomm-Snapdragon/dp/B0FTMRT71M/ref=sr_1_21",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3826475876",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-50--lg-4k-uhd-processador-a7-ai-ger8-4k-50ua7500psa/up/MLBU3826475876",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CH5MMSH5",
+        "link_bruto": "https://www.amazon.com.br/WAP-Fritadeira-Temperatura-Revestimento-Antiaderente/dp/B0CH5MMSH5/ref=sr_1_35",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB68436510",
+        "link_bruto": "https://www.mercadolivre.com.br/streaming-stick-familar-amazon-fire-tv-full-hd-com-alexa-e-controle-de-voz/p/MLB68436510",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB69762821",
+        "link_bruto": "https://www.mercadolivre.com.br/vertuo-pop-pistachio-verde/p/MLB69762821",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F4K1H6X5",
+        "link_bruto": "https://www.amazon.com.br/ASPIRADOR-INTELIGENTE-XIAOMI-BRANCO-XM865BRA/dp/B0F4K1H6X5/ref=sr_1_10",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3894007393",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-vl-court-30-adidas/up/MLBU3894007393",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU605239077",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU605239077",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07Y3B33KG",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB65352564",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB65352564",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB46399969",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB46399969",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB46220740",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB46220740",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB28530314",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB28530314",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C3WDHSJ4",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FRCM6QZS",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB47115842",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB67267597",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB1837525408",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB57719621",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19049038",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB34219371",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19603205",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB67270079",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3881305329",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3961295990",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4453649435",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19542907",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CJWVY67Q",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB18724648",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66123686",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU2927448939",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB68104527",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB22246671",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FTR3T9KX",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FTQZ98YD",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB61847545",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB23537280",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08VBXJY7P",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB53201474",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB29018262",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4340888693",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3670554997",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB62148588",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB1886834300",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB62511762",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB6723882632",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5338159472",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB53222545",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB67714386",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB15911487",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63904966",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4007315723",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB64531693",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB47714127",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB30999973",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19481428",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB67922755",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B076HSRK2J",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3597479075",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GLR43HBC",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB26797988",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3940349724",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3896643809",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB32717965",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB34801962",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B092NXNRZP",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F65ZBSXY",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_FH5FA9B4J6",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3946202586",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66357303",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240949800",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JJFCBEFB2D",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HBJ57H8AHH",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240145000",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB32978518",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240428400",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240428500",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3089775174",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HJ9E4GG7JA",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4277171251",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3054985330",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HKF8719D40",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3892342728",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB39156440",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07BSRM75G",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HA6F2DB4HJ",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240933900",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240087300",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB48955624",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240465900",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240424300",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_GF2B1D0567",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/gNmqSjXMC",
+        "link_bruto": "https://s.shopee.com.br/gNmqSjXMC",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/4LH5Da5FQo",
+        "link_bruto": "https://s.shopee.com.br/4LH5Da5FQo",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/40eEoy6W6i",
+        "link_bruto": "https://s.shopee.com.br/40eEoy6W6i",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/1863cLkDo",
+        "link_bruto": "https://s.shopee.com.br/1863cLkDo",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB69620628",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB35961672",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/gNmqqJCs0",
+        "link_bruto": "https://s.shopee.com.br/gNmqqJCs0",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/qhD39IZX3",
+        "link_bruto": "https://s.shopee.com.br/qhD39IZX3",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/W4MeXJqCx",
+        "link_bruto": "https://s.shopee.com.br/W4MeXJqCx",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/4qDLoV3LPx",
+        "link_bruto": "https://s.shopee.com.br/4qDLoV3LPx",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/2VpR2DCE9H",
+        "link_bruto": "https://s.shopee.com.br/2VpR2DCE9H",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3392665458",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB58353028",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB52170796",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08CNG76SS",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08YZB3Z2V",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09QJF6DVY",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C4QPGK3L",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/9UzCXbLqgu",
+        "link_bruto": "https://s.shopee.com.br/9UzCXbLqgu",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B079VQDGCF",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/60PKMN9rxF",
+        "link_bruto": "https://s.shopee.com.br/60PKMN9rxF",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07L5TS4SH",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07ZTPWJVY",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/4ftwmkZ2e5",
+        "link_bruto": "https://s.shopee.com.br/4ftwmkZ2e5",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/2g8sP6fqaw",
+        "link_bruto": "https://s.shopee.com.br/2g8sP6fqaw",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3432966599",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB61994338",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB8729164",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4286959269",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BS4BY6VG",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/LkxpQ35Y0",
+        "link_bruto": "https://s.shopee.com.br/LkxpQ35Y0",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5980219652",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB18932156",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB25263382",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3756911067",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/9UzCXijUKM",
+        "link_bruto": "https://s.shopee.com.br/9UzCXijUKM",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3989945084",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB18709030",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/7fXYLcCHQH",
+        "link_bruto": "https://s.shopee.com.br/7fXYLcCHQH",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3239976866",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/4AxgBEptLp",
+        "link_bruto": "https://s.shopee.com.br/4AxgBEptLp",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB37044452",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/3qKpmxPykJ",
+        "link_bruto": "https://s.shopee.com.br/3qKpmxPykJ",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB46056259",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/3VhzhGsz9X",
+        "link_bruto": "https://s.shopee.com.br/3VhzhGsz9X",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/30lj6LutAS",
+        "link_bruto": "https://s.shopee.com.br/30lj6LutAS",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4004879205",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FJPL1MGY",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/3qKq5sriTZ",
+        "link_bruto": "https://s.shopee.com.br/3qKq5sriTZ",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3791631254",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB69175240",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3840896018",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/3g1PtZsLoW",
+        "link_bruto": "https://s.shopee.com.br/3g1PtZsLoW",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/1qZliCzKX7",
+        "link_bruto": "https://s.shopee.com.br/1qZliCzKX7",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50156107",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4049279695",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3668109961",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/2qSIu2vWVT",
+        "link_bruto": "https://s.shopee.com.br/2qSIu2vWVT",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66383101",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/1BK5066yah",
+        "link_bruto": "https://s.shopee.com.br/1BK5066yah",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/gNoPB8sbY",
+        "link_bruto": "https://s.shopee.com.br/gNoPB8sbY",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/BRXoGAmcX",
+        "link_bruto": "https://s.shopee.com.br/BRXoGAmcX",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/W4OCs9Vwd",
+        "link_bruto": "https://s.shopee.com.br/W4OCs9Vwd",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/9Kfmj6bt1B",
+        "link_bruto": "https://s.shopee.com.br/9Kfmj6bt1B",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/9fId7iacLH",
+        "link_bruto": "https://s.shopee.com.br/9fId7iacLH",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/2VpSaY1tt5",
+        "link_bruto": "https://s.shopee.com.br/2VpSaY1tt5",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/2LW2OF2XE2",
+        "link_bruto": "https://s.shopee.com.br/2LW2OF2XE2",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5908228586",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/9pc3K1Zz0I",
+        "link_bruto": "https://s.shopee.com.br/9pc3K1Zz0I",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/20tBzd3ntw",
+        "link_bruto": "https://s.shopee.com.br/20tBzd3ntw",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/qhEbU8FGb",
+        "link_bruto": "https://s.shopee.com.br/qhEbU8FGb",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB47109375",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB68045631",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CP6CYZ34",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3508869700",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50181290",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F3R2CC4V",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/3LOZmRNgPG",
+        "link_bruto": "https://s.shopee.com.br/3LOZmRNgPG",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240354400",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/5AqExfpG1y",
+        "link_bruto": "https://s.shopee.com.br/5AqExfpG1y",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66597831",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/6pySyEl9Ha",
+        "link_bruto": "https://s.shopee.com.br/6pySyEl9Ha",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/7pr0A4hLFg",
+        "link_bruto": "https://s.shopee.com.br/7pr0A4hLFg",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB15561585",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU777596893",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/5fmVa5paeD",
+        "link_bruto": "https://s.shopee.com.br/5fmVa5paeD",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/5VT5NmqDzC",
+        "link_bruto": "https://s.shopee.com.br/5VT5NmqDzC",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB6297586954",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/9AMNkWcGY4",
+        "link_bruto": "https://s.shopee.com.br/9AMNkWcGY4",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB38661148",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5265791338",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_DEF4EJHC50",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240552300",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB61669343",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3628991905",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/7VE9wGkgDF",
+        "link_bruto": "https://s.shopee.com.br/7VE9wGkgDF",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/9AMNvKeKpj",
+        "link_bruto": "https://s.shopee.com.br/9AMNvKeKpj",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5547123710",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4100934467",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/7fXa8Zk2sI",
+        "link_bruto": "https://s.shopee.com.br/7fXa8Zk2sI",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/7KujjxlJYC",
+        "link_bruto": "https://s.shopee.com.br/7KujjxlJYC",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4228693817",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/8KnGvnhVWU",
+        "link_bruto": "https://s.shopee.com.br/8KnGvnhVWU",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB23181844",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB70298066",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/9UzEJwd49p",
+        "link_bruto": "https://s.shopee.com.br/9UzEJwd49p",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/70HtLLmaE6",
+        "link_bruto": "https://s.shopee.com.br/70HtLLmaE6",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/80AQXBimCO",
+        "link_bruto": "https://s.shopee.com.br/80AQXBimCO",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63036814",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50232347",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09NQYX99X",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/8V6hc0aPG7",
+        "link_bruto": "https://s.shopee.com.br/8V6hc0aPG7",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/8KnHPl1Bp7",
+        "link_bruto": "https://s.shopee.com.br/8KnHPl1Bp7",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/80AR11ZWev",
+        "link_bruto": "https://s.shopee.com.br/80AR11ZWev",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F2JMYPQ9",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/5L9fqHAq9F",
+        "link_bruto": "https://s.shopee.com.br/5L9fqHAq9F",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07K8WF98V",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/6L2D1bTrKB",
+        "link_bruto": "https://s.shopee.com.br/6L2D1bTrKB",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/AAEvaugtuR",
+        "link_bruto": "https://s.shopee.com.br/AAEvaugtuR",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07FMD7WC4",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BH9GN5T7",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CKKN7GLT",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CVCF2J9Q",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CH5PRZH9",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JB9EHK9A99",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/9zvWYFReGl",
+        "link_bruto": "https://s.shopee.com.br/9zvWYFReGl",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/8KnIZBXzeT",
+        "link_bruto": "https://s.shopee.com.br/8KnIZBXzeT",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/9Kfpl1UBcZ",
+        "link_bruto": "https://s.shopee.com.br/9Kfpl1UBcZ",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/9AMPYiUoxg",
+        "link_bruto": "https://s.shopee.com.br/9AMPYiUoxg",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/AAEwkYR0vm",
+        "link_bruto": "https://s.shopee.com.br/AAEwkYR0vm",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/8fQ8xnWiyd",
+        "link_bruto": "https://s.shopee.com.br/8fQ8xnWiyd",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/8pjZA6W5de",
+        "link_bruto": "https://s.shopee.com.br/8pjZA6W5de",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/AKYMwrQNan",
+        "link_bruto": "https://s.shopee.com.br/AKYMwrQNan",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/AUrn9APkFo",
+        "link_bruto": "https://s.shopee.com.br/AUrn9APkFo",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/8V6ilUXMJU",
+        "link_bruto": "https://s.shopee.com.br/8V6ilUXMJU",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/80ASAZZGKR",
+        "link_bruto": "https://s.shopee.com.br/80ASAZZGKR",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3478875257",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54986607",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JHK586G7A3",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB58927765",
+        "link_bruto": "",
+        "titulo": "",
+        "preco": 0.0,
+        "timestamp": 1781971039.9162192,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/8KnIkEqCxF",
+        "link_bruto": "https://s.shopee.com.br/8KnIkEqCxF",
+        "titulo": "Máscara Facial/Loção Facial/Máscara Facial/Tônico Facial Farmacy Ceramide Hidratante Facial - Hidratante Facial Ultra Hi",
+        "preco": 165.43,
+        "timestamp": 1781981182.6547625,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/W4O1j2SD3",
+        "link_bruto": "https://s.shopee.com.br/W4O1j2SD3",
+        "titulo": "Talvez a Máscara Capilar Paris Bond Gloss, Máscara Capilar Natural de Reparação Profunda, Máscara Capilar Anti-Frizz, Má",
+        "preco": 80.21,
+        "timestamp": 1781981214.8897634,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_230472700",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/processador-intel-i5-10600k-4-10ghz-4-8ghz-turbo-12mb/p/230472700/in/prsd/?seller_id=magazineluiza",
+        "titulo": "Processador Intel i5-10600K 4.10GHz - 4.8Ghz Turbo 12MB",
+        "preco": 659.28,
+        "timestamp": 1781981252.802838,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/1gGOnA5OHx",
+        "link_bruto": "https://s.shopee.com.br/1gGOnA5OHx",
+        "titulo": "Cadeira gamer/cadeira de escritório/cadeira de estudo/cadeira ergonômica/cadeira gamer/cadeira de estudo-F19",
+        "preco": 489.99,
+        "timestamp": 1781981286.8436499,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_238850100",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/caixa-de-som-amplificada-bluetooth-vibe-sound-v12-power-800w-usb-com-microfone/p/238850100/ea/easm/?seller_id=magazineluiza",
+        "titulo": "Caixa de Som Amplificada Bluetooth Vibe Sound V12 Power 800W USB com Microfone",
+        "preco": 539.1,
+        "timestamp": 1781981336.2860596,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C6NQVRKG",
+        "link_bruto": "https://www.amazon.com.br/Copo-T%C3%A9rmico-com-Canudo-Streeterville/dp/B0C6NQVRKG/ref=sr_1_44",
+        "titulo": "Copo Térmico com Canudo Streeterville 1,18L - Coral",
+        "preco": 109.0,
+        "timestamp": 1781981378.1625166,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CVCLGV1W",
+        "link_bruto": "https://www.amazon.com.br/Smartwatch-Samsung-Galaxy-Display-Grafite/dp/B0CVCLGV1W/ref=sr_1_5",
+        "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
+        "preco": 218.99,
+        "timestamp": 1781981407.9999652,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/4ftz2qsn0s",
+        "link_bruto": "https://s.shopee.com.br/4ftz2qsn0s",
+        "titulo": "Creatina Monohidratada Pura Refil 1Kg Dark Lab - Creatine, Creatina 100% Pura",
+        "preco": 69.9,
+        "timestamp": 1781981442.2045856,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/2g8ufFpinz",
+        "link_bruto": "https://s.shopee.com.br/2g8ufFpinz",
+        "titulo": "Roupas esportivas masculinas, roupas de treinamento Leggings, roupas dedicadas para academia, roupas íntimas esportivas,",
+        "preco": 111.32,
+        "timestamp": 1781981481.504589,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FH46BTX4",
+        "link_bruto": "https://www.amazon.com.br/Tenis-Comet-Masculino-Vibrant-Orange/dp/B0FH46BTX4/ref=sr_1_15",
+        "titulo": "FILA",
+        "preco": 157.85,
+        "timestamp": 1781981524.0161254,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0785N32J4",
+        "link_bruto": "https://www.amazon.com.br/Padr%C3%A3o-Mouse-Preto-60357-9-Maxprint/dp/B0785N32J4/ref=sr_1_37",
+        "titulo": "Maxprint 603579 - Mouse Pad Tecido, Preto, 22 x 17.8 cm, 1 Unidade",
+        "preco": 3.99,
+        "timestamp": 1781981561.1762366,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/LkxcqaisU",
+        "link_bruto": "https://s.shopee.com.br/LkxcqaisU",
+        "titulo": "Stitch Fenzza Facial e Corporal - Pode escolher Espuma de Limpeza Facial | Sérum Facial | Sabonete Líquido Facial",
+        "preco": 22.8,
+        "timestamp": 1781981603.3478959,
+        "expirado": false
+    },
+    {
+        "id": "https://s.shopee.com.br/3B58zqCUQ0",
+        "link_bruto": "https://s.shopee.com.br/3B58zqCUQ0",
+        "titulo": "Bicicleta ergométrica, bicicleta de spinning, bicicleta profissional para academia, 120 kg,Cor Preto E Vermelho",
+        "preco": 488.99,
+        "timestamp": 1781981642.4908307,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CJSR4H46",
+        "link_bruto": "https://www.amazon.com.br/Teclado-Mec%C3%A2nico-AGK600-Hot-Swappable-ultracompacto/dp/B0CJSR4H46/ref=sr_1_41",
+        "titulo": "Teclado Mecânico Gamer AGON AGK600 Cherry MX Red Switch Hot-Swappable US RGB 360° com design 60% ultracompacto",
+        "preco": 199.0,
+        "timestamp": 1781981687.1587443,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B076X7RQFQ",
+        "link_bruto": "https://www.amazon.com.br/Mixer-MONDIAL-Power-127V-500W/dp/B076X7RQFQ/ref=sr_1_39",
+        "titulo": "Mixer MONDIAL, Power Red, 110V, 2 em 1, 500W - M-10",
+        "preco": 136.54,
+        "timestamp": 1781981730.112267,
+        "expirado": false
+    }
 ]

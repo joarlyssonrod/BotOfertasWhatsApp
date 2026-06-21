@@ -3,6 +3,7 @@ import urllib.parse
 import sys
 from shopee_api import converter_link_shopee
 from aliexpress_api import gerar_link_afiliado_aliexpress
+from magalu_scraper import obter_store_name
 
 # Configura o stdout para UTF-8 no Windows
 sys.stdout.reconfigure(encoding='utf-8')
@@ -43,10 +44,17 @@ def gerar_link_bot(url_produto, pagina_ativa=None):
         return link_afiliado
         
     # 3. MAGAZINE LUIZA
-    elif "magazineluiza.com.br" in url_limpa:
+    elif "magazineluiza.com.br" in url_limpa or "magazinevoce.com.br" in url_limpa:
+        store_name = obter_store_name()
+        if "magazinevoce.com.br" in url_limpa:
+            # Garante que usa o store_name correto no link de divulgador
+            url_convertida = re.sub(r'magazinevoce\.com\.br/[a-zA-Z0-9_-]+', f'magazinevoce.com.br/{store_name}', url_limpa)
+            url_convertida = url_convertida.split("?")[0].split("#")[0]
+            print(f"✅ Link Magalu (Magazine Voce) já é afiliado: {url_convertida}")
+            return url_convertida
         # Substitui o domínio padrão pelo seu link de divulgador
-        url_convertida = url_limpa.replace("www.magazineluiza.com.br", "www.magazinevoce.com.br/magazinejoarlysson")
-        url_convertida = url_convertida.replace("magazineluiza.com.br", "www.magazinevoce.com.br/magazinejoarlysson")
+        url_convertida = url_limpa.replace("www.magazineluiza.com.br", f"www.magazinevoce.com.br/{store_name}")
+        url_convertida = url_convertida.replace("magazineluiza.com.br", f"www.magazinevoce.com.br/{store_name}")
         # Remove parâmetros
         url_convertida = url_convertida.split("?")[0].split("#")[0]
         print(f"✅ Link Magalu convertido: {url_convertida}")

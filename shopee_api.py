@@ -142,7 +142,8 @@ def buscar_promocoes_shopee(termo, desconto_minimo=10, limite=5):
                     "preco_atual": preco_atual,
                     "desconto": desconto,
                     "link_bruto": link_afiliado, # O link bruto ja e o link de afiliado da Shopee
-                    "link_imagem": link_imagem
+                    "link_imagem": link_imagem,
+                    "itemId": node.get("itemId")
                 })
                 
             if len(ofertas_validas) >= limite:
@@ -219,7 +220,8 @@ def buscar_ofertas_do_dia_shopee(desconto_minimo=10, limite=20):
                     "preco_atual": preco_atual,
                     "desconto": desconto,
                     "link_bruto": link_afiliado,
-                    "link_imagem": link_imagem
+                    "link_imagem": link_imagem,
+                    "itemId": node.get("itemId")
                 })
                 
             if len(ofertas_validas) >= limite:
