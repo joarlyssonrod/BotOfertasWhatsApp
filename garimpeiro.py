@@ -34,59 +34,81 @@ def _executar_scraping(url, desconto_minimo, limite, usar_sessao=True, headless=
     redirecionado = False
     
     with sync_playwright() as p:
-        # Configurações do navegador
+        # Configurações do navegador para ocultar automação
         launch_args = {
-            "headless": headless
-        }
-        
-        # Em modo headful (visível), tenta usar o Chrome local e argumentos que ocultam automação
-        if not headless:
-            launch_args["channel"] = "chrome"
-            launch_args["ignore_default_args"] = ["--enable-automation"]
-            launch_args["args"] = [
+            "headless": headless,
+            "ignore_default_args": ["--enable-automation"],
+            "args": [
                 '--disable-blink-features=AutomationControlled',
                 '--no-sandbox',
                 '--disable-setuid-sandbox'
             ]
+        }
+        
+        # Tenta usar o Chrome local instalado se disponível no sistema para maior stealth
+        try:
+            launch_args["channel"] = "chrome"
+        except Exception as e:
+            pass
             
         navegador = p.chromium.launch(**launch_args)
         
-        # Carrega a sessão se ela existir e usar_sessao for True
+        # Parâmetros de contexto portáteis e stealth
+        context_args = {
+            "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "locale": "pt-BR",
+            "timezone_id": "America/Sao_Paulo",
+            "viewport": {"width": 1280, "height": 800}
+        }
+        
         if usar_sessao and os.path.exists(sessao_path):
-            contexto = navegador.new_context(
-                storage_state=sessao_path,
-                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-            )
-        else:
-            if usar_sessao:
-                print("⚠️ Sessão 'sessao_ml.json' não encontrada. Rodando sem login...")
-            contexto = navegador.new_context(
-                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
-            )
+            context_args["storage_state"] = sessao_path
+        elif usar_sessao:
+            print("   ⚠️ Sessão 'sessao_ml.json' não encontrada. Rodando sem login...")
             
+        contexto = navegador.new_context(**context_args)
         pagina = contexto.new_page()
+        
         # Injeta init script para esconder webdriver
-        pagina.add_init_script("delete navigator.__proto__.webdriver;")
+        pagina.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
         
         try:
             pagina.goto(url, timeout=30000)
-            pagina.wait_for_load_state("domcontentloaded")
-            pagina.wait_for_timeout(2500) # Pequena pausa para garantir renderização do JS
-            
-            # Se for redirecionado para página de verificação (CAPTCHA)
-            if "account-verification" in pagina.url or "captcha" in pagina.url:
-                redirecionado = True
-            else:
-                html_da_pagina = pagina.content()
-        except Exception as e:
-            # Mesmo se der erro (ex: Page.content falhar porque está navegando),
-            # verificamos se a URL final era de captcha/verificação
             try:
-                if "account-verification" in pagina.url or "captcha" in pagina.url:
-                    redirecionado = True
+                pagina.wait_for_load_state("domcontentloaded", timeout=10000)
+                pagina.wait_for_timeout(2500) # Pequena pausa para garantir renderização do JS
             except:
                 pass
-            if not redirecionado:
+            
+            # Se for redirecionado para página de verificação (CAPTCHA)
+            current_url = pagina.url.lower()
+            if "account-verification" in current_url or "captcha" in current_url or "/sec/" in current_url:
+                redirecionado = True
+            else:
+                try:
+                    html_da_pagina = pagina.content()
+                except Exception as ce:
+                    if "navigating" in str(ce).lower():
+                        try:
+                            pagina.wait_for_load_state("domcontentloaded", timeout=5000)
+                            current_url = pagina.url.lower()
+                            if "account-verification" in current_url or "captcha" in current_url or "/sec/" in current_url:
+                                redirecionado = True
+                            else:
+                                html_da_pagina = pagina.content()
+                        except:
+                            pass
+                    if not redirecionado and not html_da_pagina:
+                        print(f"🚨 Erro ao obter conteúdo da página: {ce}")
+        except Exception as e:
+            current_url = ""
+            try:
+                current_url = pagina.url.lower()
+            except:
+                pass
+            if "account-verification" in current_url or "captcha" in current_url or "/sec/" in current_url:
+                redirecionado = True
+            else:
                 print(f"🚨 Erro durante o carregamento da página no Playwright: {e}")
         finally:
             try:

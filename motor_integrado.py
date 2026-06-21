@@ -30,7 +30,7 @@ HISTORICO_FILE = "historico_envios.json"
 MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
 
 # Lojas ativas para busca:
-BUSCAR_NO_MERCADO_LIVRE = False
+BUSCAR_NO_MERCADO_LIVRE = True
 BUSCAR_NA_AMAZON = True
 BUSCAR_NA_MAGALU = True
 BUSCAR_NA_SHOPEE = True
@@ -332,7 +332,7 @@ def checar_pagina_produto(page, url, preco_original_envio):
         # Primeiro, verifica se fomos redirecionados para captcha ou verificação de conta
         try:
             current_url = page.url.lower()
-            if "account-verification" in current_url or "captcha" in current_url:
+            if "account-verification" in current_url or "captcha" in current_url or "/sec/" in current_url:
                 print(f"⚠️ [Verificador] Mercado Livre exigiu verificação na URL: {page.url}")
                 return False, None, "bloqueio_verificacao"
         except Exception as e:
