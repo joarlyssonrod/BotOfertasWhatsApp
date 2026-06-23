@@ -76,7 +76,7 @@ def buscar_promocoes_amazon(query, desconto_minimo=10, limite=5):
         pagina = contexto.new_page()
         
         try:
-            pagina.goto(url, timeout=30000)
+            pagina.goto(url, timeout=30000, wait_until="domcontentloaded")
             pagina.wait_for_load_state("domcontentloaded")
             
             # Espera carregar os blocos de busca
@@ -206,7 +206,7 @@ def buscar_ofertas_do_dia_amazon(desconto_minimo=10, limite=15):
         )
         pagina = contexto.new_page()
         try:
-            pagina.goto(url, timeout=25000)
+            pagina.goto(url, timeout=25000, wait_until="domcontentloaded")
             pagina.wait_for_load_state("domcontentloaded")
             pagina.wait_for_timeout(5000) # Aguarda renderização dos cards React
             html_da_pagina = pagina.content()

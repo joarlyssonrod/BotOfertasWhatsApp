@@ -26,8 +26,8 @@ HISTORICO_FILE = "historico_envios.json"
 # Modos de Busca:
 # "OFERTAS_DO_DIA" -> Garimpa as páginas oficiais de Ofertas do Dia / Destaques
 # "TERMOS_ESPECIFICOS" -> Busca termos específicos configurados na lista TERMOS_BUSCA
-MODO_DE_BUSCA = "OFERTAS_DO_DIA"
-# MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
+#MODO_DE_BUSCA = "OFERTAS_DO_DIA"
+MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
 
 # Lojas ativas para busca:
 BUSCAR_NO_MERCADO_LIVRE = True
@@ -57,7 +57,8 @@ GRUPO_UNICO_NOME = "Ofertas - Geral"  # Nome do grupo/canal unificado no WhatsAp
 TERMOS_BUSCA = [
     # Tecnologia & Hardware
     {"termo": "Console PlayStation 5", "desconto_minimo": 10},
-    {"termo": "Nintendo Switch", "desconto_minimo": 8},
+    {"termo": "Xbox Series X", "desconto_minimo": 8},
+    {"termo": "Xbox Series S", "desconto_minimo": 8},
     {"termo": "Processador Ryzen", "desconto_minimo": 10},
     {"termo": "Processador Intel", "desconto_minimo": 10},
     {"termo": "Placa de vídeo RTX", "desconto_minimo": 12},
@@ -68,21 +69,24 @@ TERMOS_BUSCA = [
     {"termo": "Mousepad", "desconto_minimo": 10},
     {"termo": "Teclado gamer", "desconto_minimo": 10},
     {"termo": "Water Cooler", "desconto_minimo": 10},
-    {"termo": "Monitor", "desconto_minimo": 12},
+    {"termo": "Monitor Gamer 144Hz", "desconto_minimo": 12},
     {"termo": "Teclado mecânico", "desconto_minimo": 15},
     {"termo": "Mouse pad gamer", "desconto_minimo": 15},
-    {"termo": "Notebook", "desconto_minimo": 10},
+    {"termo": "Notebook Gamer", "desconto_minimo": 10},
     {"termo": "Tablet", "desconto_minimo": 10},
     {"termo": "Gabinete Gamer", "desconto_minimo": 10},
+    {"termo": "Water Cooler RGB", "desconto_minimo": 10},
     {"termo": "Fan ARGB", "desconto_minimo": 10},
     {"termo": "Impressora", "desconto_minimo": 10},
     {"termo": "Mesa para PC", "desconto_minimo": 15},
     {"termo": "Cadeira gamer", "desconto_minimo": 12},
     
     # Eletrônicos & Smart Home
-    {"termo": "Celular", "desconto_minimo": 12},
+    {"termo": "Celular Xiaomi", "desconto_minimo": 12},
     {"termo": "Samsung NFC 8GB", "desconto_minimo": 12},
+    {"termo": "Smartphone NFC", "desconto_minimo": 12},
     {"termo": "Relógio inteligente", "desconto_minimo": 15},
+    {"termo": "Smartwatch NFC", "desconto_minimo": 12},
     {"termo": "Fone de ouvido bluetooth", "desconto_minimo": 15},
     {"termo": "Smart TV", "desconto_minimo": 10},
     {"termo": "Fire Stick", "desconto_minimo": 15},
@@ -99,7 +103,7 @@ TERMOS_BUSCA = [
     {"termo": "Microondas", "desconto_minimo": 10},
     #{"termo": "Parafusadeira", "desconto_minimo": 10},
     #{"termo": "Furadeira", "desconto_minimo": 10},
-    {"termo": "Mixer", "desconto_minimo": 15},
+    #{"termo": "Mixer", "desconto_minimo": 15},
     {"termo": "Máquina de barbear", "desconto_minimo": 15},
     
     # Fitness, Saúde & Suplementos
@@ -113,6 +117,8 @@ TERMOS_BUSCA = [
     
     # Beleza & Cuidado Pessoal
     {"termo": "Perfume importado", "desconto_minimo": 15},
+    {"termo": "Perfume masculino", "desconto_minimo": 15},
+    {"termo": "Perfume feminino", "desconto_minimo": 15},
     {"termo": "Protetor solar facial", "desconto_minimo": 15},
     {"termo": "Hidratante facial", "desconto_minimo": 15},
     {"termo": "Shampoo e condicionador", "desconto_minimo": 20},
@@ -122,6 +128,9 @@ TERMOS_BUSCA = [
     # Moda, Calçados & Utilitários
     {"termo": "Camisa dryfit", "desconto_minimo": 15},
     {"termo": "Camiseta masculina", "desconto_minimo": 15},
+    {"termo": "Bolsa", "desconto_minimo": 15},
+    {"termo": "Mochila", "desconto_minimo": 20},
+    {"termo": "Roupa de academia", "desconto_minimo": 15},
     {"termo": "Tênis", "desconto_minimo": 20},
     {"termo": "Kit de meias", "desconto_minimo": 20},
     {"termo": "Chinelo", "desconto_minimo": 20},
@@ -590,7 +599,7 @@ def checar_e_alertar_expirados(whatsapp, historico):
         temp_page = None
         try:
             temp_page = whatsapp.context.new_page()
-            temp_page.goto(link_bruto, timeout=25000)
+            temp_page.goto(link_bruto, timeout=25000, wait_until="domcontentloaded")
             temp_page.wait_for_load_state("domcontentloaded")
             temp_page.wait_for_timeout(2000)
             
@@ -610,7 +619,7 @@ def checar_e_alertar_expirados(whatsapp, historico):
                 # Fecha a página bloqueada e abre uma nova
                 temp_page.close()
                 temp_page = whatsapp.context.new_page()
-                temp_page.goto(link_bruto, timeout=25000)
+                temp_page.goto(link_bruto, timeout=25000, wait_until="domcontentloaded")
                 temp_page.wait_for_load_state("domcontentloaded")
                 temp_page.wait_for_timeout(2000)
                 

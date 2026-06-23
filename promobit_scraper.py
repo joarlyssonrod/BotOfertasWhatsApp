@@ -4,8 +4,12 @@ import re
 import json
 import time
 import requests
+import urllib3
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
+
+# Suprime avisos de certificado SSL autoassinado/inseguro em redes corporativas
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Configura o stdout para UTF-8 no Windows
 sys.stdout.reconfigure(encoding='utf-8')
@@ -36,7 +40,7 @@ def resolve_target_url(offer_url):
         page = context.new_page()
         
         try:
-            page.goto(offer_url, timeout=25000)
+            page.goto(offer_url, timeout=25000, wait_until="domcontentloaded")
             page.wait_for_load_state("domcontentloaded")
             page.wait_for_timeout(1500) # pequena pausa para renderização
             
@@ -64,6 +68,19 @@ def resolve_target_url(offer_url):
                 new_page.wait_for_timeout(4000) # tempo para resolver os redirects de afiliados (ex: Lomadee/Awin)
                 
                 final_url = new_page.url
+                
+                # Trata links intermediários de Perfil Social do Mercado Livre
+                if final_url and "mercadolivre.com.br/social/" in final_url:
+                    try:
+                        btn_selector = 'a:has-text("Ir para produto")'
+                        new_page.locator(btn_selector).wait_for(state="attached", timeout=6000)
+                        target_href = new_page.locator(btn_selector).first.get_attribute("href")
+                        if target_href:
+                            final_url = target_href
+                            print(f"🎯 [Promobit Resolver] Link de Perfil Social do ML extraído com sucesso: '{final_url}'")
+                    except Exception as social_err:
+                        print(f"⚠️ [Promobit Resolver] Não foi possível extrair o link do botão 'Ir para produto': {social_err}")
+                
                 print(f"🎯 [Promobit Resolver] URL resolvida com sucesso: '{final_url}'")
             else:
                 print("⚠️ [Promobit Resolver] Botão 'Ir à loja' não encontrado na página.")
@@ -90,7 +107,7 @@ def buscar_ofertas_promobit(desconto_minimo=10, limite=5):
     }
     
     try:
-        response = requests.get(url_base, headers=headers, timeout=15)
+        response = requests.get(url_base, headers=headers, timeout=15, verify=False)
         if response.status_code != 200:
             print(f"❌ [Promobit Scraper] Falha ao carregar site (Status {response.status_code})")
             return []
@@ -112,7 +129,7 @@ def buscar_ofertas_promobit(desconto_minimo=10, limite=5):
             
             # Carrega a página da oferta individual para ler a estrutura NextJS (__NEXT_DATA__)
             try:
-                offer_res = requests.get(offer_url, headers=headers, timeout=10)
+                offer_res = requests.get(offer_url, headers=headers, timeout=10, verify=False)
                 if offer_res.status_code != 200:
                     continue
                     

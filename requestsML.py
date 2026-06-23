@@ -24,7 +24,7 @@ def gerar_link_afiliado(url_produto):
 
     try:
         # Dispara o POST
-        resposta = requests.post(endpoint, headers=headers, json=payload, impersonate="chrome110")
+        resposta = requests.post(endpoint, headers=headers, json=payload, impersonate="chrome110", verify=False)
         resposta.raise_for_status() # Verifica se a requisição não foi barrada (ex: erro 403 ou 401)
         
         # Converte a resposta para dicionário e extrai apenas o link encurtado

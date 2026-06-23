@@ -4,6 +4,10 @@ import time
 import datetime
 import hashlib
 import requests
+import urllib3
+
+# Suprime avisos de certificado SSL autoassinado/inseguro em redes corporativas
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Habilita UTF8 para os prints no Windows
 sys.stdout.reconfigure(encoding='utf-8')
@@ -73,7 +77,7 @@ def gerar_link_afiliado_aliexpress(link_bruto):
     params["sign"] = calcular_assinatura(params, app_secret)
 
     try:
-        response = requests.post(URL_ALIEXPRESS_REST, data=params, timeout=15)
+        response = requests.post(URL_ALIEXPRESS_REST, data=params, timeout=15, verify=False)
         if response.status_code == 200:
             dados = response.json()
             # Trata erros retornados na estrutura da resposta

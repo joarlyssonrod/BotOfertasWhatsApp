@@ -73,7 +73,7 @@ def _executar_scraping(url, desconto_minimo, limite, usar_sessao=True, headless=
         pagina.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
         
         try:
-            pagina.goto(url, timeout=30000)
+            pagina.goto(url, timeout=30000, wait_until="domcontentloaded")
             try:
                 pagina.wait_for_load_state("domcontentloaded", timeout=10000)
                 pagina.wait_for_timeout(2500) # Pequena pausa para garantir renderização do JS
