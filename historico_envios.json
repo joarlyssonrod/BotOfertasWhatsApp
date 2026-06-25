@@ -3822,5 +3822,605 @@
         "preco": 488.99,
         "timestamp": 1782240605.6725023,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_228585300",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/placa-de-video-asus-geforce-rtx-3060-12gb-gddr6-192-bits-dual-rtx3060-o12g/p/228585300/in/pcvd/?seller_id=magazineluiza",
+        "titulo": "Placa de Vídeo Asus GeForce RTX 3060 12GB - GDDR6 192 bits DUAL-RTX3060-O12G",
+        "preco": 2672.73,
+        "timestamp": 1782302366.2076826,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50045630",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s25-edge-5g-512gb-12gb-ram-cmera-dupla-de-ate-200mp-tela-grande-de-67-titnio-jetblack/p/MLB50045630",
+        "titulo": "Celular Samsung Galaxy S25 Edge 5g, 512gb, 12gb Ram, Câmera Dupla De Até 200mp, Tela Grande De 6.7 - Titânio Jetblack",
+        "preco": 4299.0,
+        "timestamp": 1782302414.485971,
+        "expirado": true
+    },
+    {
+        "id": "AMAZON_B07K11FVBY",
+        "link_bruto": "https://www.amazon.com.br/Mouse-Grande-Gamer-Havit-Hv-Mp861/dp/B07K11FVBY/ref=sr_1_29",
+        "titulo": "Havit Mouse Pad Grande 70 X 30 Cm Gamer, Hv-MP861, Movimento Suave e Preciso, Costurado, Preto",
+        "preco": 25.9,
+        "timestamp": 1782302459.5304484,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22494436848",
+        "link_bruto": "https://s.shopee.com.br/3Vi7KkJqOH",
+        "titulo": "Teclado Mecânico Punk RGB Eixo Azul e Mouse Gamer Combo -H7/Teclado e mouse mecânicos/Teclado Mecanico Gamer",
+        "preco": 175.99,
+        "timestamp": 1782302500.8447723,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_AHB6B5000F",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/perfume-arabe-sabah-al-ward-al-wataniah-feminino-floral-original-100ml/p/ahb6b5000f/pf/ppms/?seller_id=glowgomake",
+        "titulo": "Perfume Árabe Sabah Al Ward Al Wataniah Feminino Floral ORIGINAL 100ml",
+        "preco": 130.86,
+        "timestamp": 1782302533.6420407,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FH3W32GS",
+        "link_bruto": "https://www.amazon.com.br/Fastpace-Masculino-Granite-Vibrant-Orange/dp/B0FH3W32GS/ref=sr_1_50",
+        "titulo": "FILA",
+        "preco": 219.99,
+        "timestamp": 1782302572.0295901,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F9LK4ZNB",
+        "link_bruto": "https://www.amazon.com.br/condicionado-split-inverter-Hisense-as-09tw2rld/dp/B0F9LK4ZNB/ref=sr_1_41",
+        "titulo": "Ar condicionado split inverter hi wall wi-fi Hisense 9000 btus frio as-09tw2rld - 220v",
+        "preco": 1547.99,
+        "timestamp": 1782302603.1895156,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F19B2BXR",
+        "link_bruto": "https://www.amazon.com.br/Bolsa-Tote-Daily-Clear-Gocase/dp/B0F19B2BXR/ref=sr_1_14",
+        "titulo": "Gocase",
+        "preco": 161.4,
+        "timestamp": 1782302651.0276845,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FPPQ5T37",
+        "link_bruto": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-50MP/dp/B0FPPQ5T37/ref=sr_1_29",
+        "titulo": "Celular Samsung Galaxy A17 5G, 128GB, 4GB, 50MP Tela 6.7\" - Preto",
+        "preco": 787.41,
+        "timestamp": 1782302690.3071823,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0B9NRQDD8",
+        "link_bruto": "https://www.amazon.com.br/Ventilador-INVERTER-controle-remoto-ventisol/dp/B0B9NRQDD8/ref=sr_1_55",
+        "titulo": "Ventisol Ventilador de teto aires INVERTER com controle remoto bivolt",
+        "preco": 199.0,
+        "timestamp": 1782302722.4199421,
+        "expirado": true
+    },
+    {
+        "id": "AMAZON_B0BBJ59WJ4",
+        "link_bruto": "https://www.amazon.com.br/Processador-AMD-7900X-Threads-Graphics/dp/B0BBJ59WJ4/ref=sr_1_28",
+        "titulo": "Processador AMD Ryzen 9 7900X Box (AM5/12 Cores/24 Threads/5.6GHz/76MB Cache/Radeon Graphics) Com Vídeo/Sem Cooler",
+        "preco": 1958.99,
+        "timestamp": 1782302766.9738662,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CS3RHBZQ",
+        "link_bruto": "https://www.amazon.com.br/TAT1209BK-00-bluetooth-tecnologia-reprodu%C3%A7%C3%A3o/dp/B0CS3RHBZQ/ref=sr_1_9",
+        "titulo": "Fone de ouvido sem fio TWS Philips TAT1209BK/00 na cor preto, com bluetooth, microfone, tecnologia IPX4 e 18 horas de reprodução.",
+        "preco": 119.98,
+        "timestamp": 1782302798.1275237,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BT23S5MF",
+        "link_bruto": "https://www.amazon.com.br/WAP-Aspirador-Vertical-Port%C3%A1til-Tecnologia/dp/B0BT23S5MF/ref=sr_1_20",
+        "titulo": "WAP Aspirador de Pó Vertical HIGH SPEED PLUS 3 em 1, Compacto, 1,2 Litros, com Extensor Removível, 134mbar 1350W 220V",
+        "preco": 136.7,
+        "timestamp": 1782302839.2842999,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BXM4BVLZ",
+        "link_bruto": "https://www.amazon.com.br/Mochila-Unissex-Mizuno-Champion-Cinza/dp/B0BXM4BVLZ/ref=sr_1_30",
+        "titulo": "Mochila Mizuno Champion New",
+        "preco": 99.99,
+        "timestamp": 1782302879.0831976,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_56259956694",
+        "link_bruto": "https://s.shopee.com.br/5VTBjldCOx",
+        "titulo": "Mochila Mochila Mochila Mochila geral Mochila com vários compartimentos Mochila escolar de estudante Mochila Casual Moch",
+        "preco": 60.2,
+        "timestamp": 1782302912.8121037,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_29535501772",
+        "link_bruto": "https://s.shopee.com.br/7pr8RnOO0q",
+        "titulo": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas Completa Reversível Soquetes Maleta",
+        "preco": 29.9,
+        "timestamp": 1782321398.3514678,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58254339464",
+        "link_bruto": "https://s.shopee.com.br/5q6447W04W",
+        "titulo": "Parafusadeira Furadeira  48V 1/2 Bateria  3 funções de Elétrica Sem Fio Impacto Completo Acessórios",
+        "preco": 129.68,
+        "timestamp": 1782321438.1739755,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58260259315",
+        "link_bruto": "https://s.shopee.com.br/6VLkrLTSii",
+        "titulo": "Kit 14/28/42 Figurinhas Do Álbum Copa Do Mundo 2026 Envelopes Brasil",
+        "preco": 20.99,
+        "timestamp": 1782321476.1975155,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58262419053",
+        "link_bruto": "https://shopee.com.br/product/1552226494/58262419053?d_id=56e94&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmQAAAAx2WkmmosN5aTgn0wQe4kWncfIy4AN52KzaSSuXZYPdo_7wGn7FZ0Af2aHxJ-FD3pcuwjtYWOp-8-9C5PDACVswWUwaTV7Z26d778L7rnsnn3GqCLxOBupM1REaTWAUVtHwynbOVX3lK_CfGmxRAbt6S5fdBK7IUFUA7zYreCfxmtPhkzNGXMwho6O7qpFJGeMBrAnm5g&mmp_pid=an_18140170000&uls_trackid=55vncdjd00on&utm_campaign=id_956ce9a3a85f635c&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=f4j79d3avz6s",
+        "titulo": "Monitor ASUS TUF Gaming VG27AQ5A 27 QHD 210Hz",
+        "preco": 1125.0,
+        "timestamp": 1782321510.1171272,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HC0BC65H59",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-eletrica-airfryer-visio-fry-elgin-5l-preta-1700w/p/hc0bc65h59/ep/efso/?seller_id=bumpermagazine",
+        "titulo": "Fritadeira Elétrica Airfryer Visio Fry Elgin 5L Preta 1700W",
+        "preco": 204.51,
+        "timestamp": 1782321553.7218788,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_48055726540",
+        "link_bruto": "https://s.shopee.com.br/7fXiFUP1Lp",
+        "titulo": "Pote Hermético Marmita Vidro Tampa Trava 640ml Premium Fitness",
+        "preco": 32.9,
+        "timestamp": 1782321587.3512971,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB42440842",
+        "link_bruto": "https://www.mercadolivre.com.br/ar-condicionado-split-samsung-inverter-windfree-ai-12000-btus-frio-sem-vento-ar12dyfaawknaz/p/MLB42440842",
+        "titulo": "Ar-condicionado Split Samsung Inverter Windfree Ai 12.000 Btus Frio Sem Vento Ar12dyfaawknaz Branco 220v",
+        "preco": 1859.0,
+        "timestamp": 1782321626.1397262,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3471073818",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-arabe-lattafa-fakhar-gold-extrait-eau-de-parfum-100m/up/MLBU3471073818",
+        "titulo": "Perfume Árabe Lattafa Fakhar Gold Extrait Eau De Parfum 100m",
+        "preco": 143.48,
+        "timestamp": 1782321662.1367447,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_DG7F4E5D28",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-eletrica-airfryer-oven-britania-bfr2100-12l-220v-britania/p/dg7f4e5d28/ep/efso/?seller_id=123comprou",
+        "titulo": "Fritadeira Elétrica Airfryer Oven Britania Bfr2100 12L 220V - Britânia",
+        "preco": 575.91,
+        "timestamp": 1782321698.5561209,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22799345399",
+        "link_bruto": "https://s.shopee.com.br/6AiuSjUjOg",
+        "titulo": "Moletom Canguru Estampado Bandeira Brasil Símbolo America Do Sul Blusa de Frio 100% Algodão Envio Imediato Spyke Shop",
+        "preco": 49.9,
+        "timestamp": 1782321731.2286644,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54575876",
+        "link_bruto": "https://www.mercadolivre.com.br/cadeira-escritorio-ergonmica-giratoria-com-apoio-lombar-da-python-fly/p/MLB54575876",
+        "titulo": "Cadeira Escritório Ergonômica Giratória Com Apoio Lombar Da Python Fly Preto Malha",
+        "preco": 379.87,
+        "timestamp": 1782321779.6597333,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB58579835",
+        "link_bruto": "https://www.mercadolivre.com.br/nac-600mg-formula-exclusiva-com-maxima-concentraco-e-pureza-n-acetil-l-cisteina-60-capsulas/p/MLB58579835",
+        "titulo": "Nac 600mg - Fórmula Exclusiva Com Máxima Concentração E Pureza - N-acetil L-cisteína - 60 Cápsulas Sem Sabor",
+        "preco": 46.77,
+        "timestamp": 1782321819.0323195,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23699364867",
+        "link_bruto": "https://s.shopee.com.br/5fmdroWdPV",
+        "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
+        "preco": 17.99,
+        "timestamp": 1782321864.9339006,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB2222397098",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-2222397098-daily-t-shirt-insider-_JM",
+        "titulo": "Daily T-shirt Insider",
+        "preco": 74.0,
+        "timestamp": 1782321900.7044544,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B01L7B4V28",
+        "link_bruto": "https://www.amazon.com.br/Wrangler-Authentics-masculina-acolchoada-comprida/dp/B01L7B4V28?tag=promobit-d-20&th=1&psc=1",
+        "titulo": "Camisa De Botes Wrangler Authentics",
+        "preco": 79.52,
+        "timestamp": 1782321942.9002118,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_49603251115",
+        "link_bruto": "https://s.shopee.com.br/AKYUiO49nE",
+        "titulo": "Kit  Collagen Completo Máscara 500g Shampoo 1L Condicionador 1L Óleo Maca 50ml Tratamento Profissional",
+        "preco": 49.0,
+        "timestamp": 1782391196.398312,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22494419643",
+        "link_bruto": "https://s.shopee.com.br/7VEJLBEwXT",
+        "titulo": "Limpa ESTOFADOS Espuma Para Limpeza de Estofados Spray Zip Clean 300ml",
+        "preco": 15.89,
+        "timestamp": 1782391230.8187873,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23193662532",
+        "link_bruto": "https://s.shopee.com.br/AUruuh3WSH",
+        "titulo": "Kit Utensílios de Cozinha  Com 5/12 Peças em Silicone com Cabo de Madeira Completo  - CH",
+        "preco": 21.9,
+        "timestamp": 1782391277.8139107,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_24138289770",
+        "link_bruto": "https://s.shopee.com.br/6L2Lx2JNuK",
+        "titulo": "Torneira Cozinha Gourmet Monocomando Com Spray Extensor Dourado",
+        "preco": 69.9,
+        "timestamp": 1782391317.4554553,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CHZ18WJW",
+        "link_bruto": "https://www.amazon.com.br/Marvels-Spider-Man-Edi%C3%A7%C3%A3o-Standard-PlayStation/dp/B0CHZ18WJW",
+        "titulo": "Marvel's Spider-Man 2 PS5",
+        "preco": 139.9,
+        "timestamp": 1782391352.2842703,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU678354114",
+        "link_bruto": "https://www.mercadolivre.com.br/promocao-combo-poderoso--serum-de-brinde--promo-oficial/up/MLBU678354114",
+        "titulo": "Promoção Combo Poderoso + Sérum De Brinde - Promo Oficial",
+        "preco": 141.3,
+        "timestamp": 1782391386.5310433,
+        "expirado": true
+    },
+    {
+        "id": "SHOPEE_58206209035",
+        "link_bruto": "https://s.shopee.com.br/6pycXxHTtP",
+        "titulo": "Espelho Verona Oval Base Reta Corpo Inteiro Com Moldura em Couro Premium 120x50 Sala Quarto",
+        "preco": 119.9,
+        "timestamp": 1782391421.8526514,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_18997974535",
+        "link_bruto": "https://s.shopee.com.br/5VTExVMYbH",
+        "titulo": "Jogo Taças Vidro Diamond Bico Jaca Abacaxi Conjunto Taça Para Água Vinho Tinto Suco Diamante",
+        "preco": 14.89,
+        "timestamp": 1782391457.2412534,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_023371100",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-eletrica-sem-oleo-air-fryer-mondial-grand-family-inox-afn-50-bi-preto-5l-com-timer/p/023371100/ep/efso/?seller_id=magazineluiza",
+        "titulo": "Fritadeira Elétrica sem Óleo/Air Fryer Mondial Grand Family Inox AFN-50-BI Preto 5L com Timer",
+        "preco": 312.55,
+        "timestamp": 1782391496.4041455,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5316716020",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5316716020-conjunto-calca-e-blusa-de-moletom-liso-masculino-unissex-_JM",
+        "titulo": "Conjunto Calça E Blusa De Moletom Liso Masculino Unissex",
+        "preco": 78.99,
+        "timestamp": 1782391543.4101002,
+        "expirado": true
+    },
+    {
+        "id": "SHOPEE_41018235013",
+        "link_bruto": "https://s.shopee.com.br/7pr9jnDfrV",
+        "titulo": "PARAFUSADEIRA E FURADEIRA A BATERIA PF21B2 21V COM DUAS BATERIAS F02 4979 - FALASCA",
+        "preco": 119.9,
+        "timestamp": 1782391583.163974,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58256293907",
+        "link_bruto": "https://s.shopee.com.br/5L9olCNBwE",
+        "titulo": "Espelho Orgânico 120x50 e 80x40 Com Moldura EM COURO Corpo Inteiro Moderno Luxo",
+        "preco": 89.9,
+        "timestamp": 1782391620.476862,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_20897680699",
+        "link_bruto": "https://s.shopee.com.br/AAF4W54n8F",
+        "titulo": "46 Peças Verde Kit Chaves Jogo Catraca Reversível Soquetes Maleta Promoção",
+        "preco": 30.99,
+        "timestamp": 1782391665.1083777,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CPQYB68R",
+        "link_bruto": "https://www.amazon.com.br/FORNO-ELETRICO-FOGATTI-PRETO-127v/dp/B0CPQYB68R?tag=promobit-d-20",
+        "titulo": "Forno Eletrico Fogatti I40 Preto 127v",
+        "preco": 228.78,
+        "timestamp": 1782391709.7457042,
+        "expirado": true
+    },
+    {
+        "id": "ML_MLB20554055",
+        "link_bruto": "https://www.mercadolivre.com.br/tnico-poderoso-gold-spell-250ml-antiqueda-e-preenche-falhas/p/MLB20554055",
+        "titulo": "Tônico Poderoso Gold Spell 250ml Antiqueda E Preenche Falhas",
+        "preco": 86.59,
+        "timestamp": 1782391744.3357348,
+        "expirado": true
+    },
+    {
+        "id": "AMAZON_B093ZP2RT8",
+        "link_bruto": "https://www.amazon.com.br/Perfume-Al-Wataniah-Special-Parfum/dp/B093ZP2RT8/ref=sr_1_42",
+        "titulo": "Perfume Al Wataniah Special Oud Eau De Parfum 100ml",
+        "preco": 109.9,
+        "timestamp": 1782399498.458326,
+        "expirado": true
+    },
+    {
+        "id": "AMAZON_B0C4VT5GRF",
+        "link_bruto": "https://www.amazon.com.br/Janine-Shampoo-Condicionador-Repara%C3%A7%C3%A3o-Intensa/dp/B0C4VT5GRF/ref=sr_1_34",
+        "titulo": "Jacque Janine Kit Shampoo E Condicionador Reparação Intensa 800Ml",
+        "preco": 76.68,
+        "timestamp": 1782399537.9864128,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_19399549510",
+        "link_bruto": "https://s.shopee.com.br/gNzL5UJ9M",
+        "titulo": "Máquina Nebulizadora Portátil Inalador Nebulizador Adulto Infantil Silencioso",
+        "preco": 19.99,
+        "timestamp": 1782399571.732438,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_55359224753",
+        "link_bruto": "https://s.shopee.com.br/9UzNrOqGDd",
+        "titulo": "Chapinha com clipe, chapinha grande com Clipe, conjunto de chapinha de 36 peças",
+        "preco": 61.36,
+        "timestamp": 1782399615.3360927,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BG6D7QVB",
+        "link_bruto": "https://www.amazon.com.br/Aspirador-Vertical-Gaabor-Portatil-127v/dp/B0BG6D7QVB/ref=sr_1_32",
+        "titulo": "Aspirador de Pó Vertical 2 em Portátil 1000W - 110V - Gaabor",
+        "preco": 109.9,
+        "timestamp": 1782399653.4856079,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU1474398986",
+        "link_bruto": "https://www.mercadolivre.com.br/gabinete-gamer-acegeek-vacancy-l375-midtower-lat-de-vidro/up/MLBU1474398986",
+        "titulo": "Gabinete Gamer Acegeek Vacancy L375, Mid-tower, Lat De Vidro",
+        "preco": 261.39,
+        "timestamp": 1782399704.2139018,
+        "expirado": true
+    },
+    {
+        "id": "ML_MLB4019149321",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4019149321-tnis-masculino-prospect-evolution-academia-corrida-treino-_JM",
+        "titulo": "Tênis Masculino Prospect Evolution Academia Corrida Treino",
+        "preco": 29.9,
+        "timestamp": 1782399748.349761,
+        "expirado": true
+    },
+    {
+        "id": "AMAZON_B0CK5Y5DVL",
+        "link_bruto": "https://www.amazon.com.br/Gaabor-Sanduicheira-El%C3%A9trica-Grill-Antiaderente/dp/B0CK5Y5DVL/ref=sr_1_31",
+        "titulo": "Mini Sanduicheira Elétrica Grill Antiaderente 600w 220V - Gaabor",
+        "preco": 120.55,
+        "timestamp": 1782399792.8997743,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B089B7Z8ZD",
+        "link_bruto": "https://www.amazon.com.br/Teclado-Mec%C3%A2nico-Redragon-Avenger-Rainbow/dp/B089B7Z8ZD/ref=sr_1_41",
+        "titulo": "Teclado Mecânico Redragon Dark Avenger Preto Iluminação Rainbow Switch Marrom K568R",
+        "preco": 153.57,
+        "timestamp": 1782399837.7351365,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58254124059",
+        "link_bruto": "https://s.shopee.com.br/2qSTvNWwoU",
+        "titulo": "EcoPulse VarZeroDay Mix Natural Natural 500mg 60 / 90 / 120 Cáps. - Suplemento Alimentar Natural",
+        "preco": 25.85,
+        "timestamp": 1782399880.4210765,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09B8VWZRG",
+        "link_bruto": "https://www.amazon.com.br/M%C3%A1quina-Lavar-Electrolux-Essential-Filter/dp/B09B8VWZRG/ref=sr_1_16",
+        "titulo": "Máquina de Lavar 17kg Electrolux Essential Care com Cesto Inox, Jet&Clean e Ultra Filter (LED17)",
+        "preco": 2199.0,
+        "timestamp": 1782399913.166592,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58202956234",
+        "link_bruto": "https://s.shopee.com.br/7AbT4FHeoo",
+        "titulo": "Mouse Pad Gamer Grande Mouse Pad Anime Mouse Pad Personalizado Mouse Pad Com Apoio Mousepad Gamer Mouse Pad",
+        "preco": 29.36,
+        "timestamp": 1782399950.4711585,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FG8BZ49X",
+        "link_bruto": "https://www.amazon.com.br/CAMISETA-GR%C3%8AMIO-BASIC-MASCULINA-AZUL/dp/B0FG8BZ49X/ref=sr_1_45",
+        "titulo": "BETEL",
+        "preco": 44.93,
+        "timestamp": 1782399994.091255,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GVFZ1BTM",
+        "link_bruto": "https://www.amazon.com.br/Katigua-%C3%93leo-Semente-Ab%C3%B3bora-C%C3%A1psulas/dp/B0GVFZ1BTM/ref=sr_1_48",
+        "titulo": "Katigua Óleo de Semente de Abóbora 60 Cápsulas - Suplemento Natural Rico em Antioxidantes e Ácidos Graxos Essenciais para Saúde da Próstata e Sistema Urinário",
+        "preco": 39.9,
+        "timestamp": 1782400030.2891595,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F63L9DLK",
+        "link_bruto": "https://www.amazon.com.br/Secador-Cabelos-Philco-Dobr%C3%A1vel-PSC3500/dp/B0F63L9DLK/ref=sr_1_35",
+        "titulo": "Secador de Cabelos Philco 4 em 1 Dobrável Motor BLDC PSC3500 220V",
+        "preco": 399.0,
+        "timestamp": 1782400061.6030614,
+        "expirado": true
+    },
+    {
+        "id": "AMAZON_B09PC6T18K",
+        "link_bruto": "https://www.amazon.com.br/Lily-Eau-Parfum-75ml-Botic%C3%A1rio/dp/B09PC6T18K/ref=sr_1_18",
+        "titulo": "Lily Eau de Parfum 75ml - O Boticário",
+        "preco": 279.9,
+        "timestamp": 1782404829.640226,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08YZGMQ3S",
+        "link_bruto": "https://www.amazon.com.br/Hidratante-Corporal-Intensive-Hidrata-Neutrogena/dp/B08YZGMQ3S/ref=sr_1_42",
+        "titulo": "Neutrogena Hidratante Corporal Body Care Hidrata&Repara, 400ml",
+        "preco": 29.99,
+        "timestamp": 1782404863.4460688,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07Y283MCN",
+        "link_bruto": "https://www.amazon.com.br/Perfume-Col%C3%B4nia-Ilia-Feminino-Natura/dp/B07Y283MCN/ref=sr_1_8",
+        "titulo": "Perfume Colônia Ilia Feminino Natura - 50ml Tamanho:50ml",
+        "preco": 139.9,
+        "timestamp": 1782404896.359812,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DJC467R6",
+        "link_bruto": "https://www.amazon.com.br/Splash-Cardoso-Ciclo-Desodorante-Corporal/dp/B0DJC467R6/ref=sr_1_6",
+        "titulo": "Body Splash Hello Hello Nah Cardoso 200ml Ciclo Desodorante Corporal",
+        "preco": 37.91,
+        "timestamp": 1782404933.1232693,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_55561828259",
+        "link_bruto": "https://s.shopee.com.br/5q65aevhk3",
+        "titulo": "Soarfly Lavadora portátil de alta pressão Lavadora de alta pressão 4800W Lavadora de carro de alta potência 127V/220V",
+        "preco": 313.49,
+        "timestamp": 1782404964.5270119,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4140578889",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4140578889-camisa-dryfit-feminina-academia-corrida-malha-furadinha-p-gg-_JM",
+        "titulo": "Camisa Dryfit Feminina Academia Corrida Malha Furadinha P-gg",
+        "preco": 20.08,
+        "timestamp": 1782405010.4834073,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DLN326JH",
+        "link_bruto": "https://www.amazon.com.br/Camisa-Manchester-City-Torcedor-Juvenil/dp/B0DLN326JH/ref=sr_1_11",
+        "titulo": "PUMA",
+        "preco": 150.23,
+        "timestamp": 1782405053.3406703,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_AE6AFC2197",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/copo-termico-stanley-no-formato-com-1200ml-inox-portatil-com-tampa-e-canudo-inoxidavel-romantic-crown/p/ae6afc2197/ud/coas/?seller_id=varejonow",
+        "titulo": "Copo Térmico,Stanley no formato com 1200ml Inox Portátil com Tampa e Canudo Inoxidável, Romantic Crown",
+        "preco": 122.39,
+        "timestamp": 1782405093.5805123,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09F1QLZ74",
+        "link_bruto": "https://www.amazon.com.br/JanSport-Mochila-Cross-Town-trabalho/dp/B09F1QLZ74/ref=sr_1_56",
+        "titulo": "Mochila JanSport Cross Town Static Rose",
+        "preco": 154.82,
+        "timestamp": 1782405129.3227937,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_15831697955",
+        "link_bruto": "https://s.shopee.com.br/5VTFCv4zpW",
+        "titulo": "Camisa brasil camisa de time brasil camisa seleção brasileira camisa 100% Poliester",
+        "preco": 24.46,
+        "timestamp": 1782405173.481455,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FCVRTXXJ",
+        "link_bruto": "https://www.amazon.com.br/Tenis-Maxxi-Masculino-White-Alloy/dp/B0FCVRTXXJ/ref=sr_1_20",
+        "titulo": "FILA",
+        "preco": 179.99,
+        "timestamp": 1782405204.9975173,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0B5RS6WQ2",
+        "link_bruto": "https://www.amazon.com.br/Ventilador-Parede-Arno-Turbo-Force/dp/B0B5RS6WQ2/ref=sr_1_31",
+        "titulo": "Ventilador 2 em 1, Mesa ou Parede, Arno, Turbo Force, 40cm, VF42, 220V",
+        "preco": 198.55,
+        "timestamp": 1782405250.540644,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B087VM16Y7",
+        "link_bruto": "https://www.amazon.com.br/Lavadora-Press%C3%A3o-1200w-Amarela-Preta/dp/B087VM16Y7/ref=sr_1_38",
+        "titulo": "Tramontina, Lavadora de Alta Pressão Econo 1200W 1500PSI, 220v",
+        "preco": 293.07,
+        "timestamp": 1782405290.0175107,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07TV9B7Z3",
+        "link_bruto": "https://www.amazon.com.br/HyperX-Teclado-Gamer-Alloy-ABNT2/dp/B07TV9B7Z3/ref=sr_1_5",
+        "titulo": "HyperX Teclado Gamer HyperX Alloy Core RGB, ABNT2, PRETO",
+        "preco": 212.34,
+        "timestamp": 1782405332.2943196,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FP791T64",
+        "link_bruto": "https://www.amazon.com.br/Water-Cooler-Gamdias-Chione-P5-240/dp/B0FP791T64/ref=sr_1_31",
+        "titulo": "Water Cooler Gamdias Chione P5-240 Preto RGB com Tela IPS LCD 3.4” 240mm",
+        "preco": 424.12,
+        "timestamp": 1782405372.5598178,
+        "expirado": false
     }
 ]

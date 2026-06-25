@@ -89,18 +89,28 @@ TERMOS_BUSCA = [
     {"termo": "Smartwatch NFC", "desconto_minimo": 12},
     {"termo": "Fone de ouvido bluetooth", "desconto_minimo": 15},
     {"termo": "Smart TV", "desconto_minimo": 10},
-    {"termo": "Fire Stick", "desconto_minimo": 15},
+    {"termo": "Fire TV Stick", "desconto_minimo": 12},
+    {"termo": "Roku Streaming Stick", "desconto_minimo": 12},
     {"termo": "Caixa de Som Bluetooth", "desconto_minimo": 25},
+    {"termo": "Pote de vidro", "desconto_minimo": 30},
     {"termo": "Alexa Echo", "desconto_minimo": 15},
     
     # Eletrodomésticos & Eletroportáteis
     {"termo": "Geladeira", "desconto_minimo": 10},
-    {"termo": "Aspirador de pó vertical", "desconto_minimo": 15},
+    {"termo": "Aspirador de pó", "desconto_minimo": 15},
     {"termo": "Fritadeira Airfryer", "desconto_minimo": 15},
     {"termo": "Ventilador", "desconto_minimo": 10},
     {"termo": "Cafeteira", "desconto_minimo": 15},
     {"termo": "Ar condicionado", "desconto_minimo": 10},
+    {"termo": "Secador de cabelo", "desconto_minimo": 15},
     {"termo": "Microondas", "desconto_minimo": 10},
+    {"termo": "Sanduicheira", "desconto_minimo": 25},
+    {"termo": "Purificador de água", "desconto_minimo": 25},
+    {"termo": "lavadora de alta pressao", "desconto_minimo": 25},
+    {"termo": "Panela elétrica de pressão", "desconto_minimo": 25},
+    {"termo": "Fogão Inox", "desconto_minimo": 25},
+    {"termo": "Chapinha", "desconto_minimo": 25},
+    {"termo": "Maquina de Lavar", "desconto_minimo": 25},
     #{"termo": "Parafusadeira", "desconto_minimo": 10},
     #{"termo": "Furadeira", "desconto_minimo": 10},
     #{"termo": "Mixer", "desconto_minimo": 15},
@@ -108,21 +118,24 @@ TERMOS_BUSCA = [
     
     # Fitness, Saúde & Suplementos
     {"termo": "Whey protein", "desconto_minimo": 15},
-    {"termo": "Creatina pura", "desconto_minimo": 15},
+    {"termo": "Creatina", "desconto_minimo": 15},
     {"termo": "Bicicleta ergométrica", "desconto_minimo": 15},
     {"termo": "Garrafa academia", "desconto_minimo": 15},
     {"termo": "Multivitaminico", "desconto_minimo": 15},
     {"termo": "Magnesio", "desconto_minimo": 10},
+    {"termo": "Vitamina", "desconto_minimo": 30},
     {"termo": "Roupa de academia", "desconto_minimo": 15},
     
     # Beleza & Cuidado Pessoal
-    {"termo": "Perfume importado", "desconto_minimo": 15},
+    {"termo": "Perfume Natura", "desconto_minimo": 15},
+    {"termo": "Perfume Boticario", "desconto_minimo": 15},
     {"termo": "Perfume masculino", "desconto_minimo": 15},
     {"termo": "Perfume feminino", "desconto_minimo": 15},
     {"termo": "Protetor solar facial", "desconto_minimo": 15},
     {"termo": "Hidratante facial", "desconto_minimo": 15},
+    {"termo": "Hidratante corporal Natura", "desconto_minimo": 15},
     {"termo": "Shampoo e condicionador", "desconto_minimo": 20},
-    {"termo": "Máscara capilar", "desconto_minimo": 20},
+    {"termo": "Body Splash", "desconto_minimo": 15},
     {"termo": "Sabonete líquido facial", "desconto_minimo": 15},
     
     # Moda, Calçados & Utilitários
@@ -135,6 +148,7 @@ TERMOS_BUSCA = [
     {"termo": "Kit de meias", "desconto_minimo": 20},
     {"termo": "Chinelo", "desconto_minimo": 20},
     {"termo": "Kit Cuecas Boxer", "desconto_minimo": 15},
+    {"termo": "Camisa de time", "desconto_minimo": 20},
     {"termo": "Copo térmico", "desconto_minimo": 15}
 ]
 # =========================================================
