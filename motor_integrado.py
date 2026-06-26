@@ -361,6 +361,13 @@ def checar_pagina_produto(page, url, preco_original_envio):
         except Exception as e:
             print(f"⚠️ [Verificador] Erro ao checar URL da página: {e}")
             
+        # Aguarda a renderização de algum elemento chave de status (botão comprar, fora de estoque ou pausado)
+        try:
+            status_locator = page.locator(".ui-pdp-actions__button, .ui-pdp-buybox__out-of-stock, p.ui-pdp-color--BLACK:has-text('Anúncio pausado')").first
+            status_locator.wait_for(state="attached", timeout=3000)
+        except:
+            pass
+
         try:
             paused = page.locator("p.ui-pdp-color--BLACK:has-text('Anúncio pausado')").is_visible()
             out_of_stock = page.locator(".ui-pdp-buybox__out-of-stock").is_visible()
@@ -368,6 +375,14 @@ def checar_pagina_produto(page, url, preco_original_envio):
             no_buy_button = not buy_btn.is_visible() or buy_btn.get_attribute("disabled") is not None
             
             if paused or out_of_stock or no_buy_button:
+                # Double-check se fomos redirecionados para captcha ou verificação de conta
+                try:
+                    current_url = page.url.lower()
+                    if "account-verification" in current_url or "captcha" in current_url or "/sec/" in current_url:
+                        print(f"⚠️ [Verificador] Mercado Livre exigiu verificação na URL (double-check): {page.url}")
+                        return False, None, "bloqueio_verificacao"
+                except:
+                    pass
                 return True, None, "fora de estoque/anúncio pausado"
                 
             meta_price = page.locator('meta[itemprop="price"]').first.get_attribute("content")

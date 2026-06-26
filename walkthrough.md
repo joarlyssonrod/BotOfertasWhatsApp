@@ -89,5 +89,15 @@ Identificamos e corrigimos os timeouts de `25000ms` / `30000ms` que ocorriam nas
   - Importamos `urllib3` e inserimos `urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)` para suprimir alertas de conexões inseguras no console, mantendo os logs limpos.
 - **Resultado**: O bot agora executa perfeitamente e raspa novos dados mesmo por trás de proxies e firewalls corporativos com inspeção de rede ativa.
 
+### 12. Correção de Falsos Positivos de "Oferta Encerrada" no Mercado Livre
+- **Problema**: O Verificador considerava ofertas ativas do Mercado Livre como "encerradas" erroneamente. Isso ocorria por dois motivos:
+  1. **Redirecionamento para CAPTCHA/Verificação Tardio**: Em visitas automatizadas, o Mercado Livre frequentemente redireciona para a página de verificação de conta (`/gz/account-verification`). Como a página de verificação não possui o botão de compra (`.ui-pdp-actions__button`), o bot considerava a oferta "fora de estoque" (pois o botão não existia na tela).
+  2. **Renderização Assíncrona (React)**: No modo mais rápido com `wait_until="domcontentloaded"`, a verificação ocorria antes dos elementos de compra ou estoque serem montados no DOM pela engine JavaScript do Mercado Livre.
+- **Solução**:
+  - Implementamos uma espera resiliente de até `3 segundos` no arquivo [motor_integrado.py](file:///c:/Users/jrgrangeiro/Documents/BotMercadoLivre/motor_integrado.py) para que um dos elementos chaves de estado (botão de compra, fora de estoque ou aviso de anúncio pausado) seja carregado/montado no DOM.
+  - Adicionamos uma verificação dupla (double-check) na URL da página ativa logo antes de retornar o produto como "expirado". Caso a URL atual contenha indicações de bloqueio de CAPTCHA ou verificação de conta, o Verificador aborta a checagem marcando-a como `bloqueio_verificacao` (mantendo a oferta ativa no grupo do WhatsApp) em vez de decretá-la expirada falsamente.
+- **Resultado**: Removidos os alertas incorretos de ofertas finalizadas e aumentada a estabilidade do sistema de checagem.
+
+
 
 
