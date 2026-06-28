@@ -41,7 +41,7 @@ BUSCAR_NO_PROMOBIT = True
 FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = False
 
 # Limite máximo de ofertas que serão postadas nesta execução (para evitar inundar o grupo de uma vez)
-LIMITE_MENSAGENS_POR_RODADA = 15
+LIMITE_MENSAGENS_POR_RODADA = 19
 
 # Desconto mínimo para aceitar uma oferta (%)
 DESCONTO_MINIMO_GERAL = 15
@@ -57,14 +57,18 @@ GRUPO_UNICO_NOME = "Ofertas - Geral"  # Nome do grupo/canal unificado no WhatsAp
 TERMOS_BUSCA = [
     # Tecnologia & Hardware
     {"termo": "Console PlayStation 5", "desconto_minimo": 10},
+    {"termo": "Controle PlayStation 5", "desconto_minimo": 20},
     {"termo": "Xbox Series X", "desconto_minimo": 8},
     {"termo": "Xbox Series S", "desconto_minimo": 8},
-    {"termo": "Processador Ryzen", "desconto_minimo": 10},
-    {"termo": "Processador Intel", "desconto_minimo": 10},
-    {"termo": "Placa de vídeo RTX", "desconto_minimo": 12},
-    {"termo": "Placa mãe", "desconto_minimo": 10},
+    {"termo": "Controle para Xbox Series S", "desconto_minimo": 20},
+    {"termo": "Processador Ryzen 5 AM4", "desconto_minimo": 15},
+    {"termo": "Processador Intel i5", "desconto_minimo": 15},
+    {"termo": "Placa de vídeo NVIDIA RTX", "desconto_minimo": 20},
+    {"termo": "Placa de vídeo AMD RX", "desconto_minimo": 20},
+    {"termo": "Placa mãe AM4", "desconto_minimo": 10},
+    {"termo": "Placa mãe LGA1700", "desconto_minimo": 10},
     {"termo": "Memoria RAM", "desconto_minimo": 12},
-    {"termo": "Fonte para PC", "desconto_minimo": 10},
+    {"termo": "Fonte 80 Plus", "desconto_minimo": 10},
     {"termo": "Gabinete Gamer", "desconto_minimo": 10},
     {"termo": "Mousepad", "desconto_minimo": 10},
     {"termo": "Teclado gamer", "desconto_minimo": 10},
@@ -72,7 +76,8 @@ TERMOS_BUSCA = [
     {"termo": "Monitor Gamer 144Hz", "desconto_minimo": 12},
     {"termo": "Teclado mecânico", "desconto_minimo": 15},
     {"termo": "Mouse pad gamer", "desconto_minimo": 15},
-    {"termo": "Notebook Gamer", "desconto_minimo": 10},
+    {"termo": "Notebook i5", "desconto_minimo": 10},
+    {"termo": "Notebook Gamer ryzen 5 nvidia", "desconto_minimo": 20},
     {"termo": "Tablet", "desconto_minimo": 10},
     {"termo": "Gabinete Gamer", "desconto_minimo": 10},
     {"termo": "Water Cooler RGB", "desconto_minimo": 10},
@@ -80,13 +85,18 @@ TERMOS_BUSCA = [
     {"termo": "Impressora", "desconto_minimo": 10},
     {"termo": "Mesa para PC", "desconto_minimo": 15},
     {"termo": "Cadeira gamer", "desconto_minimo": 12},
+    {"termo": "jogo de chaves computador celular", "desconto_minimo": 30},
+    {"termo": "jogo de chaves eletrico computador celular", "desconto_minimo": 30},
     
     # Eletrônicos & Smart Home
     {"termo": "Celular Xiaomi", "desconto_minimo": 12},
+    {"termo": "Smartphone Xiaomi", "desconto_minimo": 12},
     {"termo": "Samsung NFC 8GB", "desconto_minimo": 12},
-    {"termo": "Smartphone NFC", "desconto_minimo": 12},
+    {"termo": "Samsung NFC 8gb 256gb", "desconto_minimo": 12},
+    {"termo": "Smartphone 8GB NFC", "desconto_minimo": 12},
     {"termo": "Relógio inteligente", "desconto_minimo": 15},
-    {"termo": "Smartwatch NFC", "desconto_minimo": 12},
+    {"termo": "Relógio samsung", "desconto_minimo": 20},
+    {"termo": "Smartwatch NFC", "desconto_minimo": 20},
     {"termo": "Fone de ouvido bluetooth", "desconto_minimo": 15},
     {"termo": "Smart TV", "desconto_minimo": 10},
     {"termo": "Fire TV Stick", "desconto_minimo": 12},
@@ -96,39 +106,46 @@ TERMOS_BUSCA = [
     {"termo": "Alexa Echo", "desconto_minimo": 15},
     
     # Eletrodomésticos & Eletroportáteis
-    {"termo": "Geladeira", "desconto_minimo": 10},
-    {"termo": "Aspirador de pó", "desconto_minimo": 15},
-    {"termo": "Fritadeira Airfryer", "desconto_minimo": 15},
-    {"termo": "Ventilador", "desconto_minimo": 10},
-    {"termo": "Cafeteira", "desconto_minimo": 15},
-    {"termo": "Ar condicionado", "desconto_minimo": 10},
-    {"termo": "Secador de cabelo", "desconto_minimo": 15},
-    {"termo": "Microondas", "desconto_minimo": 10},
-    {"termo": "Sanduicheira", "desconto_minimo": 25},
-    {"termo": "Purificador de água", "desconto_minimo": 25},
-    {"termo": "lavadora de alta pressao", "desconto_minimo": 25},
-    {"termo": "Panela elétrica de pressão", "desconto_minimo": 25},
-    {"termo": "Fogão Inox", "desconto_minimo": 25},
-    {"termo": "Chapinha", "desconto_minimo": 25},
-    {"termo": "Maquina de Lavar", "desconto_minimo": 25},
-    #{"termo": "Parafusadeira", "desconto_minimo": 10},
-    #{"termo": "Furadeira", "desconto_minimo": 10},
-    #{"termo": "Mixer", "desconto_minimo": 15},
-    {"termo": "Máquina de barbear", "desconto_minimo": 15},
+    {"termo": "Geladeira 220v", "desconto_minimo": 10},
+    {"termo": "Aspirador de pó 220v", "desconto_minimo": 15},
+    {"termo": "Fritadeira Airfryer 220v", "desconto_minimo": 25},
+    {"termo": "Ventilador 220v", "desconto_minimo": 10},
+    {"termo": "Cafeteira 220v", "desconto_minimo": 15},
+    {"termo": "Ar condicionado 220v", "desconto_minimo": 10},
+    {"termo": "Secador de cabelo 220v", "desconto_minimo": 15},
+    {"termo": "Microondas 220v", "desconto_minimo": 10},
+    {"termo": "Sanduicheira 220v", "desconto_minimo": 30},
+    {"termo": "Purificador de água 220v", "desconto_minimo": 25},
+    {"termo": "lavadora de alta pressao 220v", "desconto_minimo": 50},
+    {"termo": "Panela elétrica de pressão 220v", "desconto_minimo": 25},
+    {"termo": "Panela elétrica de arroz 220v", "desconto_minimo": 25},
+    {"termo": "Fogão Inox 220v", "desconto_minimo": 25},
+    {"termo": "Fogão cooktop 220v", "desconto_minimo": 25},
+    {"termo": "Chapinha 220v", "desconto_minimo": 25},
+    {"termo": "Maquina de Lavar 220v", "desconto_minimo": 25},
+    {"termo": "Parafusadeira", "desconto_minimo": 50},
+    {"termo": "Furadeira", "desconto_minimo": 50},
+    {"termo": "Mixer", "desconto_minimo": 50},
+    {"termo": "Máquina de barbear 220v", "desconto_minimo": 15},
+    {"termo": "Ferro eletrico vapor 220v", "desconto_minimo": 15},
+    {"termo": "Aparador de pelos 220v", "desconto_minimo": 15},
     
     # Fitness, Saúde & Suplementos
     {"termo": "Whey protein", "desconto_minimo": 15},
     {"termo": "Creatina", "desconto_minimo": 15},
     {"termo": "Bicicleta ergométrica", "desconto_minimo": 15},
     {"termo": "Garrafa academia", "desconto_minimo": 15},
-    {"termo": "Multivitaminico", "desconto_minimo": 15},
+    {"termo": "Multivitaminico", "desconto_minimo": 20},
     {"termo": "Magnesio", "desconto_minimo": 10},
-    {"termo": "Vitamina", "desconto_minimo": 30},
-    {"termo": "Roupa de academia", "desconto_minimo": 15},
+    {"termo": "Complexo B", "desconto_minimo": 17},
     
     # Beleza & Cuidado Pessoal
     {"termo": "Perfume Natura", "desconto_minimo": 15},
+    {"termo": "Perfume Natura Kriska", "desconto_minimo": 15},
+    {"termo": "Perfume Floratta", "desconto_minimo": 15},
     {"termo": "Perfume Boticario", "desconto_minimo": 15},
+    {"termo": "Perfume Boticario Egeo", "desconto_minimo": 15},
+    {"termo": "Perfume Arbo", "desconto_minimo": 15},
     {"termo": "Perfume masculino", "desconto_minimo": 15},
     {"termo": "Perfume feminino", "desconto_minimo": 15},
     {"termo": "Protetor solar facial", "desconto_minimo": 15},
@@ -141,14 +158,17 @@ TERMOS_BUSCA = [
     # Moda, Calçados & Utilitários
     {"termo": "Camisa dryfit", "desconto_minimo": 15},
     {"termo": "Camiseta masculina", "desconto_minimo": 15},
+    {"termo": "Short fitness", "desconto_minimo": 25},
     {"termo": "Bolsa", "desconto_minimo": 15},
     {"termo": "Mochila", "desconto_minimo": 20},
     {"termo": "Roupa de academia", "desconto_minimo": 15},
-    {"termo": "Tênis", "desconto_minimo": 20},
+    {"termo": "Tênis unissex", "desconto_minimo": 20},
     {"termo": "Kit de meias", "desconto_minimo": 20},
     {"termo": "Chinelo", "desconto_minimo": 20},
     {"termo": "Kit Cuecas Boxer", "desconto_minimo": 15},
     {"termo": "Camisa de time", "desconto_minimo": 20},
+    {"termo": "Colcha de cama casal", "desconto_minimo": 20},
+    {"termo": "Cortina", "desconto_minimo": 20},
     {"termo": "Copo térmico", "desconto_minimo": 15}
 ]
 # =========================================================
@@ -887,7 +907,8 @@ def orquestrar_bot():
     # Inicia o WhatsApp (usa o headless_mode detectado)
     if whatsapp.iniciar(headless=headless_mode):
         # Executa verificação e envio de alertas de ofertas expiradas antes de novos envios
-        checar_e_alertar_expirados(whatsapp, historico)
+        # checar_e_alertar_expirados(whatsapp, historico)
+
         
         for idx, item in enumerate(ofertas_prontas):
             item_id = obter_id_unico(item)
