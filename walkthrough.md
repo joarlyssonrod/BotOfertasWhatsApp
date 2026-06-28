@@ -98,6 +98,7 @@ Identificamos e corrigimos os timeouts de `25000ms` / `30000ms` que ocorriam nas
   - Adicionamos uma verificação dupla (double-check) na URL da página ativa logo antes de retornar o produto como "expirado". Caso a URL atual contenha indicações de bloqueio de CAPTCHA ou verificação de conta, o Verificador aborta a checagem marcando-a como `bloqueio_verificacao` (mantendo a oferta ativa no grupo do WhatsApp) em vez de decretá-la expirada falsamente.
 - **Resultado**: Removidos os alertas incorretos de ofertas finalizadas e aumentada a estabilidade do sistema de checagem.
 
-
-
-
+### 13. Remoção do Arquivo de Registro de Execução (`registro_execucao.txt`)
+- **Solicitação**: O usuário solicitou a remoção da geração automática do arquivo `registro_execucao.txt` que guardava os logs da execução invisível.
+- **Implementação**: Revertemos a alteração no arquivo [Rodar Invisivel.vbs](file:///E:/Apps/BotOfertasWhatsApp/Rodar%20Invisivel.vbs), removendo o redirecionamento de logs (`> registro_execucao.txt 2>&1`). O VBScript agora simplesmente executa o bot de forma 100% invisível em segundo plano sem criar nenhum arquivo de log local ou interferir no uso do computador.
+- **Limpeza**: O arquivo `registro_execucao.txt` existente foi deletado da pasta do projeto para manter a organização.
