@@ -175,6 +175,11 @@ def buscar_ofertas_promobit(desconto_minimo=10, limite=5):
                 # Calcula desconto
                 preco_original = float(preco_original)
                 preco_atual = float(preco_atual)
+                
+                # Ignora cupons genéricos e promoções com preço simbólico (como R$ 0.01 ou R$ 1.00)
+                if preco_atual <= 2.00 or titulo.lower().startswith("cupom") or "cupom " in titulo.lower() or "cupom:" in titulo.lower():
+                    continue
+                
                 desconto = 0.0
                 if preco_original > preco_atual:
                     desconto = round(((preco_original - preco_atual) / preco_original) * 100, 1)
