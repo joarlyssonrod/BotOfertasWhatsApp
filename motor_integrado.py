@@ -26,8 +26,8 @@ HISTORICO_FILE = "historico_envios.json"
 # Modos de Busca:
 # "OFERTAS_DO_DIA" -> Garimpa as páginas oficiais de Ofertas do Dia / Destaques
 # "TERMOS_ESPECIFICOS" -> Busca termos específicos configurados na lista TERMOS_BUSCA
-MODO_DE_BUSCA = "OFERTAS_DO_DIA"
-#MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
+#MODO_DE_BUSCA = "OFERTAS_DO_DIA"
+MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
 
 # Lojas ativas para busca:
 BUSCAR_NO_MERCADO_LIVRE = True
@@ -56,7 +56,7 @@ GRUPO_UNICO_NOME = "Ofertas - Geral"  # Nome do grupo/canal unificado no WhatsAp
 # Termos específicos (usados apenas se MODO_DE_BUSCA = "TERMOS_ESPECIFICOS")
 TERMOS_BUSCA = [
     # Tecnologia & Hardware
-    {"termo": "Console PlayStation 5", "desconto_minimo": 10},
+    {"termo": "Console PlayStation® 5 Slim", "desconto_minimo": 10},
     {"termo": "Controle PlayStation 5", "desconto_minimo": 20},
     {"termo": "Xbox Series X", "desconto_minimo": 8},
     {"termo": "Xbox Series S", "desconto_minimo": 8},
