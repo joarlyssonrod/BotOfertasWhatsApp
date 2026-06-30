@@ -26,8 +26,8 @@ HISTORICO_FILE = "historico_envios.json"
 # Modos de Busca:
 # "OFERTAS_DO_DIA" -> Garimpa as páginas oficiais de Ofertas do Dia / Destaques
 # "TERMOS_ESPECIFICOS" -> Busca termos específicos configurados na lista TERMOS_BUSCA
-#MODO_DE_BUSCA = "OFERTAS_DO_DIA"
-MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
+MODO_DE_BUSCA = "OFERTAS_DO_DIA"
+# MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
 
 # Lojas ativas para busca:
 BUSCAR_NO_MERCADO_LIVRE = True
