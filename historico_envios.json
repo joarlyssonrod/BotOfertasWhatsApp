@@ -6870,5 +6870,157 @@
         "preco": 2199.0,
         "timestamp": 1782994367.7036142,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B07RWDCS45",
+        "link_bruto": "https://www.amazon.com.br/Zaad-Mondo-Eau-Parfum-95ml/dp/B07RWDCS45/ref=sr_1_46",
+        "titulo": "Zaad Mondo Eau de Parfum 95ml",
+        "preco": 299.9,
+        "timestamp": 1782997635.6502788,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_53363112272",
+        "link_bruto": "https://s.shopee.com.br/7fXuj7krqi",
+        "titulo": "Conjunto de Shampoo e Condicionador OUAI Fine - Shampoo e Condicionador Sem Sulfato para Mulheres e Homens - Feito com Q",
+        "preco": 188.36,
+        "timestamp": 1782997676.6071458,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3814055710",
+        "link_bruto": "https://www.mercadolivre.com.br/gabinete-gamer-acegeek-qube-meshmidtowerlateral-de-vidro/up/MLBU3814055710",
+        "titulo": "Gabinete Gamer Acegeek Qube Mesh,mid-tower,lateral De Vidro",
+        "preco": 213.74,
+        "timestamp": 1782997711.0300612,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CGRWRRYD",
+        "link_bruto": "https://www.amazon.com.br/Cobre-Leito-Colcha-Casal-Ultrasonic/dp/B0CGRWRRYD/ref=sr_1_7",
+        "titulo": "Cobre Leito Colcha Casal Queen Dupla Face com Toque Macio 200 Fios Ultrasonic 03 Peças Bulet - Bege",
+        "preco": 76.62,
+        "timestamp": 1782997748.013563,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3860293699",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-jogo-de-ferramentas-precisao-magnetico-115-pecas-quicko/up/MLBU3860293699",
+        "titulo": "Kit Jogo De Ferramentas Precisão Magnético 115 Peças Quicko",
+        "preco": 40.45,
+        "timestamp": 1782997792.487526,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FZCKG5JH",
+        "link_bruto": "https://www.amazon.com.br/Costura-Microfibra-Santara-Premium-Seamless/dp/B0FZCKG5JH/ref=sr_1_46",
+        "titulo": "Santara",
+        "preco": 23.99,
+        "timestamp": 1782997831.597905,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BX7FFPZX",
+        "link_bruto": "https://www.amazon.com.br/MIZUNO-MIMSA21811-MOCHILA-FUN-NEW/dp/B0BX7FFPZX/ref=sr_1_36",
+        "titulo": "MOCHILA MIZUNO FUN NEW",
+        "preco": 79.99,
+        "timestamp": 1782997877.372173,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BS5HD8P1",
+        "link_bruto": "https://www.amazon.com.br/Cafeteira-Nescaf%C3%A9-Dolce-Gusto-Branca/dp/B0BS5HD8P1/ref=sr_1_56",
+        "titulo": "Cafeteira Nescafé Dolce Gusto NEO Branca NEOB, Tecnologia Sustentável, Cápsulas de Papel, Extração Inteligente e Design Moderno, 220V",
+        "preco": 318.0,
+        "timestamp": 1782997913.4520054,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09KDZHSVM",
+        "link_bruto": "https://www.amazon.com.br/Furadeira-Impacto-Mondial-127V-650W/dp/B09KDZHSVM/ref=sr_1_7",
+        "titulo": "MONDIAL Furadeira de Impacto com maleta e 19 acessórios, Mondial, Laranja, 650W, 110V - FI-RH-01M",
+        "preco": 129.0,
+        "timestamp": 1782997960.2439756,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C9G9KG7N",
+        "link_bruto": "https://www.amazon.com.br/Secador-Gama-Eleganza-Plus-Ceramic/dp/B0C9G9KG7N/ref=sr_1_6",
+        "titulo": "GA.MA ITALY Secador de Cabelo Gama Eleganza Plus Ceramic Ion 2100W 220v",
+        "preco": 114.95,
+        "timestamp": 1782998003.6366131,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_CE3720CDA0",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/purificador-de-agua-ibbl-novo-e-due-full-range-127v-a-220v/p/ce3720cda0/ep/pams/?seller_id=techshop",
+        "titulo": "Purificador de Água IBBL Novo E-Due Full Range 127v a 220v",
+        "preco": 423.52,
+        "timestamp": 1782998039.1240416,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240352100",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartwatch-samsung-galaxy-watch8-44mm-branco-32gb-bluetooth/p/240352100/te/gaw8/?seller_id=magazineluiza",
+        "titulo": "Smartwatch Samsung Galaxy Watch8 44mm Branco 32GB Bluetooth",
+        "preco": 1709.1,
+        "timestamp": 1782998081.1836588,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_24094180609",
+        "link_bruto": "https://s.shopee.com.br/5L9zwG0SGs",
+        "titulo": "Máquina De Barbear Masculina Recarregável 220V 4D 3 Cabeças | TDU 220V Homens Elétrico Barbeador De Barba De Cabeça",
+        "preco": 53.99,
+        "timestamp": 1782998116.9642031,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FPYLPCLK",
+        "link_bruto": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0FPYLPCLK/ref=sr_1_7",
+        "titulo": "Celular Samsung Galaxy A17, 256GB, 8GB, 50MP Tela 6.7\", IP54 - Azul",
+        "preco": 1028.6,
+        "timestamp": 1782998162.2708247,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D548TDD7",
+        "link_bruto": "https://www.amazon.com.br/PUMA-Top-Nadador-Sem-Costura/dp/B0D548TDD7/ref=sr_1_5",
+        "titulo": "PUMA",
+        "preco": 37.99,
+        "timestamp": 1782998201.6477194,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB33230345",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-jogo-de-ferramentas-preciso-magnetico-115-pecas-quicko-para-reparaco-kit-completo-para-assistencia-tecnica-celulares-jogo-de-chave-abrir-celular-equipamentos-para-manutenco-de-celular/p/MLB33230345",
+        "titulo": "Kit Jogo de Ferramentas Precisão Magnético 115 Peças Quicko para Reparação Kit Completo Para Assistencia Tecnica Celulares Jogo De Chave Abrir Celular Equipamentos Para Manutenção De Celular",
+        "preco": 29.9,
+        "timestamp": 1782998245.240007,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JJH1J7EAC3",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/placa-de-video-msi-rtx-5060-shadow-2x-oc-nvidia-geforce-8gb-gddr7-128-bit-912-v537-038/p/jjh1j7eac3/in/pcvd/?seller_id=kabum",
+        "titulo": "Placa de Vídeo MSI RTX 5060 Shadow 2X OC NVIDIA GeForce, 8GB, GDDR7, 128-bit - 912-V537-038",
+        "preco": 2588.22,
+        "timestamp": 1782998287.7439818,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B083JNFRSC",
+        "link_bruto": "https://www.amazon.com.br/Cortina-Blackout-00X1-Cole%C3%A7%C3%A3o-Admirare/dp/B083JNFRSC/ref=sr_1_12",
+        "titulo": "Cortina Blackout 2,00 X 1,80 Coleção Nova - Admirare Cor:Avelã",
+        "preco": 63.06,
+        "timestamp": 1782998324.4978683,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0G263QFDQ",
+        "link_bruto": "https://www.amazon.com.br/Sandrini-Masculinas-Camiseta-Esportiva-Academia/dp/B0G263QFDQ/ref=sr_1_40",
+        "titulo": "Sandrini",
+        "preco": 49.99,
+        "timestamp": 1782998359.2585478,
+        "expirado": false
     }
 ]
