@@ -26,8 +26,8 @@ HISTORICO_FILE = "historico_envios.json"
 # Modos de Busca:
 # "OFERTAS_DO_DIA" -> Garimpa as páginas oficiais de Ofertas do Dia / Destaques
 # "TERMOS_ESPECIFICOS" -> Busca termos específicos configurados na lista TERMOS_BUSCA
-MODO_DE_BUSCA = "OFERTAS_DO_DIA"
-# MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
+#MODO_DE_BUSCA = "OFERTAS_DO_DIA"
+MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
 
 # Lojas ativas para busca:
 BUSCAR_NO_MERCADO_LIVRE = True
@@ -58,8 +58,8 @@ TERMOS_BUSCA = [
     # Tecnologia & Hardware
     {"termo": "Console PlayStation® 5 Slim", "desconto_minimo": 10},
     {"termo": "Controle PlayStation 5", "desconto_minimo": 20},
-    {"termo": "Xbox Series X", "desconto_minimo": 8},
-    {"termo": "Xbox Series S", "desconto_minimo": 8},
+    {"termo": "Console Xbox Series X", "desconto_minimo": 8},
+    {"termo": "Console Xbox Series S", "desconto_minimo": 8},
     {"termo": "Controle para Xbox Series S", "desconto_minimo": 20},
     {"termo": "Processador Ryzen 5 AM4", "desconto_minimo": 15},
     {"termo": "Processador Intel i5", "desconto_minimo": 15},
@@ -96,6 +96,7 @@ TERMOS_BUSCA = [
     {"termo": "Smartphone 8GB NFC", "desconto_minimo": 12},
     {"termo": "Relógio inteligente", "desconto_minimo": 15},
     {"termo": "Relógio samsung", "desconto_minimo": 20},
+    {"termo": "Smartwatch samsung galaxy", "desconto_minimo": 20},
     {"termo": "Smartwatch NFC", "desconto_minimo": 20},
     {"termo": "Fone de ouvido bluetooth", "desconto_minimo": 15},
     {"termo": "Smart TV", "desconto_minimo": 10},
@@ -707,6 +708,58 @@ def checar_e_alertar_expirados(whatsapp, historico):
     if historico_alterado:
         salvar_historico(historico)
 
+def git_sync_pull():
+    """Tenta puxar atualizações do histórico no GitHub antes de rodar"""
+    import subprocess
+    try:
+        print("🔄 [Git Sync] Buscando atualizações do histórico no GitHub...")
+        result = subprocess.run(
+            ["git", "pull", "--rebase"], 
+            stdout=subprocess.PIPE, 
+            stderr=subprocess.PIPE, 
+            text=True, 
+            timeout=15
+        )
+        if result.returncode == 0:
+            print("✅ [Git Sync] Histórico atualizado com sucesso do GitHub.")
+        else:
+            print(f"⚠️ [Git Sync] Aviso ao atualizar do GitHub (pull): {result.stderr.strip()}")
+    except Exception as e:
+        print(f"⚠️ [Git Sync] Não foi possível atualizar do GitHub: {e}")
+
+def git_sync_push():
+    """Tenta commitar e enviar as atualizações do histórico para o GitHub"""
+    import subprocess
+    try:
+        # Verifica se há alterações no historico_envios.json
+        status_res = subprocess.run(
+            ["git", "status", "--porcelain", HISTORICO_FILE],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+            timeout=5
+        )
+        if status_res.stdout.strip():
+            print("📤 [Git Sync] Enviando novo histórico para o GitHub...")
+            subprocess.run(["git", "add", HISTORICO_FILE], check=True, timeout=5)
+            msg = f"Auto-update history: {int(time.time())}"
+            subprocess.run(["git", "commit", "-m", msg], check=True, timeout=5)
+            push_res = subprocess.run(
+                ["git", "push"],
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+                text=True,
+                timeout=20
+            )
+            if push_res.returncode == 0:
+                print("✅ [Git Sync] Histórico atualizado e enviado com sucesso ao GitHub!")
+            else:
+                print(f"⚠️ [Git Sync] Falha no git push: {push_res.stderr.strip()}")
+        else:
+            print("🤷‍♂️ [Git Sync] Histórico de envios sem alterações para enviar.")
+    except Exception as e:
+        print(f"⚠️ [Git Sync] Não foi possível sincronizar o histórico com o GitHub: {e}")
+
 def orquestrar_bot():
     # Salvaguarda: Evita enviar mensagens de madrugada (das 23h às 08h) para não incomodar os membros
     import datetime
@@ -720,6 +773,8 @@ def orquestrar_bot():
     print("🤖 BOT DE AFILIADOS MERCADO LIVRE & WHATSAPP")
     print(f"📡 Modo de Busca Ativo: {MODO_DE_BUSCA}")
     print("🚀 =========================================\n")
+    
+    git_sync_pull()
     
     headless_mode = "--headless" in sys.argv
     
@@ -974,6 +1029,7 @@ def orquestrar_bot():
     else:
         print("🚨 Falha ao conectar no WhatsApp Web. Verifique a sessão.")
 
+    git_sync_push()
     print("\n🏁 Operação concluída com sucesso!")
 
 if __name__ == "__main__":

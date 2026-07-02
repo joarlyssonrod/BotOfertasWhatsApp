@@ -202,3 +202,12 @@ Identificamos e corrigimos os timeouts de `25000ms` / `30000ms` que ocorriam nas
 - **Solução**: Atualizamos o [promobit_scraper.py](file:///E:/Apps/BotOfertasWhatsApp/promobit_scraper.py) para filtrar e ignorar posts que tenham preço menor ou igual a R$ 2,00 (que são preços fictícios de cupons) ou que contenham a palavra "cupom" no título.
 - **Resultado**: Apenas ofertas reais de produtos físicos são enviadas, e posts de cupons de loja genéricos ou cupons de frete grátis sem produto específico são ignorados pelo scraper.
 
+### 15. Sincronização Automática do Histórico com o GitHub
+- **Problema**: Ao rodar o bot em computadores diferentes (ex: em casa e no trabalho), o arquivo de histórico `historico_envios.json` ficava desatualizado se o usuário esquecesse de fazer commits e pushes manuais, gerando envio de ofertas repetidas nas execuções.
+- **Solução**:
+  - Implementamos funções de integração git usando a biblioteca `subprocess` do Python no arquivo [motor_integrado.py](file:///c:/Users/jrgrangeiro/Documents/BotMercadoLivre/motor_integrado.py).
+  - **Git Pull no Início**: O bot executa `git pull --rebase` assim que inicia a rodada para obter a última versão do histórico gravada no repositório.
+  - **Git Push no Final**: Caso tenham ocorrido novos envios e o arquivo `historico_envios.json` tenha sido alterado, o bot realiza automaticamente os comandos `git add`, `git commit` (com timestamp do commit) e `git push` ao finalizar a execução.
+- **Resultado**: O histórico de ofertas enviadas agora é mantido em sincronia perfeita de forma 100% automática entre o computador de casa e o do trabalho.
+
+
