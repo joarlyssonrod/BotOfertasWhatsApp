@@ -26,8 +26,8 @@ HISTORICO_FILE = "historico_envios.json"
 # Modos de Busca:
 # "OFERTAS_DO_DIA" -> Garimpa as páginas oficiais de Ofertas do Dia / Destaques
 # "TERMOS_ESPECIFICOS" -> Busca termos específicos configurados na lista TERMOS_BUSCA
-MODO_DE_BUSCA = "OFERTAS_DO_DIA"
-#MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
+#MODO_DE_BUSCA = "OFERTAS_DO_DIA"
+MODO_DE_BUSCA = "TERMOS_ESPECIFICOS"
 
 # Lojas ativas para busca:
 BUSCAR_NO_MERCADO_LIVRE = True
@@ -38,7 +38,7 @@ BUSCAR_NO_PROMOBIT = True
 
 # Se True, no modo OFERTAS_DO_DIA, o bot só envia ofertas que contêm algum termo da lista TERMOS_BUSCA.
 # Se False, envia qualquer boa oferta encontrada nas páginas de ofertas do dia.
-FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = False
+FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = True
 
 # Limite máximo de ofertas que serão postadas nesta execução (para evitar inundar o grupo de uma vez)
 LIMITE_MENSAGENS_POR_RODADA = 19
@@ -75,7 +75,7 @@ TERMOS_BUSCA = [
     {"termo": "Water Cooler", "desconto_minimo": 10},
     {"termo": "Monitor Gamer 144Hz", "desconto_minimo": 12},
     {"termo": "Teclado mecânico", "desconto_minimo": 15},
-    {"termo": "Mouse pad gamer", "desconto_minimo": 15},
+    {"termo": "Mouse gamer", "desconto_minimo": 15},
     {"termo": "Notebook i5", "desconto_minimo": 10},
     {"termo": "Notebook Gamer ryzen 5 nvidia", "desconto_minimo": 20},
     {"termo": "Tablet", "desconto_minimo": 10},
@@ -85,7 +85,7 @@ TERMOS_BUSCA = [
     {"termo": "Impressora", "desconto_minimo": 10},
     {"termo": "Mesa para PC", "desconto_minimo": 15},
     {"termo": "Cadeira gamer", "desconto_minimo": 12},
-    {"termo": "jogo de chaves computador celular", "desconto_minimo": 30},
+    #{"termo": "jogo de chaves computador celular", "desconto_minimo": 30},
     {"termo": "jogo de chaves eletrico computador celular", "desconto_minimo": 30},
     
     # Eletrônicos & Smart Home
@@ -104,7 +104,7 @@ TERMOS_BUSCA = [
     {"termo": "Roku Streaming Stick", "desconto_minimo": 12},
     {"termo": "Caixa de Som Bluetooth", "desconto_minimo": 25},
     {"termo": "Pote de vidro", "desconto_minimo": 30},
-    {"termo": "Alexa Echo", "desconto_minimo": 15},
+    {"termo": "Echo Dot", "desconto_minimo": 15},
     
     # Eletrodomésticos & Eletroportáteis
     {"termo": "Geladeira 220v", "desconto_minimo": 10},
@@ -124,8 +124,8 @@ TERMOS_BUSCA = [
     {"termo": "Fogão cooktop 220v", "desconto_minimo": 25},
     {"termo": "Chapinha 220v", "desconto_minimo": 25},
     {"termo": "Maquina de Lavar 220v", "desconto_minimo": 25},
-    {"termo": "Parafusadeira", "desconto_minimo": 50},
-    {"termo": "Furadeira", "desconto_minimo": 50},
+    #{"termo": "Parafusadeira", "desconto_minimo": 50},
+    #{"termo": "Furadeira", "desconto_minimo": 50},
     {"termo": "Mixer", "desconto_minimo": 50},
     {"termo": "Máquina de barbear 220v", "desconto_minimo": 15},
     {"termo": "Ferro eletrico vapor 220v", "desconto_minimo": 15},
@@ -168,7 +168,7 @@ TERMOS_BUSCA = [
     {"termo": "Chinelo", "desconto_minimo": 20},
     {"termo": "Kit Cuecas Boxer", "desconto_minimo": 15},
     {"termo": "Camisa de time", "desconto_minimo": 20},
-    {"termo": "Colcha de cama casal", "desconto_minimo": 20},
+    {"termo": "Colcha de cama casal", "desconto_minimo": 15},
     {"termo": "Cortina", "desconto_minimo": 20},
     {"termo": "Copo térmico", "desconto_minimo": 15}
 ]
