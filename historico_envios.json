@@ -8534,5 +8534,29 @@
         "preco": 26.07,
         "timestamp": 1783288567.938525,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_58262533874",
+        "link_bruto": "https://s.shopee.com.br/1LdxrGdPZ5",
+        "titulo": "Camisa Camiseta MASCULINA Brasil AMARELA Torcedor Patriota Copa do Mundo MODELO 2026 BORDADA",
+        "preco": 39.45,
+        "timestamp": 1783358757.9654787,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DVK166SV",
+        "link_bruto": "https://www.amazon.com.br/Fire-TV-Stick-HD/dp/B0DVK166SV",
+        "titulo": "Amazon Fire TV Stick HD (modelo mais recente), Controle Remoto por Voz com Alexa, alimentado pela TV, com configuração simples e Acesso Antecipado à Alexa+",
+        "preco": 265.0,
+        "timestamp": 1783358794.9076636,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23198037056",
+        "link_bruto": "https://s.shopee.com.br/4Vazd5RM8u",
+        "titulo": "Smart TV Hisense 40\" Full HD 40A4N, HDMI, USB, Conexão Wi-Fi, Modo AI Esportes, Game Mode",
+        "preco": 1449.9,
+        "timestamp": 1783358841.4668233,
+        "expirado": false
     }
 ]
