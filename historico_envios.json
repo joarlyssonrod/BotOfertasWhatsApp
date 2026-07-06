@@ -8838,5 +8838,53 @@
         "preco": 402.9,
         "timestamp": 1783367364.513038,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B07L8PWVW5",
+        "link_bruto": "https://www.amazon.com.br/dp/B07L8PWVW5?tag=promobit-d-20&th=1",
+        "titulo": "Panela Pressão Elétrica Mondial 5L, 900W",
+        "preco": 296.56,
+        "timestamp": 1783368226.8723288,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB46053181",
+        "link_bruto": "https://www.mercadolivre.com.br/liquidificador-pratic-turbo-iii-mondial-550w-l-93-bg/p/MLB46053181",
+        "titulo": "Liquidificador Pratic Turbo Iii, Mondial, 550w - L-93-bg",
+        "preco": 79.9,
+        "timestamp": 1783368273.0713933,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB18995411",
+        "link_bruto": "https://www.mercadolivre.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph-sabor-baunilha/p/MLB18995411?matt_event_ts=1783368127532&matt_d2id=b2543b78-8ce4-427b-bb15-a408f969b68c&matt_tracing_id=bbbc2fba-229b-4bea-9e4d-6a41aef81d51#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f97d1425-d0af-4fcd-b870-71943ca2b61b&tracking_id=939037bd-8882-45c4-9bb8-df1784fc9463&c_id=/home/card-featured/element&c_uid=667138df-1680-4c03-9be2-407dc0d6b27a",
+        "titulo": "Whey 100% Hd Refil Black Skull 900g Wpc Wpi E Wph Sabor Baunilha",
+        "preco": 61.12,
+        "timestamp": 1783368319.9130971,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54963150",
+        "link_bruto": "https://www.mercadolivre.com.br/console-playstation-5-slim-edico-digital-825-gb/p/MLB54963150?matt_event_ts=1783368035481&matt_d2id=ee9eb763-6349-4544-9e00-2030866af4df&matt_tracing_id=17dc5ea2-7865-4599-8092-0b68fd40e1dd#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ec0ff6fc-30bb-42a5-bcff-0891a19a506b&tracking_id=9d3da395-2ac6-437f-ada4-b0b1d720d499&c_id=/home/card-featured/element&c_uid=14ee9bc1-3d4d-47fa-99b9-68abf3bbb02e",
+        "titulo": "Console Playstation 5 Slim Edição Digital 825 Gb",
+        "preco": 3299.0,
+        "timestamp": 1783368356.517519,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08K2Y2KQN",
+        "link_bruto": "https://www.amazon.com.br/dp/B08K2Y2KQN?social_share=cm_sw_r_apan_dp_T6PDZXSJKCZHXZQY9BQP&tag=promobit-d-20",
+        "titulo": "Controle Sem Fio para Xbox com cabo Usb-C - Preto Carbono (Carbon Black)",
+        "preco": 276.75,
+        "timestamp": 1783368389.43128,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07GPY9245",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B07GPY9245?tag=promobit-d-20&th=1",
+        "titulo": "Fralda Pampers Premium Care M 34 unidades",
+        "preco": 36.58,
+        "timestamp": 1783368425.4838843,
+        "expirado": false
     }
 ]
