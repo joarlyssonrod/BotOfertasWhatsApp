@@ -9798,5 +9798,101 @@
         "preco": 335.61,
         "timestamp": 1783448247.4907346,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0779M4FTG",
+        "link_bruto": "https://www.amazon.com.br/dp/B0779M4FTG?m=A1ZZFT5FULY4LN&tag=promobit-d-20",
+        "titulo": "Nautika Cadeira Tático Dobravel Tecido e Metal",
+        "preco": 25.2,
+        "timestamp": 1783454506.2857273,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB45070708",
+        "link_bruto": "https://www.mercadolivre.com.br/fritadeira-eletrica-afon-12l-bg-forno-oven-12-litros-preto-mondial/p/MLB45070708",
+        "titulo": "Fritadeira Elétrica Afon-12l-bg Forno Oven 12 Litros Preto Mondial 127v",
+        "preco": 393.3,
+        "timestamp": 1783454543.3619277,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB44117615",
+        "link_bruto": "https://www.mercadolivre.com.br/fritadeira-eletrica-afon-12l-bg-forno-oven-12-litros-preto-mondial/p/MLB44117615",
+        "titulo": "Fritadeira Elétrica Afon-12l-bg Forno Oven 12 Litros Preto Mondial 220v",
+        "preco": 393.3,
+        "timestamp": 1783454579.3874252,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB58372375",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-samsung-led-50-lh50befh4ggxzd-led-crystal-processor-4k-uhd-tizen-110v220v/p/MLB58372375?matt_event_ts=1783454401319&matt_d2id=943721e7-8ede-49cb-9785-789a12ac3598&matt_tracing_id=8623ecca-8441-4ac1-b2bf-ad93d4d81b9d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=409845ba-affe-4543-aa87-df9e9d28f982&tracking_id=c551fd54-007d-4922-98c4-6a081d2ad272&c_id=/home/card-featured/element&c_uid=f13ae860-a02a-42fd-b236-c3c4ad3377a3",
+        "titulo": "Smart TV Samsung LED Crystal 50\" LH50BEFH4GGXZD",
+        "preco": 1808.0,
+        "timestamp": 1783454613.5706556,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB33630217",
+        "link_bruto": "https://www.mercadolivre.com.br/aparelho-de-jantar-e-cha-ryo-maresia-20-pecas-branco-e-marrom-oxford/p/MLB33630217",
+        "titulo": "Aparelho De Jantar E Chá Ryo Maresia 20 Peças Branco E Marrom Oxford",
+        "preco": 271.9,
+        "timestamp": 1783454652.8214402,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DWFQCY3V",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DWFQCY3V?tag=promobit-d-20&th=1",
+        "titulo": "Smartwatch HUAWEI Band 10 Corpo Elegante em Liga de Alumínio Análise do Sono em Nível Profissional Assistente de",
+        "preco": 171.75,
+        "timestamp": 1783454694.8073862,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_47060418366",
+        "link_bruto": "https://shopee.com.br/product/1343318906/47060418366?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTEmQAAAAxIkgUjeuEUXHA7jUGukPtQnPN9MsXe-8iqyqGE_xsxc8JJA2euOYwhCX3Ef7bG-GG0T9lig9Fp8s0qxLOs-qf8WNAP_f5nl0KeZCAeN0cqRr6kFwfwHOq4DWx9rEv9FnwH6TrsorhqzJf-SifLlcFRD7sIdHnMPjkH1zbsuvhYgbmeQ42rIHOOdU3mGf62e-BViYyNGg&lang=pt-BR&mmp_pid=an_18140170000&uls_trackid=5633encl000a&utm_campaign=id_4ec10035738b5051&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=f6ugukg7sras",
+        "titulo": "Controle JoyStick Sony Dualsense sem fio Ps5 - Midnight Black",
+        "preco": 330.73,
+        "timestamp": 1783454740.0841243,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB69053070",
+        "link_bruto": "https://www.mercadolivre.com.br/placa-de-video-geforce-nvidia-pny-rtx5060ti-8gb-oc-gddr7/p/MLB69053070",
+        "titulo": "Placa De Video Geforce Nvidia Pny Rtx5060ti 8gb Oc Gddr7",
+        "preco": 2689.0,
+        "timestamp": 1783454778.7528412,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB1040287800",
+        "link_bruto": "https://www.mercadolivre.com.br/apple-iphone-16-128-gb-ultramarine-distribuidor-autorizado/p/MLB1040287800",
+        "titulo": "Apple iPhone 16 (128 Gb) - Ultramarine - Distribuidor Autorizado",
+        "preco": 4229.0,
+        "timestamp": 1783454820.754734,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FPDWXTY8",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FPDWXTY8?tag=promobit-d-20",
+        "titulo": "Monitor Gamer TCL 27G64 QHD 16:9 27\" QD Mini LED,180 Hz HDR 600 nits 1ms Gama de Cores 96%",
+        "preco": 1719.1,
+        "timestamp": 1783454857.791566,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB41221309",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-3-perfume-infantil-cebolinha-jequiti-25ml-turma-da-monica/p/MLB41221309?matt_event_ts=1783454357801&matt_d2id=e6e9d4e6-8277-47e1-b553-8aa642435af1&matt_tracing_id=23d94a71-a934-448d-92d0-e0d561c629ec#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7a3633c1-2ca6-4f52-8f76-ce93e14ad2e5&tracking_id=42f09bae-44f1-4d13-adf8-1e48bcf8cb48&c_id=/home/card-featured/element&c_uid=72eb4229-8359-4d28-a033-25aebdb604d5",
+        "titulo": "Kit 3 Perfume Cebolinha 25ml Jequiti",
+        "preco": 45.0,
+        "timestamp": 1783454902.1883142,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50002371",
+        "link_bruto": "https://www.mercadolivre.com.br/fone-qcy-buds-t43-bluetooth-53-enc-ipx4-cor-preto/p/MLB50002371?matt_event_ts=1783454368638&matt_d2id=3534d75b-ec13-4dae-973c-6d27d2d84089&matt_tracing_id=b794dcef-edef-4b42-b03a-c15e4866c01b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=70d8da80-c8ac-40e1-92f3-db75f05ed334&tracking_id=cff1a8f2-dd6e-42c1-adf7-198c8deef174&c_id=/home/card-featured/element&c_uid=a97b4cbf-b690-4249-bf4e-659f0f5a8259",
+        "titulo": "Fone Qcy Buds T43 Bluetooth 5.3 Enc Ipx4 Cor Preto",
+        "preco": 82.43,
+        "timestamp": 1783454946.7375064,
+        "expirado": false
     }
 ]
