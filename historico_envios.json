@@ -9342,5 +9342,157 @@
         "preco": 185.0,
         "timestamp": 1783427405.993447,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_43182274043",
+        "link_bruto": "https://s.shopee.com.br/4qDrQSvRXc",
+        "titulo": "Protetor Solar Facial com Cor FPS 50, Protetor Solar Universal com Cor, Protetor Solar Facial Hidratante, Essência Solar",
+        "preco": 130.67,
+        "timestamp": 1783435024.8489802,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GHSBS5CM",
+        "link_bruto": "https://www.amazon.com.br/T%C3%AAnis-Mizuno-Cool-Ride-Tamanho/dp/B0GHSBS5CM/ref=sr_1_5",
+        "titulo": "Mizuno",
+        "preco": 189.99,
+        "timestamp": 1783435057.2883627,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HE7DD61JH0",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/chinelo-kenner-nk6-masculino-sandalia-tratorada-antiderrapante-original/p/he7dd61jh0/md/chfm/?seller_id=lojatotalmobile",
+        "titulo": "Chinelo Kenner Nk6 Masculino Sandália Tratorada Antiderrapante Original",
+        "preco": 143.27,
+        "timestamp": 1783435092.5817206,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FP6JN5VR",
+        "link_bruto": "https://www.amazon.com.br/Samsung-Tablet-Galaxy-Smartbook-Inclusas/dp/B0FP6JN5VR/ref=sr_1_11",
+        "titulo": "Samsung Tablet Galaxy Tab S10 Lite WiFi, 256GB, 8GB RAM, Tela 10.9\", S Pen e Capa Smartbook Cover Inclusas",
+        "preco": 2069.1,
+        "timestamp": 1783435133.9367938,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_GD5AK43HK3",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/memoria-ram-kingston-fury-beast-16gb-3200mhz-ddr4-cl16-preto-kf432c16bb1-16/p/gd5ak43hk3/in/mram/?seller_id=kabum",
+        "titulo": "Memória RAM Kingston Fury Beast, 16GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB1/16",
+        "preco": 807.05,
+        "timestamp": 1783435179.7747538,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_AD86G7H0J6",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/mouse-gamer-sem-fio-logitech-g-pro-x2-superstrike-lightspeed-61g-cliques-tateis-personalizaveis-usb-c-preto-e-branco-910-007775/p/ad86g7h0j6/in/mger/?seller_id=kabum",
+        "titulo": "Mouse Gamer Sem Fio Logitech G PRO X2 SUPERSTRIKE LIGHTSPEED, 61g, Cliques Táteis Personalizáveis, USB-C, Preto e Branco - 910-007775",
+        "preco": 1079.9,
+        "timestamp": 1783435227.689003,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58262291719",
+        "link_bruto": "https://s.shopee.com.br/8V79cKgpEX",
+        "titulo": "Suporte para Monitor Arzopa e Similares – Base de Mesa para Monitor Portátil sem Pé",
+        "preco": 71.0,
+        "timestamp": 1783435268.0972888,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BXQ5RMNV",
+        "link_bruto": "https://www.amazon.com.br/CONTROLE-SEM-FIO-XBOX-VELOCITY/dp/B0BXQ5RMNV/ref=sr_1_41",
+        "titulo": "CONTROLE SEM FIO XBOX - VELOCITY GREEN",
+        "preco": 350.9,
+        "timestamp": 1783435311.1459157,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_241492800",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-samsung-galaxy-a57-256gb-5g-8gb-ram-azul-claro-67-cam-tripla-selfie-12mp/p/241492800/te/ga57/?seller_id=magazineluiza",
+        "titulo": "Smartphone Samsung Galaxy A57 256GB 5G 8GB RAM Azul Claro 6,7\" Câm Tripla + Selfie 12MP",
+        "preco": 2499.0,
+        "timestamp": 1783435358.866453,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F8BQ3KYW",
+        "link_bruto": "https://www.amazon.com.br/RTX5060TI-128BITS-VENTUS-MSI-912-V536-023/dp/B0F8BQ3KYW/ref=sr_1_17",
+        "titulo": "PLACA DE VIDEO NV RTX5060TI 8GB GDDR7 128BITS VENTUS 2X OC PLUS MSI 912-V536-023",
+        "preco": 2483.08,
+        "timestamp": 1783435394.7158318,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09FBQS8C2",
+        "link_bruto": "https://www.amazon.com.br/Fog%C3%A3o-Mueller-Decorato-Vetro-Inox/dp/B09FBQS8C2/ref=sr_1_50",
+        "titulo": "Fogão 5 Bocas Mueller Decorato Vetro Inox Bivolt com Mesa de Vidro",
+        "preco": 1456.9,
+        "timestamp": 1783435430.7675104,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07FN1MZBH",
+        "link_bruto": "https://www.amazon.com.br/Controle-Dualshock-PlayStation-4-Preto/dp/B07FN1MZBH/ref=sr_1_53",
+        "titulo": "Controle Dualshock 4 - PlayStation 4 - Preto",
+        "preco": 223.1,
+        "timestamp": 1783435472.788971,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_48010983911",
+        "link_bruto": "https://s.shopee.com.br/9KgGm6PKwc",
+        "titulo": "Purificador de Água Natural e Gelada Planeta Água GIOM PA12 220V",
+        "preco": 891.51,
+        "timestamp": 1783435522.675218,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_FG0037J758",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/panela-de-pressao-eletrica-inox-840w-4-litros-220v-elgin/p/fg0037j758/ep/eppe/?seller_id=repdistribuidora",
+        "titulo": "Panela de Pressão Elétrica Inox 840W 4 litros 220V Elgin",
+        "preco": 315.0,
+        "timestamp": 1783435567.5715804,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22693492767",
+        "link_bruto": "https://s.shopee.com.br/3qLHVpFKnz",
+        "titulo": "Aparador De Pelos Femininos Vgr-725 Cor Branco 110v/220v",
+        "preco": 41.99,
+        "timestamp": 1783435609.0559022,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_DKAH4G9H6K",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/kit-roupa-academia-feminina-blusa-fitness-calca-legging-academia-pilates-funcional-caminhada-efect/p/dkah4g9h6k/es/ofsn/?seller_id=vancouverjoe",
+        "titulo": "Kit Roupa Academia Feminina Blusa Fitness Calça Legging Academia Pilates Funcional Caminhada - Efect",
+        "preco": 107.41,
+        "timestamp": 1783435653.6759021,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58261836347",
+        "link_bruto": "https://s.shopee.com.br/30mD3jItOi",
+        "titulo": "Placa Mãe Maxsun Terminator B760M D4 WiFi V2, Chipset B760, Intel LGA 1700, mATX, DDR4",
+        "preco": 1001.61,
+        "timestamp": 1783435689.4023767,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_48154477928",
+        "link_bruto": "https://s.shopee.com.br/qhiUSDYl0",
+        "titulo": "Para Samsung Relógio Inteligente Galaxy Watch Novo SmartWatch Homens Mulheres Relógios Bluetooth Chamada Sono Vida À Pro",
+        "preco": 47.72,
+        "timestamp": 1783435725.164982,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22999339518",
+        "link_bruto": "https://s.shopee.com.br/6L2f3Ahfgx",
+        "titulo": "Panela de Arroz Elétrica 1,3L 220V Recipiente Para Cozinhar Arroz Elétrica Eletrica 1,3L 220V - Branca",
+        "preco": 153.5,
+        "timestamp": 1783435761.9672449,
+        "expirado": false
     }
 ]
