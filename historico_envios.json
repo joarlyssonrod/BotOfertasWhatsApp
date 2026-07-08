@@ -608,14 +608,6 @@
         "expirado": false
     },
     {
-        "id": "AMAZON_B0CH5PR9G9",
-        "link_bruto": "https://www.amazon.com.br/WAP-Fritadeira-El%C3%A9trica-Digital-Antiaderente/dp/B0CH5PR9G9/ref=sr_1_2",
-        "titulo": "",
-        "preco": 0.0,
-        "timestamp": 1781971039.9162192,
-        "expirado": false
-    },
-    {
         "id": "ML_MLB42314377",
         "link_bruto": "https://www.mercadolivre.com.br/azeite-de-oliva-extra-virgem-ea-500ml-1-unidade/p/MLB42314377",
         "titulo": "",
@@ -640,24 +632,8 @@
         "expirado": false
     },
     {
-        "id": "AMAZON_B0F65ZBSXY",
-        "link_bruto": "https://www.amazon.com.br/Yakuza-Directors-Cut-Nintendo-Switch/dp/B0F65ZBSXY/ref=sr_1_23",
-        "titulo": "",
-        "preco": 0.0,
-        "timestamp": 1781971039.9162192,
-        "expirado": false
-    },
-    {
         "id": "ML_MLB59420607",
         "link_bruto": "https://www.mercadolivre.com.br/assistente-virtual-amazon-echo-dot-de-5a-geraco-cor-preto-black/p/MLB59420607",
-        "titulo": "",
-        "preco": 0.0,
-        "timestamp": 1781971039.9162192,
-        "expirado": false
-    },
-    {
-        "id": "AMAZON_B00ELBQIKA",
-        "link_bruto": "https://www.amazon.com.br/Thunderx3-61900-Cadeira-Preta-Windows/dp/B00ELBQIKA/ref=sr_1_12",
         "titulo": "",
         "preco": 0.0,
         "timestamp": 1781971039.9162192,
@@ -896,14 +872,6 @@
         "expirado": false
     },
     {
-        "id": "ML_MLBU605239077",
-        "link_bruto": "",
-        "titulo": "",
-        "preco": 0.0,
-        "timestamp": 1781971039.9162192,
-        "expirado": false
-    },
-    {
         "id": "AMAZON_B07Y3B33KG",
         "link_bruto": "",
         "titulo": "",
@@ -920,22 +888,6 @@
         "expirado": false
     },
     {
-        "id": "ML_MLB65352564",
-        "link_bruto": "",
-        "titulo": "",
-        "preco": 0.0,
-        "timestamp": 1781971039.9162192,
-        "expirado": false
-    },
-    {
-        "id": "ML_MLB46399969",
-        "link_bruto": "",
-        "titulo": "",
-        "preco": 0.0,
-        "timestamp": 1781971039.9162192,
-        "expirado": false
-    },
-    {
         "id": "ML_MLB46399969",
         "link_bruto": "",
         "titulo": "",
@@ -945,22 +897,6 @@
     },
     {
         "id": "ML_MLB46220740",
-        "link_bruto": "",
-        "titulo": "",
-        "preco": 0.0,
-        "timestamp": 1781971039.9162192,
-        "expirado": false
-    },
-    {
-        "id": "ML_MLB46220740",
-        "link_bruto": "",
-        "titulo": "",
-        "preco": 0.0,
-        "timestamp": 1781971039.9162192,
-        "expirado": false
-    },
-    {
-        "id": "ML_MLB28530314",
         "link_bruto": "",
         "titulo": "",
         "preco": 0.0,
@@ -1400,14 +1336,6 @@
         "expirado": false
     },
     {
-        "id": "AMAZON_B0F65ZBSXY",
-        "link_bruto": "",
-        "titulo": "",
-        "preco": 0.0,
-        "timestamp": 1781971039.9162192,
-        "expirado": false
-    },
-    {
         "id": "MAGALU_FH5FA9B4J6",
         "link_bruto": "",
         "titulo": "",
@@ -1770,14 +1698,6 @@
     {
         "id": "https://s.shopee.com.br/60PKMN9rxF",
         "link_bruto": "https://s.shopee.com.br/60PKMN9rxF",
-        "titulo": "",
-        "preco": 0.0,
-        "timestamp": 1781971039.9162192,
-        "expirado": false
-    },
-    {
-        "id": "AMAZON_B07L5TS4SH",
-        "link_bruto": "",
         "titulo": "",
         "preco": 0.0,
         "timestamp": 1781971039.9162192,
@@ -2488,14 +2408,6 @@
         "expirado": false
     },
     {
-        "id": "AMAZON_B09NQYX99X",
-        "link_bruto": "",
-        "titulo": "",
-        "preco": 0.0,
-        "timestamp": 1781971039.9162192,
-        "expirado": false
-    },
-    {
         "id": "https://s.shopee.com.br/8V6hc0aPG7",
         "link_bruto": "https://s.shopee.com.br/8V6hc0aPG7",
         "titulo": "",
@@ -2968,14 +2880,6 @@
         "expirado": true
     },
     {
-        "id": "ML_MLBU3941040053",
-        "link_bruto": "https://www.mercadolivre.com.br/kit-70-figurinhas--album-copa-do-mundo-fifa-2026-panini/up/MLBU3941040053",
-        "titulo": "Kit 70 Figurinhas + Álbum Copa Do Mundo Fifa 2026 Panini Brochura C/ 70 Figurinhas",
-        "preco": 76.53,
-        "timestamp": 1782079408.268409,
-        "expirado": false
-    },
-    {
         "id": "SHOPEE_58202299064",
         "link_bruto": "https://s.shopee.com.br/Ll32pkS7b",
         "titulo": "Fatiador Profissional Multifuncional 16 em 1/3 em 1 de Aço Inoxidável - Ideal para Vegetais, Frutas e Legumes",
@@ -3437,14 +3341,6 @@
         "titulo": "Jogo de Panelas Vanilla Ceramic Life Brinox Smart Plus 8 Peças - Antiaderente",
         "preco": 649.99,
         "timestamp": 1782158062.5010724,
-        "expirado": false
-    },
-    {
-        "id": "SHOPEE_58260431730",
-        "link_bruto": "https://s.shopee.com.br/7AbOcXfe66",
-        "titulo": "Porta Figurinha Duplo Copa do Mundo 2026 | Organizador Cards Futebol | Caixa Figurinhas",
-        "preco": 18.59,
-        "timestamp": 1782158107.3765674,
         "expirado": false
     },
     {
@@ -3957,14 +3853,6 @@
         "titulo": "Parafusadeira Furadeira  48V 1/2 Bateria  3 funções de Elétrica Sem Fio Impacto Completo Acessórios",
         "preco": 129.68,
         "timestamp": 1782321438.1739755,
-        "expirado": false
-    },
-    {
-        "id": "SHOPEE_58260259315",
-        "link_bruto": "https://s.shopee.com.br/6VLkrLTSii",
-        "titulo": "Kit 14/28/42 Figurinhas Do Álbum Copa Do Mundo 2026 Envelopes Brasil",
-        "preco": 20.99,
-        "timestamp": 1782321476.1975155,
         "expirado": false
     },
     {
@@ -4696,14 +4584,6 @@
         "expirado": true
     },
     {
-        "id": "SHOPEE_10497677386",
-        "link_bruto": "https://s.shopee.com.br/W4aZMi5AC",
-        "titulo": "Album Brochura com 70 Figurinhas Oficial Copa do Mundo 2026 - Capa Mole",
-        "preco": 32.9,
-        "timestamp": 1782476274.7331092,
-        "expirado": true
-    },
-    {
         "id": "ML_MLB61105291",
         "link_bruto": "https://www.mercadolivre.com.br/ez-silver-essence-eau-de-parfum-100ml-exclusivo/p/MLB61105291",
         "titulo": "Ez Silver Essence - Eau De Parfum 100ml Exclusivo",
@@ -5192,14 +5072,6 @@
         "expirado": false
     },
     {
-        "id": "SHOPEE_18897971279",
-        "link_bruto": "https://s.shopee.com.br/2g93hqp56D",
-        "titulo": "kit teclado e mouse gamer mouse teclado Teclado Semi Mecânico + Mouse Gamer 3200dpi Rgb Led -H8",
-        "preco": 63.99,
-        "timestamp": 1782591960.7224238,
-        "expirado": false
-    },
-    {
         "id": "AMAZON_B0CHXSH9P6",
         "link_bruto": "https://www.amazon.com.br/Panela-Arroz-El%C3%A9trica-X%C3%ADcaras-Midi/dp/B0CHXSH9P6/ref=sr_1_37",
         "titulo": "Panela de Arroz Elétrica 8 Xícaras 127 V Midi - Itatiaia",
@@ -5213,22 +5085,6 @@
         "titulo": "Ventilador de Mesa Philco 40cm 2 em 1 Maxx Force Preto PVT491 – 127 Volts",
         "preco": 127.04,
         "timestamp": 1782592043.5557706,
-        "expirado": false
-    },
-    {
-        "id": "AMAZON_B0D1KSTZG8",
-        "link_bruto": "https://www.amazon.com.br/Mochila-Unissex-Mizuno-Kobe-New/dp/B0D1KSTZG8/ref=sr_1_33",
-        "titulo": "Mochila Mizuno Kobe New",
-        "preco": 119.9,
-        "timestamp": 1782592076.2530138,
-        "expirado": false
-    },
-    {
-        "id": "AMAZON_B0F2VLD5YY",
-        "link_bruto": "https://www.amazon.com.br/Gabinete-Gamer-Gamdias-Elite-Preto/dp/B0F2VLD5YY/ref=sr_1_34",
-        "titulo": "Gabinete Gamer Gamdias Aura GC2 Elite ARGB Preto com 4 fans AURA GC2 ELITE ARGB",
-        "preco": 237.95,
-        "timestamp": 1782592109.6577582,
         "expirado": false
     },
     {
@@ -5280,28 +5136,12 @@
         "expirado": false
     },
     {
-        "id": "AMAZON_B0FPPJF4Y7",
-        "link_bruto": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-50MP/dp/B0FPPJF4Y7/ref=sr_1_14",
-        "titulo": "Celular Samsung Galaxy A17 5G, 128GB, 4GB, 50MP Tela 6.7\" - Cinza",
-        "preco": 872.91,
-        "timestamp": 1782592400.4914777,
-        "expirado": false
-    },
-    {
         "id": "AMAZON_B095YZPJTR",
         "link_bruto": "https://www.amazon.com.br/Oster-Cafeteira-Ocaf200-Preto-Inox/dp/B095YZPJTR/ref=sr_1_18",
         "titulo": "Cafeteira Oster 2Day Inox 2 em 1 com Copo Térmico, 110V, Preto/Inox, 600W, OCAF200",
         "preco": 139.9,
         "timestamp": 1782592434.7876294,
         "expirado": false
-    },
-    {
-        "id": "ML_MLB59090080",
-        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-43-aoc-led-roku-full-hd-wi-fi-60hz-hdmi-usb-43s515578g/p/MLB59090080",
-        "titulo": "Smart Tv 43 Aoc Led Roku Full Hd Wi-fi 60hz Hdmi Usb 43s5155/78g",
-        "preco": 1228.0,
-        "timestamp": 1782597404.7092764,
-        "expirado": true
     },
     {
         "id": "ML_MLB51381761",
@@ -5318,22 +5158,6 @@
         "preco": 30.0,
         "timestamp": 1782597491.5770473,
         "expirado": false
-    },
-    {
-        "id": "MAGALU_AD9EA6FGHA",
-        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-mizuno-hawk-5-masculino/p/ad9ea6fgha/es/oedc/?seller_id=netshoes",
-        "titulo": "Tênis Mizuno Hawk 5 Masculino",
-        "preco": 219.99,
-        "timestamp": 1782597522.06585,
-        "expirado": false
-    },
-    {
-        "id": "ML_MLB52027456",
-        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-samsung-32-hd-tizen-hdr-wi-fi-hdmi-monitor-bivolt-preta-preto/p/MLB52027456?matt_event_ts=1782597201272&matt_d2id=cb7e8e1e-5cda-4721-880c-2267ab50dccb&matt_tracing_id=c01c9777-1e37-4b03-8993-05442e04a14b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4baf57e0-8998-4603-ad05-38ba6ced434f&tracking_id=c25e5bc2-e691-4dfc-94b7-b9427aecc63f&c_id=/home/card-featured/element&c_uid=1b4a5252-7964-41a1-8370-7c11ce3f4ad5",
-        "titulo": "Smart Tv Samsung 32'' Hd Tizen Hdr Wi-fi Hdmi Monitor Bivolt Preta Preto",
-        "preco": 776.41,
-        "timestamp": 1782597568.1534884,
-        "expirado": true
     },
     {
         "id": "https://www.mercadopago.com.br/ferramentas-para-vender/maquininhas-point/point-smart",
@@ -5424,14 +5248,6 @@
         "expirado": false
     },
     {
-        "id": "ML_MLB51533757",
-        "link_bruto": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g86-5g-256gb-24gb-8gb-ram16gb-ram-boost-tela-15k-poled-50mp-sony-camera-ois-moto-ai-videos-em-4k-ip68-ip69-grafite/p/MLB51533757",
-        "titulo": "Smartphone Motorola Moto G86 5g - 256gb 24gb (8gb Ram+16gb Ram Boost) Tela 1.5k Poled, 50mp Sony Camera Ois Moto Ai, Videos Em 4k, Ip68 + Ip69 - Grafite",
-        "preco": 1490.0,
-        "timestamp": 1782598800.7602007,
-        "expirado": false
-    },
-    {
         "id": "https://shopee.com.br/verify/traffic/error",
         "link_bruto": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_from_fu=1782598115522&is_logged_in=false&next=https%3A%2F%2Fshopee.com.br%2Fproduct%2F1022628543%2F22698800511%3Fexp_group%3Drollout%26gads_t_sig%3DgqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMfaLqlfFS4JwQPCoOJZHE2YMfq1tWF61pnIIHqGuyOlpkjBotHu7Xpb0YRK1tULWVZdcpI_r9hw6jgE9CqmNpcGhlcnRleHTEmQAAAAy8lbLHiidaUErU7aqG2ZS1ZG0vs7SpRimSeMPQJfO3ihUxoj8O1VQZVwQOrBSi7nr2Kz0vGuX8BnVyuO5INvK1XSoy_QjSkS9mwpecOU5_KOcW3blRbo7sLZ3lBN66m366k1HnED3WayhGSflDBrYkSYZ2PVr_0v0lw-ZuZUsnawP_vTKAZoCj7FNcee0kXhznYq1eRQ%26mmp_pid%3Dan_18140170000%26uls_trackid%3D560hplpk00ni%26utm_campaign%3Did_e21f2266c6e91360%26utm_content%3D----%26utm_medium%3Daffiliates%26utm_source%3Dan_18140170000%26utm_term%3Df54bscpixuz7&tracking_id=70575f1fd2a-b0d5-43be-bdb1-ff5497255461&type=4",
         "titulo": "Leitor E Gravador Cd Dvd Externo Slim Preto Usb 3.0 P Pc",
@@ -5461,22 +5277,6 @@
         "titulo": "Lavadora De Alta Pressão Jato Compacta Philco Plp2200 1300w 1300 Psi/libras 312l/h Lança Regulável 220v Azul",
         "preco": 296.0,
         "timestamp": 1782598961.50323,
-        "expirado": false
-    },
-    {
-        "id": "SHOPEE_58202387769",
-        "link_bruto": "https://s.shopee.com.br/40eUydTM4h",
-        "titulo": "Percarbonato de Sódio Calisul 100% Puro Tira Manchas Alvejante Sem Cloro Roupas Brancas 1kg 2kg 3kg",
-        "preco": 20.59,
-        "timestamp": 1782598999.3072195,
-        "expirado": false
-    },
-    {
-        "id": "ML_MLB24273671",
-        "link_bruto": "https://www.mercadolivre.com.br/vaso-sanitario-monobloco-caixa-acoplada-completo-privada-cor-branco-vab0002/p/MLB24273671",
-        "titulo": "Vaso Sanitário Monobloco Caixa Acoplada Completo - Privada Cor Branco - Vab0002",
-        "preco": 499.9,
-        "timestamp": 1782599038.888565,
         "expirado": false
     },
     {
@@ -6333,14 +6133,6 @@
         "titulo": "Aperitivo Bitter Campari 748ml",
         "preco": 34.19,
         "timestamp": 1782848174.2940063,
-        "expirado": false
-    },
-    {
-        "id": "ML_MLBU3923332394",
-        "link_bruto": "https://www.mercadolivre.com.br/kit-420-figurinhas-do-album-copa-do-mundo-2026-60-envelopes/up/MLBU3923332394",
-        "titulo": "Kit 420 Figurinhas Do Álbum Copa Do Mundo 2026- 60 Envelopes",
-        "preco": 348.33,
-        "timestamp": 1782848210.3806498,
         "expirado": false
     },
     {
@@ -7392,14 +7184,6 @@
         "expirado": false
     },
     {
-        "id": "ML_MLBU3911772235",
-        "link_bruto": "https://www.mercadolivre.com.br/kit-700-figurinha-do-album-copa-do-mundo-2026-100-envelopes/up/MLBU3911772235",
-        "titulo": "Kit 700 Figurinha Do Álbum Copa Do Mundo 2026- 100 Envelopes",
-        "preco": 600.0,
-        "timestamp": 1783022991.6444407,
-        "expirado": false
-    },
-    {
         "id": "ML_MLBU4077333044",
         "link_bruto": "https://www.mercadolivre.com.br/kit-oil-reflectiosn-duo--shampoo-1l--mascara-500ml/up/MLBU4077333044",
         "titulo": "Kit Oil Reflectiosn Duo - Shampoo 1l + Máscara 500ml",
@@ -7853,14 +7637,6 @@
         "titulo": "Kit 3 Cuecas Masculinas Boxer Cotton Calvin Klein 998 - Multi Liso L",
         "preco": 148.4,
         "timestamp": 1783098416.2414849,
-        "expirado": false
-    },
-    {
-        "id": "SHOPEE_58261512827",
-        "link_bruto": "https://s.shopee.com.br/7VEWOFyGQe",
-        "titulo": "Kit Album Capa Dura Ouro + Figurinhas Copa Do Mundo Fifa 2026 Original Panini",
-        "preco": 119.9,
-        "timestamp": 1783098455.478768,
         "expirado": false
     },
     {
@@ -8720,14 +8496,6 @@
         "expirado": false
     },
     {
-        "id": "ML_MLBU3969136913",
-        "link_bruto": "https://www.mercadolivre.com.br/kit-70-figurinhas--album-copa-do-mundo-fifa-2026-panini/up/MLBU3969136913",
-        "titulo": "Kit 70 Figurinhas + Álbum Copa Do Mundo Fifa 2026 Panini Capa Dura C/ 10 Envelopes",
-        "preco": 79.9,
-        "timestamp": 1783366733.8809211,
-        "expirado": false
-    },
-    {
         "id": "ML_MLB56205430",
         "link_bruto": "https://www.mercadolivre.com.br/samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titnio-aeroespacial-titnio-cinza/p/MLB56205430?matt_event_ts=1783366556610&matt_d2id=38233f27-3c68-47bf-89da-5cc599188e5d&matt_tracing_id=48b6de54-4702-4e03-8b12-8def031dac59#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=85e93b2d-c049-4f92-87ea-949464b632f5&tracking_id=459f14dd-315d-4c17-ba9d-277c47a42b77&c_id=/home/card-featured/element&c_uid=667fc7b7-35ee-4d98-b65c-2e8aa633bd30",
         "titulo": "Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm Lte, Galaxy Ai, Titânio Aeroespacial Titânio Cinza",
@@ -9112,14 +8880,6 @@
         "expirado": false
     },
     {
-        "id": "ML_MLBU3923327842",
-        "link_bruto": "https://www.mercadolivre.com.br/kit-350-figurinhas-do-album-copa-do-mundo-2026-50-envelopes/up/MLBU3923327842",
-        "titulo": "Kit 350 Figurinhas Do Álbum Copa Do Mundo 2026- 50 Envelopes",
-        "preco": 265.0,
-        "timestamp": 1783423109.04027,
-        "expirado": false
-    },
-    {
         "id": "SHOPEE_20198314386",
         "link_bruto": "https://shopee.com.br/product/898761179/20198314386?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTElwAAAAyXL-MwkRmzlI0Pn-SsiDIS5LEaIyQTvF0jtKLACR92NDi8xA_RnbADk10qgVPXj_Sbm_atB9Btf0b1udC9fOq85ZSWtYjodRcoyod1Qau3MRn_ihVmWj05fEqoRS4topP2nrj5aAIG_Zr9exnrqfkKd-t4zMu7M0dFywED0E2M2s0eLlhbFnXBJx-IuXVMfAGhIwg&mmp_pid=an_18140170000&uls_trackid=5630e354001d&utm_campaign=id_94dac7ced1403995&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=f6sagz367xcg",
         "titulo": "Caixa de Som Jbl Boombox 4 Bluetooth 34h Ip68 210rms Preta",
@@ -9149,14 +8909,6 @@
         "titulo": "Creatina Monohidratada 500g Growth Supplements - Sem Sabor Em Pó",
         "preco": 59.9,
         "timestamp": 1783423257.4883358,
-        "expirado": false
-    },
-    {
-        "id": "ML_MLBU4029486091",
-        "link_bruto": "https://www.mercadolivre.com.br/kit-336-figurinhas-do-album-copa-do-mundo-2026-48-envelopes/up/MLBU4029486091",
-        "titulo": "Kit 336 Figurinhas Do Álbum Copa Do Mundo 2026- 48 Envelopes",
-        "preco": 261.0,
-        "timestamp": 1783423298.0781446,
         "expirado": false
     },
     {
@@ -10224,14 +9976,6 @@
         "expirado": false
     },
     {
-        "id": "ML_MLBU3923294598",
-        "link_bruto": "https://www.mercadolivre.com.br/kit-70-figurinhas-do-album-copa-do-mundo-2026-pronta-entrega/up/MLBU3923294598",
-        "titulo": "Kit 70 Figurinhas Do Álbum Copa Do Mundo 2026 Pronta Entrega",
-        "preco": 57.0,
-        "timestamp": 1783531545.1426866,
-        "expirado": false
-    },
-    {
         "id": "MAGALU_231244600",
         "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-eletrica-sem-oleo-air-fryer-philco-gourmet-pfr15pg-preto-32l-com-timer/p/231244600/ep/efso/?seller_id=magazineluiza",
         "titulo": "Fritadeira Elétrica sem Óleo/Air Fryer Philco Gourmet PFR15PG Preto 3,2L com Timer",
@@ -10277,6 +10021,158 @@
         "titulo": "Buddemeyer Jogo de toalhas Florentina Extra Soft Banho Azul 5 peças",
         "preco": 159.9,
         "timestamp": 1783531812.0500777,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB52595849",
+        "link_bruto": "https://www.mercadolivre.com.br/conjunto-sala-de-jantar-4-lugares-com-cadeiras-estofadas-mesa-com-tampo-retangular-semelhante-vidro-base-v-mel-branco-off-white/p/MLB52595849?matt_event_ts=1783535428652&matt_d2id=b614a31d-afbb-423b-8055-5ff1f88aa1a5&matt_tracing_id=e48f9b35-ef30-44df-8470-d2f665ec9091#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=38c204f8-195f-41c1-a659-0802aefa600a&tracking_id=b7d2035d-c843-441f-956b-a1b85e8aaef0&c_id=/home/card-featured/element&c_uid=895bffd7-752e-4b7a-93ea-dcc372191ea2",
+        "titulo": "Conjunto Sala De Jantar 4 Lugares Com Cadeiras Estofadas Mesa Com Tampo Retangular Semelhante Vidro Base V Mel Branco Off White Mel Off Liso",
+        "preco": 373.02,
+        "timestamp": 1783535687.1989732,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB40003893",
+        "link_bruto": "https://www.mercadolivre.com.br/cama-elastica-infantil-pula-pula-18m-trampolim-com-ziper/p/MLB40003893",
+        "titulo": "Cama Elástica Infantil Pula Pula 1,8m Trampolim Com Zíper",
+        "preco": 319.92,
+        "timestamp": 1783535736.8424408,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63331544",
+        "link_bruto": "https://www.mercadolivre.com.br/tenda-gazebo-azul-polietileno-3x3-metros-desmontavel-camping-praia-pesca-usd/p/MLB63331544?matt_event_ts=1783535529263&matt_d2id=3611956d-212f-4a78-8ad8-1647d90bd8ab&matt_tracing_id=fd416f47-c91b-4166-a4e1-5656acda9e1f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1c9a715a-66ac-4fa8-bfb9-c35e69fe1518&tracking_id=af938609-0025-4340-9997-40822add6d03&c_id=/home/card-featured/element&c_uid=07645175-cc28-49aa-8771-9a5bf5c71588",
+        "titulo": "Tenda Gazebo Azul Polietileno 3x3 Metros Desmontável Camping Praia Pésca Usd",
+        "preco": 145.96,
+        "timestamp": 1783535781.7169385,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54626950",
+        "link_bruto": "https://www.mercadolivre.com.br/10-flanela-pano-microfibra-limpa-carro-vidro-pia-multiuso-cor-sortidos-home-safe-home/p/MLB54626950?matt_event_ts=1783535460569&matt_d2id=2022aafe-137e-4bb4-b29a-22a28e81be32&matt_tracing_id=d8e779be-e541-4d6b-b5c5-e57c44fb93f4#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=e24f05af-c958-4b29-9623-568cc602e03b&tracking_id=77fb26a6-a74f-4a91-bc1f-d84b3d35f33e&c_id=/home/card-featured/element&c_uid=f8727f9f-55a9-4b88-8c67-97e51e33ca0b",
+        "titulo": "10 Flanela Pano Microfibra Limpa Carro Vidro Pia Multiuso Cor Sortidos Home Safe Home",
+        "preco": 16.39,
+        "timestamp": 1783535827.1856427,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB23501697",
+        "link_bruto": "https://www.mercadolivre.com.br/purificador-de-agua-consul-refrigerado-natural-e-gelada-com-proteco-antibacterias-bivolt-consul-branco-cpb34asvna/p/MLB23501697?matt_event_ts=1783535450061&matt_d2id=1b8ffe0a-a186-4318-b132-7b710eaf91be&matt_tracing_id=c6c76ce5-1cc2-4731-9db2-31b8ee7c92e3#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=b0e2cf4a-e398-4e21-9f17-2bfeb65c63fd&tracking_id=cf45adbf-4014-490e-82f6-92850a08b367&c_id=/home/card-featured/element&c_uid=9a3c10ce-3f8c-4363-9c68-74c0bceb12a1",
+        "titulo": "Purificador Água Consul Refrigerado Antibactérias",
+        "preco": 311.0,
+        "timestamp": 1783535875.5528507,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23897273681",
+        "link_bruto": "https://s.shopee.com.br/6L2gzaSPJq",
+        "titulo": "Lavadora de Alta Pressão Sem Fio Portátil Recarregável Carros e Jardins Pistola Lavajato Residêncial Bivolt",
+        "preco": 75.99,
+        "timestamp": 1783535915.5724907,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB60948279",
+        "link_bruto": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-caixinha-som-portatil-potente-tws-com-radio-rgb-hifi-som-prova-dagua-ipx67-de-multimodo-bluetoothcarto-tfentrada-auxtws-para-interiortrabalhoacampamento-cor-preto-inova/p/MLB60948279?matt_event_ts=1783535495026&matt_d2id=dbb8599c-24ed-468b-84c6-09b46f07428a&matt_tracing_id=07173f00-5ad3-4aef-b915-19adea2a625c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=31e69cb1-b911-4714-8610-2197078e9bf1&tracking_id=fafea548-ec26-4da6-82ed-533f73e11d9f&c_id=/home/card-featured/element&c_uid=b87a8462-7dcc-4afd-9f46-4ee6ac8bb5b1",
+        "titulo": "Caixa Som Bluetooth Portátil Potente IPX67",
+        "preco": 138.55,
+        "timestamp": 1783535968.9809062,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB48946861",
+        "link_bruto": "https://www.mercadolivre.com.br/samsung-galaxy-a06-5g-dual-sim-128gb-preto/p/MLB48946861",
+        "titulo": "Samsung Galaxy A06 5g Dual Sim 128gb preto",
+        "preco": 599.0,
+        "timestamp": 1783536018.0607085,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB44317631",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-gamer-lg-ultragear-27-ips-180hz-1ms-gtg-nvidia-g-sync-amd-freesync-hdr10-srgb-99-27gs60f-b/p/MLB44317631",
+        "titulo": "Monitor Gamer LG UltraGear 27” IPS, 180Hz, 1ms (GtG), NVIDIA G-SYNC , AMD FreeSync, HDR10, sRGB 99% - 27GS60F-B",
+        "preco": 899.1,
+        "timestamp": 1783536065.7811444,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FFNYL3J6",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0FFNYL3J6?tag=promobit-d-20&th=1&psc=1",
+        "titulo": "Kit 4 Bermuda Shorts Tactel Sandrini",
+        "preco": 55.9,
+        "timestamp": 1783536110.9958174,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07VRYJWPB",
+        "link_bruto": "https://www.amazon.com.br/Detergente-Para-Lou%C3%A7as-Finish-Advanced/dp/B07VRYJWPB",
+        "titulo": "Finish Power Powder Advanced Detergente para Lava Louças em Pó 2,5kg",
+        "preco": 98.78,
+        "timestamp": 1783536145.2127607,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D4SHYL4Y",
+        "link_bruto": "https://www.amazon.com.br/Samsung-Notebook-Windows-GeForce%C2%AE-FingerPrint/dp/B0D4SHYL4Y",
+        "titulo": "Samsung Notebook Galaxy Book4, Windows 11 Home, Intel® Core™ 5, 16GB, 512GB SSD, NVIDIA® GeForce® MX570, 15.6'' Full HD LED, FingerPrint - Grafite",
+        "preco": 4999.0,
+        "timestamp": 1783536189.512947,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4098550404",
+        "link_bruto": "https://www.mercadolivre.com.br/combo-liz-dessence-desodorante-colonia-100ml--creme-hidra/up/MLBU4098550404?pdp_filters=item_id%3AMLB4772259345&matt_event_ts=1783535576783&matt_d2id=2c9e060a-9e97-4a3c-bff2-876208bac7fa&matt_tracing_id=cfe6fef6-4111-4565-9bd4-41755433146c#polycard_client=recommendations_home_affiliate-profile&wid=MLB4772259345&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=69a60ca5-0406-47e0-8efd-a1f4d9843099&tracking_id=87144e1a-967d-48b5-89e8-be6e3edb3b01&c_id=/home/card-featured/element&c_uid=d37a5529-6f73-4673-b93f-cf94e45f191a",
+        "titulo": "Combo Liz Dessence: Desodorante Colônia 100ml + Creme Hidra",
+        "preco": 178.33,
+        "timestamp": 1783536240.051085,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CNKJTV1X",
+        "link_bruto": "https://www.amazon.com.br/Av%C3%A8ne-Vitamin-Activ-Luminosidade-Antioxidante/dp/B0CNKJTV1X?amp=&tag=promobit-d-20",
+        "titulo": "Avène Vitamin Activ Cg Sérum De Luminosidade Antioxidante 30ml",
+        "preco": 182.4,
+        "timestamp": 1783536279.142163,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22994700331",
+        "link_bruto": "https://s.shopee.com.br/9fJ8xiFiYQ",
+        "titulo": "Kit Chaves de Precisão 115 Peças – Para Eletrônicos e Celular Kit Ferramenta Manutenção 963",
+        "preco": 32.9,
+        "timestamp": 1783536330.3871894,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/lava-loucas-electrolux-14-servicos-lp14e-preta/divulgador/oferta/241386600/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/lava-loucas-electrolux-14-servicos-lp14e-preta/divulgador/oferta/241386600/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Lava-louças Electrolux 14 Serviços LP14E Preta",
+        "preco": 3419.05,
+        "timestamp": 1783536384.663333,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23594424935",
+        "link_bruto": "https://s.shopee.com.br/7KvE0qFqSs",
+        "titulo": "snow foam manual pulverizador de espuma borrifador lava carro moto estética automotiva shampoozeira lança espuma neve",
+        "preco": 33.74,
+        "timestamp": 1783536427.4998732,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB32147029",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-promopack-sige-hair-plastia-eudora-shampoo-condicionador/p/MLB32147029?matt_event_ts=1783535438960&matt_d2id=cc57741b-2cf4-4824-8006-290f6e01ad59&matt_tracing_id=4ccf4a14-e5a9-4e1d-b90a-50dd3f2db88d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=8568c824-2661-4019-952a-d0b341ba5933&tracking_id=f3c359fd-95f8-4661-bf9c-8120ae65d268&c_id=/home/card-featured/element&c_uid=5aa58c1a-0bde-401c-b540-bcd256ee1b5a",
+        "titulo": "Kit Promopack Siàge Hair Plastia Eudora Shampoo + Condicionador",
+        "preco": 46.86,
+        "timestamp": 1783536481.218534,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CQD9VK7X",
+        "link_bruto": "https://www.amazon.com.br/Smartphone-Samsung-Galaxy-Selfie-1-120Hz/dp/B0CQD9VK7X",
+        "titulo": "Smartphone Samsung Galaxy S24 Ultra, Galaxy AI, Selfie de 12MP, Tela de 6.8\" 1-120Hz, 256GB, 12GB RAM - Titânio Preto",
+        "preco": 4799.0,
+        "timestamp": 1783536526.964025,
         "expirado": false
     }
 ]
