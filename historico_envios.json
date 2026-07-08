@@ -10174,5 +10174,53 @@
         "preco": 4799.0,
         "timestamp": 1783536526.964025,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB66060206",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-10-pote-de-vidro-marmita-hermetico-370ml-freezer-fitness-rishon/p/MLB66060206?matt_event_ts=1783542659818&matt_d2id=aeb357cc-6b8f-4a01-b655-362d6f972628&matt_tracing_id=75538038-ed2a-41ad-add4-9ccdc6ad147a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6b24eb56-ebed-4f3e-8efd-a519fabea28c&tracking_id=6be13281-c7d4-44d4-9aa3-2315f759882f&c_id=/home/card-featured/element&c_uid=2a8d7ce1-b844-4b41-b2b0-2f4a4a8327d3",
+        "titulo": "Kit 10 Pote De Vidro Marmita Hermético 370ml Freezer Fitness Rishon Transparente",
+        "preco": 56.43,
+        "timestamp": 1783542814.61964,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GXFFSVYM",
+        "link_bruto": "https://www.amazon.com.br/DREAME-D15-Plus-Autoesvaziamento-Antienrosco/dp/B0GXFFSVYM",
+        "titulo": "DREAME D15 Plus Robô Aspirador e Passa Pano com Autoesvaziamento, Sucção 13.000 Pa, Limpeza de Carpetes, Desvio de Obstáculos, Antienrosco, Limpeza para Pets, Bateria Longa, Compatível com Alexa, 127V",
+        "preco": 2159.4,
+        "timestamp": 1783542858.514724,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB23377541",
+        "link_bruto": "https://www.mercadolivre.com.br/pasta-de-amendoim-dr-peanut-sabor-cookies-cream-de-600g/p/MLB23377541?matt_event_ts=1783542649811&matt_d2id=ff7b983f-8f27-4af1-85e2-8b0ae0674637&matt_tracing_id=eede6369-8053-4e96-838b-b972b9c9dc90#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=2040ae30-83f9-42d5-b646-b714eeaad88d&tracking_id=691276cc-01c8-40ea-85c1-0d2e8680fdcf&c_id=/home/card-featured/element&c_uid=eb67a047-9641-4e66-ba25-f1b32bd78a57",
+        "titulo": "Pasta de Amendoim Dr Peanut Cookies & Cream 600g",
+        "preco": 38.86,
+        "timestamp": 1783542902.2526276,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB67589897",
+        "link_bruto": "https://www.mercadolivre.com.br/ventilador-40cm-de-mesa-126w-40-cm-preto-plastico-6-otmo/p/MLB67589897",
+        "titulo": "Ventilador 40cm De Mesa 126w 40 Cm Preto Plástico 6 OTMO",
+        "preco": 149.9,
+        "timestamp": 1783542946.1168356,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0152HPXXE",
+        "link_bruto": "https://www.amazon.com.br/Mouse-Pad-Gaming-Havit-HV-MP830/dp/B0152HPXXE?ampdib=eyJ2IjoiMSJ9.EaTpxScthbwBNqN-1zoE-UjJTHRuDcF4bAL_VSnasq6aEI2KDlsUh5gkBVIOlMiow0NGsuT8_-YbFEJqadtauBEN-y3-acKSNKKh2BnBhG6diyYDIJ9R-tpIXzji1qMwXYyeNwWSzOD-_JYNs3RcWVC_koDXoXH3zAwac2R3tDSr322CPl5c8U2HNdiAJqttjj59rD2EbnTyrsyOIX0w0Znu7QNR1nrZSLwdrr-dsVOEEYzOuHsozsCe9e0KcPYGHVK0h5UqsfCH6KRAuBEkByAELLTnxiGejzp38UtFIAk.jAAZf4275_i5vrL4UOw4H8lCLgZGrCiN6Fw7bMMYpWA&ampdib_tag=se&ampkeywords=gamer&ampqid=1770816612&ampxpid=0mhqmqujcudJT&tag=promobit-d-20",
+        "titulo": "Mouse Pad Professional Gaming, Havit, Hv-MP830, 30 X 90 Cm",
+        "preco": 22.48,
+        "timestamp": 1783542988.560347,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F8KGXJ44",
+        "link_bruto": "https://www.amazon.com.br/dp/B0F8KGXJ44?tag=promobit-d-20&th=1",
+        "titulo": "Smart TV LG UHD AI UA75",
+        "preco": 2099.0,
+        "timestamp": 1783543034.5362446,
+        "expirado": false
     }
 ]
