@@ -10046,5 +10046,85 @@
         "preco": 436.04,
         "timestamp": 1783473100.729502,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B09Z31YGJK",
+        "link_bruto": "https://www.amazon.com.br/Yp%C3%AA-Lava-Roupas-L%C3%ADquido-Power/dp/B09Z31YGJK?tag=promobit-d-20",
+        "titulo": "Ypê Lava Roupas Líquido Power Act 3L",
+        "preco": 12.94,
+        "timestamp": 1783521726.9894462,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB22616954",
+        "link_bruto": "https://www.mercadolivre.com.br/fone-de-ouvido-headphone-aiwa-hp-02-b-bluetooth-anc-alta-definico/p/MLB22616954",
+        "titulo": "Fone De Ouvido Headphone Aiwa Hp-02-b Bluetooth Anc Alta Definição Preto",
+        "preco": 113.05,
+        "timestamp": 1783521762.407017,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09BDJ5V5D",
+        "link_bruto": "https://www.amazon.com.br/dp/B09BDJ5V5D?tag=promobit-d-20",
+        "titulo": "Vitafor - Omegafor Plus - 240 Cápsulas",
+        "preco": 107.24,
+        "timestamp": 1783521802.2841625,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB28717101",
+        "link_bruto": "https://www.mercadolivre.com.br/cama-elastica-pula-pula-infantil-trampolim-14-metros-atentu/p/MLB28717101",
+        "titulo": "Cama Elástica Pula Pula Infantil Trampolim 1,4 Metros Atentu",
+        "preco": 189.91,
+        "timestamp": 1783521844.1052296,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3985740132",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-presente-mestre-do-churrasco/up/MLBU3985740132?pdp_filters=item_id%3AMLB6801107118&matt_event_ts=1783521534346&matt_d2id=cc635527-fe1d-457d-aa57-7b791e6a9328&matt_tracing_id=c5406701-0187-417a-94b3-15dede312aaa#polycard_client=recommendations_home_affiliate-profile&wid=MLB6801107118&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=dd002f76-66d1-4e00-8975-970523bfeb74&tracking_id=7ff8895d-3847-44a0-b225-bc8634e60b80&c_id=/home/card-featured/element&c_uid=8ddef0d6-d992-4ff8-a427-2231ab30cbb4",
+        "titulo": "Kit Presente Mestre Do Churrasco 7 Peças",
+        "preco": 276.35,
+        "timestamp": 1783521880.0123186,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_21699552487",
+        "link_bruto": "https://s.shopee.com.br/7prUblDwRx",
+        "titulo": "05 Potes de Vidro Hermético Transparente Tampa Bambu Porta Alimentos",
+        "preco": 74.9,
+        "timestamp": 1783521923.9535227,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB6280903",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-feminino-la-nuit-tresor-lancme-edp-100ml/p/MLB6280903",
+        "titulo": "Perfume Feminino La Nuit Trésor Lancôme Edp 100ml",
+        "preco": 503.19,
+        "timestamp": 1783521961.960365,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DNY5FQY3",
+        "link_bruto": "https://www.amazon.com.br/LYOR-Tapete-Pedra-Diatomita-Banheiro/dp/B0DNY5FQY3",
+        "titulo": "LYOR - Tapete de Pedra Diatomita para Banheiro Cinza 60cm x 39cm",
+        "preco": 49.9,
+        "timestamp": 1783521998.3924563,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07L5BPDV7",
+        "link_bruto": "https://www.amazon.com.br/Last-Us-Remasterizado-PlayStation/dp/B07L5BPDV7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.t-eW3xvVNQ0iiXCeBYJ3Kr2xogyVAjTkf5ZwBGHfM3vGjHj071QN20LucGBJIEps.qqOF-_2dfQC_s7GBiF8N5-ywAYeySwYeAaBYc7tl-Wc&dib_tag=se&keywords=gta+6&psr=EY17&qid=1783518463&s=todays-deals&tag=promobit-d-20",
+        "titulo": "The Last Of Us Hits - PlayStation 4",
+        "preco": 49.9,
+        "timestamp": 1783522036.1844387,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_18199657078",
+        "link_bruto": "https://s.shopee.com.br/4LHcRKRGYS",
+        "titulo": "Mini Compressor de Ar Portatil Recarregavél Digital USB Calibrador Pneu Envio Imediato",
+        "preco": 64.99,
+        "timestamp": 1783522082.7165039,
+        "expirado": false
     }
 ]
