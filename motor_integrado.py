@@ -44,7 +44,7 @@ FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = False
 LIMITE_MENSAGENS_POR_RODADA = 19
 
 # Desconto mínimo para aceitar uma oferta (%)
-DESCONTO_MINIMO_GERAL = 15
+DESCONTO_MINIMO_GERAL = 19
 
 # Configuração de envio do WhatsApp:
 # Se True, envia todas as ofertas para um único grupo/canal unificado.
@@ -168,7 +168,35 @@ TERMOS_BUSCA = [
     {"termo": "Camisa adidas de time", "desconto_minimo": 20},
     {"termo": "Colcha de cama casal", "desconto_minimo": 15},
     {"termo": "Cortina", "desconto_minimo": 20},
-    {"termo": "Copo térmico", "desconto_minimo": 15}
+    {"termo": "Copo térmico", "desconto_minimo": 15},
+    
+    # Games & Acessórios
+    {"termo": "Nintendo Switch OLED", "desconto_minimo": 10},
+    {"termo": "Nintendo Switch Lite", "desconto_minimo": 10},
+    {"termo": "Jogo PS5 mídia física", "desconto_minimo": 15},
+    {"termo": "Pilha recarregável Duracell", "desconto_minimo": 20},
+    {"termo": "Carregador de pilhas", "desconto_minimo": 15},
+    
+    # Áudio & Acessórios
+    {"termo": "Caixa de som JBL", "desconto_minimo": 15},
+    {"termo": "Fone de ouvido QCY bluetooth", "desconto_minimo": 20},
+    {"termo": "Fone JBL bluetooth", "desconto_minimo": 20},
+    {"termo": "Carregador portátil Baseus", "desconto_minimo": 15},
+    {"termo": "Carregador rápido Baseus USB-C", "desconto_minimo": 20},
+    {"termo": "SSD M.2 NVMe 1TB", "desconto_minimo": 15},
+    
+    # Smart Home, Eletrodomésticos & Casa
+    {"termo": "Robô aspirador de pó", "desconto_minimo": 20},
+    {"termo": "Lava e Seca 220v", "desconto_minimo": 12},
+    {"termo": "Fechadura digital Intelbras", "desconto_minimo": 15},
+    {"termo": "MOP Giratório", "desconto_minimo": 25},
+    {"termo": "Jogo de panelas Tramontina", "desconto_minimo": 20},
+    {"termo": "Lâmpada Inteligente Smart", "desconto_minimo": 20},
+    
+    # Suplementação & Fitness
+    {"termo": "Whey Protein Max Titanium", "desconto_minimo": 15},
+    {"termo": "Whey Protein Integralmedica", "desconto_minimo": 15},
+    {"termo": "Pré treino Égide", "desconto_minimo": 15}
 ]
 # =========================================================
 
@@ -284,7 +312,8 @@ def formatar_mensagem_oferta(titulo, preco_original, preco_atual, desconto, link
     if cupom:
         msg += f"🏷️ *Cupom ativo:* `{cupom}`\n"
         
-    msg += f"\n🛒 *Compre com segurança aqui:* {link_afiliado}\n\n"
+    msg += f"\n🛒 *Compre com segurança aqui:* {link_afiliado}\n"
+    msg += "📢 *#publi* _(Como afiliado/associado, ganho com compras qualificadas)_\n\n"
     msg += "⚠️ _Oferta sujeita a alteração de preço e estoque a qualquer momento._"
     return msg
 
@@ -767,9 +796,11 @@ def orquestrar_bot():
         print("🏁 Operação cancelada devido ao horário silencioso.")
         return
 
+    agora = datetime.datetime.now().strftime("%d/%m/%Y %H:%M:%S")
     print("🚀 =========================================")
     print("🤖 BOT DE AFILIADOS MERCADO LIVRE & WHATSAPP")
     print(f"📡 Modo de Busca Ativo: {MODO_DE_BUSCA}")
+    print(f"📅 Data/Hora de Execução: {agora}")
     print("🚀 =========================================\n")
     
     git_sync_pull()

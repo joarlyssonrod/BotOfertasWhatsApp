@@ -35,6 +35,7 @@ if errorlevel 1 (
 echo.
 echo ====================================================
 echo 🚀 Iniciando o Bot de Ofertas...
+echo 📅 Data/Hora de Inicio: %date% %time%
 echo ====================================================
 echo.
 set PYTHONUTF8=1

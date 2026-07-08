@@ -41,7 +41,13 @@ def _executar_scraping(url, desconto_minimo, limite, usar_sessao=True, headless=
             "args": [
                 '--disable-blink-features=AutomationControlled',
                 '--no-sandbox',
-                '--disable-setuid-sandbox'
+                '--disable-setuid-sandbox',
+                '--no-first-run',
+                '--no-default-browser-check',
+                '--disable-extensions',
+                '--disable-sync',
+                '--disable-notifications',
+                '--disable-default-apps'
             ]
         }
         
