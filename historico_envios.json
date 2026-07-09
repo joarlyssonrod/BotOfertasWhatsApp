@@ -10350,5 +10350,109 @@
         "preco": 25.0,
         "timestamp": 1783601119.197083,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_23094694982",
+        "link_bruto": "https://shopee.com.br/product/984366979/23094694982?d_id=43766&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTElwAAAAwOEB8tMKc49aV6dyiqjdHdRwmZz7DVCV97izcFTG48rR346TTKqDMzksvwX83fLx02xVs8Q-FF7j6UnZxFpxXpjheyhuUjFI1YHV6yJTgA820vPjoWhMny62_52dv9VoXLYOLUJ_Z63AFxKdIjQ842l2nNkn34LtyIKqK_QCoiHhZ3A4hYHdpwhhwgUdUvxCE9Y1k&mmp_pid=an_18140170000&uls_trackid=563i2akv007g&utm_campaign=id_23c295443fd3db1a&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=f762qexmih3n",
+        "titulo": "Cadeira Escritório Ergonômica Giratória Syberflex",
+        "preco": 218.0,
+        "timestamp": 1783607695.3272173,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DXFSJTTS",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DXFSJTTS?tag=promobit-d-20",
+        "titulo": "Azeite de Oliva Extra Virgem Premium Arribas do Douro 500ml - Portugues - Extraido a Frio, Perfil Gourmet Frutado - Acidez < 0,2",
+        "preco": 21.64,
+        "timestamp": 1783607746.2591412,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB53189573",
+        "link_bruto": "https://www.mercadolivre.com.br/fritadeira-eletrica-air-fryer-sem-oleo-antiaderente-1200w-af-105-35-litros-kian/p/MLB53189573?matt_event_ts=1783607497877&matt_d2id=1e0f3b9b-df50-42a1-b957-7928f1da1703&matt_tracing_id=b2514bce-43c3-42ed-b847-6db12bb33be9#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=93b8967b-670e-4fe7-b14b-22586fb37999&tracking_id=a1b63c6e-1993-4f74-bc03-1c2c3be0f4fe&c_id=/home/card-featured/element&c_uid=1b6d7d3f-efc5-4be4-a8a6-682c0116f150",
+        "titulo": "Fritadeira Elétrica Air Fryer Sem Oleo Antiaderente 1200w Af-105 3,5 Litros Kian",
+        "preco": 139.4,
+        "timestamp": 1783607799.0253294,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB25294667",
+        "link_bruto": "https://www.mercadolivre.com.br/cesto-de-roupa-suja-de-bambu-com-tampa-e-alcas-50-litros-kontuz/p/MLB25294667",
+        "titulo": "Cesto De Roupa Suja De Bambu Com Tampa E Alças 50 Litros Kontuz",
+        "preco": 49.9,
+        "timestamp": 1783607847.676881,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB18423764",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-rabanne-invictus-eau-de-toilette-200-ml-masculino/p/MLB18423764?matt_event_ts=1783607461917&matt_d2id=4ccd62d6-15eb-40ac-9828-a73eba7efdf7&matt_tracing_id=06d127e6-7c6c-43a3-ae9a-76e7c44ded9b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f026dd76-223d-40f2-b73f-f6ba70519339&tracking_id=346dbc37-5d14-48f0-b0e7-5d494f4f1c4d&c_id=/home/card-featured/element&c_uid=329ee544-192c-4eae-9d4e-ce5ccd205443",
+        "titulo": "Perfume Rabanne Invictus EDT 200ml",
+        "preco": 430.0,
+        "timestamp": 1783607892.0436103,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63085515",
+        "link_bruto": "https://www.mercadolivre.com.br/cerveja-heineken-lagerloira-600ml-12-unid/p/MLB63085515?matt_event_ts=1783607429350&matt_d2id=b1edd281-77d3-447a-9120-2a69916d5cb1&matt_tracing_id=23d17823-c484-4800-9dd8-57e7270dfa12#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=bb505aed-a108-4ed0-a6f2-f4b441804cf4&tracking_id=7805510a-3e37-4aa1-8ba4-2a5e73040369&c_id=/home/card-featured/element&c_uid=748b7eb0-600f-46fc-92a9-06109d685d23",
+        "titulo": "Cerveja Heineken Lager Loira 600ml (12 Unid)",
+        "preco": 116.95,
+        "timestamp": 1783607932.4494214,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB29482203",
+        "link_bruto": "https://www.mercadolivre.com.br/loreal-professionnel-inforcer-kit-shampoo-300ml-e-mascara-250ml/p/MLB29482203",
+        "titulo": "L'oréal Professionnel Inforcer Kit Shampoo 300ml e Máscara 250ml",
+        "preco": 187.06,
+        "timestamp": 1783607982.1822858,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66791914",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-arabe-the-kingdom-eau-de-parfum-lattafa-100ml-para-homens-masculino/p/MLB66791914?matt_event_ts=1783607557710&matt_d2id=5be4ab90-306c-46c9-9736-f7ea06098d54&matt_tracing_id=bc515b03-645d-4803-80bf-8113c3470c1d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ed0908db-c6ad-45cc-9c1c-6604087b0f44&tracking_id=b078b4b4-0e37-43f6-b1c5-178e984644af&c_id=/home/card-featured/element&c_uid=ffefbe06-a618-4a05-96fc-d8339107ef57",
+        "titulo": "Perfume Árabe The Kingdom Eau De Parfum Lattafa 100ml Para Homens Masculino",
+        "preco": 163.13,
+        "timestamp": 1783608029.894796,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66201550",
+        "link_bruto": "https://www.mercadolivre.com.br/jogo-de-aventura-espionagem-007-first-light-ps5-sony/p/MLB66201550?matt_event_ts=1783607486890&matt_d2id=54b9b109-ee6c-422b-a665-7bee986c5822&matt_tracing_id=80312081-e2a6-44c8-85c7-ee3b3fd71b0e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7b718535-e703-45df-9387-6271cb801022&tracking_id=dcf0854e-f8bc-4b1d-820a-926c56e0a666&c_id=/home/card-featured/element&c_uid=8f648d39-7b6a-4e1c-8537-9965536d2eaa",
+        "titulo": "Jogo Aventura Espionagem 007 First Light PS5",
+        "preco": 216.0,
+        "timestamp": 1783608082.5613797,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B006ILMIGE",
+        "link_bruto": "https://www.amazon.com.br/Vodka-Francesa-Grey-Goose-Garrafa/dp/B006ILMIGE",
+        "titulo": "Vodka Grey Goose Original 750ml",
+        "preco": 115.8,
+        "timestamp": 1783608130.6074107,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/jogo-grand-theft-auto-vi-gta-6-ps5-code-in-box-pre-venda-lancamento-19-11/divulgador/oferta/241923300/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/jogo-grand-theft-auto-vi-gta-6-ps5-code-in-box-pre-venda-lancamento-19-11/divulgador/oferta/241923300/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Jogo Grand Theft Auto VI (GTA 6) PS5 - Code in Box Pré-venda - Lançamento 1911",
+        "preco": 386.99,
+        "timestamp": 1783608182.4877343,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CN9NGTXK",
+        "link_bruto": "https://www.amazon.com.br/dp/B0CN9NGTXK/?tag=promobit-d-20",
+        "titulo": "Pack Cerveja Spaten, Puro Malte, 350ml, Lata - 12 Unidades",
+        "preco": 41.99,
+        "timestamp": 1783608230.8551788,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3969929657",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3969929657-air-fryer-electrolux-por-rita-lobo-56l-cinza-efficient-econ-_JM?searchVariation=182847637160&matt_event_ts=1783607450274&matt_d2id=033e740d-cad2-4de8-a9a6-684a671cf1cd&matt_tracing_id=254425ed-4ce7-48d0-aa9e-ea795118ac8b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5446c728-bb7c-4c5f-85ed-796bb91f45cb&tracking_id=2ddde5fd-32a1-44e3-b67b-f09c7fd7f0c1&c_id=/home/card-featured/element&c_uid=4516c6da-4894-44dd-a927-924535c74227",
+        "titulo": "Air Fryer Electrolux Por Rita Lobo 5,6l Cinza Efficient Econ",
+        "preco": 28.04,
+        "timestamp": 1783608278.0654414,
+        "expirado": false
     }
 ]
