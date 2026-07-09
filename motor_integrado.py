@@ -46,6 +46,12 @@ LIMITE_MENSAGENS_POR_RODADA = 19
 # Desconto mínimo para aceitar uma oferta (%)
 DESCONTO_MINIMO_GERAL = 19
 
+# Palavras-chave bloqueadas no título do produto (case-insensitive) para evitar spam de figurinhas, adesivos etc.
+BLACKLIST_TITULOS = [
+    "figurinha", "figurinhas", "album da copa", "álbum da copa", 
+    "envelopes copa", "adesivo dtf", "porta figurinha"
+]
+
 # Configuração de envio do WhatsApp:
 # Se True, envia todas as ofertas para um único grupo/canal unificado.
 # Se False, envia para grupos separados por categoria (Moda, Games, Fitness, Informática, Geral).
@@ -77,7 +83,7 @@ TERMOS_BUSCA = [
     {"termo": "Teclado mecânico", "desconto_minimo": 15},
     {"termo": "Mouse gamer", "desconto_minimo": 15},
     {"termo": "Notebook i5", "desconto_minimo": 10},
-    {"termo": "Notebook Gamer ryzen 5 nvidia", "desconto_minimo": 20},
+    {"termo": "Notebook Gamer ryzen 5", "desconto_minimo": 20},
     {"termo": "Tablet", "desconto_minimo": 25},
     {"termo": "Gabinete Gamer", "desconto_minimo": 10},
     {"termo": "Water Cooler RGB", "desconto_minimo": 10},
@@ -86,16 +92,16 @@ TERMOS_BUSCA = [
     {"termo": "Mesa para PC", "desconto_minimo": 15},
     {"termo": "suporte para notebook", "desconto_minimo": 15},
     {"termo": "suporte para monitor", "desconto_minimo": 15},
-    {"termo": "Cadeira gamer", "desconto_minimo": 12},
+    {"termo": "Cadeira ergonomica", "desconto_minimo": 12},
     #{"termo": "jogo de chaves computador celular", "desconto_minimo": 30},
     #{"termo": "jogo de chaves eletrico computador celular", "desconto_minimo": 30},
     
     # Eletrônicos & Smart Home
     {"termo": "Celular Xiaomi", "desconto_minimo": 12},
     {"termo": "Smartphone Xiaomi", "desconto_minimo": 12},
-    {"termo": "Samsung NFC 8GB", "desconto_minimo": 12},
-    {"termo": "Samsung NFC 8gb 256gb", "desconto_minimo": 12},
-    {"termo": "Smartphone 8GB NFC", "desconto_minimo": 12},
+    {"termo": "Samsung NFC 8GB RAM", "desconto_minimo": 12},
+    {"termo": "Samsung NFC 8GB RAM 256GB", "desconto_minimo": 12},
+    {"termo": "Smartphone 12GB RAM NFC", "desconto_minimo": 12},
     {"termo": "Relógio inteligente", "desconto_minimo": 15},
     {"termo": "Relógio samsung", "desconto_minimo": 20},
     {"termo": "Smartwatch samsung galaxy", "desconto_minimo": 20},
@@ -347,6 +353,89 @@ def atende_filtro_termos(titulo):
         if termo in titulo_lower:
             return True
     return False
+
+def contem_palavra_bloqueada(titulo):
+    """Retorna True se o título contiver alguma palavra da BLACKLIST_TITULOS"""
+    titulo_lower = titulo.lower()
+    for palavra in BLACKLIST_TITULOS:
+        if palavra.lower() in titulo_lower:
+            return True
+    return False
+
+def calcular_similaridade_palavras(set1, set2):
+    if not set1 or not set2:
+        return 0.0
+    intersecao = set1.intersection(set2)
+    uniao = set1.union(set2)
+    return len(intersecao) / len(uniao)
+
+def eh_duplicado_recente(titulo, historico, seen_titles, limite_horas=24, threshold=0.7):
+    """
+    Verifica se um produto muito similar já foi postado recentemente no histórico
+    ou já foi selecionado na rodada atual.
+    """
+    import time
+    agora = time.time()
+    limite_segundos = limite_horas * 3600
+    
+    palavras_novas = obter_palavras_chave(titulo)
+    if len(palavras_novas) < 3:  # Evita falsos positivos com títulos curtíssimos
+        return False
+        
+    # 1. Verifica na rodada atual
+    for t in seen_titles:
+        palavras_seen = obter_palavras_chave(t)
+        if calcular_similaridade_palavras(palavras_novas, palavras_seen) > threshold:
+            return True
+            
+    # 2. Verifica no histórico recente
+    for h in historico:
+        if not isinstance(h, dict) or not h.get("titulo"):
+            continue
+            
+        t_envio = h.get("timestamp", 0)
+        # Ignora registros antigos (ex: postados há mais de limite_horas)
+        if agora - t_envio > limite_segundos:
+            continue
+            
+        palavras_hist = obter_palavras_chave(h["titulo"])
+        if calcular_similaridade_palavras(palavras_novas, palavras_hist) > threshold:
+            return True
+            
+    return False
+
+def adicionar_oferta_se_valida(item, ofertas_encontradas, seen_ids, seen_titles, historico_ids, historico_links, historico):
+    """
+    Tenta adicionar uma oferta à lista de ofertas encontradas se ela passar em todas as validações
+    (duplicados de ID, link, blacklist e similaridade de título recente).
+    """
+    item_id = obter_id_unico(item)
+    if not item_id:
+        return False
+        
+    # 1. Validações básicas de ID e Link
+    if item_id in historico_ids or item_id in seen_ids or item.get("link_bruto") in historico_links:
+        return False
+        
+    # 2. Validação de Blacklist de palavras-chave
+    if contem_palavra_bloqueada(item["titulo"]):
+        print(f"🚫 [Filtro Blacklist] Ignorando item bloqueado: '{item['titulo'][:50]}...'")
+        return False
+        
+    # 3. Validação de Duplicidade recente por título similar
+    if eh_duplicado_recente(item["titulo"], historico, seen_titles):
+        print(f"🚫 [Filtro Duplicado] Ignorando item muito similar já enviado recentemente: '{item['titulo'][:50]}...'")
+        return False
+        
+    # Se passou em tudo, adiciona e marca como visto
+    seen_ids.add(item_id)
+    seen_titles.add(item["titulo"])
+    
+    # Categoriza o produto
+    item["categoria"] = categorizar_produto(item["titulo"])
+    ofertas_encontradas.append(item)
+    return True
+
 
 def obter_palavras_chave(titulo):
     """Remove caracteres especiais e extrai palavras-chave significativas"""
@@ -813,6 +902,7 @@ def orquestrar_bot():
     
     ofertas_encontradas = []
     seen_ids = set() # Evita duplicados capturados na mesma execução do bot
+    seen_titles = set() # Evita duplicados por semelhança de título na mesma execução
     
     # 1. FASE DE SCRAPING: Busca as ofertas do Mercado Livre, Amazon, Magalu, Shopee e Promobit
     print("🔍 [1/3] Iniciando varredura de ofertas...")
@@ -825,12 +915,7 @@ def orquestrar_bot():
                 for item in resultados_pb:
                     if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
                         continue
-                    item_id = obter_id_unico(item)
-                    if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
-                        seen_ids.add(item_id)
-                        categoria = categorizar_produto(item["titulo"])
-                        item["categoria"] = categoria
-                        ofertas_encontradas.append(item)
+                    adicionar_oferta_se_valida(item, ofertas_encontradas, seen_ids, seen_titles, historico_ids, historico_links, historico)
             except Exception as pb_err:
                 print(f"⚠️ Erro ao buscar no Promobit: {pb_err}")
 
@@ -841,12 +926,7 @@ def orquestrar_bot():
                 for item in resultados:
                     if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
                         continue
-                    item_id = obter_id_unico(item)
-                    if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
-                        seen_ids.add(item_id)
-                        categoria = categorizar_produto(item["titulo"])
-                        item["categoria"] = categoria
-                        ofertas_encontradas.append(item)
+                    adicionar_oferta_se_valida(item, ofertas_encontradas, seen_ids, seen_titles, historico_ids, historico_links, historico)
             except Exception as ml_err:
                 print(f"⚠️ Erro ao buscar no Mercado Livre: {ml_err}")
                     
@@ -857,12 +937,7 @@ def orquestrar_bot():
                 for item in resultados_amz:
                     if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
                         continue
-                    item_id = obter_id_unico(item)
-                    if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
-                        seen_ids.add(item_id)
-                        categoria = categorizar_produto(item["titulo"])
-                        item["categoria"] = categoria
-                        ofertas_encontradas.append(item)
+                    adicionar_oferta_se_valida(item, ofertas_encontradas, seen_ids, seen_titles, historico_ids, historico_links, historico)
             except Exception as amz_err:
                 print(f"⚠️ Erro ao buscar na Amazon: {amz_err}")
 
@@ -873,12 +948,7 @@ def orquestrar_bot():
                 for item in resultados_mgl:
                     if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
                         continue
-                    item_id = obter_id_unico(item)
-                    if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
-                        seen_ids.add(item_id)
-                        categoria = categorizar_produto(item["titulo"])
-                        item["categoria"] = categoria
-                        ofertas_encontradas.append(item)
+                    adicionar_oferta_se_valida(item, ofertas_encontradas, seen_ids, seen_titles, historico_ids, historico_links, historico)
             except Exception as mgl_err:
                 print(f"⚠️ Erro ao buscar na Magalu: {mgl_err}")
 
@@ -889,12 +959,7 @@ def orquestrar_bot():
                 for item in resultados_shp:
                     if FILTRAR_OFERTAS_DO_DIA_POR_TERMOS and not atende_filtro_termos(item["titulo"]):
                         continue
-                    item_id = obter_id_unico(item)
-                    if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
-                        seen_ids.add(item_id)
-                        categoria = categorizar_produto(item["titulo"])
-                        item["categoria"] = categoria
-                        ofertas_encontradas.append(item)
+                    adicionar_oferta_se_valida(item, ofertas_encontradas, seen_ids, seen_titles, historico_ids, historico_links, historico)
             except Exception as shp_err:
                 print(f"⚠️ Erro ao buscar na Shopee: {shp_err}")
     else:
@@ -908,11 +973,7 @@ def orquestrar_bot():
                 try:
                     ml_res = buscar_promocoes(termo, desconto_minimo=desc_min, limite=1, headless=headless_mode)
                     for item in ml_res:
-                        item_id = obter_id_unico(item)
-                        if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
-                            seen_ids.add(item_id)
-                            item["categoria"] = categorizar_produto(item["titulo"])
-                            ofertas_encontradas.append(item)
+                        adicionar_oferta_se_valida(item, ofertas_encontradas, seen_ids, seen_titles, historico_ids, historico_links, historico)
                 except Exception as ml_err:
                     print(f"⚠️ Erro ao buscar '{termo}' no Mercado Livre: {ml_err}")
                         
@@ -921,11 +982,7 @@ def orquestrar_bot():
                 try:
                     amz_res = buscar_promocoes_amazon(termo, desconto_minimo=desc_min, limite=1)
                     for item in amz_res:
-                        item_id = obter_id_unico(item)
-                        if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
-                            seen_ids.add(item_id)
-                            item["categoria"] = categorizar_produto(item["titulo"])
-                            ofertas_encontradas.append(item)
+                        adicionar_oferta_se_valida(item, ofertas_encontradas, seen_ids, seen_titles, historico_ids, historico_links, historico)
                 except Exception as amz_err:
                     print(f"⚠️ Erro ao buscar '{termo}' na Amazon: {amz_err}")
 
@@ -934,11 +991,7 @@ def orquestrar_bot():
                 try:
                     mgl_res = buscar_promocoes_magalu(termo, desconto_minimo=desc_min, limite=1)
                     for item in mgl_res:
-                        item_id = obter_id_unico(item)
-                        if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
-                            seen_ids.add(item_id)
-                            item["categoria"] = categorizar_produto(item["titulo"])
-                            ofertas_encontradas.append(item)
+                        adicionar_oferta_se_valida(item, ofertas_encontradas, seen_ids, seen_titles, historico_ids, historico_links, historico)
                 except Exception as mgl_err:
                     print(f"⚠️ Erro ao buscar '{termo}' na Magalu: {mgl_err}")
 
@@ -947,11 +1000,7 @@ def orquestrar_bot():
                 try:
                     shp_res = buscar_promocoes_shopee(termo, desconto_minimo=desc_min, limite=1)
                     for item in shp_res:
-                        item_id = obter_id_unico(item)
-                        if item_id not in historico_ids and item_id not in seen_ids and item["link_bruto"] not in historico_links:
-                            seen_ids.add(item_id)
-                            item["categoria"] = categorizar_produto(item["titulo"])
-                            ofertas_encontradas.append(item)
+                        adicionar_oferta_se_valida(item, ofertas_encontradas, seen_ids, seen_titles, historico_ids, historico_links, historico)
                 except Exception as shp_err:
                     print(f"⚠️ Erro ao buscar '{termo}' na Shopee: {shp_err}")
                         

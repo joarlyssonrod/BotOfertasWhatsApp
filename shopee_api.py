@@ -121,7 +121,16 @@ def buscar_promocoes_shopee(termo, desconto_minimo=10, limite=5):
             link_afiliado = node.get("offerLink") or node.get("productLink")
             link_imagem = node.get("imageUrl")
             
-            preco_atual = float(node.get("priceMin") or node.get("priceMax") or 0.0)
+            price_min_val = float(node.get("priceMin") or 0.0)
+            price_max_val = float(node.get("priceMax") or 0.0)
+            
+            # Se a variação de preço for muito grande (mais de 20%), é provável que seja "isca" (ex: acessórios/partes mais baratas)
+            if price_max_val > 0 and price_min_val > 0:
+                if price_max_val > price_min_val * 1.20:
+                    print(f"⚠️ [Shopee API] Ignorando produto com grande variação de preço (provável isca): '{titulo[:40]}...' (Min: {price_min_val} | Max: {price_max_val})")
+                    continue
+            
+            preco_atual = price_min_val
             if preco_atual <= 0:
                 continue
                 
@@ -201,7 +210,16 @@ def buscar_ofertas_do_dia_shopee(desconto_minimo=10, limite=20):
             link_afiliado = node.get("offerLink") or node.get("productLink")
             link_imagem = node.get("imageUrl")
             
-            preco_atual = float(node.get("priceMin") or node.get("priceMax") or 0.0)
+            price_min_val = float(node.get("priceMin") or 0.0)
+            price_max_val = float(node.get("priceMax") or 0.0)
+            
+            # Se a variação de preço for muito grande (mais de 20%), é provável que seja "isca" (ex: acessórios/partes mais baratas)
+            if price_max_val > 0 and price_min_val > 0:
+                if price_max_val > price_min_val * 1.20:
+                    print(f"⚠️ [Shopee API] Ignorando produto com grande variação de preço (provável isca): '{titulo[:40]}...' (Min: {price_min_val} | Max: {price_max_val})")
+                    continue
+            
+            preco_atual = price_min_val
             if preco_atual <= 0:
                 continue
                 
