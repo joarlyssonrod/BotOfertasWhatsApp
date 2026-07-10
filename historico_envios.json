@@ -11422,5 +11422,45 @@
         "preco": 139.0,
         "timestamp": 1783715867.7544081,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B08DPL6H9X",
+        "link_bruto": "https://www.amazon.com.br/Vinho-Branco-Casal-Garcia-750Mml/dp/B08DPL6H9X",
+        "titulo": "Casal Garcia Vinho Branco Verde Aveleda 750Ml Trajadura",
+        "preco": 43.89,
+        "timestamp": 1783722755.5831122,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66055369",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-philco-40-full-hd-roku-tv-hdr10-dolby-audio-p40cra/p/MLB66055369",
+        "titulo": "Smart Tv Philco 40'' Full Hd Roku Tv Hdr10 Dolby Áudio P40cra",
+        "preco": 1159.0,
+        "timestamp": 1783722802.4922228,
+        "expirado": false
+    },
+    {
+        "id": "https://www.americanas.com.br/apple-iphone-17-512gb-preto-63--48mp-ios-5g-8362426/p",
+        "link_bruto": "https://www.americanas.com.br/apple-iphone-17-512gb-preto-63--48mp-ios-5g-8362426/p?utm_source=ab_lg&utm_medium=afiliados&utm_campaign=always_on&utm_id=889130&utm_content=af_lg_00_ab&utm_term=22193_1783722628_638f5939551bf5f7aa1146dad09ac23e&sv1=affiliate&sv_campaign_id=889130",
+        "titulo": "Iphone 17 de 512 gb — apple",
+        "preco": 6299.1,
+        "timestamp": 1783722854.5100434,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BXMCSK8J",
+        "link_bruto": "https://www.amazon.com.br/Cadeira-Isofix-Litet-Stages-Preta/dp/B0BXMCSK8J",
+        "titulo": "Cadeira para Auto 0-36 Kg Isofix Litet All Stages Fix 2.0 Preta - BB450",
+        "preco": 620.0,
+        "timestamp": 1783722901.01824,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DF8LT7YK",
+        "link_bruto": "https://www.amazon.com.br/Galaxy-Intel%C2%AE-Inside-Windows-Graphics/dp/B0DF8LT7YK",
+        "titulo": "Galaxy Book4 Intel® Inside U300, Windows 11 Home, 8GB, 256GB SSD, UHD Graphics, 15.6\" Full HD LED, 1.55kg*.",
+        "preco": 3229.0,
+        "timestamp": 1783722939.9083996,
+        "expirado": false
     }
 ]
