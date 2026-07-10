@@ -11358,5 +11358,69 @@
         "preco": 84.91,
         "timestamp": 1783708830.0471911,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B07JGHC9SC",
+        "link_bruto": "https://www.amazon.com.br/dp/B07JGHC9SC?tag=promobit-d-20",
+        "titulo": "Chá Preto Leão 10 Saches",
+        "preco": 3.1,
+        "timestamp": 1783715583.3994606,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FPG9P54B",
+        "link_bruto": "https://www.amazon.com.br/Smartwatch-HUAWEI-Autonomia-Esportivos-Compat%C3%ADvel/dp/B0FPG9P54B?tag=promobit-d-20&th=1",
+        "titulo": "Smartwatch HUAWEI WATCH GT 6 Pro 46mm Bateria com Autonomia de Até 21 Dias Mais de 100 Modos Esportivos Corrida de",
+        "preco": 1533.73,
+        "timestamp": 1783715627.805603,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CG6SQPK5",
+        "link_bruto": "https://www.amazon.com.br/Aspirador-Liectroux-i7-Pro-Autolimpante/dp/B0CG6SQPK5",
+        "titulo": "Aspirador Vertical de Pó Liectroux i7 Pro Sem Fio 3 em 1 Aspira Passa Pano Autolimpante Para Sólidos e Líquidos Pelos de Pet Cachorro Gato Potente Com Filtro HEPA Bivolt",
+        "preco": 1866.51,
+        "timestamp": 1783715675.3322685,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0979VS2JH",
+        "link_bruto": "https://www.amazon.com.br/Fralda-Pompom-Protek-68-unidades/dp/B0979VS2JH",
+        "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper G 68 Unidades",
+        "preco": 54.49,
+        "timestamp": 1783715710.4955325,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B099KTRZP7",
+        "link_bruto": "https://www.amazon.com.br/Fralda-Turma-Baby-Unidades-M%C3%B4nica/dp/B099KTRZP7",
+        "titulo": "Fralda Turma da Mônica Baby Mega P 62 Unidades",
+        "preco": 35.56,
+        "timestamp": 1783715746.3222728,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07KBJW2P4",
+        "link_bruto": "https://www.amazon.com.br/LUMINARIA-SENSOR-SQUARE-Clingo-Branco/dp/B07KBJW2P4?tag=promobit-d-20",
+        "titulo": "Luminária Led com Sensor Square Clingo",
+        "preco": 14.45,
+        "timestamp": 1783715784.7109082,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FSP1H9CF",
+        "link_bruto": "https://www.amazon.com.br/YoPRO-Bebida-L%C3%A1ctea-Chocolate-Prote%C3%ADnas/dp/B0FSP1H9CF",
+        "titulo": "YoPRO Bebida Láctea UHT Chocolate Líquida Caixinha 250ml - 23g de Proteínas - Sem Lactose - Pack com 24 Unidades",
+        "preco": 177.42,
+        "timestamp": 1783715822.8543441,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DZNXQ45X",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DZNXQ45X/ref=cm_sw_r_as_gl_api_gl_i_dl_KGE4B51QX7JDBFSHDK8H?tag=promobit-d-20&th=1",
+        "titulo": "Basike Carregador sem fio 3 em 1 Magnético luz noturna dobrável MagSafe 161514",
+        "preco": 139.0,
+        "timestamp": 1783715867.7544081,
+        "expirado": false
     }
 ]
