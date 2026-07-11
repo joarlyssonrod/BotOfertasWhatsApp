@@ -11966,5 +11966,85 @@
         "preco": 159.9,
         "timestamp": 1783802200.3485687,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB19299491",
+        "link_bruto": "https://www.mercadolivre.com.br/livro-habitos-atmicos-james-clear/p/MLB19299491?matt_event_ts=1783809015087&matt_d2id=9eb79c05-4ccd-43c4-8f3f-c4d1aed03ac4&matt_tracing_id=f0b9b325-fd6d-40b9-8156-2b183455fdbf#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5b99a006-9afd-4a46-aff3-2a9f6c097524&tracking_id=38017b8d-d9d7-47fd-8776-73cef10a99cf&c_id=/home/card-featured/element&c_uid=b9ab19ea-d401-44b5-80de-f328e9cb2adb",
+        "titulo": "Livro: Hábitos Atômicos",
+        "preco": 27.0,
+        "timestamp": 1783809181.7800698,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22298400282",
+        "link_bruto": "https://s.shopee.com.br/70ISvEnpCe",
+        "titulo": "Gaveteiro Empilhável Porta Ovos Duplo 32 Ovos Organizador de Geladeira",
+        "preco": 33.98,
+        "timestamp": 1783809218.369669,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_18499853587",
+        "link_bruto": "https://s.shopee.com.br/8pk76bgqTr",
+        "titulo": "Carregador Portátil 5000Mah Sem fio Para iPhone Indução Bateria Carga",
+        "preco": 28.88,
+        "timestamp": 1783809256.1199682,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB69748776",
+        "link_bruto": "https://www.mercadolivre.com.br/fritadeira-air-fryer-philco-paf11c-preto-com-acabamento-em-inox/p/MLB69748776",
+        "titulo": "Fritadeira Air Fryer Philco Paf11c Preto Com Acabamento Em Inox",
+        "preco": 419.0,
+        "timestamp": 1783809301.098627,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19870720",
+        "link_bruto": "https://www.mercadolivre.com.br/hidratante-facial-epidrat-acqua-50ml-mantecorp-skincare-todo-tipo-de-pele-dianoite/p/MLB19870720",
+        "titulo": "Hidratante Facial Epidrat Acqua 50ml Mantecorp Skincare Todo Tipo De Pele Dia/noite",
+        "preco": 59.9,
+        "timestamp": 1783809349.0847015,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23597767441",
+        "link_bruto": "https://s.shopee.com.br/6L2m80qMYa",
+        "titulo": "Lavadora De Alta Pressão Vonder C/ Rodas, 1.600 lbf/pol² 1400w Super Potente - Original Vonder",
+        "preco": 379.99,
+        "timestamp": 1783809381.8192987,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F7K7B2PD",
+        "link_bruto": "https://www.amazon.com.br/0/dp/B0F7K7B2PD/?tag=comparador-wg-20&utm_source=promobit&utm_medium=comparador&utm_campaign=WG-PB",
+        "titulo": "Smart TV TCL 65 Polegadas QLED Mini LED 4K C6K WiFi Bluetooth Google TV 4 HDMI 144Hz HDR10+ 65C6K",
+        "preco": 3395.68,
+        "timestamp": 1783809415.599106,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FV9X1Q1Z",
+        "link_bruto": "https://www.amazon.com.br/Samsung-Galaxy-Intel%C2%AE-CoreTM-Windows/dp/B0FV9X1Q1Z",
+        "titulo": "Samsung Galaxy Book4 Ultra Intel® Core™ Ultra 7 155H, Windows 11 Home, 32GB, 1TB SSD, 16'' WQXGA+ AMOLED 2x, 1.86 kg*",
+        "preco": 10299.0,
+        "timestamp": 1783809449.3156602,
+        "expirado": false
+    },
+    {
+        "id": "https://www.kabum.com.br/produto/928994/apple-iphone-17-pro-256gb-prateado",
+        "link_bruto": "https://www.kabum.com.br/produto/928994/apple-iphone-17-pro-256gb-prateado?aw_affid=638697&sv1=affiliate&sv_campaign_id=638697&awc=17729_1783809025_d52373108ded073517fc9d34453d5d80&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=WG-PB&utm_term=638697",
+        "titulo": "Apple iPhone 17 Pro (256 GB) - Prateado",
+        "preco": 8009.99,
+        "timestamp": 1783809498.128039,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/sofa-3-lugares-retratil-e-reclinavel-cama-inbox-compact-180m-velusoft-cafe/divulgador/oferta/df4b389350/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/sofa-3-lugares-retratil-e-reclinavel-cama-inbox-compact-180m-velusoft-cafe/divulgador/oferta/df4b389350/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Sofá 3 Lugares Retrátil Reclinável Velusoft",
+        "preco": 976.8,
+        "timestamp": 1783809547.8886771,
+        "expirado": false
     }
 ]
