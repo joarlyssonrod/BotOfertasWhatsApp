@@ -11830,5 +11830,93 @@
         "preco": 340.0,
         "timestamp": 1783787851.3270838,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FDX8YCRH",
+        "link_bruto": "https://www.amazon.com.br/Samsung-Galaxy-Watch8-Smartwatch-40mm/dp/B0FDX8YCRH?tag=promobit-d-20",
+        "titulo": "Samsung Galaxy Watch8 Smartwatch 40mm BT, Galaxy AI - Prata",
+        "preco": 1258.99,
+        "timestamp": 1783794800.5880141,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19560127",
+        "link_bruto": "https://www.mercadolivre.com.br/azeite-de-oliva-tipo-unico-portugal-vidro-500ml-andorinha/p/MLB19560127?matt_event_ts=1783794708236&matt_d2id=48014b61-0905-45bc-923d-a5d25f7bdb66&matt_tracing_id=c3bef33b-f311-4bfc-a0f4-663ea2ecca0f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=780983b5-756a-4e23-bffa-fe85fb207449&tracking_id=3d01876c-5edb-4de9-8677-9b22ca2418d8&c_id=/home/card-featured/element&c_uid=f77e6a5d-f8ee-4cd4-94ba-1612a2562c35",
+        "titulo": "Azeite de Oliva Tipo Único Portugal Vidro 500ml Andorinha",
+        "preco": 22.9,
+        "timestamp": 1783794838.3150969,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_9853949121",
+        "link_bruto": "https://s.shopee.com.br/9fJDpgBjB5",
+        "titulo": "Capacete Fechado Automático Pro Tork Sport Moto 788",
+        "preco": 89.9,
+        "timestamp": 1783794884.7317939,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23598126218",
+        "link_bruto": "https://s.shopee.com.br/2qSth7bk36",
+        "titulo": "Capacete Moto Stealth Concept Feminino Masculino Fechado Pro Tork Brilhante Viseira Cristal ou Fumê",
+        "preco": 229.9,
+        "timestamp": 1783794931.4086764,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08DR82G2F",
+        "link_bruto": "https://www.amazon.com.br/dp/B08DR82G2F?social_share=cm_sw_r_apan_dp_KWBWATE5HVSR62Y535JN&tag=promobit-d-20",
+        "titulo": "Invicta Relógio masculino Aviator 33027 Quartz Preto",
+        "preco": 531.16,
+        "timestamp": 1783794981.5264919,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23398848794",
+        "link_bruto": "https://s.shopee.com.br/7Absr5LFFq",
+        "titulo": "Kit 2 Capacetes Articulados Attack Evo Brilhante Maculino Feminino Casal várias cores",
+        "preco": 573.8,
+        "timestamp": 1783795019.123497,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_49104983365",
+        "link_bruto": "https://s.shopee.com.br/6VMC3rNmbe",
+        "titulo": "Radio Pioneer Mp3 Player MVH145BR  Automotivo Bluetooth USB FM Som Universal Completo",
+        "preco": 421.24,
+        "timestamp": 1783795056.0894685,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23798108173",
+        "link_bruto": "https://s.shopee.com.br/70ISemLsap",
+        "titulo": "KIT SHAMPOO V-FLOC CERA TOK FINAL VEXUS VONIXX PRETINHO VINTEX",
+        "preco": 104.11,
+        "timestamp": 1783795103.4100149,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3959353345",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-nike-flex-experience-run-12-masculino/up/MLBU3959353345?pdp_filters=item_id%3AMLB6768264308&matt_event_ts=1783794662776&matt_d2id=57be852b-a240-4e67-9ad9-8baa40080e29&matt_tracing_id=b222b9a6-bb05-4566-b023-e5fd4252c59f#polycard_client=recommendations_home_affiliate-profile&wid=MLB6768264308&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=90615298-bd7b-4eef-9f81-7bd69941d24f&tracking_id=a5fbffd0-cccb-445e-9ad9-27c04a6eb6f2&c_id=/home/card-featured/element&c_uid=02ab668d-1179-4fe2-8908-a7b359c04d92",
+        "titulo": "Tênis Nike Flex Experience Run 12 (2 Cores)",
+        "preco": 223.68,
+        "timestamp": 1783795142.5668013,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB6072132",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-rabanne-invictus-eau-de-toilette-100-ml-masculino/p/MLB6072132?matt_event_ts=1783794673494&matt_d2id=cb17ff9e-e2d4-4024-97b0-1712e4cbc97c&matt_tracing_id=6a02a78b-79ee-4e36-b482-78257a6cc7eb#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f589b1a6-ac9b-47b4-a438-6d33a33da88c&tracking_id=03ca9106-7c40-47df-9f1e-edb4e97e4e3c&c_id=/home/card-featured/element&c_uid=410bf40f-97fb-4eaa-8372-68441fde4266",
+        "titulo": "Perfume Rabanne Invictus Eau De Toilette 100 Ml Masculino",
+        "preco": 389.9,
+        "timestamp": 1783795192.7100813,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3822031",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-carolina-herrera-212-men-nyc-eau-de-toilette-100-ml-masculino/p/MLB3822031?matt_event_ts=1783794698340&matt_d2id=23183584-086d-4465-aa51-7790f4d55846&matt_tracing_id=15e5b582-2eda-41e6-a43a-3081f967c27b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=34c7e5d1-328e-40aa-97e3-14e9a08dce32&tracking_id=c7e92880-68aa-4273-90a5-6cdf8ffd29d2&c_id=/home/card-featured/element&c_uid=47bd87cb-d1f1-4e65-8405-210b68163f7f",
+        "titulo": "Perfume Carolina Herrera 212 Men NYC Eau de Toilette 100 ml masculino",
+        "preco": 385.9,
+        "timestamp": 1783795241.198112,
+        "expirado": false
     }
 ]
