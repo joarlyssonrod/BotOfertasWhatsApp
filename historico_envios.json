@@ -11774,5 +11774,61 @@
         "preco": 3132.18,
         "timestamp": 1783780674.4129024,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB24310715",
+        "link_bruto": "https://www.mercadolivre.com.br/o-boticario-glamour-midnight-deo-colnia-feminino-75ml/p/MLB24310715?matt_event_ts=1783787484433&matt_d2id=a9949535-f700-4465-bc73-8e70ab74b735&matt_tracing_id=e6103791-e6e5-4cea-b957-4cd5dd576516#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=108d57af-0ddf-4e5a-8072-c24e8c352df7&tracking_id=7ff2ffc8-824a-4240-ba24-1dac9d49779e&c_id=/home/card-featured/element&c_uid=9f8347cb-ba11-4dc5-9c6d-0e8fb5304064",
+        "titulo": "O Boticário Glamour Midnight Deo Colônia Feminino 75ml",
+        "preco": 79.0,
+        "timestamp": 1783787591.7252946,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB27957442",
+        "link_bruto": "https://www.mercadolivre.com.br/fritadeira-air-fry-oven-bfr2100p-12-litros-1800w-britnia-preto/p/MLB27957442",
+        "titulo": "Fritadeira Air Fry Oven Bfr2100p 12 Litros 1800w Britânia Preto",
+        "preco": 386.06,
+        "timestamp": 1783787628.8273733,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3855036100",
+        "link_bruto": "https://www.mercadolivre.com.br/o-boticario-lily-kit-presente4-itens/up/MLBU3855036100",
+        "titulo": "O Boticário Lily Kit Presente(4 Itens)",
+        "preco": 238.56,
+        "timestamp": 1783787675.2290478,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB18390642",
+        "link_bruto": "https://www.mercadolivre.com.br/mantecorp-hidratante-corporal-hydraporin-ai-450g/p/MLB18390642",
+        "titulo": "Mantecorp Hidratante Corporal Hydraporin AI 450g",
+        "preco": 119.9,
+        "timestamp": 1783787723.3829954,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50200776",
+        "link_bruto": "https://www.mercadolivre.com.br/sony-playstation-store-gift-card-r-100-digital/p/MLB50200776?matt_event_ts=1783787441219&matt_d2id=47304925-958e-4525-8ff0-46a8fec9bca5&matt_tracing_id=c260d608-418c-4f22-a364-b1700b29227a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4edbeeac-6e3c-4eeb-8411-1f08fa281120&tracking_id=3a963261-c327-4533-9bf3-1090b3ce3d48&c_id=/home/card-featured/element&c_uid=0398c883-1719-4201-8645-c466a6eb6e86",
+        "titulo": "Sony PlayStation Store Gift Card R$100",
+        "preco": 80.0,
+        "timestamp": 1783787766.0763652,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50198018",
+        "link_bruto": "https://www.mercadolivre.com.br/nintendo-gift-card-eshop-r-100-digital/p/MLB50198018?matt_event_ts=1783787451686&matt_d2id=83bc9900-d24f-4119-897a-627ef522a419&matt_tracing_id=444bbd76-2618-48a6-965c-a99dbaf5ec2d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5f689554-12bf-4d06-99bf-825fa48d88fb&tracking_id=c095a4df-b2a8-409c-88b2-ddc52c0002fb&c_id=/home/card-featured/element&c_uid=df47d46b-803a-4330-91ce-1c7b97162f00",
+        "titulo": "Nintendo Gift Card eShop R$100",
+        "preco": 80.0,
+        "timestamp": 1783787816.3667336,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50196686",
+        "link_bruto": "https://www.mercadolivre.com.br/sony-playstation-gift-card-digital/p/MLB50196686?matt_event_ts=1783787461839&matt_d2id=02e7691c-0d3d-4c63-abc1-ca0337535ac4&matt_tracing_id=aa76bc72-962a-4ac9-be1a-351ed12363b5#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f5ec1a90-1921-47d6-a351-522b764ab287&tracking_id=449c54c2-2468-4d15-8bfb-48805fa4b724&c_id=/home/card-featured/element&c_uid=a3988b39-fdd2-4467-9b84-3a1f2c889597",
+        "titulo": "Sony PlayStation Gift Card R$360 (Digital)",
+        "preco": 340.0,
+        "timestamp": 1783787851.3270838,
+        "expirado": false
     }
 ]
