@@ -11918,5 +11918,53 @@
         "preco": 385.9,
         "timestamp": 1783795241.198112,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D41SDLTB",
+        "link_bruto": "https://www.amazon.com.br/dp/B0D41SDLTB?tag=promobit-d-20&th=1",
+        "titulo": "Mouse Gamer Redragon K1ng 1K, Preto | PAW3327, Cabo USB Tipo-C Removível, 12400 DPI, M724",
+        "preco": 75.0,
+        "timestamp": 1783801984.9283915,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_19099896868",
+        "link_bruto": "https://shopee.com.br/product/273768903/19099896868?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTElwAAAAyBNYuw7TKIEvkPnIb6Qy5aXkQEjcqxD9GcuKpjpTKEfJ_Mg0ZfgQNHX6YXmZebnfjwkPUz7Ap1fe9T5wrKr1mOGiKaqvdU4vsZA0f_nbmer7E3bOG7j0d7QwXEhJskzPOE-ZsKKxHfRinVauCnw6IdnLqoMlQ_BblMN99jJ3W-4Pz5y52QboGSmLnm49jUyb2DeF8&mmp_pid=an_18140170000&uls_trackid=5644j3sh017f&utm_campaign=id_56b6aab96b3b3f45&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=f7jgy25893k3",
+        "titulo": "KIT 2 pijama americano feminino pijama feminino cirúrgico baby doll amamentação camisola gestante maternidade",
+        "preco": 68.58,
+        "timestamp": 1783802022.0175214,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB47295350",
+        "link_bruto": "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-fusion-5g-256gb-24gb-8gb-ram16gb-ram-boost-tela-quad-curve-moto-ai-50mp-sony-camera-ultrarresistencia-militar-ip68-ip69-mocha-mousse/p/MLB47295350",
+        "titulo": "Smartphone Motorola Edge 60 Fusion 5G - 256GB 24GB (8GB RAM+16GB Ram Boost) Tela Quad-Curve moto AI 50MP Sony Camera ultrarresistencia militar IP68 + IP69 - Mocha Mousse",
+        "preco": 1754.0,
+        "timestamp": 1783802064.050255,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B076HYZQMW",
+        "link_bruto": "https://www.amazon.com.br/Multiplicador-Tomadas-PowerCube-Elg-PWC-R5/dp/B076HYZQMW?amplanguage=pt_BR&tag=promobit-d-20&th=1",
+        "titulo": "Multiplicador 5 Tomadas Bivolt - PowerCube ELG - PWC-R5, Verde E Branco",
+        "preco": 50.0,
+        "timestamp": 1783802110.219199,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4268066589",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4268066589-camiseta-ogochi-basica-algodo-original-lisa-masculina-_JM?searchVariation=186463085518&matt_event_ts=1783801838364&matt_d2id=5544c4e2-d2d5-47d5-be22-aa9ef4b6d355&matt_tracing_id=2ef7d003-6402-4935-8378-9a269118b788#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=46f50665-0662-466f-87de-d397f3c9af73&tracking_id=167494a6-8be3-4e21-930e-323cfbc28703&c_id=/home/card-featured/element&c_uid=7da6affe-8f84-4c68-a1e0-64f1ea290caa",
+        "titulo": "Camiseta Ogochi Básica Algodão Original Lisa Masculina",
+        "preco": 44.54,
+        "timestamp": 1783802158.1395817,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22898095546",
+        "link_bruto": "https://s.shopee.com.br/2g9TUocNO5",
+        "titulo": "Kit Lavagem Shampoo Cera Tok Final Intense Sintra Fast Vonixx",
+        "preco": 159.9,
+        "timestamp": 1783802200.3485687,
+        "expirado": false
     }
 ]
