@@ -13078,5 +13078,61 @@
         "preco": 31.99,
         "timestamp": 1783968013.6991541,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B092XD83QH",
+        "link_bruto": "https://www.amazon.com.br/dp/B092XD83QH?tag=promobit-d-20&th=1",
+        "titulo": "Café Especial Cerrado Mineiro Grãos",
+        "preco": 17.88,
+        "timestamp": 1783974825.8976722,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58250692708",
+        "link_bruto": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_in=false&next=https%3A%2F%2Fshopee.com.br%2FCerveja-Premium-5L-Barril-Heineken-i.1248266601.58250692708%3Fgads_t_sig%3DgqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTErQAAAAw5ag1KnK9z_Qv47GEP1R_tqS8aqUSy6c5CBgILfziTkkHokIc34UxXP7TkbAR-5wpDfz_dllpUuNLtAT9VehkEI7OQB_X7wcPwCUwh_XAQWrvZ-lPSPtJljl3dR8xEmRmg56YifYm8K1dQhrIGNvFsFTFY1vNVKKg9IaYxUYx579SsLS8F5DfZA1HWhjJM89FIPhbKmRZ9BYwozvBF6Ug7Pz3G4emeWZxJ%26mmp_pid%3Dan_18140170000%26uls_trackid%3D564l2npn007d%26utm_campaign%3Did_18af738e9e7e7464%26utm_content%3D----%26utm_medium%3Daffiliates%26utm_source%3Dan_18140170000%26utm_term%3Df7wf1ftb4jks&tracking_id=947e2da09a9-a213-4a0b-b815-7de53d55ee3e&type=4",
+        "titulo": "Cerveja Premium 5L Barril Heineken",
+        "preco": 65.25,
+        "timestamp": 1783974860.2001047,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB60012839",
+        "link_bruto": "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-a-bateria-21v-38-bivolt-1400-rpm-com-acessorios-e-maleta-tb-21pzw-the-black-tools/p/MLB60012839",
+        "titulo": "Parafusadeira Furadeira De Impacto A Bateria 21V 3/8” Bivolt 1400 Rpm Com Acessórios E Maleta TB-21PZW The Black Tools",
+        "preco": 129.9,
+        "timestamp": 1783974907.0983474,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CGMLM25B",
+        "link_bruto": "https://www.amazon.com.br/SI%C3%80GE-SHAMPOO-NUTRI-400ML-REFIL/dp/B0CGMLM25B/?tag=promobit-d-20",
+        "titulo": "Eudora - Refil Shampoo Siàge Nutri Rosé",
+        "preco": 31.26,
+        "timestamp": 1783974946.4272263,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CSPRNRZC",
+        "link_bruto": "https://www.amazon.com.br/MSI-GeForce-Express-1492MHz-14000MHz/dp/B0CSPRNRZC",
+        "titulo": "MSI GeForce RTX 3050 LP 6G OC (6GB GDDR6/PCI Express 4.0/1492MHz/14000MHz/Perfil baixo)",
+        "preco": 999.0,
+        "timestamp": 1783974993.7411304,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C3FQQVLH",
+        "link_bruto": "https://www.amazon.com.br/Fralda-Personal-Premium-Protection-unidades/dp/B0C3FQQVLH",
+        "titulo": "Personal Fralda Baby Premium Protection Xg Com 26 Unidades",
+        "preco": 29.99,
+        "timestamp": 1783975032.1778314,
+        "expirado": false
+    },
+    {
+        "id": "https://www.promobit.com.br/Redirect/to/2921660/",
+        "link_bruto": "https://www.promobit.com.br/Redirect/to/2921660/?pr_session_url=https%3A%2F%2Fwww.promobit.com.br%2Foferta%2Fsofa-4-lugares-retratil-reclinavel-velosuede-neon-next-sofas-2921660%2F",
+        "titulo": "Sofá 4 Lugares Retrátil Reclinável Velosuede Neon Next Sofás",
+        "preco": 1613.9,
+        "timestamp": 1783975084.989723,
+        "expirado": false
     }
 ]
