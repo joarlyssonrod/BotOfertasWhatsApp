@@ -12662,5 +12662,21 @@
         "preco": 2089.0,
         "timestamp": 1783895727.0951562,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB23194311",
+        "link_bruto": "https://www.mercadolivre.com.br/potes-hermeticos-electrolux-de-plastico-branco-retangular-com-10-unidades/p/MLB23194311?matt_event_ts=1783902670755&matt_d2id=74a81705-4354-4154-8e91-2ed89cb55d3d&matt_tracing_id=bd813c5e-9982-48c1-80a0-115fb12dc04a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=825a98ba-5733-4f48-be03-8ae014cc58fc&tracking_id=0402b2e9-3276-4f0e-832d-4fa5a3636034&c_id=/home/card-featured/element&c_uid=658e8262-84d6-4553-bedc-a84cc14d2ac8",
+        "titulo": "Potes Herméticos Electrolux Branco Retangular 10 Un",
+        "preco": 70.11,
+        "timestamp": 1783902765.4313998,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66361933",
+        "link_bruto": "https://www.mercadolivre.com.br/tablet-hancdon-s12-android-15-12gb-ram-512gb-memoria-116-dual-sim-wi-fi-kit-completo-com-teclado-mouse-e-caneta-cor-cinza/p/MLB66361933",
+        "titulo": "Tablet Hancdon S12 Android 15 12GB RAM 512GB Memória 11,6\" Dual SIM Wi-Fi Kit Completo Com Teclado Mouse e Caneta Cor Cinza",
+        "preco": 949.63,
+        "timestamp": 1783902813.043016,
+        "expirado": false
     }
 ]
