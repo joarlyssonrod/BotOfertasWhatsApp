@@ -12998,5 +12998,85 @@
         "preco": 254.15,
         "timestamp": 1783960954.3023818,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B085CZ2F4J",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B085CZ2F4J/?tag=promobit-d-20",
+        "titulo": "Sabonete Líquido Refil Glicerina Da Cabeça Aos Pés Johnson's Baby, 380ml",
+        "preco": 12.09,
+        "timestamp": 1783967626.493918,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4113705825",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4113705825-kit-10-pecas-de-roupa-conjunto-infantil-menino-dia-a-dia-_JM?searchVariation=184142540956&matt_event_ts=1783967511149&matt_d2id=b5cb5b88-f780-43f6-8870-b12afe8d0045&matt_tracing_id=56c7d156-6294-4f6e-9445-ec1652f13369#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=cb3951b4-9b85-4c03-9650-aaabc676f776&tracking_id=ec4594a5-b920-4dd0-9656-8ae0c3be0fc3&c_id=/home/card-featured/element&c_uid=598f315f-746a-47d3-897f-13e4b2a39e26",
+        "titulo": "Kit 10 Peças De Roupa Conjunto Infantil Menino Dia A Dia",
+        "preco": 59.49,
+        "timestamp": 1783967680.1600478,
+        "expirado": false
+    },
+    {
+        "id": "https://www.promobit.com.br/Redirect/to/2920863/",
+        "link_bruto": "https://www.promobit.com.br/Redirect/to/2920863/?pr_session_url=https%3A%2F%2Fwww.promobit.com.br%2Foferta%2Fsmart-tv-50-tcl-4k-uhd-led-50s62-google-tv-aipq-google-assistente-3-hdmi-2920863%2F",
+        "titulo": "Smart TV 50\" TCL 4K UHD LED 50S62 Google TV AiPQ Google Assistente 3 HDMI",
+        "preco": 1734.0,
+        "timestamp": 1783967730.126522,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB8923631",
+        "link_bruto": "https://www.mercadolivre.com.br/aspirador-de-po-e-agua-wap-gtw-10-1400w-de-potncia-com-bocal-de-sopro/p/MLB8923631",
+        "titulo": "Aspirador de Pó e Água WAP GTW 10 1400W de Potência com Bocal de Sopro",
+        "preco": 221.76,
+        "timestamp": 1783967771.4910412,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_41878934545",
+        "link_bruto": "https://s.shopee.com.br/5q6YSRmOER",
+        "titulo": "Cadeira Gamer Cor Rosa Ergonômica Reclinável Estofado Couro Sintético Confortável Para Longas Sessões",
+        "preco": 409.75,
+        "timestamp": 1783967820.4868894,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_19974275325",
+        "link_bruto": "https://s.shopee.com.br/AAFXcPVtRJ",
+        "titulo": "Jogo Panelas 13Pç Antiaderente Conjunto Kit Frigideira Caçarola Fervedor Cozinha Completa Mesa Posta",
+        "preco": 289.99,
+        "timestamp": 1783967857.0807498,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22894138770",
+        "link_bruto": "https://s.shopee.com.br/8pkA1xay9B",
+        "titulo": "cadeira de escritório para trabalhar ergonômica \"comfort\" suporta até 150kg - mesh",
+        "preco": 139.0,
+        "timestamp": 1783967898.1968942,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22798804368",
+        "link_bruto": "https://s.shopee.com.br/AUsO11UclP",
+        "titulo": "Kit 2 Cadeira Pétala Veludo Premium Pés Palito Retrô Ideal para vários ambientes",
+        "preco": 347.9,
+        "timestamp": 1783967936.5300994,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23697744513",
+        "link_bruto": "https://s.shopee.com.br/6L2p3MkUDS",
+        "titulo": "Lavadora De Alta Pressão Vonder Lav1300",
+        "preco": 351.75,
+        "timestamp": 1783967970.5155447,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4822825969",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4822825969-meio-de-treinamento-umbro-classic-unissex-original-_JM?searchVariation=197121483116&matt_event_ts=1783967499817&matt_d2id=77a1dbd1-e607-4d85-9997-e77ac04eeeec&matt_tracing_id=13fce5ae-8681-46c7-b61b-39b1686314bf#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=293e2dd6-8f6f-4cfa-b2e5-776904d8e97d&tracking_id=3632fd97-25f0-469d-852c-0b3515e2538f&c_id=/home/card-featured/element&c_uid=61042829-7275-43f0-9c07-e1bf904c4bc1",
+        "titulo": "Meião De Treinamento Umbro Classic Unissex Original",
+        "preco": 31.99,
+        "timestamp": 1783968013.6991541,
+        "expirado": false
     }
 ]
