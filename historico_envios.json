@@ -14710,5 +14710,69 @@
         "preco": 9.0,
         "timestamp": 1784213308.991221,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3640141455",
+        "link_bruto": "https://www.mercadolivre.com.br/esteira-eletrica-ergometrica-dobravel-12km-ctela-led-bivolt/up/MLBU3640141455",
+        "titulo": "Esteira Elétrica Ergométrica Dobrável 12km C/tela Led Bivolt Preto 127/220v",
+        "preco": 1338.0,
+        "timestamp": 1784219626.070203,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DQ25G714",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DQ25G714?social_share=cm_sw_r_cso_cp_apan_dp_ss_E1SGR257A60RCTNK5HEE&tag=promobit-d-20",
+        "titulo": "Enxaguante Bucal Listerine Cool Mint 1L",
+        "preco": 18.08,
+        "timestamp": 1784219661.6100276,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB40654482",
+        "link_bruto": "https://www.mercadolivre.com.br/politriz-angular-automotiva-5-polegadas-1000w-2800-5800-rpm-btp1000-the-black-tools/p/MLB40654482",
+        "titulo": "Politriz Angular Automotiva 5 Polegadas 1000w 2800-5800 Rpm Btp1000 The Black Tools",
+        "preco": 218.9,
+        "timestamp": 1784219714.5190306,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB39205913",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-lg-43full-hd-processador-a5-ger6-ai-alexa-e-webos-23-43lr6700psa/p/MLB39205913",
+        "titulo": "Smart TV LG 43\"Full HD, Processador A5 Ger6, AI, Alexa e webOS 23 - 43LR6700PSA",
+        "preco": 1529.0,
+        "timestamp": 1784219768.1090932,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB62061354",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-lg-ultrawide-34-100hz-34wr50qk-b/p/MLB62061354",
+        "titulo": "Monitor LG UltraWide 34” 100Hz - 34WR50QK-B",
+        "preco": 1654.0,
+        "timestamp": 1784219816.5475743,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09252SMX2",
+        "link_bruto": "https://www.amazon.com.br/Capotraste-Ukulele-Preto-Kalani-Original/dp/B09252SMX2?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promobit-d-20",
+        "titulo": "Capotraste PUkulele Preto Kalani",
+        "preco": 12.44,
+        "timestamp": 1784219855.0658536,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GXFCKPXN",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GXFCKPXN?tag=promobit-d-20&th=1",
+        "titulo": "MODUS Garrafa Térmica 950ml – 24h Gelada",
+        "preco": 61.18,
+        "timestamp": 1784219895.025486,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23394523052",
+        "link_bruto": "https://s.shopee.com.br/903esgt1Fa",
+        "titulo": "Fone De Ouvido SPOETRY Com Cancelamento De Ruído Confortável Para Estudo Home Office E Trabalho",
+        "preco": 78.0,
+        "timestamp": 1784219930.0243342,
+        "expirado": false
     }
 ]
