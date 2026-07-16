@@ -14214,5 +14214,53 @@
         "preco": 117.3,
         "timestamp": 1784155198.5506322,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_48210779003",
+        "link_bruto": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_in=false&next=https%3A%2F%2Fshopee.com.br%2FCRRJU-Rel%25C3%25B3gios-Femininos-Moda-Simples-Casual-Neg%25C3%25B3cios-Esportes-A%25C3%25A7o-Inoxid%25C3%25A1vel-Quartzo-%25C3%2580-Prova-D%2527%25C3%25A1gua-2185-XM-i.284926735.48210779003%3Fgads_t_sig%3DgqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTE_AAAAAxE7fel5DVI5bJLAvBYjbdAf1Qk243gbFdM1CZinXSvJVr6buCanCVh-Y6BK1Og8U3wOyBsWkxqsjYp9pujJJEb7wtYT_U6tOfPRSoglz4SWtc4FUdCwjLaq2wcHGDwnMWKKX1PqR8QoEv1YSRVFyA57HFtLyl3NAisnhBrsAoHZsmqL02MvZLJKriMFRo0Kwi5QLs5UIaf48mpwP8tcBlCe6ZO-0pyj2gjTdgR1Sl6I7PeP00Vyh8Ew5oF-LPlk0fG8BX3R8Vfbio1KxkAZwDEQGpQKdOGow3Fyipl2TB2AsdyToDZit9Is4Djz1F3kjSGXWRbs4UKaQ%26mmp_pid%3Dan_18140170000%26uls_trackid%3D5656tomd00sk%26utm_campaign%3Did_1d0727e3738687f1%26utm_content%3D----%26utm_medium%3Daffiliates%26utm_source%3Dan_18140170000%26utm_term%3Df8achnyfpwhh&tracking_id=95425006971-9283-4595-ad3a-32ecd7ab0461&type=4",
+        "titulo": "Relógio feminino CRRJU",
+        "preco": 65.99,
+        "timestamp": 1784162016.063857,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07HBFBYY7",
+        "link_bruto": "https://www.amazon.com.br/Caneca-Star-Wars-R2D2-M/dp/B07HBFBYY7?tag=promobit-d-20",
+        "titulo": "Artgeek Caneca Star Wars R2D2 Azul 325 ml CilI ndrica Resistente Quebra",
+        "preco": 14.0,
+        "timestamp": 1784162059.8270676,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB27731058",
+        "link_bruto": "https://www.mercadolivre.com.br/shampoo-antiqueda-estimulante-com-aminexil-dercos-energy-vichy-200g/p/MLB27731058?matt_event_ts=1784161899383&matt_d2id=0cc86629-f29c-4a05-a1c7-9ef537f59c7b&matt_tracing_id=43c99d56-56da-4857-8683-1e9f7cfd52be#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=b31efe01-76a9-4afb-9854-4200f7278a4a&tracking_id=42ae780f-8fc8-4d04-a0b3-07ed593a54c4&c_id=/home/card-featured/element&c_uid=6c651675-000b-41cf-b30c-ee0d153b7537",
+        "titulo": "Shampoo Antiqueda Estimulante com Aminexil, Dercos Energy+ Vichy, 200g",
+        "preco": 50.21,
+        "timestamp": 1784162097.8724687,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0B4SZRPM3",
+        "link_bruto": "https://www.amazon.com.br/Lava-Samsung-WD11A-Ecobubble-WD11A4453BX/dp/B0B4SZRPM3",
+        "titulo": "Lava e Seca Samsung WD11A com Ecobubble WD11A4453BX Inox Look 11/7kg 127V",
+        "preco": 3819.0,
+        "timestamp": 1784162138.701777,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3039610188",
+        "link_bruto": "https://www.mercadolivre.com.br/console-nintendo-switch-oled-64gb-edicao-super-mario-bros-wonder-3-meses-assinatura-online-nintendo/up/MLBU3039610188?pdp_filters=item_id%3AMLB3986771587&matt_event_ts=1784161887845&matt_d2id=d23743aa-deaf-47ef-be77-567fb934efe4&matt_tracing_id=7d4dadf2-4c05-4ba4-a24c-962bf81f9ec8#polycard_client=recommendations_home_affiliate-profile&wid=MLB3986771587&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ed580b48-0e6b-41e8-9777-754c4b194d14&tracking_id=3aba0994-9eb7-427c-b5b2-60d364a742c9&c_id=/home/card-featured/element&c_uid=208692f2-a74d-456c-8c03-2e66af075fef",
+        "titulo": "Console Nintendo Switch Oled 64gb Edição Super Mario Bros Wonder 3 Meses Assinatura Online Nintendo Branco",
+        "preco": 2429.0,
+        "timestamp": 1784162184.706622,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58210236162",
+        "link_bruto": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_in=false&next=https%3A%2F%2Fshopee.com.br%2FKit-4-Pneus-XBri-Aro-15-185-60R15-84H-Fastway-Y1-i.443109642.58210236162%3FextraParams%3D%257B%2522display_model_id%2522%253A159554097326%252C%2522model_selection_logic%2522%253A3%257D%26gads_t_sig%3DgqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTEuQAAAAziUbWWulBPT7AmbNQ-zpidTuf67-ztGfA4W9ZfUc02XuCEUnE6x7SQeEzElr8RmnZrQVWnCBDYWzXbJgMwRaDYNqrXUGpaMbpQA35oKNUa9HqR0y4wKixqqvvi_2cvBw4bAIXwjRL3GAlgTyKqVl-kWgcvbx0P-VuKksiSQX0FMvnWBUQjlN8-_D83CibMvN5IEGfibpUQwyeEy3Y2fYnRqibKAtEnyhbIGUECZQ0DKwJ6F70A%26mmp_pid%3Dan_18140170000%26uls_trackid%3D5656u1j301tj%26utm_campaign%3Did_e1fbecb8513cd6b9%26utm_content%3D----%26utm_medium%3Daffiliates%26utm_source%3Dan_18140170000%26utm_term%3Df8acpxbobcx7&tracking_id=39439f10627-6d5c-414f-ada9-ae2bf4d1b67d&type=4",
+        "titulo": "Kit 4 Pneus XBri Aro 15 18560R15 84H Fastway Y1",
+        "preco": 902.35,
+        "timestamp": 1784162222.2546847,
+        "expirado": false
     }
 ]
