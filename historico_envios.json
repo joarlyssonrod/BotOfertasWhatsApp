@@ -14830,5 +14830,157 @@
         "preco": 1844.1,
         "timestamp": 1784227102.3647585,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B07P99VHB9",
+        "link_bruto": "https://www.amazon.com.br/BOTIC%C3%81RIO-ELYSEE-EAU-PARFUM-50ml/dp/B07P99VHB9/ref=sr_1_37",
+        "titulo": "O BOTICÁRIO ELYSEE EAU DE PARFUM 50ml",
+        "preco": 284.9,
+        "timestamp": 1784231960.451763,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CVCG6S9C",
+        "link_bruto": "https://www.amazon.com.br/Smartwatch-Samsung-Galaxy-Display-Prata/dp/B0CVCG6S9C/ref=sr_1_7",
+        "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Prata",
+        "preco": 208.05,
+        "timestamp": 1784232001.4456356,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C2WSK5B7",
+        "link_bruto": "https://www.amazon.com.br/Fritadeira-Brit%C3%A2nia-BFR46PI-Display-Anal%C3%B3gico/dp/B0C2WSK5B7/ref=sr_1_50",
+        "titulo": "Fritadeira Air Fryer Britânia BFR46PI 4,6L Display Analógico Preto e Inox 1500W 220V",
+        "preco": 194.9,
+        "timestamp": 1784232047.498837,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08F4444HM",
+        "link_bruto": "https://www.amazon.com.br/Controle-com-fio-Power-S%C3%A9rie/dp/B08F4444HM/ref=sr_1_18",
+        "titulo": "Controle com fio - Power A - para XBOX Série X | S - Preto",
+        "preco": 194.26,
+        "timestamp": 1784232091.0251489,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FL4WD838",
+        "link_bruto": "https://www.amazon.com.br/SUPORTE-PARA-NOTEBOOK-ABS-PINK/dp/B0FL4WD838/ref=sr_1_56",
+        "titulo": "SUPORTE PARA NOTEBOOK ABS PINK",
+        "preco": 10.58,
+        "timestamp": 1784232129.5668218,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B076QCW9T6",
+        "link_bruto": "https://www.amazon.com.br/Lavadora-Alta-Press%C3%A3o-1950Psi-Premier/dp/B076QCW9T6/ref=sr_1_26",
+        "titulo": "WAP Lavadora de Alta Pressão PREMIER 2600, 360L/h, com Bico Turbo, Jato em Leque e Concentrado, 2000psi 1800W 220V",
+        "preco": 636.65,
+        "timestamp": 1784232177.5093153,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B099ZBTCQ3",
+        "link_bruto": "https://www.amazon.com.br/Nespresso-Cafeteira-Espresso-compacta-autom%C3%A1tica/dp/B099ZBTCQ3/ref=sr_1_56",
+        "titulo": "Cafeteira Espresso Nespresso Essenza Mini Preta 220V",
+        "preco": 417.05,
+        "timestamp": 1784232211.3698182,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FVZQNT34",
+        "link_bruto": "https://www.amazon.com.br/Smartphone-Motorola-Edge-60-Neo/dp/B0FVZQNT34/ref=sr_1_55",
+        "titulo": "Smartphone Motorola Edge 60 Neo 5G - 512GB 24GB (12GB RAM + 12GB Ram Boost) 50MP Sony Camera Moto AI e tela 1.5K Super HD - Cinza",
+        "preco": 2069.1,
+        "timestamp": 1784232256.044842,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09NHW7BMR",
+        "link_bruto": "https://www.amazon.com.br/Micro-ondas-Mondial-MO-01-21-B-MICRO-ONDAS-220V/dp/B09NHW7BMR/ref=sr_1_8",
+        "titulo": "MONDIAL Micro-Ondas, Preto, 1200W, 220V - MO-01-21-B",
+        "preco": 381.64,
+        "timestamp": 1784232295.01257,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DD4S8ZD1",
+        "link_bruto": "https://www.amazon.com.br/Meia-Lupo-Cano-Curto-Algod%C3%A3o/dp/B0DD4S8ZD1/ref=sr_1_45",
+        "titulo": "Lupo",
+        "preco": 63.7,
+        "timestamp": 1784232328.6274097,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_BHHF5C0758",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/processador-amd-ryzen-5-5500-3-6ghz-4-2ghz-max-turbo-socket-am4-cache-19mb-ddr4-sem-video-integrado-100-100000457box/p/bhhf5c0758/in/prsd/?seller_id=kometa",
+        "titulo": "Processador AMD Ryzen 5 5500, 3.6GHz (4.2GHz Max Turbo), Socket AM4, Cache 19MB, DDR4, Sem Vídeo Integrado - 100-100000457BOX",
+        "preco": 681.72,
+        "timestamp": 1784232378.593872,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_CJG6J2E6G5",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/placa-de-video-msi-geforce-rtx-5060-ti-shadow-2x-oc-plus-nvidia-8gb-gddr7-128-bit-g506t-8s2cp/p/cjg6j2e6g5/in/pcvd/?seller_id=kabum",
+        "titulo": "Placa De Vídeo MSI GeForce RTX 5060 Ti Shadow 2X OC Plus, Nvidia, 8GB, GDDR7, 128-Bit - G506T-8S2CP",
+        "preco": 2699.99,
+        "timestamp": 1784232418.1623108,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_238639500",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/perfume-victorio-lucchino-aguas-florales-iris-luminoso-feminino-eau-de-toilette-150ml/p/238639500/pf/ppfm/?seller_id=magazineluiza",
+        "titulo": "Perfume Victorio & Lucchino Aguas Florales Iris Luminoso Feminino Eau de Toilette 150ml",
+        "preco": 96.02,
+        "timestamp": 1784232466.962932,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_AF7HBCCD91",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-lite-racer-4-0/p/af7hbccd91/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Adidas Lite Racer 4 0",
+        "preco": 180.49,
+        "timestamp": 1784232508.359777,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HKKKAA803C",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/nintendo-switch-lite-32gb-standard-cor-azul-tela-de-55/p/hkkkaa803c/ga/cnsl/?seller_id=clicoutelecom",
+        "titulo": "Nintendo Switch Lite 32GB Standard Cor Azul Tela de 5,5\"",
+        "preco": 1433.24,
+        "timestamp": 1784232548.4579828,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HCJ47KKB71",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/panela-de-pressao-eletrica-mondial-digital-6l-1000w-vermelho-preto-220v-pe-60-6l-ri/p/hcj47kkb71/ep/eppe/?seller_id=outletdasfabricas",
+        "titulo": "Panela de Pressão Elétrica Mondial Digital 6L 1000W Vermelho/Preto 220V - PE-60-6L-RI",
+        "preco": 440.1,
+        "timestamp": 1784232587.0316894,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_40761039831",
+        "link_bruto": "https://s.shopee.com.br/LlgG3scbU",
+        "titulo": " Adesivos para o Direcional e Botões ABXY + Capas de Aperto Polegar para OLED/Lite/Nintendo Switch",
+        "preco": 18.11,
+        "timestamp": 1784232629.5575602,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CL51V978",
+        "link_bruto": "https://www.amazon.com.br/Kit-Com-Camisetas-Masculinas-B%C3%A1sicas/dp/B0CL51V978/ref=sr_1_18",
+        "titulo": "Hering",
+        "preco": 99.9,
+        "timestamp": 1784232661.9034975,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FWMTLMR4",
+        "link_bruto": "https://www.amazon.com.br/Samsung-Lava-Smart-Control-WD13FG/dp/B0FWMTLMR4/ref=sr_1_27",
+        "titulo": "Samsung Lava e Seca Smart AI Control WD13FG Inox 13kg (220V)",
+        "preco": 4417.06,
+        "timestamp": 1784232699.3431094,
+        "expirado": false
     }
 ]
