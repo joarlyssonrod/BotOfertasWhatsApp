@@ -14774,5 +14774,61 @@
         "preco": 78.0,
         "timestamp": 1784219930.0243342,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB5249519268",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5249519268-tnis-masculino-adidas-acelera-2-corrida-caminhada-leve-_JM?searchVariation=191307638709&matt_event_ts=1784226646497&matt_d2id=4248b86c-58e8-4fcc-b35d-01cce984760e&matt_tracing_id=fa491877-a9a7-4194-8268-15e25677b6e6#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=bb9ae0de-66b0-4be8-83d4-5e4c3b5ea092&tracking_id=bb2a1363-5b1c-4e7d-b733-40a0cf05ac23&c_id=/home/card-featured/element&c_uid=4e30083c-9014-4f00-ba0f-196d3bb4903b",
+        "titulo": "Tênis Masculino adidas Acelera 2 Corrida Caminhada Leve",
+        "preco": 221.0,
+        "timestamp": 1784226840.661961,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB75420664",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-stick-v10-4k-android-10-wifi-5g-3-geraco-copa-2026-preto/p/MLB75420664",
+        "titulo": "Smart Tv Stick V10 4k Android 10 Wifi 5g 3 Geração Copa 2026 Preto",
+        "preco": 389.9,
+        "timestamp": 1784226888.423368,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22998511645",
+        "link_bruto": "https://shopee.com.br/product/1510358810/22998511645?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTEmQAAAAzalhkdxyt-ZlJlmRZdR8n-aD4iGOPdRjVfLXe44enZ13VQu4fVtHP7cqH-u9RTLkqtnhrl7BBMeuKxHyyU3msscr6RKyD2YpjPONEoj4cGjMopT3m0jfETnG_KT7zcON_cGVUc1FLDwV-wPq-vVKeFgUrhoJURCg53OOl-mRYvOE0mgZ8zK0QijvYEqG0JYeFfv-Uc-Q&mmp_pid=an_18140170000&uls_trackid=565d3r33003j&utm_campaign=id_4dd5a002257538fe&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=f8etxq8n69cj",
+        "titulo": "Torneira Giratória 360° para Cozinha e Banheiro",
+        "preco": 35.99,
+        "timestamp": 1784226925.9069645,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3376382968",
+        "link_bruto": "https://www.mercadolivre.com.br/torneira-cozinha-gourmet-bancada-flexivel-monocomando-pia/up/MLBU3376382968",
+        "titulo": "Torneira Cozinha Gourmet Bancada Flexível Monocomando Pia Preto B22-black",
+        "preco": 108.63,
+        "timestamp": 1784226974.1790993,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FMYTJ93W",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FMYTJ93W?ps=&tag=promobit-d-20",
+        "titulo": "LEGO Speed Champions Audi F1 Team R26 77259",
+        "preco": 148.0,
+        "timestamp": 1784227011.0766933,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BQ3Y3VD3",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0BQ3Y3VD3?tag=promobit-d-20&th=1",
+        "titulo": "Fralda Huggies Máxima Proteção M 72 unidades",
+        "preco": 71.15,
+        "timestamp": 1784227060.192977,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240979800",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g86-512gb-5g-12gb-12gb-ram-boost-inteligente-lilas-67-cam-dupla-selfie-32mp/p/240979800/te/mg86/?seller_id=magazineluiza",
+        "titulo": "Smartphone Motorola Moto g86 512GB 5G 12GB+12GB RAM Boost Inteligente Lilás 6,7\" Câm. Dupla + Selfie 32MP",
+        "preco": 1844.1,
+        "timestamp": 1784227102.3647585,
+        "expirado": false
     }
 ]
