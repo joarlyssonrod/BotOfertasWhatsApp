@@ -15870,5 +15870,69 @@
         "preco": 229.49,
         "timestamp": 1784313825.0066056,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB19571567",
+        "link_bruto": "https://www.mercadolivre.com.br/creatina-monohidratada-100-pura-pote-1kg-ftw/p/MLB19571567",
+        "titulo": "Creatina Monohidratada 100% Pura Pote 1kg - FTW",
+        "preco": 59.9,
+        "timestamp": 1784327549.2073462,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB46671284",
+        "link_bruto": "https://www.mercadolivre.com.br/bolsa-tote-daily-clear-gocase-leve-moderna-e-minimalista-cor-preto/p/MLB46671284",
+        "titulo": "Bolsa Tote Daily Clear Gocase - Leve, Moderna E Minimalista Cor Preto",
+        "preco": 160.45,
+        "timestamp": 1784327597.706628,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5029998018",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5029998018-blusa-moletom-gola-redonda-masculino-adulto-plus-size-_JM?searchVariation=181506414814&matt_event_ts=1784327432647&matt_d2id=850c6241-ec73-46ae-81ab-31ff7819d42e&matt_tracing_id=658d18ac-6dae-4af9-b51e-b838b81c925b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=2d84e5bb-ac66-46e3-9a54-57d228a6e211&tracking_id=8def6b96-7ba7-42bb-a45c-5a7952b192d6&c_id=/home/card-featured/element&c_uid=4c5d94c0-8e1e-47a8-ad30-6990e7b9ea94",
+        "titulo": "Blusa Moletom Gola Redonda",
+        "preco": 54.0,
+        "timestamp": 1784327640.6230738,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/volante-thrustmaster-t98-ferrari-296-gtb-ps5-ps4-e-pc-4169105/divulgador/oferta/bh8af5bg5h/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/volante-thrustmaster-t98-ferrari-296-gtb-ps5-ps4-e-pc-4169105/divulgador/oferta/bh8af5bg5h/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Volante Thrustmaster T98 Ferrari 296 GTB - PS5 PS4 e PC - 4169105",
+        "preco": 630.0,
+        "timestamp": 1784327685.1769645,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_KH9G9H8A84",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-eletrica-air-fryer-philco-paf55a-preta-220v/p/kh9g9h8a84/ep/efso/?seller_id=123comprou",
+        "titulo": "Fritadeira Elétrica Air Fryer Philco PAF55A Preta 220V",
+        "preco": 244.9,
+        "timestamp": 1784327724.6004875,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB40230034",
+        "link_bruto": "https://www.mercadolivre.com.br/cmera-inteligente-resistente-a-chuva-e-poeira-im7-s-branca-intelbras/p/MLB40230034",
+        "titulo": "Câmera Inteligente Resistente a Chuva e Poeira iM7 S Branca Intelbras",
+        "preco": 293.25,
+        "timestamp": 1784327775.0946827,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B097RYMQZ5",
+        "link_bruto": "https://www.amazon.com.br/Fralda-Pom-Protek-Prote%C3%A7%C3%A3o-Hiper/dp/B097RYMQZ5",
+        "titulo": "Fralda Pom Pom Protek Proteção de Mãe Hiper M 86 Unidades",
+        "preco": 54.49,
+        "timestamp": 1784327811.3866315,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/smart-tv-50-lg-4k-ua7500psa-ai-gen8/divulgador/oferta/gdh7hedaac/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/smart-tv-50-lg-4k-ua7500psa-ai-gen8/divulgador/oferta/gdh7hedaac/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Smart Tv 50 Lg 4K Ua7500Psa Ai Gen8",
+        "preco": 1999.0,
+        "timestamp": 1784327861.3137918,
+        "expirado": false
     }
 ]
