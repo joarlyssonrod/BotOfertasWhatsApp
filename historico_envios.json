@@ -16222,5 +16222,21 @@
         "preco": 327.92,
         "timestamp": 1784385580.5546286,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU4324370547",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-4k-v10--android-controle-padrao-wifi-original-2027/up/MLBU4324370547",
+        "titulo": "Smart Tv 4k V10  Android Controle Padrão Wi-fi Original 2027 Branco",
+        "preco": 359.9,
+        "timestamp": 1784392964.6885107,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66527263",
+        "link_bruto": "https://www.mercadolivre.com.br/videoporteiro-inteligente-wi-fi-mvw-2000-intelbras/p/MLB66527263",
+        "titulo": "Videoporteiro Inteligente Wi-fi Mvw 2000 Intelbras",
+        "preco": 535.41,
+        "timestamp": 1784393000.0713227,
+        "expirado": false
     }
 ]
