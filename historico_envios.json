@@ -16950,5 +16950,21 @@
         "preco": 62.99,
         "timestamp": 1784493374.1691568,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB2629794855",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-2629794855-tech-t-shirt-long-sleeve-_JM?searchVariation=174465443747&matt_event_ts=1784500250172&matt_d2id=3fa216d6-5fed-4f80-86c8-22f1e6ff2942&matt_tracing_id=39cb646d-c9b3-48a8-b4cb-18bf6c650a9c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7af82fe2-b84a-4635-beb0-8db40b8f4c5a&tracking_id=4bfc7db5-018b-4ae2-85b3-97bd59ca47c6&c_id=/home/card-featured/element&c_uid=893724b1-b341-4da0-b8c2-8e91cc00ed7c",
+        "titulo": "Tech T-shirt Long Sleeve",
+        "preco": 65.0,
+        "timestamp": 1784500400.0574067,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB23499481",
+        "link_bruto": "https://www.mercadolivre.com.br/godfall-ps5-midia-fisica/p/MLB23499481?matt_event_ts=1784500260400&matt_d2id=828ef4ed-0f4d-468d-878e-5076cf8cca69&matt_tracing_id=0fc44a2e-ed41-433e-858b-5a9b284aadba#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=487465ef-fd0f-41a6-a788-e6000e6ba111&tracking_id=fcf12385-417e-4bac-a86d-b74244871028&c_id=/home/card-featured/element&c_uid=c01a5e87-50f4-4bd6-9693-719ef645acb3",
+        "titulo": "Jogo Godfall - PS5 - Mídia Física",
+        "preco": 44.99,
+        "timestamp": 1784500437.071539,
+        "expirado": false
     }
 ]
