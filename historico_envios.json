@@ -16478,5 +16478,53 @@
         "preco": 48.0,
         "timestamp": 1784414317.9410589,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_58200866202",
+        "link_bruto": "https://s.shopee.com.br/9Uzyvuw3gB",
+        "titulo": "Organizador de Pia 3 em 1 em Aço Inox com Dispensador de Detergente e Suporte para Esponja",
+        "preco": 34.99,
+        "timestamp": 1784421198.417546,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB41422794",
+        "link_bruto": "https://www.mercadolivre.com.br/cmera-ip-wi-fi-yoosee-360-full-hd-espi-seguranca-bivolt-branca/p/MLB41422794",
+        "titulo": "Câmera IP Wi-Fi Yoosee 360º Full HD Espiã Segurança Bivolt Branca",
+        "preco": 47.99,
+        "timestamp": 1784421233.6424434,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4063301455",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4063301455-conjunto-moletom-blusa-frio-calca-milanoitaly-abrigo-inverno-_JM?searchVariation=187960643463&matt_event_ts=1784421058107&matt_d2id=fcbdacc0-4990-4e9f-8531-5628ab583fd9&matt_tracing_id=dae430bf-8aab-4992-9f0f-7aae276641fb#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=2efdca20-4186-4bec-9548-3e848243c12e&tracking_id=27dd8777-274a-4cb1-a79a-e3acf0e1800b&c_id=/home/card-featured/element&c_uid=7f600823-7b29-4065-838c-ff4def77058a",
+        "titulo": "Conjunto Moletom Milano Blusa + Calça Confortavel",
+        "preco": 71.0,
+        "timestamp": 1784421284.2421398,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB70039210",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-15-potes-hermetico-cadencia-mantimentos-quadrado-cozinha-branco-rishon-224-litros/p/MLB70039210",
+        "titulo": "Kit 15 Potes Hermético Cadencia Mantimentos Quadrado Cozinha Branco Rishon 22,4 Litros",
+        "preco": 104.0,
+        "timestamp": 1784421330.0281427,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DKG5X376",
+        "link_bruto": "https://www.amazon.com.br/Frigideira-Rochedo-Antiaderente-Part%C3%ADculas-Thermo-Sinal/dp/B0DKG5X376?tag=promobit-d-20&th=1",
+        "titulo": "Frigideira Rochedo Robusta Grafite 24cm",
+        "preco": 55.43,
+        "timestamp": 1784421366.6859603,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F6D7MQQB",
+        "link_bruto": "https://www.amazon.com.br/dp/B0F6D7MQQB?social_share=cm_sw_r_apan_dp_X3EEKSVR5WYZTJN5BZ4P&tag=promobit-d-20&th=1",
+        "titulo": "Nintendo Console Nintendo Switch 2 Nacional Portátil e Doméstico Bateria de até 9 Horas Inclui Joy-Con com Supo",
+        "preco": 3841.55,
+        "timestamp": 1784421413.7768717,
+        "expirado": false
     }
 ]
