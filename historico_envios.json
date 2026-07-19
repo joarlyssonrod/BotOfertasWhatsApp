@@ -16654,5 +16654,77 @@
         "preco": 994.79,
         "timestamp": 1784465147.6828914,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_23498365905",
+        "link_bruto": "https://s.shopee.com.br/1LeIP1ItI2",
+        "titulo": "Kit 10 Pote Hermético de Vidro 370ml Marmita Fit Tampa 4 Travas Freezer Microondas Geladeira",
+        "preco": 74.9,
+        "timestamp": 1784471612.9473255,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63481764",
+        "link_bruto": "https://www.mercadolivre.com.br/lavadora-alta-presso-lav1300-1300-lbfpol-220-v-vonder-amarelo-60-hz/p/MLB63481764",
+        "titulo": "Lavadora Alta Pressão Lav1300 1.300 Lbf/pol² 220 V~ Vonder Amarelo 60 Hz",
+        "preco": 273.36,
+        "timestamp": 1784471653.6035974,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09GSRB2CM",
+        "link_bruto": "https://www.amazon.com.br/LOr%C3%A9al-Professionnel-Fortificante-Anti-Quebra-Crescimento/dp/B09GSRB2CM",
+        "titulo": "L'Oréal Professionnel Serie Expert Inforcer Máscara de Tratamento, Fortificante Anti-Quebra que Estimula o Crescimento e Previne a Queda, com Biotina e Vitamina B6 para Cabelos Frágeis, 250g",
+        "preco": 111.49,
+        "timestamp": 1784471697.1751566,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3780672051",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-feminino-delta-122-olympikus/up/MLBU3780672051",
+        "titulo": "Tênis Feminino Delta 122 Olympikus Marinho/purple Lisa 37 Br",
+        "preco": 125.39,
+        "timestamp": 1784471747.6402159,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB58623212",
+        "link_bruto": "https://www.mercadolivre.com.br/console-nintendo-switch-oled-nintendo-bundle-super-mario-bros-wonder-3-meses-nintendo-switch-online-64gb-branco/p/MLB58623212",
+        "titulo": "Console Nintendo Switch Oled Nintendo Bundle Super Mario Bros Wonder 3 Meses Nintendo Switch Online 64gb Branco",
+        "preco": 2042.0,
+        "timestamp": 1784471793.1185796,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_241202200",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g17-4g-256gb-12gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-fhd-60hz-bateria-5200-mah/p/241202200/te/mg17/?seller_id=magazineluiza",
+        "titulo": "Smartphone Motorola Moto G17 4G 256GB 12GB (4GB RAM + 8GB RAM Boost) Câmera 50MP Sony Lytia 600 Tela FHD+ 60Hz Bateria 5200 mAh",
+        "preco": 989.1,
+        "timestamp": 1784471839.9702988,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FLRC6T9L",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FLRC6T9L?tag=promobit-d-20",
+        "titulo": "Smart TV 50\" Roku Multi 4K Compatível com Alexa e Google Home",
+        "preco": 1420.0,
+        "timestamp": 1784471881.2037523,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FFHLVD8G",
+        "link_bruto": "https://www.amazon.com.br/Bosch-Esmerilhadeira-bateria-18V-8-11000rpm/dp/B0FFHLVD8G",
+        "titulo": "Bosch Esmerilhadeira a bateria Bosch GWS 18V-8 11000rpm 115/125mm Sem bateria",
+        "preco": 540.55,
+        "timestamp": 1784471914.206148,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0B7SGQVT2",
+        "link_bruto": "https://www.amazon.com.br/tratamento-NutriOil-nutri%C3%A7%C3%A3o-enriquecido-Professionnel/dp/B0B7SGQVT2",
+        "titulo": "L'Oréal Professionnel Serie Expert NutriOil Máscara de Tratamento de Nutrição com Óleo de Soja para Cabelos Secos e Sem Brilho, para Força e Maciez 250g",
+        "preco": 125.87,
+        "timestamp": 1784471958.7160873,
+        "expirado": false
     }
 ]
