@@ -17334,5 +17334,37 @@
         "preco": 522.0,
         "timestamp": 1784565667.5970235,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FFVDD2DK",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0FFVDD2DK?tag=promobit-d-20&th=1&psc=1",
+        "titulo": "Tênis Mizuno Calçado Mizuno Neo Vortex adulto-unissex",
+        "preco": 271.92,
+        "timestamp": 1784572379.6722722,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4033906785",
+        "link_bruto": "https://www.mercadolivre.com.br/placa-de-video-asus-nvidia-geforce-dual-rtx-5050-8gb-gddr6/up/MLBU4033906785?pdp_filters=item_id%3AMLB4731897167&matt_event_ts=1784572257661&matt_d2id=acfbf2c9-e29e-4406-86a7-3f5454e50e7c&matt_tracing_id=a2d99f97-f329-44d1-8f50-c6dce8cc9963#polycard_client=recommendations_home_affiliate-profile&wid=MLB4731897167&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=110abf82-4a77-4e2b-97c9-edbf0a939a10&tracking_id=e54cdb94-8e3e-4fb4-9f2e-09b704a6fb99&c_id=/home/card-featured/element&c_uid=a554c9a9-2c9e-4241-bbc1-4491c76ebdf3",
+        "titulo": "Placa De Vídeo Asus Nvidia Geforce Dual Rtx 5050 8GB Gddr6",
+        "preco": 1729.0,
+        "timestamp": 1784572420.6721601,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/cadeira-de-alimentacao-portatil-6m-15kg-mickey-disney-popcorn-bb656/divulgador/oferta/kaa18fajdg/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/cadeira-de-alimentacao-portatil-6m-15kg-mickey-disney-popcorn-bb656/divulgador/oferta/kaa18fajdg/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Cadeira de alimentação portatil 6m-15kg mickey Disney popcorn - BB656",
+        "preco": 113.05,
+        "timestamp": 1784572473.4518528,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19444510",
+        "link_bruto": "https://www.mercadolivre.com.br/processador-amd-ryzen-5-5500-36ghz-42ghz-max-turbo-cache-16mb-am4-sem-cooler/p/MLB19444510?matt_event_ts=1784572242291&matt_d2id=e02141e5-ae55-42ce-84e9-cc426ac06964&matt_tracing_id=651fc58d-3b1a-4d9b-a63e-b4cf487c1197#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=78cd7300-8198-4946-ad40-a83dda6f5ea1&tracking_id=7f95f0d1-f5e4-4969-82e0-9dbf4660327f&c_id=/home/card-featured/element&c_uid=9ad67205-d328-47d7-b180-a5effcda28b3",
+        "titulo": "Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4",
+        "preco": 469.0,
+        "timestamp": 1784572524.6810763,
+        "expirado": false
     }
 ]
