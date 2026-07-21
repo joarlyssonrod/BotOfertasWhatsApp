@@ -18022,5 +18022,29 @@
         "preco": 599.0,
         "timestamp": 1784666699.7130404,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_EB3DGFK7DB",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-lite-racer-masculino/p/eb3dgfk7db/es/osnr/?seller_id=zattini",
+        "titulo": "Tênis Adidas Lite Racer Masculino",
+        "preco": 169.99,
+        "timestamp": 1784673274.6497383,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3999288441",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3999288441-tnis-adidas-masculino-adizero-drive-rc-corrida-performance-_JM?searchVariation=189350174725&matt_event_ts=1784673027422&matt_d2id=6e9a58e7-39ab-4b3f-bbb6-55589e520f2b&matt_tracing_id=71b81cda-9696-4226-a489-6edadfd822f5#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=56198a2b-a1df-45f8-a705-c4998af81531&tracking_id=005f326e-ba1f-452e-bd37-cab7c77970ac&c_id=/home/card-featured/element&c_uid=f1c8a3c8-8040-4919-afef-dd115db3b6fc",
+        "titulo": "Tênis Adidas Masculino Adizero Drive RC Corrida Performance",
+        "preco": 739.9,
+        "timestamp": 1784673317.525703,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB36675135",
+        "link_bruto": "https://www.mercadolivre.com.br/churrasqueira-movel-mor-montana-3005-54cmx35cmx64cm/p/MLB36675135?matt_event_ts=1784673076706&matt_d2id=2d7412b1-5230-40bd-af4a-36e433bcdbd7&matt_tracing_id=53c42c7b-e506-4217-9af0-de417d62ee8e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=cec2664d-63e2-49e9-bd96-cee170e0efb8&tracking_id=b6e70f53-45c0-44d5-b0a6-11ed40fdcfaa&c_id=/home/card-featured/element&c_uid=d5237bf6-3e79-434b-b055-07c6ec0607fc",
+        "titulo": "Churrasqueira Móvel Mor Montana",
+        "preco": 99.0,
+        "timestamp": 1784673364.8927326,
+        "expirado": false
     }
 ]
