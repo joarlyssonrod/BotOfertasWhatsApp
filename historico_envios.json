@@ -17550,5 +17550,37 @@
         "preco": 13.9,
         "timestamp": 1784587241.734809,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3687224963",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-10-cuecas-boxer-lisa-polo-wear-sortido/up/MLBU3687224963",
+        "titulo": "Kit 10 Cuecas Boxer Lisa Polo Wear Sortido Sortido Liso M",
+        "preco": 79.0,
+        "timestamp": 1784593948.2570639,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB38053317",
+        "link_bruto": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-impacto-the-black-tools-tb-21pw-38-cor-amarelo-frequncia-5060-hz/p/MLB38053317",
+        "titulo": "Parafusadeira E Furadeira Impacto The Black Tools Tb-21pw 3/8 Cor Amarelo Frequência 50/60 Hz",
+        "preco": 140.6,
+        "timestamp": 1784593989.2145052,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_19597607331",
+        "link_bruto": "https://shopee.com.br/product/479054821/19597607331?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTElwAAAAykyXrlAV8a9szJ5qKwuklMeohr-kB-bt6xLb37FcmKwSEL8LWvz3STthvFKNcZDjUoFsp5meexG4Ofr-qjiEMk0rgP4J0b5iEsR7s2Ci_N2oWhe3PgDtrokViGAhtGiRxFDo4FzWU9wZyh6Rljr0rs-MDyrNIWY-4vNrExsyn3tV1IAVKPwYgn5mbvtXUB74rbms4&lang=pt-BR&mmp_pid=an_18140170000&uls_trackid=566g469n00st&utm_campaign=id_159d9bd07bfae76d&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=f967763aeqm2",
+        "titulo": "Kit Escolar Fundamental I Faber-Castell",
+        "preco": 68.9,
+        "timestamp": 1784594021.584231,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB2662284820",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-2662284820-abajur-luminaria-de-mesa-sala-quarto-moderno-com-lmpada-_JM?searchVariation=175015847560&matt_event_ts=1784593817858&matt_d2id=dfc1da97-7b47-4fb8-ae35-ed8e138454d5&matt_tracing_id=d9ad8dd4-719d-4259-b129-afd660c55172#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=fc0b45fb-93ac-48de-9649-bfbe6a31993f&tracking_id=73b7011c-5111-4f84-920d-f1d584099b4a&c_id=/home/card-featured/element&c_uid=193edd90-f6d7-45bd-ad71-ece40b6873a8",
+        "titulo": "Abajur Luminária De Mesa Sala Quarto Moderno Com Lâmpada",
+        "preco": 44.44,
+        "timestamp": 1784594063.3056817,
+        "expirado": false
     }
 ]
