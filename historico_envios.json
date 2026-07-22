@@ -18046,5 +18046,61 @@
         "preco": 99.0,
         "timestamp": 1784673364.8927326,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3931604126",
+        "link_bruto": "https://www.mercadolivre.com.br/oculos-de-sol-rayban-justin-rb4165l-62271-preto-polarizado/up/MLBU3931604126?pdp_filters=item_id%3AMLB6676228926&matt_event_ts=1784680249245&matt_d2id=76dc7dd2-04b5-410f-a097-c6442bab84d5&matt_tracing_id=02a71297-2ffc-4b6c-8734-aa780640dbfe#polycard_client=recommendations_home_affiliate-profile&wid=MLB6676228926&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=b776cc79-4d16-4d16-a914-dd4ac8c611cf&tracking_id=d54186e9-5901-4824-9f79-f835dbab5f4c&c_id=/home/card-featured/element&c_uid=f5291cdd-42fc-42a2-9d69-9ef9bac9ec5f",
+        "titulo": "Óculos De Sol Ray-ban Justin Rb4165 6018g Preto Polarizado",
+        "preco": 207.32,
+        "timestamp": 1784680503.5106244,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0B2YJK7KF",
+        "link_bruto": "https://www.amazon.com.br/dp/B0B2YJK7KF?tag=promobit-d-20",
+        "titulo": "Caixa de Pilha AA com 40 unidades Elgin Palito – Zinco, Tubo",
+        "preco": 22.6,
+        "timestamp": 1784680541.1309578,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B075X31K7K",
+        "link_bruto": "https://www.amazon.com.br/Lumin%C3%A1ria-Emerg%C3%AAncia-Elgin-Bivolt-Bateria/dp/B075X31K7K",
+        "titulo": "Luminária De Emergência 30 LEDS 2W Elgin Bivolt Bateria até 6 horas Luz Branca Fria",
+        "preco": 10.85,
+        "timestamp": 1784680582.2318063,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B092SS3J2V",
+        "link_bruto": "https://www.amazon.com.br/dp/B092SS3J2V?tag=promobit-d-20",
+        "titulo": "Kit 02 un. NIVEA Desodorante Antitranspirante Aerossol Original Protect 48h 150ml",
+        "preco": 17.91,
+        "timestamp": 1784680625.260739,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU1992442992",
+        "link_bruto": "https://www.mercadolivre.com.br/relogio-casio-gshock-masculino-esportivo-preto-original/up/MLBU1992442992?pdp_filters=item_id%3AMLB5003025088&matt_event_ts=1784680301287&matt_d2id=e93f5427-f148-43f0-bcb9-c4f8d3f51722&matt_tracing_id=e20ec3f6-9dba-414b-b453-5cb5c6a4bff9#polycard_client=recommendations_home_affiliate-profile&wid=MLB5003025088&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=742df6b0-822b-4f78-a4ab-8866fd07270f&tracking_id=9dc4013f-d042-470a-8771-b0821a450b8d&c_id=/home/card-featured/element&c_uid=30571624-88be-4bd6-9a12-fc38ac53c281",
+        "titulo": "Relógio Casio G-shock Masculino Esportivo Preto Original",
+        "preco": 360.0,
+        "timestamp": 1784680668.8287742,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB51434741",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-rayhaan-lion-masculino-e-aroma-sofisticado/p/MLB51434741?matt_event_ts=1784680228368&matt_d2id=7525b6d3-1b51-4540-aac8-beaa673fc44b&matt_tracing_id=b84b019f-45d2-428d-8f98-b974a6d3be67#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=28fea48c-6d0c-45d6-826b-fbe20ad85756&tracking_id=268e1fc2-1b90-4ace-b1a7-5ea2be2e0e61&c_id=/home/card-featured/element&c_uid=d7f278a9-861f-49dc-8173-58bcc3b46db1",
+        "titulo": "Perfume Rayhaan Lion Masculino E Aroma Sofisticado",
+        "preco": 265.0,
+        "timestamp": 1784680714.057531,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/console-sony-playstation-5-ssd-825gb-controle-sem-fio-dualsense-2-jogos-digitais-edicao-digital/divulgador/oferta/aebh5a7a94/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/console-sony-playstation-5-ssd-825gb-controle-sem-fio-dualsense-2-jogos-digitais-edicao-digital/divulgador/oferta/aebh5a7a94/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Console Sony PlayStation 5 SSD 825GB Controle Sem Fio DualSense + 2 Jogos Digitais Edição Digital",
+        "preco": 3692.61,
+        "timestamp": 1784680764.8094776,
+        "expirado": false
     }
 ]
