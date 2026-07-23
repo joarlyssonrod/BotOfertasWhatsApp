@@ -19270,5 +19270,37 @@
         "preco": 5248.0,
         "timestamp": 1784839440.2772462,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB29259262",
+        "link_bruto": "https://www.mercadolivre.com.br/mala-viagembordo-10kg-rodas-dupla-360-cadeado-acoplado-p-cor-preto-8130/p/MLB29259262",
+        "titulo": "Mala Viagem/bordo 10kg Rodas Dupla 360° Cadeado Acoplado - P Cor Preto 8130",
+        "preco": 167.4,
+        "timestamp": 1784845958.8946922,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB55027908",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a07-128gb-4gb-camera-50mp-tela-67-protecao-ip54-processador-6nm-verde/p/MLB55027908",
+        "titulo": "Celular Samsung Galaxy A07 128gb, 4gb, Câmera 50mp, Tela 6.7 , Proteção Ip54, Processador 6nm - Verde",
+        "preco": 699.37,
+        "timestamp": 1784846002.564578,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DVDFBSWS",
+        "link_bruto": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Defrost-HQ-230RDF/dp/B0DVDFBSWS/?tag=promobit-d-20&th=1",
+        "titulo": "Geladeira Refrigerador Hq Defrost 230 Litros Cinza Hq-230rdf (220v)",
+        "preco": 1248.98,
+        "timestamp": 1784846040.7283068,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GXWMT13B",
+        "link_bruto": "https://www.amazon.com.br/M%C3%A1quina-Intuitive-Panasonic-Lavagem-Eficiente/dp/B0GXWMT13B?tag=promobit-d-20",
+        "titulo": "Máquina de lavar Intuitive+ Panasonic 18kg Lavagem Eficiente Sistema Ciclone Ciclo Pet Aroma Plus Branca - NA-F180D1WB 220V",
+        "preco": 2099.0,
+        "timestamp": 1784846088.848416,
+        "expirado": false
     }
 ]
