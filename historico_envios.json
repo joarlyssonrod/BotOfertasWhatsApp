@@ -19110,5 +19110,53 @@
         "preco": 64.52,
         "timestamp": 1784825050.3431065,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CB4Q36H7",
+        "link_bruto": "https://www.amazon.com.br/dp/B0CB4Q36H7/re?tag=promobit-d-20",
+        "titulo": "Gel Hidratante Dermatológico Aquaforce Actine",
+        "preco": 23.0,
+        "timestamp": 1784831603.2874107,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3647470137",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-masculino-streettalk-adidas/up/MLBU3647470137?pdp_filters=item_id%3AMLB4342585687&matt_event_ts=1784831482517&matt_d2id=134d1410-9cd4-49c0-86a6-5ad2dea63e21&matt_tracing_id=1617c30a-f89a-4551-b5b4-9a4bd6fd929d#polycard_client=recommendations_home_affiliate-profile&wid=MLB4342585687&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0fb241df-cdfe-43da-84c8-b005d34f553f&tracking_id=d7680bf7-a614-42b4-91f5-8cd28601eb28&c_id=/home/card-featured/element&c_uid=087b8a99-213e-48b3-9b5c-d5b4bdb3c47d",
+        "titulo": "Tênis Masculino Streettalk Adidas",
+        "preco": 166.09,
+        "timestamp": 1784831650.6920874,
+        "expirado": false
+    },
+    {
+        "id": "https://www.americanas.com.br/samsung-galaxy-s25--5g-512gb-galaxy-ai-azul-67--12gb-ram-cam--tripla-50-12-10mp-bateria-4900mah-dual-chip-8325469/p",
+        "link_bruto": "https://www.americanas.com.br/samsung-galaxy-s25--5g-512gb-galaxy-ai-azul-67--12gb-ram-cam--tripla-50-12-10mp-bateria-4900mah-dual-chip-8325469/p?utm_source=ab_lg&utm_medium=afiliados&utm_campaign=always_on&utm_id=889130&utm_content=af_lg_00_ab&utm_term=22193_1784831421_3d340e41176af28d69cd541f7714b575&sv1=affiliate&sv_campaign_id=889130",
+        "titulo": "Celular Samsung Galaxy S25+ 5G 512GB 12GB RAM Câmera Tripla de 50+12+10 Tela Grande de 6.7\"",
+        "preco": 4409.1,
+        "timestamp": 1784831706.6830177,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DF8L36GL",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DF8L36GL/re?tag=promobit-d-20",
+        "titulo": "Protetor Solar Facial Darrow FPS60 30g",
+        "preco": 16.0,
+        "timestamp": 1784831754.4609823,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB45206925",
+        "link_bruto": "https://www.mercadolivre.com.br/frigideira-philco-ppn20a-revestimento-redstone-11l/p/MLB45206925?matt_event_ts=1784831460760&matt_d2id=1c540417-ee76-4e9e-84a9-7550bdca8b70&matt_tracing_id=d2d02029-8ff2-4be0-ba66-55af50fd5f5d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a4fabf3a-c57b-488f-9e23-97bf21f7f8f7&tracking_id=14306ec2-85cb-4d4c-83ef-0b9b46a97b08&c_id=/home/card-featured/element&c_uid=42dc32e7-344a-4023-ad93-cc6c281b6fcd",
+        "titulo": "Frigideira Philco Redstone 1,1L",
+        "preco": 95.0,
+        "timestamp": 1784831805.2690444,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240576200",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-samsung-galaxy-s25-fe-128gb-5g-8gb-ram-azul-marinho-67-cam-tripla-selfie-12mp/p/240576200/te/g25f/?seller_id=magazineluiza",
+        "titulo": "Smartphone Samsung Galaxy S25 FE 128GB 5G 8GB RAM Azul Marinho 6,7\" Câm. Tripla + Selfie 12MP",
+        "preco": 2999.0,
+        "timestamp": 1784831851.2473953,
+        "expirado": false
     }
 ]
