@@ -19782,5 +19782,45 @@
         "preco": 4799.0,
         "timestamp": 1784918482.4383895,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB43201814",
+        "link_bruto": "https://www.mercadolivre.com.br/cafeteira-nespresso-pixie-redesign-titanio/p/MLB43201814",
+        "titulo": "Cafeteira Nespresso Pixie Redesign Titânio",
+        "preco": 494.1,
+        "timestamp": 1784925203.9356246,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3878404030",
+        "link_bruto": "https://www.mercadolivre.com.br/chinelo-havaianas-power-20-anatomica-confortavel-original/up/MLBU3878404030?pdp_filters=item_id%3AMLB6539403604&matt_event_ts=1784925057718&matt_d2id=415fa77b-5957-4d73-a196-b8a6f5f643c0&matt_tracing_id=c012593e-d006-4ffe-9cee-7c8a0eacf613#polycard_client=recommendations_home_affiliate-profile&wid=MLB6539403604&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d04ae1eb-3bbf-419e-896a-2e7d719f59c0&tracking_id=854f9286-b02d-4cd8-bf4a-9fed685237b7&c_id=/home/card-featured/element&c_uid=f74e72ec-5ccb-4440-a7a2-cddfb8b8dd0f",
+        "titulo": "Chinelo Havaianas Power 2.0 Anatômico Confortável",
+        "preco": 36.89,
+        "timestamp": 1784925254.4242055,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4076243071",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4076243071-tnis-daily-40-adidas-_JM?searchVariation=183735592540&matt_event_ts=1784925112297&matt_d2id=635a3eda-eba7-4e6c-a7b6-be9e88781584&matt_tracing_id=b07e6803-9834-4e4d-a0c0-0fca83d8c4b3#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0693c73f-33ca-4c9f-a6eb-9bdfd01498bf&tracking_id=84643bb3-3aae-429e-bf61-2d3a9f04adb8&c_id=/home/card-featured/element&c_uid=90533af5-93f8-45ea-ad00-e06ad980b399",
+        "titulo": "Tênis Adidas Daily 4.0 (35 a 42)",
+        "preco": 227.0,
+        "timestamp": 1784925300.9940882,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB52108988",
+        "link_bruto": "https://www.mercadolivre.com.br/smartphone-jovi-y29-256gb-88gb-ram-turbo-camera-50mp-snapdragon-685-bateria-6500mah-carregamento-44w-marrom/p/MLB52108988",
+        "titulo": "Smartphone Jovi Y29 256gb, 8+8gb Ram Turbo, Câmera 50mp, Snapdragon 685, Bateria 6500mah, Carregamento 44w - Marrom",
+        "preco": 1093.0,
+        "timestamp": 1784925348.145138,
+        "expirado": false
+    },
+    {
+        "id": "https://www.casasbahia.com.br/-1582351355.html",
+        "link_bruto": "https://www.casasbahia.com.br/-1582351355.html?utm_source=zanox&utm_medium=afiliados&utm_campaign=638697&utm_term=WG-PB&aw_affid=638697&awc=17629_1784925069_06e19ad53e7da7961cc35cb461c7e477",
+        "titulo": "iPhone 17e 256GB Preto - Distribuidor Autorizado",
+        "preco": 4219.0,
+        "timestamp": 1784925393.2442403,
+        "expirado": false
     }
 ]
