@@ -19302,5 +19302,69 @@
         "preco": 2099.0,
         "timestamp": 1784846088.848416,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB3872940278",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3872940278-camisa-polo-lacoste-original-em-promoco-_JM?searchVariation=188771428151&matt_event_ts=1784853102432&matt_d2id=c8c48d82-49aa-469b-8abb-cb4e43d2f393&matt_tracing_id=53db994a-d00d-40e3-b2a1-76098058d574#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=25c9a4d3-6caf-4fa5-80fb-b638a582ec8d&tracking_id=186ccd0e-9a20-4a11-9927-0d103e0c210c&c_id=/home/card-featured/element&c_uid=e6bb324b-a88d-4b48-ae30-393f478fab60",
+        "titulo": "Camisa Polo Lacoste Original Em Promoção",
+        "preco": 199.0,
+        "timestamp": 1784853234.6422021,
+        "expirado": false
+    },
+    {
+        "id": "https://shopee.com.br/opaanlp/564780452/46957722111",
+        "link_bruto": "https://shopee.com.br/opaanlp/564780452/46957722111?__mobile__=1&credential_token=8wEwiDL7Z2aFkCC216pN3tWn98YAnUwpA6nCBoabq6&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTElwAAAAxz5pIq2DJ7yqySRr5jh3TemuTj78sLnu6RS9P15MP737tWUG1aFDCbWslsV-58z_eKigBt4Fho1UDAPvxDUcSPtyfEAyGxeNiMR77wIyzPWBnMMw8z7jdlznA5M7Q1URE9kEYngGwxf3im4xR61RLvG-8Ab4cc4iYvuJpUzo9MtqgrQfxEy8UJJ7OFdJQET1VFxLE&mmp_pid=an_18140170000&uls_trackid=5678rbk700lg&utm_campaign=id_693bee63a9b13381&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=f9p43s92chb5",
+        "titulo": "Robô Aspirador de Pó WAP Robot W90 Pérola Bivolt",
+        "preco": 259.84,
+        "timestamp": 1784853282.9620461,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB44445335",
+        "link_bruto": "https://www.mercadolivre.com.br/secador-de-cabelos-philco-4-temperaturas-1600w-psc3600/p/MLB44445335",
+        "titulo": "Secador De Cabelos Philco 4 Temperaturas 1600W Psc3600",
+        "preco": 152.6,
+        "timestamp": 1784853333.6515322,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09729YMPT",
+        "link_bruto": "https://www.amazon.com.br/dp/B09729YMPT/ref=cm_sw_r_as_gl_apa_gl_i_RCK6NXRFH8YQS0YP03XD?tag=promobit-d-20&th=1",
+        "titulo": "Placa de Video MSI RTX 5060 Shadow 2x OC, 8GB, GDDR7-912-V537-037",
+        "preco": 2079.0,
+        "timestamp": 1784853376.7331297,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D3J6CQNB",
+        "link_bruto": "https://www.amazon.com.br/dp/B0D3J6CQNB?tag=promobit-d-20",
+        "titulo": "Smart Tv 43\" LG Full HD 43LR6700 Processador α5 Ger6 AI Alexa integrado LG Channels webOS 23 compatível com Controle Smart Magic",
+        "preco": 1449.0,
+        "timestamp": 1784853417.164144,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB68212479",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-256gb-8gb-ram-recursos-ai-cinza/p/MLB68212479",
+        "titulo": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Recursos AI - Cinza",
+        "preco": 2885.0,
+        "timestamp": 1784853466.3751462,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GZX6WF5D",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GZX6WF5D/ref=cm_sw_r_as_gl_apa_gl_i_995D5Z0KGAPFB4JY08Q7?tag=promobit-d-20",
+        "titulo": "Monitor Gamer ASUS ROG Strix 27\", QHD, 180Hz, 1ms, Fast IPS, VRR, G-Sync, FreeSync, HDR 400, Altura Ajustável",
+        "preco": 1164.0,
+        "timestamp": 1784853503.0944407,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FRJV1B75",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FRJV1B75?tag=promobit-d-20",
+        "titulo": "Smart TV 43' LG 43AU801C0SA 4K",
+        "preco": 1446.0,
+        "timestamp": 1784853552.0062292,
+        "expirado": false
     }
 ]
