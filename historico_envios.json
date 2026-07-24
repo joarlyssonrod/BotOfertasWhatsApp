@@ -19822,5 +19822,93 @@
         "preco": 4219.0,
         "timestamp": 1784925393.2442403,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB5670630584",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5670630584-camisa-polo-masculina-manga-curta-comfort-hering-_JM?searchVariation=204702395733&matt_event_ts=1784932220878&matt_d2id=5860f171-5cd9-4aac-8c85-b16b3cac58b9&matt_tracing_id=add7525c-54e2-4d28-a6c7-5af9203c0e2f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=99f3f293-3a28-46f4-8fb4-afd35fe18c33&tracking_id=fd788d94-dbeb-4024-b258-1cf2c9e32b02&c_id=/home/card-featured/element&c_uid=5ea27af0-c8aa-4af6-a591-7edbe0ff0b37",
+        "titulo": "Camisa Polo Manga Curta Hering Comfort",
+        "preco": 59.0,
+        "timestamp": 1784932466.7443473,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08H2J9KZN",
+        "link_bruto": "https://www.amazon.com.br/dp/B08H2J9KZN?social_share=cm_sw_r_apan_dp_ss_M946BNEPZ2X83NBJ4374&tag=promobit-d-20&th=1",
+        "titulo": "Scotch-Brite 3M Esponja para Louças Delicadas 03 Unidades - Laranja",
+        "preco": 7.11,
+        "timestamp": 1784932504.5694706,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB38017111",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-gamer-lg-24ms500-b-24ms-ips-fullhd-100hz-ajuste-de-inclinacao-negro/p/MLB38017111",
+        "titulo": "Monitor Gamer LG 24MS500-B 24ms Ips Fullhd 100hz Ajuste de Inclinação Negro",
+        "preco": 421.37,
+        "timestamp": 1784932549.376155,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DQ27VN15",
+        "link_bruto": "https://www.amazon.com.br/WAAW-ALOK-Bluetooth-Autonomia-Alto-Falantes/dp/B0DQ27VN15/?tag=promobit-d-20",
+        "titulo": "Caixa de Som INFINITE 700 Bluetooth, Tipo Torre, Até 20h de Autonomia, 3 Alto-Falantes, TWS, 700W RMS",
+        "preco": 2099.0,
+        "timestamp": 1784932590.5112004,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CM3YVHMX",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0CM3YVHMX/ref=ewc_pr_img_1?tag=promobit-d-20",
+        "titulo": "Ar-Condicionado Split Inverter 24000 BTUs Electrolux Color Adapt com Wi-Fi Só Frio YI24FYE24F 220V",
+        "preco": 3299.0,
+        "timestamp": 1784932628.9218214,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07S2ND776",
+        "link_bruto": "https://www.amazon.com.br/dp/B07S2ND776?social_share=cm_sw_r_apan_dp_1BFS92P6JHWB5J83BW2A_1&tag=promobit-d-20",
+        "titulo": "Café em Cápsula Starbucks Single-Origin Colombia by Nespresso - 10 cápsulas",
+        "preco": 17.99,
+        "timestamp": 1784932664.3913796,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50114846",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-u8600f-crystal-uhd-4k-50-2025-preto-samsung/p/MLB50114846",
+        "titulo": "Smart Tv U8600f Crystal Uhd 4k 50 2025 Preto Samsung",
+        "preco": 2098.0,
+        "timestamp": 1784932702.0747483,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DX2M9CGP",
+        "link_bruto": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Litros-HQ-460SBSFF/dp/B0DX2M9CGP/ref=sr_1_7?tag=promobit-d-20&th=1",
+        "titulo": "Geladeira Refrigerador HQ Frost Free Side By Side 460 Litros Cinza HQ-460SBSFF (220V)",
+        "preco": 2718.99,
+        "timestamp": 1784932744.9471085,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GVP5N2JX",
+        "link_bruto": "https://www.amazon.com.br/Hisense-Polegadas-50Q6QVV-Processador-Compatibilidade/dp/B0GVP5N2JX?tag=promobit-d-20",
+        "titulo": "Hisense Smart Tv 4k 50\" Polegadas 50q6qvv Com Processador Ai, Dolby Vision, Hdr10+, Hlg, Filmmaker Mode, Dolby Gaming, Dolby Atmos, Miracast E Compati",
+        "preco": 1699.9,
+        "timestamp": 1784932792.3001375,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GMR9YD3C",
+        "link_bruto": "https://www.amazon.com.br/Smart-Samsung-LH50BEFH4GGXZDTizen-Crystal-Bluetooth/dp/B0GMR9YD3C?tag=promobit-d-20",
+        "titulo": "Smart TV Samsung 50 LED 4K LH50BEFH4GGXZDTizen Crystal WiFi Bluetooth HDR10 3 HDMI",
+        "preco": 1889.05,
+        "timestamp": 1784932828.9353604,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DNR7TBTW",
+        "link_bruto": "https://www.amazon.com.br/Geladeira-Electrolux-Efficient-AutoSense-Duplex/dp/B0DNR7TBTW?tag=promobit-d-20&th=1",
+        "titulo": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex 110220v",
+        "preco": 2749.0,
+        "timestamp": 1784932874.1981614,
+        "expirado": false
     }
 ]
