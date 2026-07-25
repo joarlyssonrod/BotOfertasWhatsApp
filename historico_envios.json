@@ -20334,5 +20334,53 @@
         "preco": 2182.49,
         "timestamp": 1785005040.0811315,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU4013333735",
+        "link_bruto": "https://www.mercadolivre.com.br/jaqueta-masculina-impermeavel-com-capuz-cortavento-casual-outdoor/up/MLBU4013333735?pdp_filters=item_id%3AMLB4717738655&matt_event_ts=1785011427500&matt_d2id=e4a3bd3c-09de-4a08-b092-6e3426225716&matt_tracing_id=f3b4a824-c241-45ee-b79a-f7a728226244#polycard_client=recommendations_home_affiliate-profile&wid=MLB4717738655&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=13b5509d-5fc9-4654-8ef7-24061254033a&tracking_id=20610f83-e297-4565-b608-d49381cda559&c_id=/home/card-featured/element&c_uid=44220d99-c1f9-455c-847b-31423492b061",
+        "titulo": "Jaqueta Masculina Impermeável Com Capuz Corta-vento Casual Outdoor",
+        "preco": 105.08,
+        "timestamp": 1785011554.3250823,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB18390996",
+        "link_bruto": "https://www.mercadolivre.com.br/mantecorp-hidratante-facial-epidrat-calm-restaurador-40g/p/MLB18390996",
+        "titulo": "Mantecorp Hidratante Facial Epidrat Calm Restaurador - 40g",
+        "preco": 59.9,
+        "timestamp": 1785011605.1846027,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB2059293011",
+        "link_bruto": "https://www.mercadolivre.com.br/par-de-controles-sem-fio-para-nintendo-switch-preto/p/MLB2059293011?matt_event_ts=1785011417811&matt_d2id=28966041-2e6c-4415-9a5e-e238698e9924&matt_tracing_id=aadb043f-8760-4d2e-9c2b-180df53901dc#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f41c7750-f02b-4d40-9a26-253c1f19bf75&tracking_id=5455404c-030c-42fd-a209-aca94f3db7cd&c_id=/home/card-featured/element&c_uid=7a64e875-2548-4332-ae04-7ef034624e35",
+        "titulo": "Par De Controles Sem Fio Para Nintendo Switch Preto",
+        "preco": 68.59,
+        "timestamp": 1785011645.4166715,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4037792026",
+        "link_bruto": "https://www.mercadolivre.com.br/fone-de-ouvido-inear-htc-ne68-c-estojo-lcd/up/MLBU4037792026?pdp_filters=item_id%3AMLB6866268020&matt_event_ts=1785011450346&matt_d2id=9b36b78f-2356-42ff-9df7-fd641bd8cd02&matt_tracing_id=8101b4e5-9a88-4d9b-8741-cbcd0a848c9d#polycard_client=recommendations_home_affiliate-profile&wid=MLB6866268020&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=95156d6a-0645-4b42-b184-a7d9fa07338a&tracking_id=ab7b3495-5b24-473d-a31c-d5ddbbab0135&c_id=/home/card-featured/element&c_uid=a1eb7026-ae36-4e93-abfa-1d02b9ac489c",
+        "titulo": "Fone De Ouvido In-ear Htc Ne68 C Estojo Lcd",
+        "preco": 75.78,
+        "timestamp": 1785011693.1734824,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU1480040167",
+        "link_bruto": "https://www.mercadolivre.com.br/churrasqueira-de-inox-dobravel-portatil-a-carvao--maleta/up/MLBU1480040167?pdp_filters=item_id%3AMLB829355191&matt_event_ts=1785011440926&matt_d2id=8a946fa2-be3c-4a24-a119-c9cf78aedb16&matt_tracing_id=c7789e16-b07d-4ab5-a003-ac7cc27f5efd#polycard_client=recommendations_home_affiliate-profile&wid=MLB829355191&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=baf82586-655e-40c2-ab8f-14dee8287672&tracking_id=55081832-839c-4682-98e5-3c966e1f399e&c_id=/home/card-featured/element&c_uid=10ce6e1f-4fbc-432e-9c98-8debfcbd8092",
+        "titulo": "Churrasqueira De Inox Dobrável Portátil A Carvão - Maleta",
+        "preco": 127.57,
+        "timestamp": 1785011738.586696,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54096680",
+        "link_bruto": "https://www.mercadolivre.com.br/notebook-positivo-vision-c15m-intel-celeron-n4500-linux-8gb-ram-256gb-emmc-156-full-hd-ips-minitela-cinza/p/MLB54096680",
+        "titulo": "Notebook Positivo Vision C15M Intel® Celeron® N4500 Linux 8GB RAM 256GB eMMC 15.6\" Full HD IPS – Minitela - Cinza",
+        "preco": 2057.0,
+        "timestamp": 1785011786.6212997,
+        "expirado": false
     }
 ]
