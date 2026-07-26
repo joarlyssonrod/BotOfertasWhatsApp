@@ -20790,5 +20790,21 @@
         "preco": 53.6,
         "timestamp": 1785091085.747232,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB4000951931",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4000951931-20-placas-adesivas-painel-madeira-ripada-montavel-mdf-45x11-_JM?searchVariation=187196243109&matt_event_ts=1785097838836&matt_d2id=a5d3f0dc-6b0b-4a1d-ba37-35cca19953d8&matt_tracing_id=03d7400b-2ea1-40da-916b-55c1e306682f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=c469d854-265e-47cc-83a6-a3a80b3e4b55&tracking_id=b43da41e-2eab-4c35-a5dc-c576410effa0&c_id=/home/card-featured/element&c_uid=6839aaa8-eeb7-4044-b631-01ee43b9d813",
+        "titulo": "20 Placas Adesivas Painel Madeira Ripada Montável Mdf 45x11",
+        "preco": 27.25,
+        "timestamp": 1785097978.3991897,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CB6TK5J8",
+        "link_bruto": "https://www.amazon.com.br/Lava-Samsung-WD11A-Ecobubble-WD11A4453BX/dp/B0CB6TK5J8",
+        "titulo": "Lava e Seca Samsung 11kg Inverter 3 em 1 Água Fria WD11A4453BX 220v",
+        "preco": 3819.0,
+        "timestamp": 1785098011.2701483,
+        "expirado": false
     }
 ]
