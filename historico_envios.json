@@ -20438,5 +20438,29 @@
         "preco": 2949.0,
         "timestamp": 1785019111.91681,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB44203861",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-3-prateleiras-flutuantes-mdf-preto-25cmx10cm-com-suportes-invisiveis/p/MLB44203861?matt_event_ts=1785025869667&matt_d2id=87e5cd79-0453-4dd9-a3d1-c1a8808dd7bf&matt_tracing_id=27672a4c-132f-42f9-9bf7-f6ebccbed1e9#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7c361491-3d52-417f-98f7-da11c66ac88a&tracking_id=4c7bec5c-dbb4-46ab-80fb-8150032a3cff&c_id=/home/card-featured/element&c_uid=92860aa6-c8a3-4368-bc1d-081d5fa5ba2d",
+        "titulo": "Kit 3 Prateleiras Flutuantes MDF Preto",
+        "preco": 19.2,
+        "timestamp": 1785025985.3543649,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB22491295",
+        "link_bruto": "https://www.mercadolivre.com.br/microondas-panasonic-nn-st66nbru-black-glass-34l-dupla-refeicao/p/MLB22491295?matt_event_ts=1785025817934&matt_d2id=8ab29efb-9293-4dce-ae97-7a63201e4a02&matt_tracing_id=cd557059-b2b8-4238-894d-e659e7afbd2b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=03559e7f-bf31-4cf4-bf83-940cb8966bd3&tracking_id=1a6282d9-e07b-41e4-a28e-10c0c0f47ad4&c_id=/home/card-featured/element&c_uid=abf1fcb3-32c1-419e-99ad-448a4cdb5b9e",
+        "titulo": "Microondas Panasonic Black Glass 34L",
+        "preco": 532.18,
+        "timestamp": 1785026032.4656963,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB44566415",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-infinix-hot-50i-dual-sim-256gb-4-4-gb-ram-tela-67-cor-cinza/p/MLB44566415",
+        "titulo": "Celular Infinix Hot 50i Dual Sim 256gb 4 + 4 Gb Ram Tela 6.7 Cor Cinza",
+        "preco": 685.0,
+        "timestamp": 1785026072.874255,
+        "expirado": false
     }
 ]
