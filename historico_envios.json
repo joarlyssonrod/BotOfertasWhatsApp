@@ -21102,5 +21102,45 @@
         "preco": 9.0,
         "timestamp": 1785162014.2013726,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_23299188828",
+        "link_bruto": "https://shopee.com.br/product/1473961115/23299188828?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAM_NxfHGgeczprZR4Q8tPoOfvwhbtN63JlB369xGJA1mbqBWuW2sVWxQjSJT_xT_mbG0_W5kumedB_GGTjqmNpcGhlcnRleHTEmQAAAAwhNtnfnYrwXgP0XXmmg_ZZ1QiAOAv9bden1zS1Ek_JCIkru1BRWkw2YwggPpvUiab3ZlpjyDq3fJzt7dOBF03CZE0FQK0aDG6Gz4YJOT05yK6ydTR0jzdl7RH2sCdi-oCYb5HtbJjGQzUFTqQiRAxroHV6g51pqjphHeOuTO31Li_Bm_yOBOAGRvwDVWOXsHFVgNsFWQ&mmp_pid=an_18140170000&uls_trackid=5686c56i00lg&utm_campaign=id_646abecb78ce535b&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fabh8j1o7jxb",
+        "titulo": "Suporte Universal para TVs com Nível",
+        "preco": 22.0,
+        "timestamp": 1785162784.1936448,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB68849992",
+        "link_bruto": "https://www.mercadolivre.com.br/parafusadeira-furadeira-sem-fio-gradiente-gpb12v-ac-38-12v-bivolt-para-madeira-metal-com-maleta-e-acessorios/p/MLB68849992",
+        "titulo": "Parafusadeira Furadeira Sem Fio Gradiente Gpb12v-ac 3/8 12v Bivolt Para Madeira Metal Com Maleta E Acessórios",
+        "preco": 94.9,
+        "timestamp": 1785162824.055323,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3390711664",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-arabe-al-wataniah-bareeq-al-dhahab-100ml-eau-de-parf/up/MLBU3390711664",
+        "titulo": "Perfume Árabe Al Wataniah Bareeq Al Dhahab 100ml Eau De Parf",
+        "preco": 139.99,
+        "timestamp": 1785162864.9872878,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4194211233",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-6-organizadores-geladeira-alimentos-vegetais-com-tampas/up/MLBU4194211233",
+        "titulo": "Kit 6 Organizadores Geladeira Alimentos Vegetais Com Tampas Branco-6pcs",
+        "preco": 58.26,
+        "timestamp": 1785162907.2777083,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H6G6WK2N",
+        "link_bruto": "https://www.amazon.com.br/dp/B0H6G6WK2N?social_share=cm_sw_r_cso_cp_apin_dp_EXT7SKDVGJW2656W807P&tag=promobit-d-20&th=1",
+        "titulo": "Monitor Portátil 15.6 IPS FHD 1080p USB-C HDMI",
+        "preco": 300.99,
+        "timestamp": 1785162948.3476954,
+        "expirado": false
     }
 ]
