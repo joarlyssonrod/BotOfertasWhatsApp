@@ -21198,5 +21198,69 @@
         "preco": 176.61,
         "timestamp": 1785177468.8750727,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB62162205",
+        "link_bruto": "https://www.mercadolivre.com.br/vitamina-d3-k2-menaquinona-7-formula-com-maxima-concentracao-e-biodisponibilidade-60-capsulas/p/MLB62162205",
+        "titulo": "VITAMINA D3 + K2 Menaquinona-7 - Fórmula com Máxima Concentração e Biodisponibilidade - 60 Cápsulas",
+        "preco": 48.28,
+        "timestamp": 1785184393.1075246,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB45261442",
+        "link_bruto": "https://www.mercadolivre.com.br/dux-whey-concentrado-100-puro-para-ganho-de-massa-900g-sabor-baunilha/p/MLB45261442?matt_event_ts=1785184238287&matt_d2id=c2a0cb64-6977-4fb3-ae22-f01e7fd55a54&matt_tracing_id=2d4c80a4-2d61-448a-b012-11038f3e3949#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=af67ea8a-907d-4208-bd59-b8b854cebfc1&tracking_id=08f57981-9bcd-464e-8008-d7392e93eacf&c_id=/home/card-featured/element&c_uid=c8547527-39d7-4168-8dfc-ec1e0db4d97c",
+        "titulo": "Dux Whey Concentrado Puro Ganho Massa 900g",
+        "preco": 138.0,
+        "timestamp": 1785184438.2478988,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19550288",
+        "link_bruto": "https://www.mercadolivre.com.br/fresh-whey-dux-900g-chocolate-belga-e-avela-pote-natural/p/MLB19550288?matt_event_ts=1785184297061&matt_d2id=dd2d3f76-7c91-4ad4-a571-617c5489ad37&matt_tracing_id=acc32840-8e2b-48c4-a363-e74be9181dee#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0ee78ace-01dc-412e-9923-b10b1aea08e1&tracking_id=74cb2218-11d9-4a65-b183-91bc73653620&c_id=/home/card-featured/element&c_uid=e5d81954-8cb0-4397-bc2d-59c39d927c20",
+        "titulo": "Fresh Whey DUX 900g Chocolate Belga e Avelã Pote Natural",
+        "preco": 182.74,
+        "timestamp": 1785184481.52053,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB55762063",
+        "link_bruto": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g06-256gb-12gb-4gb-ram-8gb-ram-boost-e-camera-50mp-com-ai-bateria-de-5200-mah-tela-69-bege/p/MLB55762063",
+        "titulo": "Smartphone Motorola Moto G06 - 256gb 12gb (4gb Ram + 8gb Ram Boost) E Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9 - Bege",
+        "preco": 789.69,
+        "timestamp": 1785184521.0310192,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU2939238991",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-portatil-156-tela-externa-hdr-ips-1080p-ultrafino/up/MLBU2939238991",
+        "titulo": "Monitor Portátil 15.6'' Tela Externa Hdr Ips 1080p Ultrafino Preto 127/220v",
+        "preco": 390.0,
+        "timestamp": 1785184568.1143968,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B005IZZDAY",
+        "link_bruto": "https://www.amazon.com.br/Smirnoff-Vodka-1-75L/dp/B005IZZDAY",
+        "titulo": "Vodka Smirnoff 1750ml",
+        "preco": 39.9,
+        "timestamp": 1785184614.1148987,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0G16PK5MT",
+        "link_bruto": "https://www.amazon.com.br/Bicicleta-Ergom%C3%A9trica-Bike-Spinning-Emagrecimento/dp/B0G16PK5MT",
+        "titulo": "Bicicleta Ergométrica Bike Spinning – Bike Treino em Casa, Academia, Exercícios Cardio e Emagrecimento, Design Confortável e Ajustável, Vertical Silenciosa +100kg",
+        "preco": 439.9,
+        "timestamp": 1785184660.1882415,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CRSZRJ9B",
+        "link_bruto": "https://www.amazon.com.br/Condicionado-Port%C3%A1til-Hisense-12000-AP-12CWBRNPS01/dp/B0CRSZRJ9B",
+        "titulo": "Ar Condicionado Portátil Hisense com Wi-Fi 12.000 BTUs Frio Evaporação Automática AP-12CWBRNPS01 – 127V",
+        "preco": 2149.04,
+        "timestamp": 1785184707.329566,
+        "expirado": false
     }
 ]
