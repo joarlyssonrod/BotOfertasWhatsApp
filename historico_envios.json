@@ -21262,5 +21262,77 @@
         "preco": 2149.04,
         "timestamp": 1785184707.329566,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB67352286",
+        "link_bruto": "https://www.mercadolivre.com.br/multivitaminico-60-caps-growth-supplements-sem-sabor-sem-sabor/p/MLB67352286",
+        "titulo": "Multivitamínico 60 Cáps. Growth Supplements - Sem Sabor Sem Sabor",
+        "preco": 22.9,
+        "timestamp": 1785191660.0843616,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FXM57JL9",
+        "link_bruto": "https://www.amazon.com.br/Dreame-X50-Ultra-obst%C3%A1culos-inteligente/dp/B0FXM57JL9",
+        "titulo": "Dreame X50 Ultra Robô Aspirador e Esfregão, 20.000Pa, supera obstáculos de 6 cm, mopa extensível e removível, navegação LDS inteligente, desvio de obstáculos por IA, navegação 360° e modo pet,127V",
+        "preco": 8998.99,
+        "timestamp": 1785191702.393379,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H127L18H",
+        "link_bruto": "https://www.amazon.com.br/JBL-Boombox-Bluetooth-Personaliz%C3%A1veis-Lossless/dp/B0H127L18H/ref=sr_1_25?tag=promobit-d-20",
+        "titulo": "JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless – Preta",
+        "preco": 2267.39,
+        "timestamp": 1785191742.5303547,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GYQ8Q5QR",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0GYQ8Q5QR/ref=ewc_pr_img_1?tag=promobit-d-20",
+        "titulo": "Smart TV TCL 50 Polegadas QLED 4K P7L WiFi Bluetooth Google TV HDR10+ 120 Hz VRR AIPQ 50P7L",
+        "preco": 2179.0,
+        "timestamp": 1785191781.6956897,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F8KD3YGQ",
+        "link_bruto": "https://www.amazon.com.br/Phebo-Caixa-Sabonetes-Vinho-unidades/dp/B0F8KD3YGQ",
+        "titulo": "Phebo Caixa de Sabonetes, Vinho, 90g, 8 unidades",
+        "preco": 30.03,
+        "timestamp": 1785191820.6000204,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H5M9VVQZ",
+        "link_bruto": "https://www.amazon.com.br/Condicionado-Split-Samsung-Digital-Inverter/dp/B0H5M9VVQZ/ref=sr_1_8?tag=promobit-d-20",
+        "titulo": "Ar Condicionado Split Samsung Digital Inverter Ultra AI 12000 BTUh Frio | AR12DYFZAWKNAZ, 220 Volts",
+        "preco": 1624.05,
+        "timestamp": 1785191870.834483,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GL3G4MGN",
+        "link_bruto": "https://www.amazon.com.br/Smart-Philco-P50CRB-Dolby-Audio/dp/B0GL3G4MGN/ref=sr_1_29?tag=promobit-d-20",
+        "titulo": "Smart TV 50” Philco P50CRB 4K LED Dolby Audio",
+        "preco": 1653.1,
+        "timestamp": 1785191917.787524,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FRPG7Z1F",
+        "link_bruto": "https://www.amazon.com.br/SMART-AOC-50U7045-78G-HDR10/dp/B0FRPG7Z1F?tag=promobit-d-20",
+        "titulo": "Smart TV AOC 50 Polegadas, DLED, 4K, Roku TV - 50U704578G",
+        "preco": 1604.46,
+        "timestamp": 1785191952.3519263,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CT5Z4BS7",
+        "link_bruto": "https://www.amazon.com.br/JBL-Caixa-Boombox-Bluetooth-Poeira/dp/B0CT5Z4BS7/ref=sr_1_4?tag=promobit-d-20&th=1",
+        "titulo": "JBL, Caixa de Som, Boombox 3, Bluetooth, À Prova D'água e Poeira - Camuflada",
+        "preco": 1557.0,
+        "timestamp": 1785191992.2899933,
+        "expirado": false
     }
 ]
