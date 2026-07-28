@@ -21742,5 +21742,109 @@
         "preco": 650.0,
         "timestamp": 1785264040.1908195,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB16268161",
+        "link_bruto": "https://www.mercadolivre.com.br/controle-sem-fio-xbox-series-xs-robot-white/p/MLB16268161?matt_event_ts=1785270678810&matt_d2id=96f46f03-4f8b-442d-82d7-2192c9fb28a4&matt_tracing_id=12e5573e-b722-4de3-ab5f-506ccb83516b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=e938a556-bad7-4b60-90e0-dac59e089ac9&tracking_id=c79372e9-a811-45d5-8db2-d52323e5128d&c_id=/home/card-featured/element&c_uid=8b7ebdd7-dfa2-4084-b733-42d46668b092",
+        "titulo": "Controle Sem Fio Xbox Series X|S Robot White",
+        "preco": 247.0,
+        "timestamp": 1785270871.6602993,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB16602519",
+        "link_bruto": "https://www.mercadolivre.com.br/liquidificador-full-oster-15-velocidades-1400w-preto-220v-oliq610/p/MLB16602519?matt_event_ts=1785270691377&matt_d2id=c7907121-b570-40fa-a4e2-af836051f31e&matt_tracing_id=f22d6bc3-ad4b-4963-9c48-5fba50c579a3#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=71c8f508-4bf4-43a3-9bba-0b868c82beeb&tracking_id=81f760b7-5231-4247-94e9-e77af873fac3&c_id=/home/card-featured/element&c_uid=52901166-f584-4564-b6ad-818f6e14d4cf",
+        "titulo": "Liquidificador Full Oster 15 Velocidades 1400W Preto 220V OLIQ610",
+        "preco": 99.99,
+        "timestamp": 1785270910.9000244,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB69649128",
+        "link_bruto": "https://www.mercadolivre.com.br/mini-ventilador-soprador-ar-turbo-130000rpm-assoprador-sem-fio-recarregavel-usb-3-niveis-jato-forte-portatil-multiuso-limpeza-teclado-carro-acende-churrasqueira-marca-davely/p/MLB69649128",
+        "titulo": "Mini Ventilador Soprador Ar Turbo 130000rpm Assoprador Sem Fio Recarregável Usb 3 Níveis Jato Forte Portátil Multiuso Limpeza Teclado Carro Acende Churrasqueira Marca Davely",
+        "preco": 44.7,
+        "timestamp": 1785270955.4719274,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4380651929",
+        "link_bruto": "https://www.mercadolivre.com.br/jaqueta-masculina-puffer-matelasse--saquinho-hering/up/MLBU4380651929?pdp_filters=item_id%3AMLB7227093194&matt_event_ts=1785270668225&matt_d2id=29ecea33-f792-42fc-b31f-d9fd0ff0d3e2&matt_tracing_id=ae1f5344-2c96-4fe7-b964-b548e3d92010#polycard_client=recommendations_home_affiliate-profile&wid=MLB7227093194&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0c8eb3b2-a8be-4bd3-a77d-d43b19db8eb9&tracking_id=6ac0aaef-197d-466a-8764-26628070e755&c_id=/home/card-featured/element&c_uid=bbc8906a-f5a4-4bfc-a75e-4903e7a01456",
+        "titulo": "Jaqueta Masculina Puffer Matelassê + Saquinho Hering",
+        "preco": 155.79,
+        "timestamp": 1785270996.5725827,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB18917848",
+        "link_bruto": "https://www.mercadolivre.com.br/controle-dualsense-cfi-zct1-sem-fio-ps5-galactic-purple/p/MLB18917848?matt_event_ts=1785270736334&matt_d2id=7666462e-cc19-4053-8c47-b0c9fbc0b25a&matt_tracing_id=0ff8bc3c-8eb7-45a4-bace-ac50418ab8f0#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d02181b7-04e1-4977-8de2-14b2e2654ace&tracking_id=4d75f1ba-0d25-4200-b855-0ba4a073cf3c&c_id=/home/card-featured/element&c_uid=ff22a06a-7f2e-4da3-b98e-b0024e00a737",
+        "titulo": "Controle Dualsense Cfi-zct1 Sem Fio Ps5 Galactic Purple",
+        "preco": 283.0,
+        "timestamp": 1785271032.1531072,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08HK41RHJ",
+        "link_bruto": "https://www.amazon.com.br/dp/B08HK41RHJ/?tag=promobit-d-20",
+        "titulo": "Kit Vida Macia (Lava Roupas e Amaciante - Glicerina e Camomila) 2 x 1L",
+        "preco": 26.99,
+        "timestamp": 1785271083.6504207,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB26579818",
+        "link_bruto": "https://www.mercadolivre.com.br/porta-pao-bambu-com-tampa-retratil-cor-bege-liso-casa-laura-enxovais/p/MLB26579818?matt_event_ts=1785270624207&matt_d2id=b29db000-6165-4d49-9e25-f75527874664&matt_tracing_id=94c2a532-8740-4c99-85fd-b7786a040223#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=e032d4da-17ba-4f3d-97fc-fb52b3390254&tracking_id=9733aeb0-4c82-47ea-8ffd-b67ae4bac826&c_id=/home/card-featured/element&c_uid=2fd3d6ac-8d56-41f9-98d1-7872a0f9d1a8",
+        "titulo": "Porta Pão Bambu Com Tampa Retrátil Cor Bege Liso Casa Laura Enxovais",
+        "preco": 49.42,
+        "timestamp": 1785271128.9397044,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0958QBC8B",
+        "link_bruto": "https://www.amazon.com.br/Lava-Roupas-Concentrado-Lavanda-Especial-OMO/dp/B0958QBC8B/?tag=promobit-d-20",
+        "titulo": "Omo Sabão Em Pó Omo Lavanda Edição Especial 1.6kg",
+        "preco": 23.99,
+        "timestamp": 1785271172.4334605,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/controle-sem-fio-sony-dualsense-edicao-limitada-007-first-light-playstation-5-bluetooth-com-feedback-haptico-preto-e-dourado-1000052026/divulgador/oferta/ce65k58k1a/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/controle-sem-fio-sony-dualsense-edicao-limitada-007-first-light-playstation-5-bluetooth-com-feedback-haptico-preto-e-dourado-1000052026/divulgador/oferta/ce65k58k1a/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Controle Sem Fio Sony DualSense Edição Limitada 007 First Light PlayStation 5 Bluetooth com Feedback Háptico Preto e",
+        "preco": 396.0,
+        "timestamp": 1785271222.8179586,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B086BVM3QD",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B086BVM3QD?tag=promobit-d-20&th=1",
+        "titulo": "MamyPoko Fralda-Calça Dia & Noite P 46 Unidades",
+        "preco": 42.9,
+        "timestamp": 1785271259.8977098,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DJFT8HZC",
+        "link_bruto": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFT8HZC",
+        "titulo": "Apple iPhone 16 (128 GB) – Rosa",
+        "preco": 5110.0,
+        "timestamp": 1785271302.910919,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB31472572",
+        "link_bruto": "https://www.mercadolivre.com.br/sony-playstation-dualsense-cfi-zct1w-controle-sem-fio-sterling-silver-cor-cinza/p/MLB31472572?matt_event_ts=1785270725703&matt_d2id=7ce006c9-d52e-469d-9300-1cf9fadb7724&matt_tracing_id=cb17f998-a3b4-4f2a-b270-1b84deb526d1#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ee8c7b9a-97b7-4ea7-a819-d16874719194&tracking_id=da309a25-f90b-4618-a999-d3cb8a63c31e&c_id=/home/card-featured/element&c_uid=be1f0e26-f46c-4d07-bd4e-ce54f05ad739",
+        "titulo": "Controle DualSense Sem Fio - Sterling Silver",
+        "preco": 279.0,
+        "timestamp": 1785271342.1231942,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-adidas-response-runner-2/divulgador/oferta/feg82k6jcg/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-adidas-response-runner-2/divulgador/oferta/feg82k6jcg/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis Adidas Response Runner 2 - Masculino",
+        "preco": 180.49,
+        "timestamp": 1785271386.6906664,
+        "expirado": false
     }
 ]
