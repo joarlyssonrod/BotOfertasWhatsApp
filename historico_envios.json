@@ -21334,5 +21334,45 @@
         "preco": 1557.0,
         "timestamp": 1785191992.2899933,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/headset-gamer-philco-phs11v-pc-5-1-p2-preto-e-vermelho/divulgador/oferta/228760200/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/headset-gamer-philco-phs11v-pc-5-1-p2-preto-e-vermelho/divulgador/oferta/228760200/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Headset Gamer Philco PHS11V PC 5.1 P2",
+        "preco": 51.21,
+        "timestamp": 1785198810.7071743,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3512429389",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-molekinho-meninos-preto-01-2861115/up/MLBU3512429389?pdp_filters=item_id%3AMLB6220089986&matt_event_ts=1785198722614&matt_d2id=66bea534-a42b-41a0-9252-291c0eeedfb5&matt_tracing_id=57970a07-259d-40e9-8b85-89e4fe257f78#polycard_client=recommendations_home_affiliate-profile&wid=MLB6220089986&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=fa136806-2b2f-4592-ac4e-f521d4f9fe6d&tracking_id=43f84023-a6f6-4d65-90d7-0188c316bdca&c_id=/home/card-featured/element&c_uid=b1b59404-fecb-4db4-932a-f6d291532f98",
+        "titulo": "Tênis Molekinho Meninos Preto 01 2861-115",
+        "preco": 30.22,
+        "timestamp": 1785198855.3084927,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-adidas-lite-racer-masculino/divulgador/oferta/hkf8719d40/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-adidas-lite-racer-masculino/divulgador/oferta/hkf8719d40/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis Adidas Lite Racer Masculino",
+        "preco": 101.0,
+        "timestamp": 1785198894.749641,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4931760602",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4931760602-tenis-masculino-original-skate-nyc-shoes-moda-skatista-_JM?searchVariation=181162277032&matt_event_ts=1785198691468&matt_d2id=16ce9db1-bd6d-4c56-ac07-f469f8fd46e1&matt_tracing_id=77fafc3f-bbdc-4c6e-b3b9-b0d59cb9c861#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f9a453b8-92eb-44fb-9554-7d0c1f403f99&tracking_id=35bd839b-bc73-410c-8ea5-02177960d4c5&c_id=/home/card-featured/element&c_uid=2e1ebf8e-e585-4e4b-8a73-768212defd1f",
+        "titulo": "Tenis Masculino Original Skate Nyc Shoes Moda Skatista",
+        "preco": 64.05,
+        "timestamp": 1785198936.7737277,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB6106944242",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-6106944242-tnis-feminino-plataforma-chunky-confortavel-original-_JM?searchVariation=203477548443&matt_event_ts=1785198639045&matt_d2id=af351b61-da52-4434-b4e9-375302ab7af9&matt_tracing_id=4dc35d88-62f0-4101-80db-aef76eaf4b41#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6c3dad3b-dca9-43bb-9be3-84a5b547b087&tracking_id=4e9ec2ef-e664-42ff-a734-b691f37629b7&c_id=/home/card-featured/element&c_uid=5fef9f0d-9562-4dab-a26c-876ef616460e",
+        "titulo": "Tênis Feminino Plataforma Chunky Confortável Original",
+        "preco": 111.76,
+        "timestamp": 1785198981.4014692,
+        "expirado": false
     }
 ]
