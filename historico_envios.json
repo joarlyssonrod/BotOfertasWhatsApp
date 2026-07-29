@@ -22302,5 +22302,37 @@
         "preco": 7468.03,
         "timestamp": 1785350577.7851927,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_23399344603",
+        "link_bruto": "https://s.shopee.com.br/50Xr7Kg6fx",
+        "titulo": "Cofre MDF Desafio 10 Mil 5 Mil 1 Mil Personalizado Com Caneta Caixa De Dinheiro Decorativa Organizadora Metas Financeira",
+        "preco": 12.9,
+        "timestamp": 1785357157.7415876,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3332004882",
+        "link_bruto": "https://www.mercadolivre.com.br/principia-kit-completo-para-pele-sensivel-com-fps-60/up/MLBU3332004882?pdp_filters=item_id%3AMLB5528202674&matt_event_ts=1785357027787&matt_d2id=09509c6e-f3b7-4adf-b8a2-e04ec1bc0981&matt_tracing_id=8bcf1e13-f763-431a-8074-dda9782c2356#polycard_client=recommendations_home_affiliate-profile&wid=MLB5528202674&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=09b3f2c1-5e9f-4305-afe8-c6d39515df57&tracking_id=e32fb6c4-a337-4556-a267-d55f90fad5b4&c_id=/home/card-featured/element&c_uid=d6a1bafb-1f10-452f-a6c4-4659f118d74a",
+        "titulo": "Principia Kit Completo Para Pele Sensível Com Fps 60",
+        "preco": 71.6,
+        "timestamp": 1785357202.6455538,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB69983495",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-256gb-8gb-ram-recursos-ai-lilas/p/MLB69983495",
+        "titulo": "Celular Samsung Galaxy A57 5g 256gb, 8gb Ram, Recursos Ai Lilás",
+        "preco": 2481.0,
+        "timestamp": 1785357248.7958424,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B00MTFIL0U",
+        "link_bruto": "https://www.amazon.com.br/Whisky-Buchanans-12-Anos-Litro/dp/B00MTFIL0U",
+        "titulo": "Whisky Buchanan's Deluxe 12 Anos 1L",
+        "preco": 134.9,
+        "timestamp": 1785357286.506208,
+        "expirado": false
     }
 ]
