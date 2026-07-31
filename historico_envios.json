@@ -23134,5 +23134,45 @@
         "preco": 237.0,
         "timestamp": 1785502101.336268,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB40006578",
+        "link_bruto": "https://www.mercadolivre.com.br/esmerilhadeira-lixadeira-angular-bte750-412-750w-com-discos-412-the-black-tools/p/MLB40006578",
+        "titulo": "Esmerilhadeira Lixadeira Angular Bte750 4.1/2 750w Com Discos 4.1/2 The Black Tools",
+        "preco": 129.9,
+        "timestamp": 1785509480.1727686,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B076N2S8FV",
+        "link_bruto": "https://www.amazon.com.br/Maleta-Ferramentas-Sparta-Kit-13564/dp/B076N2S8FV",
+        "titulo": "Sparta Maleta de ferramentas kit com 129 peças",
+        "preco": 72.32,
+        "timestamp": 1785509524.3728428,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB16202531",
+        "link_bruto": "https://www.mercadolivre.com.br/idole-lancome-perfume-feminino-eau-de-parfum-chipre-floral-com-rosas-centifolia-damascena-e-jasmim-100ml/p/MLB16202531",
+        "titulo": "Idôle Lancôme, Perfume Feminino Eau de Parfum Chipre Floral com Rosas Centifolia, Damascena e Jasmim, 100ml",
+        "preco": 586.97,
+        "timestamp": 1785509578.5536633,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB62507804",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-malbec-tradicional-100ml-o-boticario-masculino/p/MLB62507804",
+        "titulo": "Perfume Malbec Tradicional 100ml O Boticário Masculino",
+        "preco": 185.21,
+        "timestamp": 1785509615.4991882,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FNY27T2T",
+        "link_bruto": "https://www.amazon.com.br/Hisense-Polegadas-50A6NV-Virtual-Compatibilidade/dp/B0FNY27T2T",
+        "titulo": "Hisense Smart TV 4K 50\" Polegadas 50A6NV com Dolby Vision, HDR10, HLG, Dolby Gaming, Film Maker, DTS Virtual X, Compatibilidade Alexa e Google Home",
+        "preco": 1889.98,
+        "timestamp": 1785509658.004626,
+        "expirado": false
     }
 ]
