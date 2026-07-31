@@ -23366,5 +23366,53 @@
         "preco": 2123.0,
         "timestamp": 1785530269.192202,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB50382995",
+        "link_bruto": "https://www.mercadolivre.com.br/o-boticario-botica-214-sevilla-dorada-eau-de-parfum-feminino/p/MLB50382995",
+        "titulo": "O Boticário Botica 214 Sevilla Dorada Eau De Parfum Feminino",
+        "preco": 118.7,
+        "timestamp": 1785537251.6892755,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB57490176",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-2-refletor-super-led-400w-ip67-holofote-bivolt-prova-dagua-branco-frio-6500k-preto/p/MLB57490176",
+        "titulo": "Kit 2 Refletor Super Led 400w Ip67 Holofote Bivolt Prova D'água Branco Frio 6500k Preto",
+        "preco": 48.0,
+        "timestamp": 1785537302.2893832,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB57288956",
+        "link_bruto": "https://www.mercadolivre.com.br/fechadura-digital-keltech-kt1000-biometrica-cor-preto/p/MLB57288956?matt_event_ts=1785537104460&matt_d2id=8815a12d-0dbc-4a6a-a59f-4bce43e7b80f&matt_tracing_id=fdb6c9b2-71f3-45e7-a8ea-4b5c35d6f213#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6a096fdb-2d3c-4c1b-9702-b5d46c3ffa1a&tracking_id=987258b9-e3b3-454a-97d3-f1b1738526b3&c_id=/home/card-featured/element&c_uid=407950b8-624f-4ef5-8810-71f0950ab1c4",
+        "titulo": "Fechadura Digital Keltech Kt1000 Biométrica Preta",
+        "preco": 236.0,
+        "timestamp": 1785537349.6649647,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54396086",
+        "link_bruto": "https://www.mercadolivre.com.br/colonia-eudora-h-flow-100ml/p/MLB54396086?matt_event_ts=1785537127737&matt_d2id=e43ce444-34b0-4974-ae2b-e079397e7340&matt_tracing_id=a344e014-ea11-46c1-aa00-768c31fdf6d4#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=bf45e7fe-fe45-42ae-b818-9b73de30adc6&tracking_id=c0f0e43a-164f-45e8-a97f-4f2d97ae1c17&c_id=/home/card-featured/element&c_uid=21c4b9a7-4f78-4953-ad87-989ce4204ff4",
+        "titulo": "Colônia Eudora H Flow 100ml",
+        "preco": 60.97,
+        "timestamp": 1785537398.3189826,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F3DJBS35",
+        "link_bruto": "https://www.amazon.com.br/HQ-bordas-Android-design-HQS40NKHM/dp/B0F3DJBS35/ref=sr_1_47_sspa//?tag=promobit-d-20",
+        "titulo": "Smart TV HQ 40\" Full HD tela sem bordas Android 12 design Slim HQS40NKHM",
+        "preco": 1029.9,
+        "timestamp": 1785537437.4798026,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09LHVCPPY",
+        "link_bruto": "https://www.amazon.com.br/Cooktop-Indu%C3%A7%C3%A3o-Bocas-Oster-Screen/dp/B09LHVCPPY?tag=promobit-d-20",
+        "titulo": "Cooktop por Indução Oster, Touch Screen, 4 Bocas, 220V, OTOP402",
+        "preco": 998.9,
+        "timestamp": 1785537480.2609959,
+        "expirado": false
     }
 ]
