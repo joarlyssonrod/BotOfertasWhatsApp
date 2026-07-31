@@ -23310,5 +23310,61 @@
         "preco": 36.0,
         "timestamp": 1785523280.554415,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3164642850",
+        "link_bruto": "https://www.mercadolivre.com.br/escorredor-de-pratos-louca-preto-cozinha-suspensa-65cm-18pcs/up/MLBU3164642850",
+        "titulo": "Escorredor De Pratos Louça Preto Cozinha Suspensa 65cm 18pçs Preto",
+        "preco": 135.19,
+        "timestamp": 1785530006.2022848,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB53666291",
+        "link_bruto": "https://www.mercadolivre.com.br/controle-gamesir-t4-nova-lite-sem-fio-para-pc-switch-android-ios-steam-hall-effect-cor-space-purple/p/MLB53666291",
+        "titulo": "Controle Gamesir T4 Nova Lite Sem Fio Para Pc Switch Android Ios Steam Hall Effect Cor Space Purple",
+        "preco": 170.91,
+        "timestamp": 1785530050.7761145,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/fonte-cooler-master-mwe-gold-850-v3-850w-80-plus-ouro-atx-3-1-pfc-ativo-preto-mpe-8506-acag-bbr/divulgador/oferta/hge4e0k8fa/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/fonte-cooler-master-mwe-gold-850-v3-850w-80-plus-ouro-atx-3-1-pfc-ativo-preto-mpe-8506-acag-bbr/divulgador/oferta/hge4e0k8fa/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Fonte Cooler Master MWE Gold 850 V3, 850W, 80 Plus Ouro",
+        "preco": 263.0,
+        "timestamp": 1785530089.838191,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BPYR1B98",
+        "link_bruto": "https://www.amazon.com.br/dp/B0BPYR1B98?social_share=cm_sw_r_apan_dp_A659K7E0TSCEQT2N0MJV&tag=promobit-d-20&th=1",
+        "titulo": "LYOR - Garrafa Térmica de Aço Inox Explorer Verde 650ml",
+        "preco": 46.8,
+        "timestamp": 1785530129.2212403,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/samsung-smart-tv-50-miniled-4k-m75h-2026-vision-ai-companion-modo-futebol-xbox-cloud-gaming-canais-gratuitos/divulgador/oferta/kja4h4dce8/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/samsung-smart-tv-50-miniled-4k-m75h-2026-vision-ai-companion-modo-futebol-xbox-cloud-gaming-canais-gratuitos/divulgador/oferta/kja4h4dce8/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Samsung Smart TV 50\" MiniLED 4K M75H 2026 Vision AI Companion Modo Futebol Xbox Cloud Gaming Canais Gratuitos",
+        "preco": 2717.1,
+        "timestamp": 1785530181.5910301,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/jogo-pragmata-playstation-5-cp000044ps5/divulgador/oferta/hjhe286ebh/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/jogo-pragmata-playstation-5-cp000044ps5/divulgador/oferta/hjhe286ebh/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Jogo PRAGMATA, PlayStation 5 - CP000044PS5",
+        "preco": 215.0,
+        "timestamp": 1785530227.0596302,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB52435146",
+        "link_bruto": "https://www.mercadolivre.com.br/geladeira-consul-frost-free-377-litros-duplex-branca-crm44mb/p/MLB52435146?matt_event_ts=1785529824401&matt_d2id=36ed09e4-356c-47e8-b1f4-5bfe6e450783&matt_tracing_id=2632a85e-590b-4d12-b815-07e33ae2231c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ba750c9a-2f8f-4395-abe5-f634ac975009&tracking_id=98dc79e0-a863-49b2-9aca-e9f33a286edb&c_id=/home/card-featured/element&c_uid=e2267ed3-86ca-400f-b512-5a87358eb2d5",
+        "titulo": "Geladeira Consul Frost Free 377L Branca",
+        "preco": 2123.0,
+        "timestamp": 1785530269.192202,
+        "expirado": false
     }
 ]
