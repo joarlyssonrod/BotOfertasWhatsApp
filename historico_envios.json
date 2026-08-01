@@ -23846,5 +23846,45 @@
         "preco": 36.72,
         "timestamp": 1785616863.9088635,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU4052785463",
+        "link_bruto": "https://www.mercadolivre.com.br/vedo-kit-microfone-7-pecas-dinamicos-com-fio-para-bateria/up/MLBU4052785463",
+        "titulo": "Vedo Kit Microfone 7 Pecas Dinâmicos Com Fio Para Bateria",
+        "preco": 349.0,
+        "timestamp": 1785623599.2738187,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB62751919",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-portatil-156com-usb-c-duplahdmi-fhd-1080p-60hz/p/MLB62751919",
+        "titulo": "Monitor Portátil 15.6''com Usb C Dupla/hdmi Fhd 1080p 60hz",
+        "preco": 418.0,
+        "timestamp": 1785623640.0394797,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/papel-higienico-folha-dupla-bracell-familiar-24-rolos-30m/divulgador/oferta/238807800/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/papel-higienico-folha-dupla-bracell-familiar-24-rolos-30m/divulgador/oferta/238807800/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Papel Higiênico Dupla Folha Familiar Bracell 24 Rolos",
+        "preco": 20.78,
+        "timestamp": 1785623684.8130035,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB41676281",
+        "link_bruto": "https://www.mercadolivre.com.br/garrafa-termica-stanley-aerolight-transit-slim-rose-quartz-591ml/p/MLB41676281?matt_event_ts=1785623485181&matt_d2id=5964008d-2b91-4ac3-b6da-5fc64457146b&matt_tracing_id=5684c681-8178-45bb-a9c9-ae9086af9858#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=77bee21f-23a9-4266-a911-e19c9a90d821&tracking_id=7bc6c50c-9e7b-4109-8f3f-984c34fb73d0&c_id=/home/card-featured/element&c_uid=b6e6afc9-0d8b-4037-ade2-501a15fde9fe",
+        "titulo": "Garrafa Térmica Stanley Rose Quartz 591ml",
+        "preco": 124.0,
+        "timestamp": 1785623733.0380147,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3645198101",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-masculino-duramo-rc2-m-adidas/up/MLBU3645198101?pdp_filters=item_id%3AMLB4341313351&matt_event_ts=1785623432461&matt_d2id=337fe27c-56c8-435f-818b-11299449d548&matt_tracing_id=146cafcd-eb0d-4e66-99e5-aa5906a4eda6#polycard_client=recommendations_home_affiliate-profile&wid=MLB4341313351&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=8e7525d5-e50b-45fe-b7e5-7b60f32d85e4&tracking_id=d4e8e8a7-833d-46be-971a-d97d48150fc6&c_id=/home/card-featured/element&c_uid=0cb96452-51c6-4e0c-acdc-672931baa2f5",
+        "titulo": "Tênis Masculino Duramo Rc2 M Adidas",
+        "preco": 191.62,
+        "timestamp": 1785623773.079883,
+        "expirado": false
     }
 ]
