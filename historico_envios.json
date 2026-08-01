@@ -23614,5 +23614,53 @@
         "preco": 158.0,
         "timestamp": 1785588192.9453096,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB65763694",
+        "link_bruto": "https://www.mercadolivre.com.br/jogo-de-chave-boca-e-estrela-combinada-12-pcs-aco-6-22-mm-cromada-profissional-tkch12-the-black-tools/p/MLB65763694?matt_event_ts=1785594718094&matt_d2id=a96ef455-f80b-4b5b-af05-4a54145f897a&matt_tracing_id=6cf22bca-8104-420e-87d1-02e19ac58bb5#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=97b0f445-330b-4c84-bd3f-6f7bb2a0f5a0&tracking_id=40dd3049-ec5e-478e-a9f2-9cc737ac10a7&c_id=/home/card-featured/element&c_uid=c6c36cd7-c836-42fa-91e6-c5faf400e2b8",
+        "titulo": "Jogo De Chave Boca E Estrela Combinada 12 peças IF-12 The Black Tools",
+        "preco": 42.4,
+        "timestamp": 1785594811.5771585,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB75032419",
+        "link_bruto": "https://www.mercadolivre.com.br/relogio-tommy-hilfiger-masculino-aco-prateado-1710673-prateado-azul/p/MLB75032419",
+        "titulo": "Relógio Tommy Hilfiger Masculino Aço Prateado 1710673 Prateado Azul",
+        "preco": 464.0,
+        "timestamp": 1785594846.731519,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4089832378",
+        "link_bruto": "https://www.mercadolivre.com.br/invigo-nutri-enrich--mascara-500ml/up/MLBU4089832378",
+        "titulo": "Invigo Nutri Enrich - Máscara 500ml",
+        "preco": 143.2,
+        "timestamp": 1785594893.0171018,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23928101038",
+        "link_bruto": "https://s.shopee.com.br/4Aymml0uCH",
+        "titulo": "Trio de Vasos Cachepot com Suporte Para Cactos ou Suculentas",
+        "preco": 29.92,
+        "timestamp": 1785594938.8526435,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DJFTCKNN",
+        "link_bruto": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTCKNN",
+        "titulo": "Apple iPhone 16 (128 GB) – Branco",
+        "preco": 5110.0,
+        "timestamp": 1785594972.324495,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CMXW6ZYB",
+        "link_bruto": "https://www.amazon.com.br/Cerveja-Heineken-Pilsen-LATA-350/dp/B0CMXW6ZYB/?tag=promobit-d-20",
+        "titulo": "Heineken Cerveja Sleek Lata 350ml Pack 12 Unidades",
+        "preco": 51.73,
+        "timestamp": 1785595011.546576,
+        "expirado": false
     }
 ]
