@@ -23662,5 +23662,45 @@
         "preco": 51.73,
         "timestamp": 1785595011.546576,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB1858445728",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-1858445728-chinelo-havaianas-masculino-power-20-anatmica-massageadora-_JM?searchVariation=188716686173&matt_event_ts=1785601841086&matt_d2id=7718ea70-1244-4630-99a6-05c438950161&matt_tracing_id=e8f8d9f5-866f-4fd9-ace9-59e6a4ebe11e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=02df185d-d074-4670-940e-e42afd2cbc53&tracking_id=54dad261-e832-4876-ba06-e960714a324f&c_id=/home/card-featured/element&c_uid=b39f22e5-edd7-4e94-9cec-770167df40e0",
+        "titulo": "Chinelo Havaianas Power 2.0 Anatômica (3 cores)",
+        "preco": 39.0,
+        "timestamp": 1785602015.8348641,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB21382359",
+        "link_bruto": "https://www.mercadolivre.com.br/relogio-technos-masculino-aco-inoxidavel-fundo-preto-resistente-agua-50m/p/MLB21382359?matt_event_ts=1785601861018&matt_d2id=d38b286a-c513-45e4-a002-9e1a7bc325f3&matt_tracing_id=07ebbe16-3f86-4098-9b2a-390b8ab2e1c7#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=20398ecd-af3d-4247-8e90-a0df7e1fe9aa&tracking_id=01882ddd-a1e6-4834-a4d5-dd3b442bde6a&c_id=/home/card-featured/element&c_uid=c237680f-edc3-4130-b279-c74ab9caef8b",
+        "titulo": "Relógio Technos Masculino Aço Inoxidável Fundo Preto Resistente Água 50m",
+        "preco": 192.05,
+        "timestamp": 1785602068.7839768,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB65694135",
+        "link_bruto": "https://www.mercadolivre.com.br/protein-crisp-bar-ovomaltine-12-unidades-45g-integralmedica-ovomaltine/p/MLB65694135",
+        "titulo": "Protein Crisp Bar Ovomaltine 12 Unidades 45g Integralmedica Ovomaltine",
+        "preco": 84.33,
+        "timestamp": 1785602119.161061,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19592781",
+        "link_bruto": "https://www.mercadolivre.com.br/suplemento-tasty-whey-3w-gourmet-whey-protein-adaptogen-science-pote-900g-sabor-chocolate-suico/p/MLB19592781",
+        "titulo": "Suplemento Tasty Whey 3w Gourmet Whey Protein Adaptogen Science Pote 900g Sabor Chocolate Suiço",
+        "preco": 205.7,
+        "timestamp": 1785602169.2269135,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB32305695",
+        "link_bruto": "https://www.mercadolivre.com.br/pasta-de-amendoim-dr-peanut-gourmet-sabor-chocotine-600g/p/MLB32305695?matt_event_ts=1785601871039&matt_d2id=27d064c9-3bd2-40dd-9238-a529cda0fb8e&matt_tracing_id=98818ac3-bb09-470f-9491-6a8dff2cc5d9#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=845b1a6f-7588-408c-a771-fdf8b9e1ba73&tracking_id=607f3bfb-8dc9-4e4f-88c7-064f32d4d6c0&c_id=/home/card-featured/element&c_uid=3cedfb02-83dd-4f55-8010-6124c1cea808",
+        "titulo": "Dr. Peanut Pasta de Amendoim Gourmet Chocotine 600g",
+        "preco": 27.81,
+        "timestamp": 1785602222.0293834,
+        "expirado": false
     }
 ]
