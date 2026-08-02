@@ -24166,5 +24166,45 @@
         "preco": 2029.99,
         "timestamp": 1785695763.815254,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3920070767",
+        "link_bruto": "https://www.mercadolivre.com.br/espelho-grande-40cm-jateado-com-touch-e-led-3-cores-banheiro/up/MLBU3920070767?pdp_filters=item_id%3AMLB4637498883&matt_event_ts=1785702680904&matt_d2id=1b17133d-d280-4878-9647-676b0de3a4dc&matt_tracing_id=076573c8-6e3c-4364-948b-30c66bbc8b40#polycard_client=recommendations_home_affiliate-profile&wid=MLB4637498883&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d5e5e898-ab2b-48c3-990f-7df8564502b0&tracking_id=e4c14579-aac1-418f-ac02-8dcad1ca1f48&c_id=/home/card-featured/element&c_uid=63719ac0-0e9f-4e74-a196-d2a455284872",
+        "titulo": "Espelho Grande 40cm Jateado Com Touch E Led 3 Cores Banheiro Led 3 Cores",
+        "preco": 73.5,
+        "timestamp": 1785702783.4149857,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB68659242",
+        "link_bruto": "https://www.mercadolivre.com.br/tapete-200x140-para-sala-e-quarto-aveludado-tabaco-linhas-2-m-14-m-tabaco-linhas/p/MLB68659242?matt_event_ts=1785702691971&matt_d2id=41c0d45a-b203-49c7-a71e-ec2afe5c6039&matt_tracing_id=4c64fac7-ba02-4178-9b53-8454e91f1906#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d91ca311-2468-47fd-ac6c-48920243b0ae&tracking_id=54654288-c0f6-499e-8725-00e91f7887e6&c_id=/home/card-featured/element&c_uid=a8c0c07f-1598-4b9d-9e3e-13112f8657a5",
+        "titulo": "Tapete 200x140 Para Sala E Quarto Aveludado Tabaco Linhas 2 M 1.4 M Tabaco Linhas",
+        "preco": 44.25,
+        "timestamp": 1785702828.4537172,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63033418",
+        "link_bruto": "https://www.mercadolivre.com.br/power-bank-basike-20000mah-para-notebook-e-celular-com-cabo-usb-c-65w/p/MLB63033418",
+        "titulo": "Power Bank Basike 20000mAh para Notebook e Celular com Cabo USB-C 65W",
+        "preco": 179.48,
+        "timestamp": 1785702864.7316163,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB39112553",
+        "link_bruto": "https://www.mercadolivre.com.br/sofa-beny-180-linho-cru-pes-em-madeira-cor-bege/p/MLB39112553?matt_event_ts=1785702659085&matt_d2id=29a4190f-119b-4646-8929-c0f6884e535c&matt_tracing_id=33891f49-f2bd-42da-8c4b-0f7bfc7aee6d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=58ab4d5a-6712-4925-a197-0b05cb6e5fb7&tracking_id=1a479d69-d2cd-495b-8316-8e663f0a3b8c&c_id=/home/card-featured/element&c_uid=ea72a363-98ae-4c9e-b582-2c7be256f1c7",
+        "titulo": "Sofá Beny 1,80 Linho Cru Pés Em Madeira Cor Bege",
+        "preco": 639.0,
+        "timestamp": 1785702908.742978,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB1055309009",
+        "link_bruto": "https://www.mercadolivre.com.br/iphone-17-256gb-branco-distribuidor-autorizado/p/MLB1055309009",
+        "titulo": "iPhone 17 256 GB - Branco - Distribuidor Autorizado",
+        "preco": 5299.0,
+        "timestamp": 1785702945.8936334,
+        "expirado": false
     }
 ]
