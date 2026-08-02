@@ -24206,5 +24206,61 @@
         "preco": 5299.0,
         "timestamp": 1785702945.8936334,
         "expirado": false
+    },
+    {
+        "id": "https://shopee.com.br/opaanlp/1738051909/22299497509",
+        "link_bruto": "https://shopee.com.br/opaanlp/1738051909/22299497509?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMHJtu46N4YL1ETOwWAbpdPCpoOnQDXHQJ5OvtcN0M_eDbRA41r_846ydnLzTRf_samdRHEh2GSlumtjiKqmNpcGhlcnRleHTEmQAAAAx__cWr7tbZNJyBbPjLbQRp77-OHfJiMOUqNNADDByOUbFENjL12N3FIPINN4AMkmlL91U6lqkGvRblFyeRv4fPJiSPkk4I7Rx9FjuyFSbVZm1iQYDvfgWgnNtkQ7S9DJNHC10Gno9SP2Kz-EfahRyfFJP49lUzqEIdDJiebWOkAI4TrCJ4_tBMd9obFUWAKcZIOH76yw&mmp_pid=an_18140170000&uls_trackid=569qhsgr00hn&utm_campaign=id_b23b7f9bfe874738&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fbfaaowf19y2",
+        "titulo": "Bicicleta elétrica dobrável para adultos pedal tripulado compras ao ar livre viagem",
+        "preco": 2021.33,
+        "timestamp": 1785710019.214046,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0G44ZKVQT",
+        "link_bruto": "https://www.amazon.com.br/dp/B0G44ZKVQT?m=A1ZZFT5FULY4LN&tag=promobit-d-20",
+        "titulo": "Tenis New Balance Fresh Foam Arishiv4 Masculino CinzaLaranja",
+        "preco": 258.39,
+        "timestamp": 1785710060.483487,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB61763358",
+        "link_bruto": "https://www.mercadolivre.com.br/furadeira-parafusadeira-sem-fio-a-bateria-gpb12vd-12v-38-10mm-com-maleta-e-acessorios-gradiente/p/MLB61763358",
+        "titulo": "Furadeira Parafusadeira Sem Fio A Bateria Gpb12vd 12v 3/8 10mm Com Maleta E Acessórios Gradiente",
+        "preco": 94.05,
+        "timestamp": 1785710097.2777731,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4237057127",
+        "link_bruto": "https://www.mercadolivre.com.br/processador-amd-ryzen-5-5500-36ghz-42gh-max-turbo-16mb-am4/up/MLBU4237057127?pdp_filters=item_id%3AMLB7119721890&matt_event_ts=1785709866131&matt_d2id=222fc9e1-02d7-445f-b470-498b92e98671&matt_tracing_id=80f09a70-3262-4eb3-aa4c-6b9e34f574d7#polycard_client=recommendations_home_affiliate-profile&wid=MLB7119721890&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1bdc52cc-5a90-4210-a380-804906c9f213&tracking_id=5bb47db2-574b-4934-8cc1-5d9cb641a9db&c_id=/home/card-featured/element&c_uid=8fee266c-4c78-4870-be6f-4ebc294a5418",
+        "titulo": "Processador Amd Ryzen 5 5500 3.6ghz 4.2gh Max Turbo 16mb Am4",
+        "preco": 494.1,
+        "timestamp": 1785710135.0077007,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DWQNS8TN",
+        "link_bruto": "https://www.amazon.com.br/Monitor-Gamer-Samsung-Odyssey-G5/dp/B0DWQNS8TN?tag=promobit-d-20",
+        "titulo": "Monitor Samsung Odyssey G5 32'', QHD, 165Hz, 1ms",
+        "preco": 966.0,
+        "timestamp": 1785710171.1737378,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FGDJQ68P",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FGDJQ68P?tag=promobit-d-20",
+        "titulo": "Monitor Gamer Curvo AOC AGON G4Z 27\" 300Hz 0,3ms HDR10 Base Ajustável C27G4ZP",
+        "preco": 1096.65,
+        "timestamp": 1785710216.3473148,
+        "expirado": false
+    },
+    {
+        "id": "https://www.americanas.com.br/smart-tv-65--tcl-4k-uhd-led-hva-google-tv-65s62-2025-8296734/p",
+        "link_bruto": "https://www.americanas.com.br/smart-tv-65--tcl-4k-uhd-led-hva-google-tv-65s62-2025-8296734/p?utm_source=ab_lg&utm_medium=afiliados&utm_campaign=always_on&utm_id=889130&utm_content=af_lg_00_ab&utm_term=22193_1785709829_568a05ed5de822bb97efec1bef961546&sv1=affiliate&sv_campaign_id=889130",
+        "titulo": "Smart TV Semp 65 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 65S62",
+        "preco": 2899.0,
+        "timestamp": 1785710267.6791604,
+        "expirado": false
     }
 ]
