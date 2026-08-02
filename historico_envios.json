@@ -24070,5 +24070,69 @@
         "preco": 62.0,
         "timestamp": 1785681384.9033017,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB18405759",
+        "link_bruto": "https://www.mercadolivre.com.br/azeite-de-oliva-extra-virgem-portugues-herdade-do-esporao-vidro-500ml/p/MLB18405759?matt_event_ts=1785688327841&matt_d2id=662da31b-6973-4ce7-aa55-bfb91f42dd54&matt_tracing_id=15d8b462-9cdc-4807-8bc4-c40934688ff2#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=bc4e39b8-e05e-4d20-a3f8-80279faa9089&tracking_id=2d530215-5d23-4e19-8d63-9d510792613f&c_id=/home/card-featured/element&c_uid=ef53b5a8-58a1-490b-a0aa-198f37356685",
+        "titulo": "Azeite Oliva Extra Virgem Português 500ml",
+        "preco": 49.39,
+        "timestamp": 1785688427.4033833,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB6093749",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-ck-in2u-edt-feminino-100ml-calvin-klein/p/MLB6093749?matt_event_ts=1785688257532&matt_d2id=19a54c1b-6a4f-42fd-90fe-bd8c8e4aeb61&matt_tracing_id=40dce628-601b-4aea-956f-eb70bd337e7a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3090140d-4d6f-4314-95a6-7e2afce7f816&tracking_id=cb5bc237-7d09-4b5a-a92e-6795247d9426&c_id=/home/card-featured/element&c_uid=b5e5f541-d061-4d3e-b520-97004bc22244",
+        "titulo": "Perfume Ck In2u Edt Feminino 100ml Calvin Klein",
+        "preco": 154.99,
+        "timestamp": 1785688475.29158,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3880430531",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3880430531-kit-4-camisas-camiseta-basica-lisa-100-algodo-premium-301-_JM?searchVariation=190505070528&matt_event_ts=1785688317605&matt_d2id=214ce7bb-62b5-42b6-9468-14330dc8731a&matt_tracing_id=0371d95a-bb9a-4f1c-899a-b9fa04a6410b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f4eb6f70-b513-46f9-b66c-80a8fa27c35d&tracking_id=fae5455e-6c80-47de-a173-cb89851d486c&c_id=/home/card-featured/element&c_uid=5ef95b69-0577-4aeb-ac43-dec8b67d8db8",
+        "titulo": "Kit 4 Camisas Camiseta Básica Lisa 100% Algodão Premium 30.1",
+        "preco": 60.47,
+        "timestamp": 1785688518.0673063,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3866982565",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-asics-gelexcite-11-masculino/up/MLBU3866982565?pdp_filters=item_id%3AMLB6538578618&matt_event_ts=1785688277557&matt_d2id=69e7d4e1-a021-40d3-b8f6-b8520c3d555d&matt_tracing_id=8ee3a5a2-24fa-4229-876e-f6a1a98bb4e3#polycard_client=recommendations_home_affiliate-profile&wid=MLB6538578618&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=e7e245bc-5dce-471b-ad66-c0b639e68e3c&tracking_id=627f0491-d83d-4a55-adf2-efb0f9eeb5cc&c_id=/home/card-featured/element&c_uid=88f7acf8-f15f-439f-8aa8-c80653f37b06",
+        "titulo": "Tênis Asics Gel-excite 11 Masculino",
+        "preco": 327.9,
+        "timestamp": 1785688563.1282773,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4276065349",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4276065349-tnis-de-corrida-adistar-4-adidas-_JM?searchVariation=192308818677&matt_event_ts=1785688307147&matt_d2id=df44e9a5-5129-472e-ba2c-69fd4196d72c&matt_tracing_id=35ddc185-c0f3-4cf3-bb47-e13db71b2bdb#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=119c2f10-398c-4b54-8464-1a4c632e7243&tracking_id=77dc8834-4466-4b99-8e83-c76dc981640b&c_id=/home/card-featured/element&c_uid=3ca683ec-e06d-488e-a0b8-ceb96f79f404",
+        "titulo": "Tênis De Corrida Adistar 4 Adidas",
+        "preco": 479.99,
+        "timestamp": 1785688601.252329,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19381119",
+        "link_bruto": "https://www.mercadolivre.com.br/whey-isolate-protein-fuse-refil-900g-dark-lab-mp-importad-sabor-brownie/p/MLB19381119",
+        "titulo": "Whey Isolate Protein Fuse Refil 900g Dark Lab - Mp Importad Sabor Brownie",
+        "preco": 78.9,
+        "timestamp": 1785688638.6983018,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB16119462",
+        "link_bruto": "https://www.mercadolivre.com.br/malbec-colonia-tradicional-100ml-o-boticario/p/MLB16119462?matt_event_ts=1785688247816&matt_d2id=6fd45948-d231-41dd-b465-a0e6fd98891c&matt_tracing_id=bfd54b73-a744-4a08-a7a6-8a0bbbdc130f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a2f4ebfe-9dfd-46f5-86fc-b3bfef61d56a&tracking_id=4bb73525-2c33-4060-8ce7-5d2757655f1f&c_id=/home/card-featured/element&c_uid=6c029d16-94f5-4af7-8de0-22e24eef6650",
+        "titulo": "Malbec Colonia Tradicional 100ml O Boticário",
+        "preco": 114.72,
+        "timestamp": 1785688677.9019501,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DHWBXXLY",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DHWBXXLY?tag=promobit-d-20",
+        "titulo": "Calvin Klein Eternity Amber Essence for Woman Parfum 30ml",
+        "preco": 223.35,
+        "timestamp": 1785688711.900695,
+        "expirado": false
     }
 ]
