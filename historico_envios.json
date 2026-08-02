@@ -24030,5 +24030,45 @@
         "preco": 71.09,
         "timestamp": 1785674326.948654,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3806259967",
+        "link_bruto": "https://www.mercadolivre.com.br/bicicleta-ergometrica-spinning-mkfit-13kg-profissional/up/MLBU3806259967",
+        "titulo": "Bicicleta Ergométrica Spinning Mkfit 13kg Profissional Laranja",
+        "preco": 799.0,
+        "timestamp": 1785681213.6765862,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3603142037",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3603142037-criado-mudor-p-cama-box-compacto-c-prateleira-max-_JM?searchVariation=181799446293&matt_event_ts=1785681052334&matt_d2id=bc724ae4-a255-4ec1-8618-43535b290446&matt_tracing_id=534de159-6add-4a3b-b377-4eea25abe2bc#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d1d063fd-1900-4567-ba3b-23259d5659eb&tracking_id=24d36491-bbae-4977-8b6e-37d149ea2daa&c_id=/home/card-featured/element&c_uid=ec655b2c-ec7c-48b2-8232-b9979f6d4156",
+        "titulo": "Mesa de Cabeceira Cama Box com Prateleira",
+        "preco": 46.0,
+        "timestamp": 1785681251.0099752,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5448796142",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5448796142-tenis-new-balance-masculino-413v3-nb-esportivo-eva-original-_JM?searchVariation=189081646889&matt_event_ts=1785681021347&matt_d2id=be8d2cf9-a4be-4021-889e-1b6ebe6fa2aa&matt_tracing_id=1d44901b-3470-4320-b67d-9f9c54ff3a2a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3082d8d7-9f23-41c9-9951-42bf62a6d7e4&tracking_id=53d4eee3-fdc9-4356-aefb-969208b0c3e4&c_id=/home/card-featured/element&c_uid=62f452e2-eaaf-44a5-867b-296a6b8613d8",
+        "titulo": "Tênis New Balance 413v3 (3 cores)",
+        "preco": 163.0,
+        "timestamp": 1785681300.9765296,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19550475",
+        "link_bruto": "https://www.mercadolivre.com.br/colageno-hidrolisado-120-caps-dark-lab-sabor-sem-sabor/p/MLB19550475",
+        "titulo": "Colágeno Hidrolisado 120 Caps Dark Lab Sabor Sem sabor",
+        "preco": 39.9,
+        "timestamp": 1785681341.5412068,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3907256730",
+        "link_bruto": "https://www.mercadolivre.com.br/camiseta-regular-essence-reserva-masculina/up/MLBU3907256730?pdp_filters=item_id%3AMLB6619374506&matt_event_ts=1785681031882&matt_d2id=3bbaaf00-0c51-47c1-91e8-e4d7c308eae3&matt_tracing_id=b7b3a496-1ed0-4143-a2d6-905cdd1e09b5#polycard_client=recommendations_home_affiliate-profile&wid=MLB6619374506&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=b46c9bcc-4293-460b-aa2f-4680c67d63c6&tracking_id=da0c0058-eb0f-4386-9116-8a155baf298a&c_id=/home/card-featured/element&c_uid=f1ccd85c-d625-4fa9-918a-c688c4fc9c56",
+        "titulo": "Camiseta Reserva Essence",
+        "preco": 62.0,
+        "timestamp": 1785681384.9033017,
+        "expirado": false
     }
 ]
