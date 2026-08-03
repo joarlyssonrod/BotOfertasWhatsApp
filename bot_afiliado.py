@@ -60,24 +60,17 @@ def gerar_link_bot(url_produto, pagina_ativa=None):
         print(f"✅ Link Magalu convertido: {url_convertida}")
         return url_convertida
 
-    # 4. INSTANT GAMING
-    elif "instant-gaming.com" in url_limpa:
-        # Limpa parâmetros e adiciona a sua tag de afiliado
-        url_limpa = url_limpa.split("?")[0].split("#")[0]
-        link_afiliado = f"{url_limpa}?igr=gamer-5c0229f"
-        print(f"✅ Link Instant Gaming convertido: {link_afiliado}")
-        return link_afiliado
-
-    # 5. SHOPEE
+    # 4. SHOPEE
     elif "shopee.com" in url_limpa:
         return converter_link_shopee(url_produto)
         
-    # 6. ALIEXPRESS
+    # 5. ALIEXPRESS
     elif "aliexpress.com" in url_limpa:
         return gerar_link_afiliado_aliexpress(url_produto)
         
-    # Outros sites retornam o link bruto sem modificação
-    return url_produto
+    # Lojas não afiliadas retornam None para serem descartadas automaticamente pelo bot
+    print(f"🚫 [Filtro Afiliados] Ignorando oferta de loja não afiliada: {url_limpa[:60]}...")
+    return None
 
 if __name__ == "__main__":
     # Testes rápidos de conversão

@@ -14,7 +14,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # Configura o stdout para UTF-8 no Windows
 sys.stdout.reconfigure(encoding='utf-8')
 
-# Lista de domínios que o bot sabe converter para afiliados
+# Lista de domínios que o bot sabe converter para afiliados (Apenas lojas suportadas)
 DOMINIOS_SUPORTADOS = [
     "amazon.com.br",
     "mercadolivre.com.br",
@@ -192,6 +192,17 @@ def buscar_ofertas_promobit(desconto_minimo=10, limite=5):
                 link_bruto = resolve_target_url(offer_url)
                 if not link_bruto:
                     print(f"⚠️ [Promobit Scraper] Não foi possível resolver o link final de: '{titulo[:30]}'")
+                    continue
+                    
+                # Valida se a URL final resolvida realmente pertence a uma das lojas suportadas
+                url_final_suportada = False
+                for dom in DOMINIOS_SUPORTADOS:
+                    if dom in link_bruto.lower():
+                        url_final_suportada = True
+                        break
+                        
+                if not url_final_suportada:
+                    print(f"🚫 [Promobit Scraper] Ignorando oferta pois redirecionou para loja não afiliada: '{link_bruto[:60]}...'")
                     continue
                     
                 # Se o desconto for 0 e tiver cupom, coloca um desconto simbólico

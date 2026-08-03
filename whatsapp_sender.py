@@ -29,7 +29,12 @@ class WhatsAppSender:
                 headless=headless,
                 viewport={"width": 1280, "height": 800},
                 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
-                args=['--disable-blink-features=AutomationControlled']
+                args=[
+                    '--disable-blink-features=AutomationControlled',
+                    '--no-sandbox',
+                    '--disable-setuid-sandbox',
+                    '--disable-dev-shm-usage'
+                ]
             )
             
             # No launch_persistent_context, uma página padrão já é criada.
@@ -42,9 +47,10 @@ class WhatsAppSender:
             print("🔗 Carregando WhatsApp Web...")
             self.page.goto("https://web.whatsapp.com/")
             
-            # Aguarda a tela inicial carregar. O input de pesquisa input[data-tab="3"] indica que as conversas carregaram.
+            # Aguarda a tela inicial carregar. O input de pesquisa indica que as conversas carregaram.
             print("⏳ Aguardando sincronização das conversas (isso pode levar alguns segundos)...")
-            self.page.locator('input[data-tab="3"]').first.wait_for(state="visible", timeout=45000)
+            search_bar = self.page.locator('input[data-tab="3"], div[contenteditable="true"][data-tab="3"], div[data-testid="chat-list-search"]').first
+            search_bar.wait_for(state="visible", timeout=45000)
             print("✅ WhatsApp Web conectado com sucesso!")
             return True
             
@@ -61,9 +67,11 @@ class WhatsAppSender:
 
         print(f"\n🔍 Procurando o grupo/canal: '{nome_grupo}'...")
         try:
+            caminho_imagem_abs = os.path.abspath(caminho_imagem) if caminho_imagem else None
+
             # 1. Localiza a barra de pesquisa
-            search_input = self.page.locator('input[data-tab="3"]').first
-            search_input.click()
+            search_input = self.page.locator('input[data-tab="3"], div[contenteditable="true"][data-tab="3"], div[data-testid="chat-list-search"]').first
+            search_input.click(force=True)
             
             # Limpa qualquer texto anterior
             search_input.fill("")
@@ -72,104 +80,99 @@ class WhatsAppSender:
             self.page.wait_for_timeout(2000) # Aguarda os resultados da pesquisa
             
             # 2. Procura pelo elemento que tem o título exato do grupo na barra lateral
-            grupo_locator = self.page.locator(f'span[title="{nome_grupo}"]').first
+            grupo_locator = self.page.locator(f'span[title="{nome_grupo}"], div[title="{nome_grupo}"]').first
             
             if not grupo_locator.is_visible():
                 # Se não achar o título exato, tenta conter o título
-                grupo_locator = self.page.locator(f'span[title*="{nome_grupo}"]').first
+                grupo_locator = self.page.locator(f'span[title*="{nome_grupo}"], div[title*="{nome_grupo}"]').first
             
             if grupo_locator.is_visible():
                 print(f"👉 Grupo encontrado! Clicando para abrir o chat...")
-                grupo_locator.click()
+                grupo_locator.click(force=True)
                 self.page.wait_for_timeout(1500) # Espera o chat abrir
                 
                 # 3. Verifica se tem imagem para enviar com legenda
-                if caminho_imagem and os.path.exists(caminho_imagem):
-                    print(f"🖼️ Enviando imagem: {caminho_imagem} com legenda...")
+                if caminho_imagem_abs and os.path.exists(caminho_imagem_abs):
+                    print(f"🖼️ Enviando imagem: {os.path.basename(caminho_imagem_abs)} com legenda...")
                     
                     upload_sucesso = False
+                    
+                    # 1. Abre o menu de anexar (+) e seleciona via File Chooser
                     try:
-                        # 1. Abre o menu de anexar (+)
-                        plus_btn = self.page.locator('button[aria-label="Anexar"], button[aria-label="Attach"], button[aria-label="Adjuntar"], span[data-icon="plus-rounded"], span[data-icon="plus"], span[data-testid="plus-rounded"]').first
-                        plus_btn.click(timeout=5000)
-                        self.page.wait_for_timeout(1000)
+                        plus_btn = self.page.locator('button[data-tab="10"], button[aria-label="Anexar"], button[aria-label="Attach"], button[aria-label="Adjuntar"], span[data-icon="plus-rounded"], span[data-icon="plus"]').first
+                        plus_btn.click(timeout=5000, force=True)
+                        self.page.wait_for_timeout(800)
                         
-                        # 2. Clica no item de menu "Fotos e vídeos" via File Chooser
                         menu_item = self.page.locator('button[aria-label="Fotos e vídeos"], button[aria-label="Photos & videos"], button[aria-label="Fotos y videos"], button[aria-label*="Fotos"], button[aria-label*="Photos"]').first
                         with self.page.expect_file_chooser(timeout=5000) as fc_info:
-                            menu_item.click(timeout=5000)
+                            menu_item.click(timeout=5000, force=True)
                         file_chooser = fc_info.value
-                        file_chooser.set_files(caminho_imagem)
+                        file_chooser.set_files(caminho_imagem_abs)
                         upload_sucesso = True
-                        print("✅ Upload da imagem feito via menu de anexo.")
+                        print("✅ Imagem selecionada via menu de anexo (File Chooser).")
                     except Exception as upload_err:
-                        print(f"⚠️ Falha ao fazer upload pelo menu de anexo ({upload_err}). Tentando fallback direto...")
+                        print(f"⚠️ Falha ao anexar via File Chooser: {upload_err}. Tentando injeção direta...")
+                        try:
+                            file_input = self.page.locator('input[type="file"]').first
+                            file_input.set_input_files(caminho_imagem_abs)
+                            upload_sucesso = True
+                        except Exception as fb_err:
+                            print(f"🚨 Falha ao anexar imagem: {fb_err}")
+                            return False
+
+                    # 2. Aguarda a tela de preview da imagem carregar
+                    print("⏳ Aguardando tela de preview da imagem...")
+                    caption_box = self.page.locator('div[data-testid="media-caption-input-container"]').first
+                    try:
+                        caption_box.wait_for(state="visible", timeout=10000)
+                    except Exception:
+                        print("⚠️ Tela de preview/legenda demorou a responder...")
+
+                    # 3. Foca a caixa de legenda da tela de preview e digita a mensagem formatada
+                    if caption_box.is_visible():
+                        caption_box.focus()
+                        caption_box.click(force=True)
+                        self.page.wait_for_timeout(300)
                         
-                    if not upload_sucesso:
-                        # Fallback: define diretamente nos inputs de arquivo existentes
-                        media_locator = self.page.locator('input[type="file"][accept*="video"]')
-                        if media_locator.count() > 0:
-                            input_file = media_locator.first
-                        else:
-                            media_locator_img = self.page.locator('input[type="file"][accept*="image"]')
-                            if media_locator_img.count() > 0:
-                                input_file = media_locator_img.first
-                            else:
-                                input_file = self.page.locator('input[type="file"]').first
-                        input_file.set_input_files(caminho_imagem)
-                    
-                    self.page.wait_for_timeout(2500) # Aguarda carregar o preview
-                    
-                    # Localiza a caixa de texto da legenda (na tela de preview)
-                    caption_input = self.page.locator('div[data-testid="media-caption-input-container"], div[contenteditable="true"]:not([data-testid="conversation-compose-box-input"])').first
-                    caption_input.focus()
-                    caption_input.click(force=True)
-                    self.page.wait_for_timeout(500)
-                    
-                    # Digita a mensagem formatada na legenda
-                    linhas = mensagem.split("\n")
-                    for i, linha in enumerate(linhas):
-                        if linha:
-                            self.page.keyboard.type(linha, delay=15)
-                        if i < len(linhas) - 1:
-                            self.page.keyboard.press("Shift+Enter")
-                    
+                        linhas = mensagem.split("\n")
+                        for i, linha in enumerate(linhas):
+                            if linha:
+                                self.page.keyboard.type(linha, delay=15)
+                            if i < len(linhas) - 1:
+                                self.page.keyboard.press("Shift+Enter")
+                        
+                        self.page.wait_for_timeout(500)
+                    else:
+                        print("⚠️ Caixa de legenda não localizada na tela de preview. Tentando enviar com Enter...")
+
+                    # 4. Confirma o envio da foto com legenda
+                    self.page.keyboard.press("Enter")
                     self.page.wait_for_timeout(1000)
                     
-                    # Pressiona Enter para enviar
-                    self.page.keyboard.press("Enter")
-                    
-                    # Espera um pouco e clica no botão de enviar caso ainda esteja na tela
-                    self.page.wait_for_timeout(1500)
-                    send_btn = self.page.locator('span[data-icon="wds-ic-send-filled"], span[data-icon="send"], div[role="button"][aria-label*="Enviar"]').first
+                    send_btn = self.page.locator('span[data-icon="wds-ic-send-filled"], span[data-icon="send"], div[role="button"][aria-label*="Enviar"], button[aria-label*="Enviar"], button[aria-label*="Send"]').first
                     if send_btn.is_visible():
                         print("👉 Clicando no botão de enviar da tela de preview...")
-                        send_btn.click()
+                        send_btn.click(force=True)
                         self.page.wait_for_timeout(1000)
                     
-                    print(f"✅ Imagem enviada com sucesso para '{nome_grupo}'!")
+                    print(f"✅ Imagem + legenda enviadas com sucesso para '{nome_grupo}'!")
                     return True
                 
                 else:
                     # Envio tradicional de apenas texto
-                    # Localiza a caixa de texto da mensagem
-                    msg_input = self.page.locator('div[contenteditable="true"][data-tab="10"]').first
+                    msg_input = self.page.locator('div[contenteditable="true"][data-tab="10"], div[contenteditable="true"][aria-label*="mensagem"], div[contenteditable="true"][aria-label*="message"]').first
                     msg_input.wait_for(state="visible", timeout=5000)
-                    msg_input.click()
+                    msg_input.click(force=True)
                     
-                    # Digita a mensagem pulando linhas de forma humanizada (simula status "digitando...")
                     print("✍️ Digitando a oferta no grupo de forma humanizada...")
                     linhas = mensagem.split("\n")
                     for i, linha in enumerate(linhas):
                         if linha:
-                            # delay de 15ms por caractere simula digitação humana no WhatsApp Web
                             self.page.keyboard.type(linha, delay=15)
                         if i < len(linhas) - 1:
                             self.page.keyboard.press("Shift+Enter")
                     
                     self.page.wait_for_timeout(500)
-                    
-                    # Pressiona Enter para enviar
                     self.page.keyboard.press("Enter")
                     print(f"✅ Mensagem enviada com sucesso para '{nome_grupo}'!")
                     self.page.wait_for_timeout(1000)
@@ -187,18 +190,34 @@ class WhatsAppSender:
         print("🔌 Fechando navegador do WhatsApp...")
         # No launch_persistent_context, fechamos o context diretamente para encerrar o navegador
         if self.context:
-            self.context.close()
+            try:
+                self.context.close()
+            except Exception:
+                pass
         if self.playwright:
-            self.playwright.stop()
+            try:
+                self.playwright.stop()
+            except Exception:
+                pass
         print("🚪 Finalizado.")
 
 if __name__ == "__main__":
     import os
     
-    # Cria uma imagem temporária de teste
+    # Baixa uma imagem de amostra válida para o teste
     caminho_img = "temp_test.jpg"
-    with open(caminho_img, "wb") as f:
-        f.write(b'\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x00\x60\x00\x60\x00\x00\xFF\xDB\x00\x43\x00\x08\x06\x06\x07\x06\x05\x08\x07\x07\x07\t\t\x08\n\x0c\x14\r\x0c\x0b\x0b\x0c\x19\x12\x13\x0f\x14\x1d\x1a\x1f\x1e\x1d\x1a\x1c\x1c\x20\x24\x2e\x27\x20\x22\x2c\x23\x1c\x1c\x28\x37\x29\x2c\x30\x31\x34\x34\x34\x1f\x27\x39\x3d\x38\x32\x3c\x2e\x33\x34\x32\xFF\xC0\x00\x0B\x08\x00\x01\x00\x01\x01\x01\x11\x00\xFF\xC4\x00\x10\x00\x01\x01\x01\x01\x01\x01\x01\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x03\xFF\xDA\x00\x08\x01\x01\x00\x00\x3F\x00\x37\xFF\xD9')
+    try:
+        import urllib.request
+        import ssl
+        url_test = "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=300&q=80"
+        req = urllib.request.Request(url_test, headers={'User-Agent': 'Mozilla/5.0'})
+        ctx = ssl._create_unverified_context()
+        with urllib.request.urlopen(req, context=ctx, timeout=5) as resp:
+            with open(caminho_img, "wb") as f:
+                f.write(resp.read())
+    except Exception:
+        with open(caminho_img, "wb") as f:
+            f.write(b'\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x01\x00\x60\x00\x60\x00\x00\xFF\xDB\x00\x43\x00\x08\x06\x06\x07\x06\x05\x08\x07\x07\x07\t\t\x08\n\x0c\x14\r\x0c\x0b\x0b\x0c\x19\x12\x13\x0f\x14\x1d\x1a\x1f\x1e\x1d\x1a\x1c\x1c\x20\x24\x2e\x27\x20\x22\x2c\x23\x1c\x1c\x28\x37\x29\x2c\x30\x31\x34\x34\x34\x1f\x27\x39\x3d\x38\x32\x3c\x2e\x33\x34\x32\xFF\xC0\x00\x0B\x08\x00\x01\x00\x01\x01\x01\x11\x00\xFF\xC4\x00\x10\x00\x01\x01\x01\x01\x01\x01\x01\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x03\xFF\xDA\x00\x08\x01\x01\x00\x00\x3F\x00\x37\xFF\xD9')
 
     sender = WhatsAppSender()
     if sender.iniciar(headless=False):
@@ -211,3 +230,4 @@ if __name__ == "__main__":
         
     if os.path.exists(caminho_img):
         os.remove(caminho_img)
+

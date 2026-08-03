@@ -830,7 +830,7 @@ def git_sync_pull():
     try:
         print("🔄 [Git Sync] Buscando atualizações do histórico no GitHub...")
         result = subprocess.run(
-            ["git", "pull", "--rebase"], 
+            ["git", "pull", "--autostash", "--rebase"], 
             stdout=subprocess.PIPE, 
             stderr=subprocess.PIPE, 
             text=True, 
