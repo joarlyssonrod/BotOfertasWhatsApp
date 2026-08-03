@@ -24654,5 +24654,45 @@
         "preco": 190.97,
         "timestamp": 1785782430.6782424,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DXLYN83W",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DXLYN83W?tag=promobit-d-20&th=1&psc=1",
+        "titulo": "Tenis Fila Duality 2 Masculino",
+        "preco": 99.99,
+        "timestamp": 1785789233.9619856,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23197371764",
+        "link_bruto": "https://s.shopee.com.br/5fnft5mHH0",
+        "titulo": "Tapete de Atividades Musical com Piano Interativo Ginásio com Som e Luzes",
+        "preco": 63.82,
+        "timestamp": 1785789270.1343706,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_20498140657",
+        "link_bruto": "https://s.shopee.com.br/60QWHhl0b6",
+        "titulo": "Mop Girátorio Cleaner Profissional – Balde com Centrífuga 14L + Refil Duplo e Cabo Reforçado - MN",
+        "preco": 59.9,
+        "timestamp": 1785789308.2397532,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4070170149",
+        "link_bruto": "https://www.mercadolivre.com.br/cafeteira-nescafe-dolce-gusto-mini-me-20/up/MLBU4070170149",
+        "titulo": "Cafeteira Nescafé Dolce Gusto Mini Me 2.0 Cinza-escuro 127v",
+        "preco": 355.0,
+        "timestamp": 1785789351.4685404,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H3Q1RHD7",
+        "link_bruto": "https://www.amazon.com.br/dp/B0H3Q1RHD7?lin=&tag=promobit-d-20",
+        "titulo": "Smart TV TCL 65 QLED 4K WiFi Bluetooth Google TV",
+        "preco": 3313.0,
+        "timestamp": 1785789391.136484,
+        "expirado": false
     }
 ]
