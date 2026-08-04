@@ -24814,5 +24814,53 @@
         "preco": 54.14,
         "timestamp": 1785797006.5358226,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB54396879",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-masculino-attar-arabe-al-wesal-wataniah-100ml-eau-de-parfum/p/MLB54396879?matt_event_ts=1785803484256&matt_d2id=fed9e879-923f-44a6-9792-65fc76c98e8d&matt_tracing_id=b5216833-efb2-4f5e-8165-3640527d09e9#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a15d4f0c-753e-4082-9374-334f1f27aea5&tracking_id=b14749bb-bd2b-4b1d-8527-53558abc7107&c_id=/home/card-featured/element&c_uid=cb49dfbc-236d-469b-8513-a5273a3106d9",
+        "titulo": "Perfume Masculino Attar Árabe Al Wesal Wataniah 100ml - Eau De Parfum",
+        "preco": 88.45,
+        "timestamp": 1785803597.072142,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB15229462",
+        "link_bruto": "https://www.mercadolivre.com.br/aspirador-vertical-philco-rapid-turbo-ph1100az-1l-azul/p/MLB15229462",
+        "titulo": "Aspirador Vertical Philco Rapid Turbo PH1100AZ 1L Azul",
+        "preco": 99.9,
+        "timestamp": 1785803639.3741076,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB17000871",
+        "link_bruto": "https://www.mercadolivre.com.br/sabao-em-po-omo-lavagem-perfeita-4kg/p/MLB17000871?matt_event_ts=1785803415682&matt_d2id=df636526-1dbb-4aa8-bca8-fb973a3e0035&matt_tracing_id=f258084b-a4d2-4745-9502-b82b8c75d904#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=2ba3bb8a-33d5-45c7-ab15-03729a9ed436&tracking_id=3aa21508-4aac-4f50-90b1-f61d2ee91111&c_id=/home/card-featured/element&c_uid=f4b1d6bf-1d4c-4c39-956f-db081ee6bbee",
+        "titulo": "Sabão em Pó Omo Lavagem Perfeita 4kg",
+        "preco": 28.49,
+        "timestamp": 1785803673.9611452,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240147500",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-55-samsung-4k-uhd-crystal-uhd-un55u8600fgxzd-tizen-bixby-3-hdmi/p/240147500/et/tv4k/?seller_id=magazineluiza",
+        "titulo": "Smart TV 55\" Samsung 4K UHD Crystal UHD UN55U8600FGXZD Tizen Bixby 3 HDMI",
+        "preco": 2697.05,
+        "timestamp": 1785803719.288741,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB28408264",
+        "link_bruto": "https://www.mercadolivre.com.br/jogo-de-facas-faqueiro-9-pecas-plenus-aco-inox-tramontina/p/MLB28408264?matt_event_ts=1785803473818&matt_d2id=4b6c6aa4-6146-4e33-b532-729c56a9fe62&matt_tracing_id=c56aafee-a694-414c-ade1-b5a474edc50f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=9fb36c5e-9143-468f-910b-e7759bd07378&tracking_id=b86f7976-719e-4205-95df-2d299c391da8&c_id=/home/card-featured/element&c_uid=b068ef23-13c3-4b05-b3fa-e77e553d8aab",
+        "titulo": "Jogo de Facas Tramontina Plenus com Lâminas em Aço Inox 9 Peças",
+        "preco": 49.31,
+        "timestamp": 1785803762.6212783,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB29766256",
+        "link_bruto": "https://www.mercadolivre.com.br/fruteira-de-mesa-organizador-de-frutas-cesto-metal-aramado-cor-preto/p/MLB29766256?matt_event_ts=1785803504280&matt_d2id=7a299e6d-9100-4929-ba28-d8ae9bf2f071&matt_tracing_id=b856d8b0-5e3f-4fbf-8656-36b8c1b35e88#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=06e52a1d-6b0e-4ce6-add1-7bc2c657a87a&tracking_id=ea85a844-2db5-4802-8cb8-ac44516fc92f&c_id=/home/card-featured/element&c_uid=981637b9-2195-4f44-9b2c-3ec1903ddadc",
+        "titulo": "Fruteira De Mesa Organizador De Frutas Cesto Metal Aramado Cor Preto",
+        "preco": 24.84,
+        "timestamp": 1785803803.8005626,
+        "expirado": false
     }
 ]
