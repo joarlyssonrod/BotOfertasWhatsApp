@@ -25054,5 +25054,61 @@
         "preco": 225.0,
         "timestamp": 1785868648.284164,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB5960042952",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5960042952-kit-camisetas-tommy-hilfiger-chest-insert-brancapreta-2un-_JM?searchVariation=193307812783&matt_event_ts=1785875420070&matt_d2id=9caf0ec6-d71a-48da-aaaa-c939ac938611&matt_tracing_id=c174696b-dd05-4e78-a2e5-2d37694c2dad#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=c16f979e-571a-4914-92d2-579bbe4fd7b7&tracking_id=81416cce-fade-4201-97ed-f0a532b6b8bf&c_id=/home/card-featured/element&c_uid=3b417c33-ab64-4151-be07-1959c7790b81",
+        "titulo": "Kit Camisetas Tommy Hilfiger Chest Insert Brancapreta 2un.",
+        "preco": 214.0,
+        "timestamp": 1785875599.9706872,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GM3711DH",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GM3711DH?social_share=cm_sw_r_apan_dp_GYYM8XXEM9WC39TSGAD1&tag=promobit-d-20&th=1",
+        "titulo": "Tenis Fila Racer Speedzone Masculino",
+        "preco": 256.49,
+        "timestamp": 1785875628.7663498,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FJ3VXF3Q",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FJ3VXF3Q?tag=promobit-d-20",
+        "titulo": "Fone De Ouvido Wirelles Skullcandy Hesh 360",
+        "preco": 287.0,
+        "timestamp": 1785875658.2165804,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB47944518",
+        "link_bruto": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-krcher-pratica-black-1500-psilibras-1400w-300lh-com-aplicador-de-detergente-e-lanca-regulavel-220v/p/MLB47944518",
+        "titulo": "Lavadora De Alta Pressão Kärcher Prática Black 1500 Psi/libras 1400w 300l/h Com Aplicador De Detergente E Lança Regulável 220v",
+        "preco": 296.67,
+        "timestamp": 1785875695.012796,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_41908617247",
+        "link_bruto": "https://s.shopee.com.br/AAG6qDIv3e",
+        "titulo": "Kit 11 Potes Herméticos de Vidro com Tampa de Bambu para Cozinha Mantimentos Alimentos",
+        "preco": 159.9,
+        "timestamp": 1785875731.4555595,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CQMT33WX",
+        "link_bruto": "https://www.amazon.com.br/fire-tv-stick-hd/dp/B0CQMT33WX?tag=promobit-d-20",
+        "titulo": "Amazon Fire TV Stick HD",
+        "preco": 269.1,
+        "timestamp": 1785875762.2096295,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB37349180",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-rabanne-invictus-parfum-200-ml-masculino/p/MLB37349180?matt_event_ts=1785875453221&matt_d2id=b3624b47-8f26-4d2a-8f83-91d561aa7673&matt_tracing_id=e54e70ba-5d86-4e5f-9277-57c0f9dab9a9#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f409de1e-6734-431d-bdf4-e2c13ea11849&tracking_id=0899b224-1f9c-41c8-abb5-f18e3b05cdb5&c_id=/home/card-featured/element&c_uid=02deaa59-5b91-496f-a232-28bb92546f7c",
+        "titulo": "Perfume Rabanne Invictus Parfum 200ml",
+        "preco": 539.0,
+        "timestamp": 1785875805.3349576,
+        "expirado": false
     }
 ]
