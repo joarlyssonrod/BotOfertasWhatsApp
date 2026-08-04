@@ -25014,5 +25014,45 @@
         "preco": 420.0,
         "timestamp": 1785861538.595308,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB55868679",
+        "link_bruto": "https://www.mercadolivre.com.br/espelho-100x50-organico-corpo-inteiro-grande-moldura-caramelo/p/MLB55868679",
+        "titulo": "Espelho 100x50 Orgânico Corpo Inteiro Grande Moldura Caramelo",
+        "preco": 91.99,
+        "timestamp": 1785868528.3767335,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4163067051",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4163067051-kit-3-bermuda-masculina-esportiva-secagem-rapida-ziper-bolso-_JM?searchVariation=189777836597&matt_event_ts=1785868359495&matt_d2id=01b39184-a61a-412f-9fd7-2a338d68e220&matt_tracing_id=52d4328e-b55f-498b-9c0e-2b4d3672486b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=563b04d4-64b1-45d8-8c09-7bbdd3fae183&tracking_id=471b9853-2d4c-421c-a5c2-cf7877a8b1a0&c_id=/home/card-featured/element&c_uid=0ca61819-6bdf-4c9b-8b9d-87ee7f2d934b",
+        "titulo": "Kit 3 Bermuda Masculina Esportiva Secagem Rápida Ziper Bolso",
+        "preco": 62.0,
+        "timestamp": 1785868566.2794333,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB23930598",
+        "link_bruto": "https://www.mercadolivre.com.br/creatina-creapure-120-comprimidos-growth-supplements-neutro/p/MLB23930598",
+        "titulo": "Creatina Creapure® 120 Comprimidos Growth Supplements Neutro",
+        "preco": 74.59,
+        "timestamp": 1785868594.8086545,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FH5R4M75",
+        "link_bruto": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LS10E/dp/B0FH5R4M75?tag=promobit-d-20&th=1",
+        "titulo": "Lava-loucas electrolux 10 servicos inox com programa lava e seca 50min 220v ls10e",
+        "preco": 2819.06,
+        "timestamp": 1785868620.6740577,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3146881507",
+        "link_bruto": "https://www.mercadolivre.com.br/cafeteira-nespresso-vertuo-pop-vermelho-pimenta-220v/up/MLBU3146881507?pdp_filters=item_id%3AMLB5369104448&matt_event_ts=1785868402340&matt_d2id=14f7760e-aa75-4b18-88d4-9c25ce882100&matt_tracing_id=a3508911-8cc8-4733-83b5-31d84111ada3#polycard_client=recommendations_home_affiliate-profile&wid=MLB5369104448&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=b70d2c75-5b8a-4161-9ebd-63538f8a63fe&tracking_id=071da3a0-f863-4654-b45c-5b8287433485&c_id=/home/card-featured/element&c_uid=f18923df-d35b-4086-8652-7901b6f58be6",
+        "titulo": "Cafeteira Nespresso Vertuo Pop Vermelho 220v",
+        "preco": 225.0,
+        "timestamp": 1785868648.284164,
+        "expirado": false
     }
 ]
