@@ -25110,5 +25110,85 @@
         "preco": 539.0,
         "timestamp": 1785875805.3349576,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_20103606180",
+        "link_bruto": "https://s.shopee.com.br/4VbkE6LmjE",
+        "titulo": "Maquina De Barbear e Aparador Pelos Elétrico 3 Em 1",
+        "preco": 48.66,
+        "timestamp": 1785882846.42204,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_29028867072",
+        "link_bruto": "https://s.shopee.com.br/19KrpcurX",
+        "titulo": "Torneira De Cozinha Gourmet Alça Única Com Extensor De Spray Tubo De Água Flexível Superior Prateado Para Ajuste",
+        "preco": 69.99,
+        "timestamp": 1785882882.8223956,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_AAHC27FDKB",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-patriot-14-masculino/p/aahc27fdkb/es/oedc/?seller_id=netshoes",
+        "titulo": "Tênis Asics Patriot 14 Masculino",
+        "preco": 199.49,
+        "timestamp": 1785882922.0411065,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GYG6ZV1R",
+        "link_bruto": "https://www.amazon.com.br/Fritadeira-Family-Elgin-fun%C3%A7%C3%B5es-Digital/dp/B0GYG6ZV1R",
+        "titulo": "Fritadeira Air Fryer Family Oven Fry Elgin 12L 110V 1.900W 10 funções e Painel Digital",
+        "preco": 322.97,
+        "timestamp": 1785882953.0924194,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3782217417",
+        "link_bruto": "https://www.mercadolivre.com.br/torneira-banheiro-preta-para-pia-lavatorio-cuba-bancada/up/MLBU3782217417?pdp_filters=item_id%3AMLB6246694502&matt_event_ts=1785882718526&matt_d2id=e92cf174-d698-4d05-af8a-72f87df2b611&matt_tracing_id=1f9b3850-0830-426c-a579-fb356a38508e#polycard_client=recommendations_home_affiliate-profile&wid=MLB6246694502&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d2551ad2-184d-4073-88ed-e1c53459f789&tracking_id=2d587aa5-16f6-456d-bb30-b22a9fcb3065&c_id=/home/card-featured/element&c_uid=bc655fd0-09df-4694-9ea1-c7c53faf556e",
+        "titulo": "Torneira Banheiro Preta Para Pia Lavatório Cuba Bancada Preto Fosco",
+        "preco": 16.97,
+        "timestamp": 1785882993.6472516,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23098743173",
+        "link_bruto": "https://s.shopee.com.br/2BDpRoUfT0",
+        "titulo": "Lixeira Sensor Automática Inteligente de Banheiro Cozinha Escritório Capacidade 16 Litros",
+        "preco": 68.99,
+        "timestamp": 1785883033.378549,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_8020679826",
+        "link_bruto": "https://s.shopee.com.br/W5bSkb0qa",
+        "titulo": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
+        "preco": 109.99,
+        "timestamp": 1785883068.5485046,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C2YD6FJQ",
+        "link_bruto": "https://www.amazon.com.br/dp/B0C2YD6FJQ?social_share=cm_sw_r_cso_cp_apan_dp_GHFFWQ2F55TWXPDBR0KZ&tag=promobit-d-20",
+        "titulo": "Vult Máscara de Cílios Extreme Super Lashes 10g",
+        "preco": 21.51,
+        "timestamp": 1785883104.636629,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07Y36PSZW",
+        "link_bruto": "https://www.amazon.com.br/dp/B07Y36PSZW/?tag=promobit-d-20&th=1",
+        "titulo": "Carga para Aparelho de Barbear Gillette Proshield com 5 Lâminas 4 Unidades",
+        "preco": 64.9,
+        "timestamp": 1785883134.3559034,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07XTFT7G1",
+        "link_bruto": "https://www.amazon.com.br/dp/B07XTFT7G1?tag=promobit-d-20",
+        "titulo": "Achocolatado ALPINO 1Kg - Nestlé",
+        "preco": 19.71,
+        "timestamp": 1785883169.4345167,
+        "expirado": false
     }
 ]
