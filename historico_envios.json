@@ -25382,5 +25382,117 @@
         "preco": 117.4,
         "timestamp": 1785933963.1327784,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_42565175368",
+        "link_bruto": "https://s.shopee.com.br/1Vy8eaXCow",
+        "titulo": "Aspirador de Pó Robô WAP Robot W100 3 em 1 Antiqueda Bivolt 17W",
+        "preco": 362.99,
+        "timestamp": 1785940563.9291759,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB45766004",
+        "link_bruto": "https://www.mercadolivre.com.br/xiaomi-poco-x7-pro-dual-sim-5g-512gb-preto-12ram-50mpx/p/MLB45766004",
+        "titulo": "Xiaomi Poco X7 Pro Dual SIM 5g 512gb Preto 12ram 50mpx",
+        "preco": 2165.0,
+        "timestamp": 1785940600.3336735,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3385687979",
+        "link_bruto": "https://www.mercadolivre.com.br/torneira-de-cozinha-gourmet-parede-flexivel-preta-14-volta/up/MLBU3385687979",
+        "titulo": "Torneira De Cozinha Gourmet Parede Flexível Preta 1/4 Volta Preto Fosco",
+        "preco": 37.0,
+        "timestamp": 1785940635.5311122,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/projetor-portatil-smart-epson-lifestudio-pop-full-hd-ef-61-som-bose-google-tv-wi-fi-branco-perola/divulgador/oferta/241065700/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/projetor-portatil-smart-epson-lifestudio-pop-full-hd-ef-61-som-bose-google-tv-wi-fi-branco-perola/divulgador/oferta/241065700/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Projetor Portátil Smart Epson Lifestudio Pop Full HD EF-61 Som Bose Google TV Wi-Fi Branco Pérola",
+        "preco": 2399.0,
+        "timestamp": 1785940682.3837044,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GKQNGV23",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GKQNGV23?social_share=cm_sw_r_apin_dp_XGXB3PB94XTZ6BS8Y9AV&tag=promobit-d-20&th=1",
+        "titulo": "Celular Samsung Galaxy S26 5G 256GB 12GB RAM Câmera Tripla de 50+12+10 Tela Grande de 6.3\" - Azul",
+        "preco": 3621.33,
+        "timestamp": 1785940720.5031593,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB65574490",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-bolsas-feminina-sacola-transversal-tira-colo-carteira-cor-preta/p/MLB65574490",
+        "titulo": "Kit Bolsas Feminina Sacola Transversal Tira Colo Carteira Cor Preta",
+        "preco": 89.9,
+        "timestamp": 1785940769.9480236,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU1022919051",
+        "link_bruto": "https://www.mercadolivre.com.br/invictus-paco-rabanne-eau-de-toilette--perfume-masculino-100ml/up/MLBU1022919051",
+        "titulo": "Invictus Paco Rabanne Eau De Toilette - Perfume Masculino 100ml Única",
+        "preco": 407.55,
+        "timestamp": 1785940817.5927014,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB37872699",
+        "link_bruto": "https://www.mercadolivre.com.br/furadeira-parafusadeira-impacto-sem-fio-de-10mm-philco-ppf120mf-acessorios/p/MLB37872699",
+        "titulo": "Furadeira Parafusadeira Impacto Sem Fio De 10mm Philco Ppf120mf + Acessórios",
+        "preco": 189.9,
+        "timestamp": 1785940859.6644487,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H4P6ZRK6",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0H4P6ZRK6/ref=?tag=promobit-d-20",
+        "titulo": "Smart TV TCL 65 Polegadas QLED 4K P7L WiFi Bluetooth Google TV HDR10+ 120 Hz VRR AIPQ 65P7L",
+        "preco": 2904.0,
+        "timestamp": 1785940910.0342362,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BSH2VZ5C",
+        "link_bruto": "https://www.amazon.com.br/Monitor-G-sync-Freesync-Premium-Integrado/dp/B0BSH2VZ5C?tag=promobit-d-20",
+        "titulo": "Monitor Gamer ASUS TUF 27\", QHD, 210Hz, 0.3ms VG27AQ5A",
+        "preco": 1147.0,
+        "timestamp": 1785940948.5754015,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19553376",
+        "link_bruto": "https://www.mercadolivre.com.br/geladeira-electrolux-frost-free-inverter-590l-autosense-3-portas-cor-inox-look-im8s/p/MLB19553376?matt_event_ts=1785940343581&matt_d2id=d9a594b3-9187-46f0-a0aa-476a82f811d9&matt_tracing_id=df7afe89-a6d0-4c58-9528-54014e1e0f86#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6e047fb1-ec13-475a-ae9a-a405faed461e&tracking_id=047dd638-49a7-4f33-96fc-ffca791518cc&c_id=/home/card-featured/element&c_uid=4dd45bce-833f-49e4-ac13-afb1209e4964",
+        "titulo": "Geladeira Electrolux Frost Free Inverter 590l Autosense 3 Portas Cor Inox Look Im8s",
+        "preco": 5273.58,
+        "timestamp": 1785940992.6165233,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FJZR1RBP",
+        "link_bruto": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LB08E/dp/B0FJZR1RBP?tag=promobit-d-20&th=1",
+        "titulo": "Lava-Louças Electrolux 8 Serviços com Programa Lava e Seca 50min 220v",
+        "preco": 1775.75,
+        "timestamp": 1785941041.549671,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BSKZ1W8Z",
+        "link_bruto": "https://www.amazon.com.br/dp/B0BSKZ1W8Z?tag=promobit-d-20",
+        "titulo": "Monitor Gamer Curvo ASUS TUF 34\"\", WQHD, 250Hz, 0.5ms, Fast VA, FreeSync Premium, Altura Ajustável, Som Integrado, Preto - VG34WQML5A",
+        "preco": 1757.18,
+        "timestamp": 1785941081.7424,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H6Y153G3",
+        "link_bruto": "https://www.amazon.com.br/dp/B0H6Y153G3?tag=promobit-d-20",
+        "titulo": "Ar Condicionado Split Elgin Eco Inverter III Wi-Fi 12000 BTUs Frio 220V HJFC12C2WGCG",
+        "preco": 1449.09,
+        "timestamp": 1785941119.577053,
+        "expirado": false
     }
 ]
