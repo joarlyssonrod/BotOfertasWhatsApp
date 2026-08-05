@@ -30,7 +30,7 @@ def gerar_link_bot(url_produto, pagina_ativa=None):
         decoded_link = urllib.parse.unquote(url_limpa)
         # Localiza o ASIN (Código identificador único da Amazon de 10 dígitos)
         asin_match = re.search(r'/(?:dp|gp/product)/([A-Z0-9]{10})', decoded_link, re.IGNORECASE)
-        affiliate_tag = "joarlysson0d-20"
+        affiliate_tag = "jrodrigues07-20"
         
         if asin_match:
             asin = asin_match.group(1)
