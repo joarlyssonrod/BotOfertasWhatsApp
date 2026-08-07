@@ -26782,5 +26782,37 @@
         "preco": 2799.0,
         "timestamp": 1786135279.2411466,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB4703022818",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4703022818-kit-6-cuecas-boxer-reebok-microfibra-sem-costura-original-_JM?searchVariation=182855309833&matt_event_ts=1786141832807&matt_d2id=958e0e46-a5aa-4216-9c09-e7e438f6c692&matt_tracing_id=dc9fe14f-fa5c-4644-b226-66dcb9940f0d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=c25653e1-f42b-4384-a9db-1e6e0ffc21b4&tracking_id=aafab43c-0e9f-4c17-91e0-bfb86adfbcd5&c_id=/home/card-featured/element&c_uid=40554160-b065-42a6-b87a-6f04f58d8fa1",
+        "titulo": "Kit com 6 Cuecas Reebok Boxer Microfibra",
+        "preco": 45.59,
+        "timestamp": 1786142007.9247026,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/extratora-de-sujeira-kabum-smart-fiber-pro-pulveriza-esfrega-e-extrai-com-sistema-de-autolimpeza-succao-forte-11kpa-127v-ksel010/divulgador/oferta/kg9j0kge7g/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/extratora-de-sujeira-kabum-smart-fiber-pro-pulveriza-esfrega-e-extrai-com-sistema-de-autolimpeza-succao-forte-11kpa-127v-ksel010/divulgador/oferta/kg9j0kge7g/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Extratora KABUM! Fiber Pro, Pulveriza e Esfrega",
+        "preco": 261.0,
+        "timestamp": 1786142051.7948747,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63029755",
+        "link_bruto": "https://www.mercadolivre.com.br/cadeira-de-escritorio-ergonomica-fivdaily-c600-preta-com-apoio-de-cabeca-e-suporte-lombar/p/MLB63029755",
+        "titulo": "Cadeira de Escritório Ergonômica FivDaily C600 Preta, com Apoio de Cabeça e Suporte Lombar",
+        "preco": 329.64,
+        "timestamp": 1786142096.6377842,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0B757L42D",
+        "link_bruto": "https://www.amazon.com.br/dp/B0B757L42D?m=A1ZZFT5FULY4LN&tag=promobit-d-20",
+        "titulo": "Desinfetante Líquido Lysoform Original 2L",
+        "preco": 17.09,
+        "timestamp": 1786142138.3585851,
+        "expirado": false
     }
 ]
