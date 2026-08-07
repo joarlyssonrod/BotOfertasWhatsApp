@@ -26662,5 +26662,37 @@
         "preco": 529.0,
         "timestamp": 1786120815.1506398,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB30254993",
+        "link_bruto": "https://www.mercadolivre.com.br/ar-condicionado-consul-split-inverter-12000btus-cor-branco/p/MLB30254993?matt_event_ts=1786127446600&matt_d2id=12e08610-b537-4333-b744-51a954164a67&matt_tracing_id=6d6ffc3e-3af5-4cff-8e82-42f400f8df6d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=96ea34bd-efbc-4460-b65d-e5a09f6464ef&tracking_id=b4957407-aae8-4c31-9d4d-0c4022511e23&c_id=/home/card-featured/element&c_uid=78f312da-37b1-4cd8-b78b-4aae14e000e6",
+        "titulo": "Ar Condicionado Consul Split Inverter 12000btus Cor Branco",
+        "preco": 1393.83,
+        "timestamp": 1786127636.3484776,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_41071101631",
+        "link_bruto": "https://shopee.com.br/product/943292360/41071101631?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMHJtu46N4YL1ETOwWAbpdPCpoOnQDXHQJ5OvtcN0M_eDbRA41r_846ydnLzTRf_samdRHEh2GSlumtjiKqmNpcGhlcnRleHTElwAAAAyvSHAP3ubhschnR4yq05yqVoRsuEuzsnkm0QezJRbrjQzfWMUDwXce18vYtl_E6J-0oFCGCZTt36Y2WDHYF4SkFGJPV6NGBrjssS4Y7FXqTPhuF4vIPK3BKriSPYavi9I2NOy5K5wVWGBcaCv4KAPgeAeeCMzdPGaMLLprb4EUVhrX_T5s5LHSjfZhVPn2TJA1COg&mmp_pid=an_18140170000&uls_trackid=56b2ca3500l7&utm_campaign=id_cc281defa035a729&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fca54t64d21e",
+        "titulo": "Kit Com 6 - Lenço Umedecido Cuidado e Carinho 576 Unidades",
+        "preco": 39.9,
+        "timestamp": 1786127670.8145041,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/placa-de-video-gigabyte-rtx-5070-windforce-oc-sff-12g-nvidia-geforce-12gb-gddr7-192bits-dlss-ray-tracing-9vn5070wo-00-g10/divulgador/oferta/cac108cb7d/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/placa-de-video-gigabyte-rtx-5070-windforce-oc-sff-12g-nvidia-geforce-12gb-gddr7-192bits-dlss-ray-tracing-9vn5070wo-00-g10/divulgador/oferta/cac108cb7d/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Placa de Vídeo Gigabyte NVIDIA RTX 5070 12GB GDDR7",
+        "preco": 3985.0,
+        "timestamp": 1786127721.1722612,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/placa-de-video-xfx-swift-rx-9070-xt-white-triple-fan-gaming-edition-with-amd-radeon-16gb-gddr6-hdmi-3xdp-rdna-4-rx-97tswf3w9/divulgador/oferta/ea444h39dd/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/placa-de-video-xfx-swift-rx-9070-xt-white-triple-fan-gaming-edition-with-amd-radeon-16gb-gddr6-hdmi-3xdp-rdna-4-rx-97tswf3w9/divulgador/oferta/ea444h39dd/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Placa de Vídeo XFX Swift RX 9070 XT WHITE TRIPLE FAN GAMING EDITION WITH AMD Radeon, 16GB",
+        "preco": 4003.0,
+        "timestamp": 1786127769.5382206,
+        "expirado": false
     }
 ]
