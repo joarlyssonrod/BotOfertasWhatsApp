@@ -26438,5 +26438,29 @@
         "preco": 76.53,
         "timestamp": 1786055854.0666564,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB67562376",
+        "link_bruto": "https://www.mercadolivre.com.br/omo-sabao-liquido-lavagem-perfeita-3l/p/MLB67562376?matt_event_ts=1786062638864&matt_d2id=9a17b82f-fb40-4d31-89ee-97ea05c52e2c&matt_tracing_id=f9a87b70-e006-472d-b936-8278158d903e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7eea079b-128f-4a18-b9a5-268ec72f715f&tracking_id=42d5d78e-9096-4409-9caf-4a2cf3b9aa56&c_id=/home/card-featured/element&c_uid=1445d2ea-eba1-4696-be90-545ccdfdba16",
+        "titulo": "Omo Sabão Líquido Lavagem Perfeita 3L",
+        "preco": 27.07,
+        "timestamp": 1786062870.956331,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3950197206",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-masculino-break-start-adidas/up/MLBU3950197206",
+        "titulo": "Tênis Masculino Break Start adidas Branco Lisa 42 Br",
+        "preco": 256.49,
+        "timestamp": 1786062916.012227,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB53610161",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-lg-uhd-ai-ua75-65-polegadas-hdr10-pro-processador-7-ai-ger8-webos-25/p/MLB53610161?matt_event_ts=1786062619971&matt_d2id=47e5fa60-91b3-41f2-a17d-54f103db1c61&matt_tracing_id=ab29b718-7364-4db5-8ffb-d533d00374b0#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0c81fd6a-fe01-4984-ab56-96c05fdb5afa&tracking_id=247e9054-1f71-4f3d-b82f-6de5aae973b6&c_id=/home/card-featured/element&c_uid=36fd053a-10dc-4148-afa3-1126a5d2536b",
+        "titulo": "Smart TV LG UHD AI UA75 65 polegadas HDR10 Pro Processador 7 AI Ger8 webOS 25",
+        "preco": 3068.07,
+        "timestamp": 1786062954.4244947,
+        "expirado": false
     }
 ]
