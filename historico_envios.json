@@ -27270,5 +27270,61 @@
         "preco": 1294.0,
         "timestamp": 1786214170.2585728,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_40715504813",
+        "link_bruto": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_in=false&next=https%3A%2F%2Fshopee.com.br%2FCerveja-Heineken-Barril-5L-i.943292360.40715504813%3Fgads_t_sig%3DgqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMHJtu46N4YL1ETOwWAbpdPCpoOnQDXHQJ5OvtcN0M_eDbRA41r_846ydnLzTRf_samdRHEh2GSlumtjiKqmNpcGhlcnRleHTEowAAAAzayvIDkVFgSyi72WG9J-f1bCjEnzv1ajRIH1hp_en-aujHq_MWGWeF9fwENixL16EhPZvYakQleIvXXXYdd94jHfpPAC2UOHwPzH8kvoBIDXno8yOSKLmKnyMxn0RTwa0dUKkSaWgJeGJ6_RJn4OcYQLz5xGz48UDVqCYGtE4-jxjA6qUKwzbLLP28i6PwSCaKNhBCBWVtjlk_Jep-wlM%26mmp_pid%3Dan_18140170000%26uls_trackid%3D56bba0np01m8%26utm_campaign%3Did_a0d0bd3a62aa48be%26utm_content%3D----%26utm_medium%3Daffiliates%26utm_source%3Dan_18140170000%26utm_term%3Dfcgkzz15wth6&tracking_id=25700fe368-65bd-4212-a1a4-33887b64778f&type=4",
+        "titulo": "Cerveja Heineken Barril 5L",
+        "preco": 59.55,
+        "timestamp": 1786221197.8902235,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5075535728",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5075535728-macaquinho-feminino-moda-gringa-curto-ziper-academia-fitness-_JM?searchVariation=199245191149&matt_event_ts=1786221085238&matt_d2id=2e972ec9-e05b-4785-b50e-fe793d3e1677&matt_tracing_id=b8d0b0a3-fa06-4802-b02c-360b156e9227#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=11b60aa3-b00b-4d16-8bbe-a8780c5db6d9&tracking_id=6d673a72-8446-4174-b1c1-ba89d5ddad09&c_id=/home/card-featured/element&c_uid=a6c34230-d3d7-4fab-bb4d-0f5338223380",
+        "titulo": "Macaquinho Feminino Gringa Curto Zíper Academia Fitness Top Preta Liso P",
+        "preco": 24.26,
+        "timestamp": 1786221230.6099043,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4307029985",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4307029985-tnis-fila-feminino-speed-lite-esportivo-corrida-original-_JM?searchVariation=205193612941&matt_event_ts=1786221064648&matt_d2id=0acdaf6d-f819-42f3-997f-ce1693a872b3&matt_tracing_id=712e7289-4aff-44af-8d0b-66cd6e06e8bb#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=02c98a82-1085-4903-b129-d4b885e13f27&tracking_id=c1748360-1091-4fac-b070-f0bae9e49ee8&c_id=/home/card-featured/element&c_uid=90af87b6-803b-4dbe-9879-974bd48001d2",
+        "titulo": "Tênis Fila Speed Lite",
+        "preco": 207.0,
+        "timestamp": 1786221262.4046993,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB38471378",
+        "link_bruto": "https://www.mercadolivre.com.br/soundbar-lg-s40t-bluetooth-300w-som-imersivo-design-compacto-conectividade-ideal-para-tv-e-entretenimento-em-casa/p/MLB38471378?matt_event_ts=1786221023598&matt_d2id=a90d7166-4bed-46c0-9ad6-0eea7057bc9f&matt_tracing_id=3363cef9-fb12-483e-a52f-4c0682127197#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=444e3289-8392-4b2c-b22d-2dfb93a1c877&tracking_id=062418ae-8b52-485a-9d9f-d977eb14ec38&c_id=/home/card-featured/element&c_uid=414f3e03-b7c0-4922-a780-0a060ea4acf6",
+        "titulo": "Soundbar LG S40T Bluetooth, 300W, Som Imersivo Design Compacto, Conectividade, Ideal para TV e Entretenimento em Casa",
+        "preco": 765.99,
+        "timestamp": 1786221310.7223377,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB64237214",
+        "link_bruto": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-huawei-freeclip-2-c-bridge-design-tecnologia-open-ear-bluetooth-60-ip57-reconhecimento-automatico-de-posicao-preto/p/MLB64237214",
+        "titulo": "Fone De Ouvido Sem Fio Huawei Freeclip 2 C-bridge Design Tecnologia Open-ear Bluetooth 6.0 Ip57 Reconhecimento Automático De Posição Preto",
+        "preco": 829.0,
+        "timestamp": 1786221350.4066207,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB52897777",
+        "link_bruto": "https://www.mercadolivre.com.br/console-sony-playstation-5-edicao-slim-disk-1tb-branco-controle-sem-fio-dualsense-ps5-branco/p/MLB52897777?matt_event_ts=1786221013374&matt_d2id=8c24d34d-3487-4423-a347-dcc96bc34e9c&matt_tracing_id=b94826c4-a967-4af3-8ac6-9e4abea748f6#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=70840611-f314-4d6c-9bc2-f7c72860a73e&tracking_id=c6c1e0f0-59bf-49bd-828d-47b24003050e&c_id=/home/card-featured/element&c_uid=c391dffe-ffa8-4c69-a037-951efbb515e1",
+        "titulo": "Console Sony Playstation 5 Edição Slim Disk 1tb Branco + Controle Sem Fio Dualsense Ps5 Branco",
+        "preco": 4049.0,
+        "timestamp": 1786221395.3852885,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F5X39JQ1",
+        "link_bruto": "https://www.amazon.com.br/dp/B0F5X39JQ1?tag=promobit-d-20&th=1",
+        "titulo": "Smart Tv 4k 55\" LG UHD 55ua85 Processador α7 Ai Ger8 4k Super Upscaling Google Cast Alexa Integrado Controle Ai Smart Magic WebOS 25",
+        "preco": 2185.0,
+        "timestamp": 1786221435.4833448,
+        "expirado": false
     }
 ]
