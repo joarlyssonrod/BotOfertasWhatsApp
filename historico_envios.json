@@ -27222,5 +27222,53 @@
         "preco": 132.77,
         "timestamp": 1786207470.7050567,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB5226420562",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5226420562-oculos-de-sol-uv400-original-acetato-unissex-premium-case-_JM?searchVariation=186478437371&matt_event_ts=1786213823843&matt_d2id=58160eac-68e2-4923-9921-48debefc3017&matt_tracing_id=428bcbde-6ce5-4162-9883-6cbe6084e201#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f3df7b28-0270-4427-a8d0-6bf151cd57c2&tracking_id=16b6abab-5b86-4f97-82ad-a4f9efa4fc6e&c_id=/home/card-featured/element&c_uid=2300a3ad-06df-4b28-84de-e6643ce9c666",
+        "titulo": "Óculos De Sol Uv400 Original Acetato Unissex Premium  + Case",
+        "preco": 42.02,
+        "timestamp": 1786213970.3925023,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB65521325",
+        "link_bruto": "https://www.mercadolivre.com.br/fone-de-ouvido-in-ear-sem-fio-samsunggalaxy-galaxy-buds4-sm-r540n-preto/p/MLB65521325?pdp_filters=item_id%3AMLB4484063571&matt_event_ts=1786213845115&matt_d2id=9b859509-7027-4877-8e20-b426ac01faa4&matt_tracing_id=60f443ad-0676-4cbc-b2a4-5a0a35a018d7#polycard_client=recommendations_home_affiliate-profile&wid=MLB4484063571&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=9d87a78f-9821-4880-8865-15b73e033c1c&tracking_id=b6dbf003-b740-4377-bc52-70e25bf3ef34&c_id=/home/card-featured/element&c_uid=3c0c81c2-094d-4b70-b1c8-0276dcd4fc06",
+        "titulo": "Fone de ouvido in-ear sem fio Samsung galaxy Galaxy Buds4 SM-R540N preto",
+        "preco": 846.0,
+        "timestamp": 1786214005.6278577,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FSGH4DJD",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FSGH4DJD/ref=cm_sw_r_as_gl_apa_gl_i_EQJ8TJ58CWPRSE1KVJMK?tag=promobit-d-20",
+        "titulo": "JBL Fone de Ouvido Bluetooth Quantum 650 Headset Gamer Over Ear Sem Fio Cancelamento de Ruído - Preto",
+        "preco": 509.0,
+        "timestamp": 1786214049.9434643,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB20662382",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-aiwa-43-android-full-hd-borda-ultrafina-hdr10-dolby-audio-aws-tv-43-bl-02-a/p/MLB20662382",
+        "titulo": "Smart TV AIWA 43” Android Full HD Borda Ultrafina HDR10 Dolby Áudio AWS-TV-43-BL-02-A",
+        "preco": 1306.0,
+        "timestamp": 1786214088.4313326,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50801559",
+        "link_bruto": "https://www.mercadolivre.com.br/placa-de-video-asus-rtx-5060-8gb-dual-gdr7-de-128-bits/p/MLB50801559",
+        "titulo": "Placa de vídeo Asus Rtx 5060 8gb Dual Gdr7 de 128 bits",
+        "preco": 2499.0,
+        "timestamp": 1786214127.1893392,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB34122260",
+        "link_bruto": "https://www.mercadolivre.com.br/ssd-m2-2280-2tb-sandisk-plus-nvme-pcie-gen3-sdssda3n-2t00-g26-velocidade-ate-3200mbs/p/MLB34122260?matt_event_ts=1786213814415&matt_d2id=2ec20130-8c17-4e71-b82a-a211886e2948&matt_tracing_id=60ac8943-123e-4e20-a92b-56cd5916718a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3d50f8fc-a11d-4b02-9940-18074c3ab4cd&tracking_id=0e93d1ac-f57b-44c6-8cf1-f41143bdc082&c_id=/home/card-featured/element&c_uid=a375a622-163b-4af7-a41d-7173dcad4ae3",
+        "titulo": "SSD M.2 2TB Sandisk NVMe PCIe Gen3 3200MBs",
+        "preco": 1294.0,
+        "timestamp": 1786214170.2585728,
+        "expirado": false
     }
 ]
