@@ -27574,5 +27574,45 @@
         "preco": 4239.0,
         "timestamp": 1786279477.1841407,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU744045627",
+        "link_bruto": "https://www.mercadolivre.com.br/cristaleira--aparador-buffet-ditalia-e954--r626-branco/up/MLBU744045627",
+        "titulo": "Cristaleira + Aparador Buffet Ditália E-954 + R-626 Branco Branco",
+        "preco": 377.67,
+        "timestamp": 1786286023.8973858,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3225030242",
+        "link_bruto": "https://www.mercadolivre.com.br/bicicleta-ergometrica-lafit-pro-spinning-4kg-ajustavel/up/MLBU3225030242",
+        "titulo": "Bicicleta Ergométrica Lafit Pro Spinning 4kg Ajustável Preto 127/220v",
+        "preco": 430.15,
+        "timestamp": 1786286059.422089,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB45719838",
+        "link_bruto": "https://www.mercadolivre.com.br/penalty-bola-campo-lider-n4-xxv-cor-branco-verde-roxo/p/MLB45719838",
+        "titulo": "Penalty Bola Campo Lider N4 Xxv Cor BRANCO-VERDE-ROXO",
+        "preco": 70.88,
+        "timestamp": 1786286089.8887928,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3479870073",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3479870073-tenis-mormaii-urban-smash-original-skate-casual-masculino-_JM?searchVariation=180274224725&matt_event_ts=1786285885083&matt_d2id=4337efeb-947a-401f-80b3-1749203300b1&matt_tracing_id=34312e54-d727-4b52-8d5e-f1a01aff34de#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d393017c-3829-45bd-ad8a-31b6dc1ce488&tracking_id=30ddb4b5-60ac-43c9-a555-269042bfa92e&c_id=/home/card-featured/element&c_uid=a25af13f-d52f-4ba8-83f4-47414a06c4a8",
+        "titulo": "Tênis Mormaii Urban Smash (4 cores)",
+        "preco": 110.0,
+        "timestamp": 1786286135.8195777,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CQ5DPTH8",
+        "link_bruto": "https://www.amazon.com.br/dp/B0CQ5DPTH8?tag=promobit-d-20",
+        "titulo": "Pack de Coca Cola Zero Açúcar Vidro 250ml 12 unidades",
+        "preco": 35.0,
+        "timestamp": 1786286174.0405033,
+        "expirado": false
     }
 ]
