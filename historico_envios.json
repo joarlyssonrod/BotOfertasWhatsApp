@@ -27614,5 +27614,45 @@
         "preco": 35.0,
         "timestamp": 1786286174.0405033,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU4272744820",
+        "link_bruto": "https://www.mercadolivre.com.br/relogio-rolex-daydate-automatico-base-eta-3035/up/MLBU4272744820",
+        "titulo": "Relógio Rolex Day-date Automático Base Eta 3035",
+        "preco": 1282.0,
+        "timestamp": 1786293182.4533813,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB46403237",
+        "link_bruto": "https://www.mercadolivre.com.br/mini-compressor-digital-portatil-para-carro-moto-e-bicicleta-com-calibrador-digital-inflador-eletrico-de-pneus-lcd-lanterna-led-compacto-e-recarregavel-preto-marca-simake/p/MLB46403237",
+        "titulo": "Mini Compressor Digital Portátil para Carro Moto e Bicicleta com Calibrador Digital Inflador Elétrico de Pneus LCD Lanterna LED Compacto e Recarregável Preto Marca Simake",
+        "preco": 65.0,
+        "timestamp": 1786293232.991419,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H4RRT6FR",
+        "link_bruto": "https://www.amazon.com.br/dp/B0H4RRT6FR?tag=promobit-d-20",
+        "titulo": "Frigobar 124 Litros Black Edition Inverter Bivolt Midea",
+        "preco": 799.1,
+        "timestamp": 1786293271.61218,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4398969575",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-masculino-casual-aramis-daily-slip-confortavel-moderno/up/MLBU4398969575?pdp_filters=item_id%3AMLB7238729318&matt_event_ts=1786293048568&matt_d2id=36d5af19-04d7-4452-814b-aced62a94e61&matt_tracing_id=cd94da59-7e74-4a28-81f0-1e428df691f7#polycard_client=recommendations_home_affiliate-profile&wid=MLB7238729318&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d83df235-62e0-45a2-b79d-d708f0fde903&tracking_id=03c03c53-cadd-4b25-9325-818629c82fc2&c_id=/home/card-featured/element&c_uid=1696be2c-9e10-4902-99b6-2a21ef6206b5",
+        "titulo": "Tênis Aramis Daily Slip On (5 Cores)",
+        "preco": 114.0,
+        "timestamp": 1786293312.9004056,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BKR2S4F1",
+        "link_bruto": "https://www.amazon.com.br/dp/B0BKR2S4F1?tag=promobit-d-20&th=1",
+        "titulo": "Memória Corsair DDR5 16GB 1X16GB PC5200 Vengeance CMK16GX5M1B5200C40",
+        "preco": 1299.0,
+        "timestamp": 1786293349.1506839,
+        "expirado": false
     }
 ]
