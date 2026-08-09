@@ -27654,5 +27654,69 @@
         "preco": 1299.0,
         "timestamp": 1786293349.1506839,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_19399544481",
+        "link_bruto": "https://s.shopee.com.br/qiZZGKoRh",
+        "titulo": "Carregador Portátil 10000mah con 4 cables de carga rápida Banco de energía digital LED-A6",
+        "preco": 72.99,
+        "timestamp": 1786300388.230988,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07Y2CRBBK",
+        "link_bruto": "https://www.amazon.com.br/Coleira-Antiparasit%C3%A1ria-Scalibor-65cm-para/dp/B07Y2CRBBK/?tag=promobit-d-20&th=1",
+        "titulo": "Scalibor 25g - Coleira Antiparasitária Contra Mosquitos Vetores Da Leishmaniose - Cães Porte Grande 65cm - Msd Saúde Animal",
+        "preco": 50.0,
+        "timestamp": 1786300434.6392205,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GVT1T3PB",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GVT1T3PB?tag=promobit-d-20&th=1",
+        "titulo": "Celular Samsung Galaxy A57 5G 128GB 8GB RAM Recursos AI (Cinza)",
+        "preco": 1599.0,
+        "timestamp": 1786300467.2868114,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22598438336",
+        "link_bruto": "https://s.shopee.com.br/9pdOHnmYBW",
+        "titulo": "KIT 2 Jaqueta Corta Vento Forrado Premium Com Capuz Liso Casaco Blusão Feminino",
+        "preco": 94.87,
+        "timestamp": 1786300504.4530287,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB27720999",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-2-pneus-17570r14-firestone-f-600-84t-aro-14/p/MLB27720999?matt_event_ts=1786300239539&matt_d2id=07602a72-00d2-40c7-b3e1-7ca70b901d18&matt_tracing_id=4605a791-b59d-4b86-a1f4-cda53f376757#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=221d84ba-5f8f-4354-b22c-a133ef13e052&tracking_id=e33b2d48-3237-404f-a6ae-c7005c926adf&c_id=/home/card-featured/element&c_uid=e6699cc8-9619-4b0e-9471-999ee9885e9b",
+        "titulo": "Kit 2 Pneus 17570R14 Firestone F-600 84T Aro 14",
+        "preco": 500.55,
+        "timestamp": 1786300546.6185622,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_21699204287",
+        "link_bruto": "https://s.shopee.com.br/80Bk6QtWuH",
+        "titulo": "Tênis Skatista Sapatenis Masculino Casual Street Original Premium",
+        "preco": 69.54,
+        "timestamp": 1786300578.512637,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB23298076",
+        "link_bruto": "https://www.mercadolivre.com.br/cafeteira-nescafe-dolce-gusto-mini-me-cinza-e-preta-110v-cor-preto/p/MLB23298076",
+        "titulo": "Cafeteira Nescafé Dolce Gusto Mini Me Cinza E Preta 110v Cor Preto",
+        "preco": 337.25,
+        "timestamp": 1786300618.2808132,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09HRD32NH",
+        "link_bruto": "https://www.amazon.com.br/Aircooler-T-Dagger-Viti-90mm-T-GC9110/dp/B09HRD32NH?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promobit-d-20",
+        "titulo": "Aircooler T-Dagger Viti com Fan de 90mm T-GC9110",
+        "preco": 18.11,
+        "timestamp": 1786300650.3465288,
+        "expirado": false
     }
 ]
