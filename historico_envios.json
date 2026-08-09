@@ -27414,5 +27414,37 @@
         "preco": 1029.89,
         "timestamp": 1786228835.9129498,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DTZQP72X",
+        "link_bruto": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Multidoor-HQ-426MDFF/dp/B0DTZQP72X/ref=sr_1_9?tag=promobit-d-20&th=1",
+        "titulo": "Geladeira Refrigerador Hq Frost Free Multidoor 426 Litros Prata Hq-426mdff (127v)",
+        "preco": 2845.71,
+        "timestamp": 1786235586.0033846,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0G5SMX5CC",
+        "link_bruto": "https://www.amazon.com.br/Geladeira-Refrigerador-HQ-Litros-HQ-480SBSFFK/dp/B0G5SMX5CC/ref=sr_1_22?tag=promobit-d-20&th=1",
+        "titulo": "Geladeira Refrigerador HQ Frost Free Side By Side 480 Litros Inox HQ-480SBSFFK (220V)",
+        "preco": 3139.0,
+        "timestamp": 1786235632.0824103,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0G4RZY2DT",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0G4RZY2DT/ref=ewc_pr_img_1?tag=promobit-d-20",
+        "titulo": "Ar Condicionado Split Inverter Hisense R-32 Hi-wall 18.000 Btus Quente E Frio Wi-fi 220v",
+        "preco": 2108.98,
+        "timestamp": 1786235672.9072003,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H9ZZ7ZPD",
+        "link_bruto": "https://www.amazon.com.br/dp/B0H9ZZ7ZPD?tag=promobit-d-20&th=1",
+        "titulo": "Freezer e Conservador Horizontal HQ 260 Litros Degelo Manual Branco HQ-260CFHL (110, Volts)",
+        "preco": 1504.51,
+        "timestamp": 1786235708.959897,
+        "expirado": false
     }
 ]
