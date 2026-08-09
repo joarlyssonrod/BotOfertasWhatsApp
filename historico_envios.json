@@ -27718,5 +27718,61 @@
         "preco": 18.11,
         "timestamp": 1786300650.3465288,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_18698093887",
+        "link_bruto": "https://s.shopee.com.br/8KoadIwlOU",
+        "titulo": "ZERO FRIZZ Kit Noite Pefeita | 1 Touca dupla face + 1 Fronha + 2 xuxinhas, escolha sua cor preferida",
+        "preco": 30.0,
+        "timestamp": 1786307604.3186336,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22697902690",
+        "link_bruto": "https://s.shopee.com.br/AKZf0yp9Ko",
+        "titulo": "Kit ZERO FRIZZ® Touca de Cetim Premium Anti Frizz com Regulador e Dupla Camada + Scrunchie de Cetim",
+        "preco": 20.0,
+        "timestamp": 1786307648.5211961,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B00N6AKNQW",
+        "link_bruto": "https://www.amazon.com.br/dp/B00N6AKNQW/?tag=promobit-d-20",
+        "titulo": "Kit Sabonete, PHEBO, Amarelo, 720g",
+        "preco": 23.09,
+        "timestamp": 1786307691.197907,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07FNFPSWL",
+        "link_bruto": "https://www.amazon.com.br/Neve-Supreme-Papel-Higi%C3%AAnico-Rolos/dp/B07FNFPSWL/?tag=promobit-d-20&th=1",
+        "titulo": "Neve Papel Higiênico Supreme Folha Tripla, 20m, Leve 24 Pague 21 Rolos",
+        "preco": 27.93,
+        "timestamp": 1786307733.8659494,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BVRVP2MM",
+        "link_bruto": "https://www.amazon.com.br/dp/B0BVRVP2MM/ref=cm_sw_r_as_gl_apa_gl_i_dl_G3SV5DVRXZVC58AFX70T?tag=promobit-d-20",
+        "titulo": "Pack de Energético Monster Pacific Punch lata 473ml 6 unidades",
+        "preco": 35.0,
+        "timestamp": 1786307766.5886757,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_27144887254",
+        "link_bruto": "https://s.shopee.com.br/8V80pbw83X",
+        "titulo": "Porta Tempero Giratório 20 Potes Vidro e Inox Organizador de Condimentos Cozinha 360°",
+        "preco": 77.97,
+        "timestamp": 1786307799.366536,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB52937093",
+        "link_bruto": "https://www.mercadolivre.com.br/smartphone-jovi-y19s-256gb-44gb-ram-turbo-camera-50mp-bateria-5500mah-carregamento-15w-tela-90hz-azul-glacial/p/MLB52937093",
+        "titulo": "Smartphone JOVI Y19s 256gb, 4+4gb Ram Turbo, Câmera 50mp, Bateria 5500mah, Carregamento 15w, Tela 90hz - Azul Glacial",
+        "preco": 828.0,
+        "timestamp": 1786307841.8934278,
+        "expirado": false
     }
 ]
