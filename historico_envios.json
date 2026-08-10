@@ -28110,5 +28110,133 @@
         "preco": 299.0,
         "timestamp": 1786365837.2690163,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB44454815",
+        "link_bruto": "https://www.mercadolivre.com.br/banheira-portatil-infantil-com-termometro-digital-para-bebe-cor-cinza/p/MLB44454815?matt_event_ts=1786372226287&matt_d2id=fb2691d3-2fd8-46ab-a8e0-8de2e4a11e3e&matt_tracing_id=a4943936-b7e4-4dc5-83cd-c9ea88be29b1#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=8cced058-d760-4407-ae91-46d22cb928f8&tracking_id=d3c263d8-710e-48b4-9a10-5cf03a72a9d8&c_id=/home/card-featured/element&c_uid=8a33e16b-3ef9-4d3e-8543-40cf503b0c08",
+        "titulo": "Banheira Portátil Com Termômetro Styll Baby",
+        "preco": 89.89,
+        "timestamp": 1786372469.4012053,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB51342806",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-arabe-lattafa-opulent-dubai-eau-de-parfum-100-ml/p/MLB51342806?matt_event_ts=1786372323735&matt_d2id=3bb59534-fc4e-49f6-85a9-c50ea1865d21&matt_tracing_id=c6438f05-ec98-43ed-affe-625ffbce23fa#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=bc8ca6cf-8c9b-4c84-9839-ab74f9b9593e&tracking_id=ddd4d729-30b3-464f-8494-21ba770d77e7&c_id=/home/card-featured/element&c_uid=dcbb4b8b-7779-4c72-8fbd-8cddb9d0a27d",
+        "titulo": "Perfume Lattafa Opulent Dubai EDP 100ml",
+        "preco": 124.66,
+        "timestamp": 1786372500.4714124,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3893086976",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-park-st-20-adidas/up/MLBU3893086976?pdp_filters=item_id%3AMLB4590318575&matt_event_ts=1786372215008&matt_d2id=297f09e6-6da9-4de6-b958-d17002c81488&matt_tracing_id=c16abda3-9c8c-4743-a9cd-c6ad74580be9#polycard_client=recommendations_home_affiliate-profile&wid=MLB4590318575&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=318ab9f5-7c9b-43d6-a710-5ebd9e47ebbf&tracking_id=18686e87-5dbf-483a-9896-cf486fee9fbb&c_id=/home/card-featured/element&c_uid=13b7cbec-5818-47cb-afeb-b60724e4bc41",
+        "titulo": "Tênis Park St 2.0 Adidas",
+        "preco": 162.37,
+        "timestamp": 1786372530.7880807,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4029785898",
+        "link_bruto": "https://www.mercadolivre.com.br/oakley-masculino-canguru-moletom-mod-b1b-po-hoodie/up/MLBU4029785898",
+        "titulo": "Oakley Masculino Canguru Moletom Mod B1b Po Hoodie G Blackout Lisa",
+        "preco": 219.99,
+        "timestamp": 1786372568.1941953,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU767895109",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-feminino-questar-3-adidas/up/MLBU767895109",
+        "titulo": "Tênis Feminino Questar 3 adidas Violeta E Rosa Liso 38",
+        "preco": 299.99,
+        "timestamp": 1786372597.6639032,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58206746518",
+        "link_bruto": "https://s.shopee.com.br/8AVBdEYi7R",
+        "titulo": "Fechadura Eletronica Digital Senha Biometria Cartao Preto ASUS",
+        "preco": 299.0,
+        "timestamp": 1786372627.0246346,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07Y2BTQQT",
+        "link_bruto": "https://www.amazon.com.br/Cerveja-Guinness-Draught-lata-440ml/dp/B07Y2BTQQT/?tag=promobit-d-20",
+        "titulo": "Cerveja Guinness Draught 440ml",
+        "preco": 20.99,
+        "timestamp": 1786372654.262164,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CVSBKF4N",
+        "link_bruto": "https://www.amazon.com.br/Desinfetante-Geral-Lavanda-Lysoform-Gal%C3%A3o/dp/B0CVSBKF4N",
+        "titulo": "Lysoform Lavanda, Desinfetante Líquido, Limpeza Casa, 5L",
+        "preco": 39.52,
+        "timestamp": 1786372695.150444,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58213867475",
+        "link_bruto": "https://s.shopee.com.br/AUt6PWPpNj",
+        "titulo": "Kit Hidratante Corporal + Body Splash Feminino | Fragrância Doce Frutal | Hidratação Prolongada | Pele Macia",
+        "preco": 64.94,
+        "timestamp": 1786372724.5048559,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DQFVDX6X",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DQFVDX6X?tag=promobit-d-20&th=1&psc=1",
+        "titulo": "Kit com 3 Camisetas Polo Wear",
+        "preco": 77.0,
+        "timestamp": 1786372758.7636738,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50525094",
+        "link_bruto": "https://www.mercadolivre.com.br/guarda-roupa-casal-paris-8-portas-4-gavetas-branco/p/MLB50525094",
+        "titulo": "Guarda-Roupa Casal Paris 8 Portas 4 Gavetas Branco",
+        "preco": 899.99,
+        "timestamp": 1786372795.0819228,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23499347562",
+        "link_bruto": "https://s.shopee.com.br/8KobpXY4mU",
+        "titulo": "Espelho com Touch Quadrado 40x40 Jateado Fino LED 3 Cores Touch Banheiro Lavabo Quarto Luxo",
+        "preco": 117.0,
+        "timestamp": 1786372824.040078,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3854186388",
+        "link_bruto": "https://www.mercadolivre.com.br/hoverboard-eletrico-skate-kit-acessorios-com-bluetooth-e-led/up/MLBU3854186388",
+        "titulo": "Hoverboard Elétrico Skate Kit Acessórios Com Bluetooth E Led Céu Estrelado Roxo",
+        "preco": 527.6,
+        "timestamp": 1786372857.5934725,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3457542151",
+        "link_bruto": "https://www.mercadolivre.com.br/console-playstation-5-slim-digital-825gb/up/MLBU3457542151?pdp_filters=item_id%3AMLB4232899425&matt_event_ts=1786372284050&matt_d2id=d8e32023-5192-4fdc-bef5-12993643dc50&matt_tracing_id=ac49627b-7f50-4c3f-8910-be866b7519c9#polycard_client=recommendations_home_affiliate-profile&wid=MLB4232899425&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f0bd12d2-003b-4e3e-a0d5-798034565d9e&tracking_id=42a19bd8-eb8d-42ce-84d5-18f62dbd18a9&c_id=/home/card-featured/element&c_uid=02118a09-1d0e-4927-b224-5ff6495252cd",
+        "titulo": "Console Playstation 5 Slim Edição Digital 825GB",
+        "preco": 3561.0,
+        "timestamp": 1786372895.9206517,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54151357",
+        "link_bruto": "https://www.mercadolivre.com.br/freezer-horizontal-100l-inverter-bivolt-branco-midea-branco-mdrc151fzd013/p/MLB54151357?matt_event_ts=1786372358152&matt_d2id=69cd8a6c-c003-4a5f-aa8b-4b99aaf1fe5a&matt_tracing_id=757c9a80-ae9a-4349-8e82-646c3f8f7b6d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=977ee192-bb80-4905-b359-76c4e7186ffe&tracking_id=472924a3-81c1-4d1d-b3ec-13992684952e&c_id=/home/card-featured/element&c_uid=6d72b316-0c05-41c3-96f0-f9ea84e05fe8",
+        "titulo": "Freezer Horizontal 100l Inverter Bivolt Branco Midea Branco MDRC151FZD013",
+        "preco": 992.77,
+        "timestamp": 1786372930.5086036,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB51918614",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-lattafa-asad-zanzibar-limited-100ml-arabe-masculino-genuino/p/MLB51918614?matt_event_ts=1786372370971&matt_d2id=7bfdab5e-e59e-4ceb-9054-09a321a0127a&matt_tracing_id=b9a471b3-3502-4834-907b-a0b2df6e1804#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=855150ca-a213-423a-b359-e55edfba5933&tracking_id=6892c907-b193-4961-9a8c-f7dbe428c093&c_id=/home/card-featured/element&c_uid=197b2400-23df-4127-adf5-75b06c6c0c4e",
+        "titulo": "Perfume Lattafa Asad Zanzibar Limited 100ml árabe masculino genuino",
+        "preco": 161.0,
+        "timestamp": 1786372976.9451072,
+        "expirado": false
     }
 ]
