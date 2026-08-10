@@ -28398,5 +28398,45 @@
         "preco": 6774.0,
         "timestamp": 1786386930.3634584,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_58250219337",
+        "link_bruto": "https://s.shopee.com.br/6Ak7eBoBgO",
+        "titulo": "Caneca Misturadora Automática Elétrica USB Bateria Recarregável Mixer Café 380ml",
+        "preco": 36.88,
+        "timestamp": 1786393984.047714,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23493930815",
+        "link_bruto": "https://s.shopee.com.br/1gHiHv5JoE",
+        "titulo": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
+        "preco": 69.9,
+        "timestamp": 1786394026.8704832,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22736011414",
+        "link_bruto": "https://s.shopee.com.br/AUt6o9Xgt8",
+        "titulo": "Lava Roupas Lavanderia Pro Líquido 7L Omo",
+        "preco": 99.98,
+        "timestamp": 1786394068.9588513,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB70047758",
+        "link_bruto": "https://www.mercadolivre.com.br/box-estampas-ilustradas-pokemon-copag-colecao-treinador-avancado-caos-ascendente-portugues-com-20-mazos/p/MLB70047758?matt_event_ts=1786393881722&matt_d2id=41c97828-cc4a-4be7-8769-15de15046b8b&matt_tracing_id=7e3302b6-8a39-4cfe-8778-bac3cdfe2351#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=40e83256-0849-4726-bb55-9b61131f8769&tracking_id=9ffe0851-39ba-4d30-9d3b-97f373e9b39a&c_id=/home/card-featured/element&c_uid=c7604e31-c2fd-4029-8048-9254fc688465",
+        "titulo": "Box Estampas Ilustradas Pokémon Copag Coleção Treinador Avançado Caos Ascendente",
+        "preco": 242.0,
+        "timestamp": 1786394117.0060122,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB28003894",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-masculino-yves-saint-laurent-y-le-parfum-60ml/p/MLB28003894?matt_event_ts=1786393836445&matt_d2id=4a442976-32ad-4b4f-b1bf-e6f0c776212b&matt_tracing_id=8bad867d-689d-4311-bb3c-96cf7591e62c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d3273121-bcf6-4143-9e43-c2658ff8c5ca&tracking_id=1182e6cc-e776-4e79-857e-1290eebf542e&c_id=/home/card-featured/element&c_uid=8244626b-23d0-44cf-9565-34204a338fe4",
+        "titulo": "Perfume masculino Yves Saint Laurent Y Le Parfum 60ml.",
+        "preco": 645.0,
+        "timestamp": 1786394154.3551888,
+        "expirado": false
     }
 ]
