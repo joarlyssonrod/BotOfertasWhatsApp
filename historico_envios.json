@@ -28374,5 +28374,29 @@
         "preco": 20569.0,
         "timestamp": 1786380303.311417,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3393657592",
+        "link_bruto": "https://www.mercadolivre.com.br/sapato-oxford-social-masculino-qualidade-moderno-confortavel/up/MLBU3393657592?pdp_filters=item_id%3AMLB6231592130&matt_event_ts=1786386745179&matt_d2id=55de707d-fe23-4b0e-a8e6-dfa502e1234f&matt_tracing_id=5d6bba49-15a1-4873-9a25-e5560a6d29c7#polycard_client=recommendations_home_affiliate-profile&wid=MLB6231592130&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ca284ded-7853-4b9d-b21a-ea80dd4abb84&tracking_id=98b4894f-2f88-4ecc-87fc-a4f30423ae2e&c_id=/home/card-featured/element&c_uid=6bd3b00b-a3c7-4efe-938a-a28fb678cbfa",
+        "titulo": "Tênis Masculino Casual Aramis Daily Slip Confortável Moderno Marrom Caramelo 41 Br",
+        "preco": 52.8,
+        "timestamp": 1786386855.2704067,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB18715372",
+        "link_bruto": "https://www.mercadolivre.com.br/fralda-pom-pom-protecao-de-mae-xg-com-38-unidades/p/MLB18715372",
+        "titulo": "Fralda Pom Pom Proteção de Mãe XG com 38 Unidades",
+        "preco": 31.03,
+        "timestamp": 1786386890.5220819,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4039166007",
+        "link_bruto": "https://www.mercadolivre.com.br/gt20z-bicicleta-eletrica--1000w-susp-freio-hidraulico-7v/up/MLBU4039166007?pdp_filters=item_id%3AMLB4735890573&matt_event_ts=1786386622103&matt_d2id=b02aa039-1a65-4282-8c17-2568dd690c45&matt_tracing_id=67d15bc8-de79-4917-a43c-404c1b691300#polycard_client=recommendations_home_affiliate-profile&wid=MLB4735890573&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=efa59e2a-dcf0-4e7f-9d89-f2c7d1e906e3&tracking_id=e4819c24-b3e4-45aa-8ab1-ce0c56e7f857&c_id=/home/card-featured/element&c_uid=27aa0b2a-090d-44f0-9d2e-8bf5619eb8b7",
+        "titulo": "Bicicleta Eletrica Gt20",
+        "preco": 6774.0,
+        "timestamp": 1786386930.3634584,
+        "expirado": false
     }
 ]
