@@ -28502,5 +28502,29 @@
         "preco": 227.0,
         "timestamp": 1786401447.3850777,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB4993607543",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4993607543-olympikus-tnis-esportivo-performance-pro-running-corrida-_JM?searchVariation=206035768717&matt_event_ts=1786408231188&matt_d2id=7d5b7615-afc0-4529-b83d-bd6de09ade36&matt_tracing_id=b3963fbe-d692-495c-95a8-010b5d2ef172#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=effd21db-dbf4-4d74-bb6d-0ff73e7a432f&tracking_id=0a818154-5e3e-42d2-8b5e-cd7b24de6781&c_id=/home/card-featured/element&c_uid=55b46365-4339-4454-97a9-798b2ffe019c",
+        "titulo": "Tênis Esportivo Olympikus Performance Pro",
+        "preco": 119.0,
+        "timestamp": 1786408350.7071137,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB67193631",
+        "link_bruto": "https://www.mercadolivre.com.br/cadeira-escritorio-presidente-ergonomica-preta-giratoria-360-graus-tecido-mesh-premium-suporte-lombar-apoio-cabeca-assento-ampliado-regulagem-altura-home-office-sweet-studio/p/MLB67193631",
+        "titulo": "Cadeira Escritório Presidente Ergonômica Preta Giratória 360 Graus Tecido Mesh Premium Suporte Lombar Apoio Cabeça Assento Ampliado Regulagem Altura Home Office Sweet Studio",
+        "preco": 362.0,
+        "timestamp": 1786408394.573043,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DJFTJ6LX",
+        "link_bruto": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTJ6LX",
+        "titulo": "Apple iPhone 16 (128 GB) – Preto",
+        "preco": 5110.0,
+        "timestamp": 1786408431.3701499,
+        "expirado": false
     }
 ]
