@@ -28862,5 +28862,29 @@
         "preco": 63.6,
         "timestamp": 1786473512.401526,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3825005580",
+        "link_bruto": "https://www.mercadolivre.com.br/o-boticario-her-code-kit-presente-3-itens/up/MLBU3825005580",
+        "titulo": "O Boticário Her Code Kit Presente (3 Itens)",
+        "preco": 177.55,
+        "timestamp": 1786480361.010484,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB47111905",
+        "link_bruto": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-a36-5g-256gb-8gb-ram/p/MLB47111905",
+        "titulo": "Smartphone Samsung Galaxy A36 5G 256GB 8GB RAM",
+        "preco": 1699.0,
+        "timestamp": 1786480398.2524676,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CG2B4VBW",
+        "link_bruto": "https://www.amazon.com.br/dp/B0CG2B4VBW?social_share=cm_sw_r_cso_cp_apan_dp_1CFQ6NA961TJDDN5ASN7&tag=promobit-d-20",
+        "titulo": "Nobreak SMS Gamer 2000Va, Wi-Fi, Interativo, 8 Tomadas",
+        "preco": 2089.0,
+        "timestamp": 1786480430.0047903,
+        "expirado": false
     }
 ]
