@@ -29422,5 +29422,21 @@
         "preco": 1865.0,
         "timestamp": 1786567243.735232,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB28692472",
+        "link_bruto": "https://www.mercadolivre.com.br/escova-secadora-rosa-britania/p/MLB28692472",
+        "titulo": "Escova Secadora rosa Britânia",
+        "preco": 78.9,
+        "timestamp": 1786573989.3929343,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58253737024",
+        "link_bruto": "https://s.shopee.com.br/2LXSPBlgqm",
+        "titulo": "Bicicleta Elétrica 750W Fat Bateria de Lítio Removível E-bike Wehawk Wx-19 48V 15Ah Marrom",
+        "preco": 7499.9,
+        "timestamp": 1786574033.2807715,
+        "expirado": false
     }
 ]
