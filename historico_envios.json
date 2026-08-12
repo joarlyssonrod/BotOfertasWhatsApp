@@ -28998,5 +28998,29 @@
         "preco": 97.99,
         "timestamp": 1786488087.4338274,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GKQK9ZVT",
+        "link_bruto": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Qu%C3%A1drupla/dp/B0GKQK9ZVT?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promobit-d-20&th=1",
+        "titulo": "Celular Samsung Galaxy S26 Ultra 5G 256GB 12GB RAM Câmera Quádrupla Tela Grande de 6.9\" - Branco",
+        "preco": 6699.1,
+        "timestamp": 1786494780.3819659,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3938288013",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-masculino-streettalk-adidas/up/MLBU3938288013",
+        "titulo": "Tênis Masculino Streettalk adidas Branco Liso 40 Br",
+        "preco": 245.09,
+        "timestamp": 1786494821.387151,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09QW933NQ",
+        "link_bruto": "https://www.amazon.com.br/Geladeira-Samsung-Inverter-Portas-Dispenser/dp/B09QW933NQ?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promobit-d-20",
+        "titulo": "Refrigerador French Door Samsung de 03 Portas Frost Free com 549 Litros Inox - Rf49a5202s9az 127V",
+        "preco": 6095.22,
+        "timestamp": 1786494866.0777698,
+        "expirado": false
     }
 ]
