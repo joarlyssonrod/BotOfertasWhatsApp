@@ -29310,5 +29310,37 @@
         "preco": 69.0,
         "timestamp": 1786552738.3231611,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU4204687542",
+        "link_bruto": "https://www.mercadolivre.com.br/moletom-masculino-gola-careca-polo-wear/up/MLBU4204687542?pdp_filters=item_id%3AMLB4837023869&matt_event_ts=1786559494749&matt_d2id=eb0898dd-677f-466d-aa1f-3d63d7e799c8&matt_tracing_id=8ed67f2a-c6e5-41cd-bafa-878b594a7313#polycard_client=recommendations_home_affiliate-profile&wid=MLB4837023869&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=dc702f40-60dd-4171-9d5c-21e66c47c790&tracking_id=8d40dd65-f218-4742-a7ee-eb54c8e0a4e1&c_id=/home/card-featured/element&c_uid=3bc33a36-5ed2-4c63-82f8-005455d42afa",
+        "titulo": "Moletom Polo Wear Gola Careca",
+        "preco": 79.0,
+        "timestamp": 1786559639.482671,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB18624188",
+        "link_bruto": "https://www.mercadolivre.com.br/alto-falante-lg-xboom-rn9-com-bluetooth-preto/p/MLB18624188?matt_event_ts=1786559519794&matt_d2id=dcb7d833-4c9d-47ce-9fa1-aa800129c74a&matt_tracing_id=e8c35ea8-59f0-48d4-b1e0-066a837cbe13#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=67109d25-9ff0-4af0-b7da-11c881b6f6f7&tracking_id=6059dceb-f892-4159-a7ad-971f063b08b7&c_id=/home/card-featured/element&c_uid=0a44a814-f146-43db-a571-469b96145338",
+        "titulo": "Alto-falante LG XBOOM RN9 com bluetooth preto",
+        "preco": 1454.0,
+        "timestamp": 1786559676.4370263,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB27931978",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-2-pneus-17565r14-continental-powercontact-2-82t-aro-14/p/MLB27931978?matt_event_ts=1786559544846&matt_d2id=f0845951-89f1-435a-88d1-809b4d90efdb&matt_tracing_id=db12e8f2-7218-4d9e-acda-ccd98f77b70a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=02c91487-9067-4245-953f-8d30c43387d0&tracking_id=a352a12a-242a-4385-9742-124998250b74&c_id=/home/card-featured/element&c_uid=c9ca4038-7be1-4954-88a1-03f9dfdae8d7",
+        "titulo": "Kit 2 Pneus 17565R14 Continental PowerContact 2 82T Aro 14",
+        "preco": 517.76,
+        "timestamp": 1786559723.0776267,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3819810427",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3819810427-camiseta-masculina-fitness-lupo-sport-anti-odor-academia-fit-_JM?searchVariation=184332635009&matt_event_ts=1786559533250&matt_d2id=f1047b5b-bad3-42d1-a21c-cd30842063fb&matt_tracing_id=22986b37-0d7f-45a6-ba3c-b9c1197f9762#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0c7fa691-60d1-40bf-ba83-ca394d4bff10&tracking_id=2857c12b-cd3d-493d-8ac5-f91017179fa8&c_id=/home/card-featured/element&c_uid=260c7c2e-afd6-4314-a213-d25bf4842795",
+        "titulo": "Camisetas Dry-Fit Lupo Básica",
+        "preco": 55.0,
+        "timestamp": 1786559771.5685947,
+        "expirado": false
     }
 ]
