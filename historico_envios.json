@@ -29262,5 +29262,53 @@
         "preco": 1865.0,
         "timestamp": 1786545674.6723325,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-puma-smash-v2-sl-bdp-masculino/divulgador/oferta/cf99f1e760/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-puma-smash-v2-sl-bdp-masculino/divulgador/oferta/cf99f1e760/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis Puma Smash V2 SL BDP Masculino",
+        "preco": 139.99,
+        "timestamp": 1786552514.051375,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FXJC5GZJ",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FXJC5GZJ?tag=promobit-d-20&th=1&psc=1",
+        "titulo": "Tenis Masculino Fila Racer Fastpace",
+        "preco": 199.99,
+        "timestamp": 1786552558.8310652,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB1767230733",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-1767230733-cmoda-8-gavetas-raissa-para-quarto-com-pes-_JM?searchVariation=177149292748&matt_event_ts=1786552338565&matt_d2id=2b77d38e-f819-4808-8f4e-60c20aa3c2ab&matt_tracing_id=f5d7394c-3aaa-4203-b406-e6ca4a698411#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=b67298ca-241d-4a05-a0eb-129fd51351b1&tracking_id=4806757f-6ff7-472e-9183-dac9a710646b&c_id=/home/card-featured/element&c_uid=c4115672-c33e-422c-863f-7c024af68387",
+        "titulo": "Cômoda 8 Gavetas Raissa Para Quarto Com Pés",
+        "preco": 232.5,
+        "timestamp": 1786552609.2987509,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4903072196",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4903072196-tnis-nike-precision-7-unissex-_JM?searchVariation=194742939077&matt_event_ts=1786552349744&matt_d2id=4d439d1f-1ad5-44a6-a66a-9ef17ad57e3e&matt_tracing_id=2a522dfc-69d3-4328-b26f-349dd6e50a1c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=32d72c67-2034-4e5c-86f9-436a8d73e8b4&tracking_id=c53885a7-92f6-457e-9393-7df0f06409ef&c_id=/home/card-featured/element&c_uid=511dac5d-6294-4e28-93b9-5e60ab5821dc",
+        "titulo": "Tênis Nike Precision 7 Unissex",
+        "preco": 294.39,
+        "timestamp": 1786552655.7447052,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU1753882643",
+        "link_bruto": "https://www.mercadolivre.com.br/4-travesseiros-antialergico-impermeavel-50x70-super-macio/up/MLBU1753882643?pdp_filters=item_id%3AMLB803897463&matt_event_ts=1786552412383&matt_d2id=71ccd37b-d491-4c9f-81d7-c3f764e69748&matt_tracing_id=589c92fb-b969-450c-9fef-d3a17c9a6956#polycard_client=recommendations_home_affiliate-profile&wid=MLB803897463&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=071dd475-0573-4a5d-8bb5-c714ef305200&tracking_id=1e8591b1-75e5-471e-9cab-6b28fa3f9239&c_id=/home/card-featured/element&c_uid=61d45d19-2865-46f4-b191-f6810b9c95ea",
+        "titulo": "Kit com 4 Travesseiros Antialérgico Impermeável 50x70",
+        "preco": 81.0,
+        "timestamp": 1786552702.6198034,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3750173337",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3750173337-bermuda-shorts-legging-compresso-anti-assadura-esporte-_JM?searchVariation=197434331209&matt_event_ts=1786552267460&matt_d2id=727b8a12-ff6d-4024-843b-64061bf27bde&matt_tracing_id=764cc693-e811-46ff-8168-e8496bdccf05#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1c90c252-3bc4-4664-a965-120d75a6e454&tracking_id=0060b44f-555e-4059-934e-4ef851bae51a&c_id=/home/card-featured/element&c_uid=a0fa506e-1598-45f6-9d2f-5281d8407db3",
+        "titulo": "Bermuda Shorts Legging Lupo (6 cores)",
+        "preco": 69.0,
+        "timestamp": 1786552738.3231611,
+        "expirado": false
     }
 ]
