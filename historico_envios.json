@@ -29998,5 +29998,45 @@
         "preco": 881.0,
         "timestamp": 1786653466.827789,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FDXB22BL",
+        "link_bruto": "https://www.amazon.com.br/Samsung-Galaxy-Watch8-Smartwatch-40mm/dp/B0FDXB22BL/ref=sr_1_6?tag=promobit-d-20",
+        "titulo": "Galaxy Watch 8 LTE 40 mm",
+        "preco": 1199.2,
+        "timestamp": 1786660473.894765,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/smartphone-samsung-galaxy-a57-128gb-azul-escuro-5g-smartband-samsung-galaxy-fit3-grafite/divulgador/oferta/239224800/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/smartphone-samsung-galaxy-a57-128gb-azul-escuro-5g-smartband-samsung-galaxy-fit3-grafite/divulgador/oferta/239224800/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Samsung Galaxy A57 128GB 5G - Tela AMOLED - Azul Escuro",
+        "preco": 1644.0,
+        "timestamp": 1786660514.5569663,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DWB39C6R",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DWB39C6R?tag=promobit-d-20&th=1",
+        "titulo": "Red Bull Energético, Pomelo, Sem Açúcar, 250ml, 4 latas",
+        "preco": 22.0,
+        "timestamp": 1786660556.0741801,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HK069CKC3H",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-olympikus-voa-3-masculino/p/hk069ckc3h/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Olympikus Voa 3 Masculino",
+        "preco": 246.99,
+        "timestamp": 1786660589.7721815,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CPQZ2H47",
+        "link_bruto": "https://www.amazon.com.br/Caf%C3%A9-Japy-Orfeu-Gr%C3%A3os-Arabica/dp/B0CPQZ2H47/?tag=promobit-d-20",
+        "titulo": "Café Japy Orfeu Em Grãos, 100% Arabica 250g",
+        "preco": 38.99,
+        "timestamp": 1786660628.3685064,
+        "expirado": false
     }
 ]
