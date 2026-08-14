@@ -30230,5 +30230,69 @@
         "preco": 9.99,
         "timestamp": 1786711617.5071282,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3460375501",
+        "link_bruto": "https://www.mercadolivre.com.br/camisa-polo-reserva-essence-basica/up/MLBU3460375501",
+        "titulo": "Camisa Polo Reserva Essence Básica Marinho Liso M",
+        "preco": 134.1,
+        "timestamp": 1786717994.5018258,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB44473585",
+        "link_bruto": "https://www.mercadolivre.com.br/chave-de-impacto-40ah-parafusadera-dobevi-fu-th014-cor-azul-850nm/p/MLB44473585",
+        "titulo": "Chave De Impacto 4.0ah Parafusadera Dobevi FU-TH014 Cor Azul 850n.m",
+        "preco": 325.4,
+        "timestamp": 1786718040.9047992,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU2908216854",
+        "link_bruto": "https://www.mercadolivre.com.br/opk-original-relogio-masculino-quartzo-a-prova-dagua-6003/up/MLBU2908216854",
+        "titulo": "Opk Original Relógio Masculino Quartzo À Prova D'água 6003 Prateado Preto",
+        "preco": 76.5,
+        "timestamp": 1786718080.2558043,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4149333934",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4149333934-tnis-new-balance-flash-v7-masculino-preto-treino-_JM?searchVariation=204211580827&matt_event_ts=1786717883242&matt_d2id=b7a4c310-9068-4b80-96fe-fb43fd545844&matt_tracing_id=af4bcd35-7d95-438b-b546-ac447a9c8294#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=eedc3ea4-6e56-47b6-916e-36240bd70f8e&tracking_id=a88e9106-91a4-4a14-982c-d0f2ede892c2&c_id=/home/card-featured/element&c_uid=473e4717-205f-4c4b-890a-3487e3835d9f",
+        "titulo": "Tênis New Balance Flash V7 Masculino Preto Treino",
+        "preco": 215.92,
+        "timestamp": 1786718132.2041802,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3417706739",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3417706739-kit-whey-protein-isolado-creatina-pre-treino-shaker-_JM?searchVariation=178530097248&matt_event_ts=1786717861659&matt_d2id=7caf6301-613c-4207-8103-13d9f02792c9&matt_tracing_id=0e8b960e-61c9-4db8-92cd-dbdca8a3ff88#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=671ae05c-69d9-4243-973f-c6b607a8d171&tracking_id=1d6d35fb-029a-466b-a4ee-f1e821e8aab5&c_id=/home/card-featured/element&c_uid=d39caf74-527e-46d1-9342-e0da8c086c91",
+        "titulo": "Kit Whey Protein Isolado + Creatina + Pré Treino + Shaker",
+        "preco": 90.93,
+        "timestamp": 1786718182.6800117,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB24233730",
+        "link_bruto": "https://www.mercadolivre.com.br/cafeteira-expresso-dolce-gusto-arno-genio-s-basic-automatica-cinza-escuro/p/MLB24233730?matt_event_ts=1786717851413&matt_d2id=23e17f12-b733-4972-8532-3dc5f7d233d3&matt_tracing_id=caba70d5-fc77-45e5-95e2-0265265146a0#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4678a389-af63-4d6d-99d1-516d2c45d766&tracking_id=d7b63de8-7244-4ed3-af40-7eab321b1b1b&c_id=/home/card-featured/element&c_uid=e451c32c-6433-4c4a-9737-1fd73d216bf4",
+        "titulo": "Cafeteira Café Expresso Dolce Gusto Arno Automática",
+        "preco": 373.0,
+        "timestamp": 1786718221.1618783,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_46455963560",
+        "link_bruto": "https://s.shopee.com.br/8pkynwvPE0",
+        "titulo": " Mouse Gamer Sem Fio Attack Shark X11 Modo Triplo 2.4G BT5.0 22000DPI RGB Recarregável PC桌上清洁竞技专业电竞装备",
+        "preco": 116.41,
+        "timestamp": 1786718257.9294922,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58251974520",
+        "link_bruto": "https://s.shopee.com.br/7psRc6zDGE",
+        "titulo": "Kit 3 Blusas Feminina Muscle Tee Moderna Casual 100% Algodão - F00",
+        "preco": 45.98,
+        "timestamp": 1786718290.7759194,
+        "expirado": false
     }
 ]
