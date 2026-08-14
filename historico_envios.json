@@ -30558,5 +30558,45 @@
         "preco": 59.47,
         "timestamp": 1786740296.7705152,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3258627679",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-masculino-barreda-adidas/up/MLBU3258627679?pdp_filters=item_id%3AMLB4519181723&matt_event_ts=1786746671590&matt_d2id=ef6f320f-d5e3-4851-852d-659bc91ade91&matt_tracing_id=9db5aa43-a655-48b6-9ff1-d616301dc6c0#polycard_client=recommendations_home_affiliate-profile&wid=MLB4519181723&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1934dfce-286f-40b6-a1c3-fbe39aab4990&tracking_id=3da2e856-989e-4d1f-9293-ed29887e23d2&c_id=/home/card-featured/element&c_uid=d35ad607-4f91-4a04-879c-502406f640dc",
+        "titulo": "Tênis Masculino Barreda Adidas",
+        "preco": 186.0,
+        "timestamp": 1786746768.2483275,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3521255465",
+        "link_bruto": "https://www.mercadolivre.com.br/vaso-sanitario-monobloco-privada-bacia-caixa-acoplada-grande/up/MLBU3521255465",
+        "titulo": "Vaso Sanitário Monobloco Privada Bacia Caixa Acoplada Grande Branco Brilhante",
+        "preco": 547.9,
+        "timestamp": 1786746806.016093,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB74547674",
+        "link_bruto": "https://www.mercadolivre.com.br/patinete-scooter-eletrica-f7-ultra-a-para-adulto-com-bateria-52v20ah-motor-1500w-autonomia-100km-bluetooth-e-tela-led/p/MLB74547674?matt_event_ts=1786746635490&matt_d2id=574884be-03c4-4eef-a202-5ba29bbac122&matt_tracing_id=45f01dee-7657-4c1e-a586-a69dbc4afc9b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0f1b4b02-322a-4351-8c73-27937b1fa2cf&tracking_id=58c90302-e01d-4317-9c64-720928ab2638&c_id=/home/card-featured/element&c_uid=eede9c41-ea8e-46bb-9ae1-846ae633ad90",
+        "titulo": "Patinete Elétrica F7 Adulto 52V 1500W, Autonomia até 100km, Carga de 150 kg",
+        "preco": 4599.0,
+        "timestamp": 1786746852.2063942,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DTXBRT5K",
+        "link_bruto": "https://www.amazon.com.br/Braziline-001007241132-Camisa-Flamengo-Principia/dp/B0DTXBRT5K?tag=promobit-d-20",
+        "titulo": "Camisa Flamengo Principia Masculina, P",
+        "preco": 69.9,
+        "timestamp": 1786746880.9676878,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB65565032",
+        "link_bruto": "https://www.mercadolivre.com.br/dimethylex-stim-free-under-labz-suplemento-energetico-sem-cafeina-em-capsulas/p/MLB65565032?matt_event_ts=1786746624752&matt_d2id=14a9c02f-721e-4b30-bdbd-f96b32c704a7&matt_tracing_id=d788af74-2aab-42dd-9be1-2f81236e1bc6#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6fa4f7df-c075-476e-b04c-9dcf3790a067&tracking_id=20f5b1a3-4994-487a-9887-75f9c4f151b8&c_id=/home/card-featured/element&c_uid=a36b1fd6-62f0-4ce3-bc86-0d04839f2c18",
+        "titulo": "Dimethylex Stim Free Under Labz: Suplemento Energético Sem Cafeína em Cápsulas",
+        "preco": 32.8,
+        "timestamp": 1786746918.9513083,
+        "expirado": false
     }
 ]
