@@ -30038,5 +30038,45 @@
         "preco": 38.99,
         "timestamp": 1786660628.3685064,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_23994288266",
+        "link_bruto": "https://s.shopee.com.br/2BE3w00Sg5",
+        "titulo": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
+        "preco": 17.99,
+        "timestamp": 1786667576.5140188,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_52263567194",
+        "link_bruto": "https://shopee.com.br/product/1343318906/52263567194?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMHJtu46N4YL1ETOwWAbpdPCpoOnQDXHQJ5OvtcN0M_eDbRA41r_846ydnLzTRf_samdRHEh2GSlumtjiKqmNpcGhlcnRleHTEmQAAAAzOI_ALCHA0qF4e55mS_2lvVhFQ9oEyPyvXTfvvZUiOY35diVPh9HUY-h9TNHG4wBqfeBBmD0U04o88WAJLxzM7n8dluLOB3o7AvLLGsaCEdn-fU8yTBoaPTbUcuZmShP091BOhVQnaGeGzj83mO3rLHtFN9DKVnNX1sn6k7XnYmlv_VDWWFrzUhMeaPkSE9ItKDzqmXQ&mmp_pid=an_18140170000&uls_trackid=56clsfm600jo&utm_campaign=id_72e9d0c4b936a9d9&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fddfkxtk5ysu",
+        "titulo": "iPhone 17 Pro Max 256 GB - Laranja Cósmico",
+        "preco": 8860.43,
+        "timestamp": 1786667611.9585621,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-adidas-duramo-rc2-masculino/divulgador/oferta/dcbak958c0/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-adidas-duramo-rc2-masculino/divulgador/oferta/dcbak958c0/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis Adidas Duramo Rc2 Masculino",
+        "preco": 157.5,
+        "timestamp": 1786667656.384521,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66848903",
+        "link_bruto": "https://www.mercadolivre.com.br/cervejeira-frost-free-82l-prata-midea-127v/p/MLB66848903?matt_event_ts=1786667476309&matt_d2id=b303d6cb-987a-4495-b39d-7cc3fba859d4&matt_tracing_id=a694598e-1eca-4789-a5b1-c416f0a8d13d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5fcd439e-0ae3-4b26-ad1b-f18119bdd153&tracking_id=b1b145e9-9bf9-4842-a33d-c1763001efb3&c_id=/home/card-featured/element&c_uid=aa45a839-c8dc-41df-b37d-674bde611238",
+        "titulo": "Cervejeira Frost Free 82L Prata Midea",
+        "preco": 1449.0,
+        "timestamp": 1786667689.2128816,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB65118390",
+        "link_bruto": "https://www.mercadolivre.com.br/refrigerador-panasonic-475l-aco-escovado-nr-bb64pv2x-aco-escovado/p/MLB65118390?matt_event_ts=1786667455707&matt_d2id=8ae357cf-de60-4f0f-8d86-212cee16a2cb&matt_tracing_id=0c25282c-2a20-431c-bd6b-60b3943b69f3#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=129e079b-4d84-4a47-957f-3cd139b425c9&tracking_id=7ed45841-3497-4dfd-972d-fd10309f6086&c_id=/home/card-featured/element&c_uid=ba4aec63-be54-4d0c-86e5-463a215d3f29",
+        "titulo": "Refrigerador Panasonic 475L Aco Escovado Nr-bb64pv2x Aço Escovado",
+        "preco": 3882.72,
+        "timestamp": 1786667734.0166996,
+        "expirado": false
     }
 ]
