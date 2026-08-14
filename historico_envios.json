@@ -30406,5 +30406,29 @@
         "preco": 7249.0,
         "timestamp": 1786725859.89774,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB74108173",
+        "link_bruto": "https://www.mercadolivre.com.br/grand-theft-auto-vi-playstation-5/p/MLB74108173?matt_event_ts=1786732258826&matt_d2id=40769429-0059-4203-b629-6d73b5ab9924&matt_tracing_id=4f8fc162-ef1e-4010-9e5a-a29320367b05#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1d44332b-aad2-4ebf-b766-6752d17d502d&tracking_id=4f30b932-3dbc-4566-8a71-5cbf3eda013a&c_id=/home/card-featured/element&c_uid=58fefdb5-443a-42f0-9930-d108955e881a",
+        "titulo": "Grand Theft Auto VI PS5",
+        "preco": 338.0,
+        "timestamp": 1786732393.9036164,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19532854",
+        "link_bruto": "https://www.mercadolivre.com.br/glutamine-l-glutamina-isolada-100-sem-sabor-500g-nutrify/p/MLB19532854?matt_event_ts=1786732279723&matt_d2id=57d4ee43-d224-4193-9909-b3e65606c400&matt_tracing_id=3a60ee2b-3068-4104-b517-8ddb84885082#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7ca8ccc6-7489-484e-b9b1-359158bc68d2&tracking_id=766949d5-92df-45d4-aaf7-4314e47d2f34&c_id=/home/card-featured/element&c_uid=f987e658-be38-4838-b549-d5684ebced68",
+        "titulo": "Glutamine L-Glutamina Isolada 100% Sem Sabor 500g Nutrify",
+        "preco": 67.06,
+        "timestamp": 1786732433.079815,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19838314",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-arabe-special-oud-al-wataniah-unisex-100-ml/p/MLB19838314?matt_event_ts=1786732290434&matt_d2id=58cb4868-144d-4ce8-b4a8-c5cb6dfa0d76&matt_tracing_id=6e750963-2735-4ac1-968d-77c62522eb53#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=79189dd7-3c48-4226-a069-6c511128c13c&tracking_id=6be2b4d0-309d-4774-b624-4ca96aa00df8&c_id=/home/card-featured/element&c_uid=28b28c73-58ac-4f60-b0a7-b8ba3a6ed73d",
+        "titulo": "Perfume Árabe Special Oud Al Wataniah Unisex 100 Ml",
+        "preco": 89.25,
+        "timestamp": 1786732476.254412,
+        "expirado": false
     }
 ]
