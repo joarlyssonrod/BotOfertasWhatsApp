@@ -30822,5 +30822,53 @@
         "preco": 67.64,
         "timestamp": 1786797863.958682,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FH48T6F1",
+        "link_bruto": "https://www.amazon.com.br/Fastpace-Masculino-Granite-Vibrant-Orange/dp/B0FH48T6F1/ref=pd_rhf_dp_s_pd_crcbs_d_sccl_1_11/142-7581729-8654335?pd_rd_w=LLzxY&content-id=amzn1.sym.aef4fdbb-350a-48f6-a7d5-3c838de81164&pd_rd_wg=RDcXL&pd_rd_r=73bb20ed-2924-44b1-9d9a-6c8a98e2aaf1&pd_rd_i=B0FH3K8GRR&tag=promobit-d-20&th=1&psc=1",
+        "titulo": "Tenis Masculino Fila Racer Fastpace NavyBlue GraniteVibrant",
+        "preco": 159.99,
+        "timestamp": 1786804395.6032786,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB23793701",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-sakeena-lattafa-edp-feminino-100ml-volume-da-unidade-100-ml/p/MLB23793701?matt_event_ts=1786804244564&matt_d2id=532378e6-4de6-4b07-a637-21412428dc8c&matt_tracing_id=d6721d09-6e96-4676-a331-44993226eca2#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3f3292e0-b7f0-42f1-ab78-71ba12879f3e&tracking_id=221c3b41-acf5-4fcd-96e1-9f83090ae5a5&c_id=/home/card-featured/element&c_uid=0f24de03-2122-4878-9ea5-896068bc2d8b",
+        "titulo": "Perfume Sakeena Lattafa Edp Feminino 100ml Volume da unidade 100 mL",
+        "preco": 148.0,
+        "timestamp": 1786804437.6487856,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3846525868",
+        "link_bruto": "https://www.mercadolivre.com.br/fritadeira-air-fryer-philco-16-litros-paf16c/up/MLBU3846525868?pdp_filters=item_id%3AMLB6448296692&matt_event_ts=1786804315502&matt_d2id=93f1c693-3dca-445d-9d28-b9b9c2a777cd&matt_tracing_id=4bcbd335-eec6-4638-866b-a806912fb37b#polycard_client=recommendations_home_affiliate-profile&wid=MLB6448296692&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=8a667338-3590-42b5-ae57-be67f55718b2&tracking_id=3fefbf37-2b48-4b01-b990-a2467875c0fa&c_id=/home/card-featured/element&c_uid=cf5eaee2-31ba-415b-9558-f1f48627c485",
+        "titulo": "Fritadeira Air Fryer Philco 16 Litros Paf16c Preto 127v",
+        "preco": 386.1,
+        "timestamp": 1786804484.8613648,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB55254425",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-com-ia-256gb-8gb-ram-cam-de-50mp-tela-de-67-nfc-ip54-preto-4g/p/MLB55254425?matt_event_ts=1786804283223&matt_d2id=e6513f08-48b4-42c4-be54-8bf747ac1f48&matt_tracing_id=80a79d07-a2ab-4451-84cc-c9606181e04c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=db5df401-6d5f-4e6f-8718-796359175601&tracking_id=7c9f0f6c-11db-453f-a52a-67f28f8b92a3&c_id=/home/card-featured/element&c_uid=c8cdd1be-3ac4-4cbb-ac05-ff4d56a7bcee",
+        "titulo": "Celular Samsung Galaxy A17 Com Ia 256gb 8gb Ram Câm De 50mp Tela De 6.7 Nfc Ip54 - Preto 4G",
+        "preco": 1083.78,
+        "timestamp": 1786804531.2351272,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FVP6KRP4",
+        "link_bruto": "https://www.amazon.com.br/Electrolux-Geladeira-Frost-Duplex-TF38S/dp/B0FVP6KRP4",
+        "titulo": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Inox Look (TF38S) 127V",
+        "preco": 2499.0,
+        "timestamp": 1786804570.5773213,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_25155478447",
+        "link_bruto": "https://s.shopee.com.br/3VjU32pLVL",
+        "titulo": "MEDICUBE zero pore pad 2.0,zero pore pad mild 3types(original pad/refill)",
+        "preco": 129.99,
+        "timestamp": 1786804613.5487916,
+        "expirado": false
     }
 ]
