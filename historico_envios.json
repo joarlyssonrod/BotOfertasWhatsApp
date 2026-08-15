@@ -31110,5 +31110,29 @@
         "preco": 2554.0,
         "timestamp": 1786826236.9925113,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_49308326632",
+        "link_bruto": "https://shopee.com.br/product/1556773662/49308326632?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMHJtu46N4YL1ETOwWAbpdPCpoOnQDXHQJ5OvtcN0M_eDbRA41r_846ydnLzTRf_samdRHEh2GSlumtjiKqmNpcGhlcnRleHTEmQAAAAz7X0STNmEUi_L1gljXhk-Yzrw_sK9ZfgZFPU7WQy1L7wJNPHfFLXN2mEnAbTVgmNCriuhQ1oQw-ercyZ0AL92zRf6LQcplN5EDRQ9gEy8NuK2B--NK8Lem23m57vjzy4TIWjVKsKsEHwxaCLIVV9e6D69aB3MAeB-FbFYIC191DfkCcyGeX0tYNvVWFaYwIFSzpg7RZw&mmp_pid=an_18140170000&uls_trackid=56d5lkd800l7&utm_campaign=id_60fbc25eef2764b2&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fdpvd92ewirc",
+        "titulo": "Cerveja Roleta Russa Easy IPA 350ml",
+        "preco": 4.89,
+        "timestamp": 1786833151.3144076,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB27050983",
+        "link_bruto": "https://www.mercadolivre.com.br/aspirador-de-po-e-liquido-portatil-wap-gtw-compact-1400w-55l-127v/p/MLB27050983",
+        "titulo": "Aspirador De Pó E Líquido Portátil Wap Gtw Compact 1400w 5,5L 127V",
+        "preco": 165.9,
+        "timestamp": 1786833184.7436166,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/geladeira-lg-frost-free-inverter-395l-duplex-cor-branca-127v/divulgador/oferta/gc2220cjh4/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/geladeira-lg-frost-free-inverter-395l-duplex-cor-branca-127v/divulgador/oferta/gc2220cjh4/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Geladeira LG Frost Free Inverter 395 Litros Duplex Cor Branca - 127V",
+        "preco": 2375.99,
+        "timestamp": 1786833228.237947,
+        "expirado": false
     }
 ]
