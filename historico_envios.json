@@ -31318,5 +31318,37 @@
         "preco": 161.0,
         "timestamp": 1786884364.2594683,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_16892189215",
+        "link_bruto": "https://s.shopee.com.br/8V8Bb5Ocd0",
+        "titulo": "Bicicleta  Aro 29 GT Sprint MX7 24V index Freio Disco Alumínio Suspensão Aero MTB",
+        "preco": 779.0,
+        "timestamp": 1786890761.544211,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4171119628",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-thahaani-eau-de-parfum-100ml-original/up/MLBU4171119628?pdp_filters=item_id%3AMLB4816797863&matt_event_ts=1786890632189&matt_d2id=1726ad54-59bd-4cb9-9bd6-ce0661684077&matt_tracing_id=d678a0d5-ea08-4752-a46d-b666ca33953f#polycard_client=recommendations_home_affiliate-profile&wid=MLB4816797863&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=046bbc5f-b9a1-4958-87b7-bf653571cda8&tracking_id=f8765eb9-ae1b-4091-863f-5dd1dc0c568a&c_id=/home/card-featured/element&c_uid=8b43572d-1bae-40b7-81ab-25c41d20f5ba",
+        "titulo": "Perfume Thahaani Eau De Parfum 100ml",
+        "preco": 154.0,
+        "timestamp": 1786890800.7926226,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB45514086",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s25-ultra-5g-256gb-12gb-cam-quad-cor-titanium-gray/p/MLB45514086?matt_event_ts=1786890660121&matt_d2id=1ec357e2-1184-479a-b71e-5f7839f488a9&matt_tracing_id=860c8b15-f996-45df-a3f1-7e7a2188dc7f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=9de82030-5651-4d44-8b8e-5bd8d6979549&tracking_id=ac64a4a3-09c5-48af-a70c-48be53b769b0&c_id=/home/card-featured/element&c_uid=4ca93158-d505-4bdf-a5b0-3129ce828eee",
+        "titulo": "Celular Samsung Galaxy S25 Ultra 5g 256gb 12gb Câm Quád Cor Titanium Gray",
+        "preco": 4878.87,
+        "timestamp": 1786890844.6510823,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB58916032",
+        "link_bruto": "https://www.mercadolivre.com.br/ssd-1tb-m2-nvme-pcie-40-western-digital-sn3000-velocidade-de-leitura-e-gravacao-50004200-mbs-wds100t4g0e-00cps0/p/MLB58916032?matt_event_ts=1786890670814&matt_d2id=b67600a3-0445-42a7-83ca-c0680c14ca9e&matt_tracing_id=f8f5d976-6609-40eb-80fb-230bf1eb0542#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ba0f4213-f802-49ea-9415-19a0119e264f&tracking_id=93793087-de81-4d04-b1cd-ab58f6279ff1&c_id=/home/card-featured/element&c_uid=350030f7-1ff0-44b4-bc67-eda88d03c818",
+        "titulo": "SSD 1TB M.2 NVME PCIE 4.0 Western Digital Sn3000 Velocidade de Leitura e Gravação 50004200 MBs WDS100T4G0E-00CPS0",
+        "preco": 764.0,
+        "timestamp": 1786890892.854019,
+        "expirado": false
     }
 ]
