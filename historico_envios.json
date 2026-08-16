@@ -31510,5 +31510,61 @@
         "preco": 1229.0,
         "timestamp": 1786912586.6884,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B081GV628Y",
+        "link_bruto": "https://www.amazon.com.br/Electrolux-Limpa-Forno-e-Grill/dp/B081GV628Y/?tag=promobit-d-20",
+        "titulo": "Electrolux Limpa Forno e Grill 200ml Ação Desengordurante",
+        "preco": 15.1,
+        "timestamp": 1786919623.0662644,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58262972685",
+        "link_bruto": "https://s.shopee.com.br/qil01nXua",
+        "titulo": "Massageador de Pescoço e Ombros Portátil 3D Com Calor Relaxante Massagem Profunda",
+        "preco": 117.99,
+        "timestamp": 1786919665.9680376,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DJCF8JV3",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DJCF8JV3/?tag=promobit-d-20",
+        "titulo": "Creme Crocante Ovomaltine Pote 530g",
+        "preco": 34.77,
+        "timestamp": 1786919703.9718046,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FFTRRFQ7",
+        "link_bruto": "https://www.amazon.com.br/Mizuno-101136136-MIZUNO-VIRTUE-2/dp/B0FFTRRFQ7?pd_rd_w=ww6SU&content-id=amzn1.sym.9f1e6006-5a62-4a6c-851a-fabeec20c1d8&pd_rd_wg=F5xkY&pd_rd_r=610c10f8-da6c-4e9a-9162-20f4dd815697&pd_rd_i=B0FFTQ2JWN&tag=promobit-d-20&th=1&psc=1",
+        "titulo": "Tênis Mizuno VIRTUE 2 - Chumbo - Tamanho 35",
+        "preco": 230.29,
+        "timestamp": 1786919742.9462287,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BB1767BP",
+        "link_bruto": "https://www.amazon.com.br/C%C3%A1psulas-Dolce-Gusto-Caseiro-c%C3%A1psulas/dp/B0BB1767BP?tag=promobit-d-20",
+        "titulo": "Dolce Gusto Café Caseiro 10 Cápsulas",
+        "preco": 16.9,
+        "timestamp": 1786919786.1185088,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CV8XRPGP",
+        "link_bruto": "https://www.amazon.com.br/Nescaf%C3%A9-Dolce-Gusto-Pingado-c%C3%A1psulas/dp/B0CV8XRPGP?tag=promobit-d-20",
+        "titulo": "Nescafé Dolce Gusto Pingado 10 cápsulas",
+        "preco": 16.9,
+        "timestamp": 1786919833.3156388,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08KSVQ62G",
+        "link_bruto": "https://www.amazon.com.br/Nescaf%C3%A9-Dolce-Mochacinno-Canela-Capsulas/dp/B08KSVQ62G?tag=promobit-d-20",
+        "titulo": "Café em Cápsula NESCAFÉ DOLCE GUSTO Mochaccino Canela 10 Cápsulas",
+        "preco": 16.9,
+        "timestamp": 1786919866.50911,
+        "expirado": false
     }
 ]
