@@ -31422,5 +31422,37 @@
         "preco": 70.2,
         "timestamp": 1786898342.3730373,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB3979110183",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3979110183-camiseta-aramis-masculina-crewneck-basic-lisa-preta-_JM?searchVariation=186965081247&matt_event_ts=1786905042152&matt_d2id=77cb662c-eacd-439f-b9e5-d96468a214ca&matt_tracing_id=6421dd4d-4c1a-4906-bd37-0425891445ca#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=34098877-749d-43b0-9c4b-3e8d2118b40e&tracking_id=a4ccee0b-53c0-4aa5-a140-38964adfc507&c_id=/home/card-featured/element&c_uid=aac0cb9b-3595-45b0-9678-67d52543a424",
+        "titulo": "Camiseta Aramis Crewneck Basic",
+        "preco": 95.0,
+        "timestamp": 1786905217.2329872,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3878013268",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-nike-court-lite-4-masculino/up/MLBU3878013268?pdp_filters=item_id%3AMLB4571292795&matt_event_ts=1786905021883&matt_d2id=55063b8e-4eb7-41e6-9726-09467356d59a&matt_tracing_id=8c82440f-b735-4df2-8126-c2491010b0ba#polycard_client=recommendations_home_affiliate-profile&wid=MLB4571292795&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=01814a1c-7553-4c10-85eb-67009a6211da&tracking_id=d03c0d8f-a5c1-4d99-98f7-6e93b4640f60&c_id=/home/card-featured/element&c_uid=02cb3e38-05b6-4c83-a866-5febbe4e3c2e",
+        "titulo": "Tênis Nike Court Lite 4",
+        "preco": 299.99,
+        "timestamp": 1786905260.1807299,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB21776085",
+        "link_bruto": "https://www.mercadolivre.com.br/whey-protein-ultra-refil-900g-sabor-chocolate-ftw/p/MLB21776085?matt_event_ts=1786905111408&matt_d2id=451057e5-9030-41a3-a214-36b79ebc9f2e&matt_tracing_id=a0b72cba-5aa1-410b-9c07-9704c90221d0#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ca15fa50-49e7-4a47-a6f8-a1df58934c55&tracking_id=4673e6ee-e248-42d4-a25e-d857c74784ff&c_id=/home/card-featured/element&c_uid=a6fa77f7-29f8-47f6-94c3-fcea40aa3588",
+        "titulo": "Whey Protein Ultra Refil 900g Sabor Baunilha - FTW",
+        "preco": 59.9,
+        "timestamp": 1786905305.8815804,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB31054937",
+        "link_bruto": "https://www.mercadolivre.com.br/processador-amd-ryzen-7-5700-46ghz-8c-16t-am4/p/MLB31054937?matt_event_ts=1786905031849&matt_d2id=11ee3936-0c7d-472f-a201-605214bca2e0&matt_tracing_id=f7b7f8e7-5b95-4075-87d6-3a48d487b8ad#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=22e6fc05-bfc1-4750-9ee4-20221f14fa98&tracking_id=b8ea2743-cc2a-4b03-95ef-ea3c12446f26&c_id=/home/card-featured/element&c_uid=ba9c3fe7-8939-47c2-90fe-9d9f9b4ef8fe",
+        "titulo": "Processador AMD Ryzen 7 5700",
+        "preco": 781.0,
+        "timestamp": 1786905346.8300443,
+        "expirado": false
     }
 ]
