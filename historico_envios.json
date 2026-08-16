@@ -31454,5 +31454,61 @@
         "preco": 781.0,
         "timestamp": 1786905346.8300443,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_42931642321",
+        "link_bruto": "https://s.shopee.com.br/8fRcC7Ku02",
+        "titulo": "Placa de Video GeForce NVIDIA PNY RTX5060TI 8GB OC GDDR7 VCG5060T8DFXPB1-O",
+        "preco": 2899.0,
+        "timestamp": 1786912364.376765,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23198444534",
+        "link_bruto": "https://s.shopee.com.br/7AcoPMQc2f",
+        "titulo": "Bicicleta Bike Ergometrica Spinning Academia Fitness Profissional 120kg",
+        "preco": 466.66,
+        "timestamp": 1786912396.578676,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58251677812",
+        "link_bruto": "https://s.shopee.com.br/7psVCaO4gj",
+        "titulo": "Bicicleta Ergometrica Spinning Academia Bike Fitness Profissional Monitor de Treino Garrafa de Agua",
+        "preco": 499.99,
+        "timestamp": 1786912425.6872768,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU1737409985",
+        "link_bruto": "https://www.mercadolivre.com.br/travesseiro-nasa-ergonomico--cervical-53x11cm-ortopedico/up/MLBU1737409985?pdp_filters=item_id%3AMLB2727037597&matt_event_ts=1786912283437&matt_d2id=ca580850-14b6-4569-82b6-2b004a6d00a2&matt_tracing_id=17060f63-69d7-45f5-b7b4-66b6dbaaa0b1#polycard_client=recommendations_home_affiliate-profile&wid=MLB2727037597&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=e3279111-dd9f-474a-801a-adf08198b414&tracking_id=e7da3768-965a-4ab3-8981-535e377f3b94&c_id=/home/card-featured/element&c_uid=647dc3b1-b70a-4c17-95ff-d226b48ac090",
+        "titulo": "Travesseiro Ergonômico Cervical 53x11cm",
+        "preco": 65.0,
+        "timestamp": 1786912465.8073287,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3521618922",
+        "link_bruto": "https://www.mercadolivre.com.br/lustre-teto-led-pendente-moderno-para-sala-quarto-cozinha/up/MLBU3521618922",
+        "titulo": "Lustre Teto Led Pendente Moderno Para Sala Quarto Cozinha 127/220v Dourado",
+        "preco": 124.45,
+        "timestamp": 1786912512.2737653,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_45764947825",
+        "link_bruto": "https://shopee.com.br/product/1009975506/45764947825?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMHJtu46N4YL1ETOwWAbpdPCpoOnQDXHQJ5OvtcN0M_eDbRA41r_846ydnLzTRf_samdRHEh2GSlumtjiKqmNpcGhlcnRleHTEmQAAAAx0Wjpm0fLpQKRDfTaMhqUdalDWGuvyQoiVz_5E34_LW075rp4H_V2LyA8rz6Bje7qerNM07QuZUOsXnwmsaM1DcyBOGBSDqtAWU5Nbw9-kAH4TlyIyRt3W3a0iJekAF_iTx3bmZF9kh-6h2JJZYqfdNt5JHQcVM9AwsW6re2Fbevnsz_T6qH9KaX23vvyWsCPCRwHrqQ&mmp_pid=an_18140170000&uls_trackid=56dd7ear00ik&utm_campaign=id_4830803ed42816f5&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fdvcgqxr6vs1",
+        "titulo": "Geladeira Lg 375l Frost Free Inverter Branca - 110 V",
+        "preco": 2195.0,
+        "timestamp": 1786912550.0503018,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB69075787",
+        "link_bruto": "https://www.mercadolivre.com.br/caixa-de-som-jbl-xtreme-5-bluetooth-portatil-ip68-28h-preto-azul-petroleo/p/MLB69075787?matt_event_ts=1786912272492&matt_d2id=34c6a7d5-a9af-45e4-b4f5-e7be67805875&matt_tracing_id=75ec309e-8538-40c2-aa59-eecb461875e4#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1a09f914-861a-4765-94c9-ddec89a6654d&tracking_id=36da6c34-75b1-4a62-86ac-30bbf4e62ece&c_id=/home/card-featured/element&c_uid=27787e18-e2f9-4c20-ba1b-ab2aaebcb2ce",
+        "titulo": "Caixa De Som Jbl Xtreme 5 Bluetooth Portátil Ip68 28h Preto Azul-petróleo",
+        "preco": 1229.0,
+        "timestamp": 1786912586.6884,
+        "expirado": false
     }
 ]
