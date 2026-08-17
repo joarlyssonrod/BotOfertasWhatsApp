@@ -31742,5 +31742,45 @@
         "preco": 46.34,
         "timestamp": 1786977609.6235116,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB5398100610",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5398100610-camisa-masculina-de-manga-comprida-com-botoes-e-listrada-_JM?searchVariation=183679330992&matt_event_ts=1786984258912&matt_d2id=ea02a757-0294-4ec5-b397-37944df17af2&matt_tracing_id=5c4f924b-dd01-4437-8f57-fe212fa28aab#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=08a4cad6-23b1-4809-bb9d-7a334290dccb&tracking_id=a88b2b5d-eff5-445f-bee9-2a456fb09c91&c_id=/home/card-featured/element&c_uid=9d4f239c-b8df-4485-a55e-f4c6d73024b6",
+        "titulo": "Camisa Masculina De Manga Comprida Com Botões E Listrada",
+        "preco": 53.6,
+        "timestamp": 1786984424.7222703,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB74983465",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-10-potes-hermeticos-vidro-640ml-mantimentos-marmita-forno-micro-ondas-airfryer-cozinha-com-4-travas-super-vedacao-luvinco/p/MLB74983465",
+        "titulo": "Kit 10 Potes Herméticos Vidro 640ml Mantimentos Marmita Forno Micro-ondas Airfryer Cozinha com 4 Travas Super Vedação LuvinCo",
+        "preco": 78.9,
+        "timestamp": 1786984475.4535573,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DXQYHD2F",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DXQYHD2F?social_share=cm_sw_r_apan_dp_ss_9M0B39BQF9JE7W2KWKKA&tag=promobit-d-20",
+        "titulo": "Chiclete Trident X Gamers Citrus Mix - Caixa com 6 unid de 48,3g",
+        "preco": 51.21,
+        "timestamp": 1786984514.8984473,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB24044937",
+        "link_bruto": "https://www.mercadolivre.com.br/philco-geladeira-inverter-frost-free-prf535i-inox-com-freezer-437l/p/MLB24044937?matt_event_ts=1786984284011&matt_d2id=0f52d790-8903-4cd4-9938-24a769fcea8c&matt_tracing_id=41300ad5-41dd-4996-934b-320293546d05#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=2ce48ab7-f5c4-4175-ae2b-4e8a3b8d905d&tracking_id=ba9e90b5-707d-4c45-ac48-f03a7e52f1d7&c_id=/home/card-featured/element&c_uid=f2c77706-5c6a-4193-b440-04444cd3aeca",
+        "titulo": "Philco Geladeira Inverter Frost Free Prf535i Inox Com Freezer 437l",
+        "preco": 3699.9,
+        "timestamp": 1786984559.9940624,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB62870125",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-gamer-aoc-agon-g50-27-144hz-05ms-ips-hdr10-g-sync-27g50f/p/MLB62870125?matt_event_ts=1786984269745&matt_d2id=0d8807a2-d661-4df3-a812-15464fcf4a78&matt_tracing_id=9d955321-8227-4440-8398-95cfa550cf87#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a57da841-a6c7-406a-858c-2bbce2ff609f&tracking_id=4d301a95-9c5e-47f5-8609-9ed5df3d31bc&c_id=/home/card-featured/element&c_uid=2f41af80-a650-4a7d-bf2a-accc443fe388",
+        "titulo": "Monitor Gamer AOC AGON G50 27\" 144HZ 0,5MS IPS HDR10 G-Sync 27G50F",
+        "preco": 623.0,
+        "timestamp": 1786984612.431612,
+        "expirado": false
     }
 ]
