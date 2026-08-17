@@ -31598,5 +31598,69 @@
         "preco": 19.97,
         "timestamp": 1786926901.0802617,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB4069819017",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4069819017-tnis-fila-maxxi-lite-masculino-leve-confortavel-original-_JM?searchVariation=197824605481&matt_event_ts=1786969867476&matt_d2id=00b39adf-3542-43f7-9915-97eeb64674a2&matt_tracing_id=0a1cdae4-911f-419d-8985-1484ed05a470#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=cbbff291-ce3e-4894-8f3a-35ebaf640d0a&tracking_id=d5d8a8ef-5f07-420c-a784-dbd73a215386&c_id=/home/card-featured/element&c_uid=8d98110f-74aa-42cc-abb1-43bade4bf583",
+        "titulo": "Tênis Fila Maxxi Lite Masculino Leve Confortável Original",
+        "preco": 179.99,
+        "timestamp": 1786969982.8741534,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB27577458",
+        "link_bruto": "https://www.mercadolivre.com.br/ventilador-de-coluna-40cm-super-power-vsp40c-6-pas-3-velocidades-mondial-127v/p/MLB27577458",
+        "titulo": "Ventilador de Coluna 40cm Super Power VSP40C 6 Pás 3 Velocidades Mondial 127v",
+        "preco": 144.51,
+        "timestamp": 1786970018.0619574,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58212034944",
+        "link_bruto": "https://s.shopee.com.br/5Arl5dEqhp",
+        "titulo": "Conjunto completo de acessórios: Teclado, Mouse e Capa，Acessórios para Tablet",
+        "preco": 499.0,
+        "timestamp": 1786970053.4866414,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB42554358",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-pc-gamer-lg-24-ips-full-hd-100hz-hdmi-24ms500-b/p/MLB42554358",
+        "titulo": "Monitor PC Gamer LG 24” IPS, Full HD, 100Hz, HDMI - 24MS500-B",
+        "preco": 472.11,
+        "timestamp": 1786970089.4759276,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DGMH48BD",
+        "link_bruto": "https://www.amazon.com.br/Apple-iPhone-16-512-Verde-Acizentado/dp/B0DGMH48BD",
+        "titulo": "Apple iPhone 16 (512 GB) – Verde-Acizentado",
+        "preco": 5799.0,
+        "timestamp": 1786970131.2453403,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB60968045",
+        "link_bruto": "https://www.mercadolivre.com.br/principia-kit-essencial-gl-03-ch-vc-ps-sensivel-dianoite/p/MLB60968045",
+        "titulo": "Principia Kit Essencial Gl-03 + Ch + Vc + Ps Sensível Dia/noite",
+        "preco": 123.42,
+        "timestamp": 1786970167.9722066,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB22688512",
+        "link_bruto": "https://www.mercadolivre.com.br/placa-mae-msi-b550m-pro-vdh-am4-hdmi-vga-dport/p/MLB22688512?matt_event_ts=1786969854697&matt_d2id=0c670d5d-0ee9-4893-86e4-d9b1aca9e192&matt_tracing_id=2b596680-e8a2-4dae-8274-0f872729fff9#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=9eb3b5d8-3ba7-4d08-ab27-1380b6b36f1e&tracking_id=88f263b5-4758-4375-980b-13cacc263464&c_id=/home/card-featured/element&c_uid=d5dc7b73-f291-4319-8492-cdb10a8658bc",
+        "titulo": "Placa-mãe MSI B550m Pro-VDH Am4 HDMI VGA Dport",
+        "preco": 593.0,
+        "timestamp": 1786970218.5534253,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB59323822",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-gamer-aoc-agon-quad-27-qhd-180hz-05ms-ips-hdr10-base-ajustavel-q27g4f-preto/p/MLB59323822?matt_event_ts=1786969890861&matt_d2id=22b4661a-dea2-41de-9c12-0fa429fc6158&matt_tracing_id=1a025d7f-1cc5-445a-870c-8fc27add31a0#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=95bfece5-3649-4c35-8773-3ec22a792352&tracking_id=c8e1907a-8f26-4aa0-b2af-75dc9e3c34aa&c_id=/home/card-featured/element&c_uid=6feb59ca-7799-45ae-842a-ad6a30e8ee83",
+        "titulo": "Monitor Gamer AOC AGON QUAD 27\" QHD 180Hz 0,5ms IPS HDR10 Base Ajustável Q27G4F Preto",
+        "preco": 1064.19,
+        "timestamp": 1786970266.2759821,
+        "expirado": false
     }
 ]
