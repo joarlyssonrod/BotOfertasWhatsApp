@@ -31782,5 +31782,37 @@
         "preco": 623.0,
         "timestamp": 1786984612.431612,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB74572699",
+        "link_bruto": "https://www.mercadolivre.com.br/televisao-smart-tv-hq-65-qled-4k-uhd-dolby-audio-wi-fi-bluetooth-3-hdmi-2-usb-hdr-smart-tv-led-bivolt/p/MLB74572699?matt_event_ts=1786991548625&matt_d2id=68ab12c6-6397-4472-9621-9c3ca03a9a09&matt_tracing_id=1fd72a8f-7651-4721-941b-3ed33573b5f3#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=e45a8086-49db-47ea-9dc1-e79b8a63d72e&tracking_id=f010a533-7205-4b3a-b3b7-ba81c6c5c998&c_id=/home/card-featured/element&c_uid=b639fa17-28e0-45c0-9604-6c21a1f60220",
+        "titulo": "Smart TV HQ QLED 65 Polegadas 4K Dolby Audio Wi-Fi",
+        "preco": 2489.0,
+        "timestamp": 1786991666.304753,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5386228690",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5386228690-kit-3-camisetas-algodo-dia-dia-sandrini-basica-conforto-_JM?searchVariation=187926567959&matt_event_ts=1786991467307&matt_d2id=24d91b87-3d1f-4c9c-a7f6-be46b1953326&matt_tracing_id=fc56f7fa-7692-4a00-8355-a66478117e6c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=b66a80a0-04b9-4214-bab5-f8a684b84ecd&tracking_id=723df72e-ac81-4f77-be93-85ccc3877a2e&c_id=/home/card-featured/element&c_uid=6cf90e43-eee9-4985-be81-ba7c0608ee07",
+        "titulo": "Kit com 3 Camisetas Sandrini Algodão",
+        "preco": 46.0,
+        "timestamp": 1786991708.8957329,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4291654613",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4291654613-tnis-vizzano-feminino-casual-original-confortavel-moda-1430-_JM?searchVariation=186858724226&matt_event_ts=1786991514683&matt_d2id=87b21ab3-3d65-452e-956c-0de7bbf02d40&matt_tracing_id=61fb7eb4-600e-470a-bc44-4ac29fae6ec9#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f9d0f76a-a196-4a4e-9343-70312791824c&tracking_id=54aaed16-05e2-48a7-b7c9-144fe6407d46&c_id=/home/card-featured/element&c_uid=eaf81236-38f1-4df7-9100-8bf527ff006c",
+        "titulo": "Tênis Vizzano Feminino Casual Original Confortável Moda 1430",
+        "preco": 72.37,
+        "timestamp": 1786991746.6506631,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07FXVWNJ6",
+        "link_bruto": "https://www.amazon.com.br/Batedeira-Bella-Mondial-B-23-NP/dp/B07FXVWNJ6/ref=pd_sim_d_sccl_3_4/137-9605450-5298466/?tag=promobit-d-20&th=1",
+        "titulo": "Batedeira Bella Massa, Mondial, PretoInox, 500W, 110V - B-23 NP",
+        "preco": 115.0,
+        "timestamp": 1786991787.1811993,
+        "expirado": false
     }
 ]
