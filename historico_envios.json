@@ -32622,5 +32622,21 @@
         "preco": 214.5,
         "timestamp": 1787258646.1554759,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_19099664173",
+        "link_bruto": "https://s.shopee.com.br/8AVS6yXvew",
+        "titulo": "Varal De Chão De Roupas 3 Andares Dobrável Grande 4 Rodas",
+        "preco": 69.9,
+        "timestamp": 1787265145.9025245,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GRJV247C",
+        "link_bruto": "https://www.amazon.com.br/Notebook-Gamer-Alienware-AC16250-Ubuntu/dp/B0GRJV247C",
+        "titulo": "Notebook Gamer Alienware 16 AC16250, Intel Core 5 210H, Ubuntu Linux | NVIDIA GeForce RTX 4050 6 GB GDDR6, 16 WQXGA 120 Hz, 16 GB DDR5, 512 GB SSD, Cor Azul Escuro, Wi‑Fi 7, Teclado retroiluminado",
+        "preco": 6949.0,
+        "timestamp": 1787265194.7583718,
+        "expirado": false
     }
 ]
