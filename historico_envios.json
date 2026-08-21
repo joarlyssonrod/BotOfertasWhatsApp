@@ -32838,5 +32838,45 @@
         "preco": 2279.0,
         "timestamp": 1787330342.0772314,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DHST74Q5",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DHST74Q5?tag=promobit-d-20",
+        "titulo": "Mimo Style Conjunto 5 Panelas, Feitas em Alumínio e Tampa de Vidro Temperado. Revestimento Soft-Touch Nas Alças e Fundo Triplo. Funciona em Fogão a",
+        "preco": 289.9,
+        "timestamp": 1787337291.8548715,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08HSMQFNX",
+        "link_bruto": "https://www.amazon.com.br/Gal%C3%A1pagos-Tabuleiro-Competitivo-jogadores-30-60min/dp/B08HSMQFNX?dib=eyJ2IjoiMSJ9.pIr--yYliMTXCQP1figzc5bHt2r7k2X4NDseR3i0Kjfi5iui7LvemPYR1ko3v0GlgANymGglvQl3ztnGUaVBByyCWhPd4SSsKAAfOuS-0-w9K6vknhrsSfK3f6h-v7ap8pRVhz_nxWg-eBy6A5PggaREgEJ9RKWVdrPONQKmvM1TpARgWNsv_xLo6EfkRmWb1xWZSv5aJpD_lICEyhSKKoY4SA0ti9PR4aCH3YyK1XYi1PSFi9L83DRDoyfCLV5YmZqO8_UWAJYG6_ZKalaxFZWFFXwh8etjnL5dFxkAHMSXhxc3mXat4PT3MVzt0ECjpg4UgbzuRxM_ZpeCk6Yci0_Iw3ZxINJe9AR_ILuKNZ0.Xup6jqgHFlvAft5PhB6hVp2qGwiXPgS-K1Mv2QdoFRc&ampdib_tag=se&ampqid=1741874246&ampsrs=20967360011&ampufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9&ampxpid=yGU8UNdxmJwMb&amplanguage=pt_BR&tag=promobit-d-20",
+        "titulo": "Galápagos, Skull, Jogo De Tabuleiro Competitivo, 3-6 Jogadores, 30-60min",
+        "preco": 65.75,
+        "timestamp": 1787337328.81844,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07DHRPTPB",
+        "link_bruto": "https://www.amazon.com.br/dp/B07DHRPTPB/ref=cm_sw_r_as_gl_api_gl_i_GC3J18DZY306EEBPH6KD?tag=promobit-d-20&th=1",
+        "titulo": "Shampoo Para Bebê Johnson's Baby De Glicerina 400ml",
+        "preco": 18.0,
+        "timestamp": 1787337373.4803138,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/balcao-para-cooktop-4-ou-5-bocas-armario-multiuso-de-cozinha-80cm-com-2-portas-anunes/divulgador/oferta/ad738eb3jf/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/balcao-para-cooktop-4-ou-5-bocas-armario-multiuso-de-cozinha-80cm-com-2-portas-anunes/divulgador/oferta/ad738eb3jf/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Balcão Para Cooktop 4 ou 5 Bocas Armário Multiuso de Cozinha 80cm Com 2 Portas - Anunes",
+        "preco": 228.65,
+        "timestamp": 1787337420.8510535,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB44017283",
+        "link_bruto": "https://www.mercadolivre.com.br/geladeira-electrolux-frost-free-431l-autosense-inox-tf70s-cor-inox-look/p/MLB44017283?matt_event_ts=1787337052594&matt_d2id=3897ae19-afdc-4a44-9663-7777cb487d2b&matt_tracing_id=3e317175-1fa7-496a-b7a9-718e0cb1f672#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=64356f9d-ab28-490a-989a-0fd3e5dd7253&tracking_id=c1c7c60d-b29c-4f07-8ce3-9f771024bc9e&c_id=/home/card-featured/element&c_uid=3b023a45-6cf4-4fe5-8aed-f8917388287d",
+        "titulo": "Geladeira Electrolux Frost Free 431l Autosense Inox (tf70s) Cor Inox look",
+        "preco": 2277.99,
+        "timestamp": 1787337460.9295108,
+        "expirado": false
     }
 ]
