@@ -32766,5 +32766,77 @@
         "preco": 4687.11,
         "timestamp": 1787315822.8444932,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B09CRHZV85",
+        "link_bruto": "https://www.amazon.com.br/dp/B09CRHZV85?tag=promobit-d-20&th=1",
+        "titulo": "Cereal Sucrilhos Original Kellogg's 1kg",
+        "preco": 24.0,
+        "timestamp": 1787330022.3963747,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/conjunto-de-bowls-e-medidores-de-inox-3-pecas-electrolux-multiuso-41049099/divulgador/oferta/240749600/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/conjunto-de-bowls-e-medidores-de-inox-3-pecas-electrolux-multiuso-41049099/divulgador/oferta/240749600/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Conjunto Bowls Inox 3 Peças Electrolux Multiuso",
+        "preco": 49.9,
+        "timestamp": 1787330064.3294518,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-adidas-racer-tr23-masculino/divulgador/oferta/be96326ckh/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-adidas-racer-tr23-masculino/divulgador/oferta/be96326ckh/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis Adidas Racer Tr23 Masculino",
+        "preco": 179.99,
+        "timestamp": 1787330102.4177804,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63328715",
+        "link_bruto": "https://www.mercadolivre.com.br/passadeira-a-vapor-dobravel-philco-150ml-1250w-pvp06a-bivolt-branco/p/MLB63328715",
+        "titulo": "Passadeira A Vapor Dobrável Philco 150ml 1250w Pvp06a Bivolt Branco",
+        "preco": 89.9,
+        "timestamp": 1787330143.860388,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F8R27HZ1",
+        "link_bruto": "https://www.amazon.com.br/dp/B0F8R27HZ1?social_share=cm_sw_r_apan_dp_20W2VA110SQD0GMH1N44&tag=promobit-d-20&th=1&psc=1",
+        "titulo": "Camisa AC Milan THIRD 25\\26 Torcedor Masculina - G",
+        "preco": 170.0,
+        "timestamp": 1787330187.1113331,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DB8XJK3P",
+        "link_bruto": "https://www.amazon.com.br/Maxi-Cosi-Travel-System-Essential-Champagne/dp/B0DB8XJK3P",
+        "titulo": "Travel System Maxi-Cosi, Eva³, Essential Black Champagne",
+        "preco": 1897.76,
+        "timestamp": 1787330221.5334213,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_18496964966",
+        "link_bruto": "https://s.shopee.com.br/AUtNxHZ3cK",
+        "titulo": "Jaqueta Masculina Kong Impermeável Corta Vento.",
+        "preco": 62.52,
+        "timestamp": 1787330260.1038306,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB49211099",
+        "link_bruto": "https://www.mercadolivre.com.br/placa-de-video-msi-rtx-5060-ti-16gb-gddr7-ventus-plus-128bts/p/MLB49211099",
+        "titulo": "Placa De Vídeo Msi Rtx 5060 Ti 16gb Gddr7 Ventus Plus 128bts",
+        "preco": 3923.0,
+        "timestamp": 1787330294.6219318,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB36336899",
+        "link_bruto": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-partybox-stage-320-jbl-blpbstage320br-preta/p/MLB36336899?matt_event_ts=1787329820858&matt_d2id=f4e9bb32-f6cf-45f2-bb09-1037d0fb4aab&matt_tracing_id=53d949e2-340e-4c90-b4f1-fcad8f18225a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=20a54b6a-4fa7-4add-bc66-e075f8ee99c2&tracking_id=eb9081a3-41e6-4314-9258-5fe96e4327c5&c_id=/home/card-featured/element&c_uid=8cc53538-88b2-4191-9b10-5e11493e0612",
+        "titulo": "Caixa de Som Bluetooth PartyBox Stage 320 JBL BLPBSTAGE320BR Preta",
+        "preco": 2279.0,
+        "timestamp": 1787330342.0772314,
+        "expirado": false
     }
 ]
