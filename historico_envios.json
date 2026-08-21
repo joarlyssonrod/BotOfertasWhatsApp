@@ -32710,5 +32710,61 @@
         "preco": 1965.55,
         "timestamp": 1787272697.6352925,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_20199713818",
+        "link_bruto": "https://s.shopee.com.br/70JVeYVUHA",
+        "titulo": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
+        "preco": 39.89,
+        "timestamp": 1787315582.671029,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/galaxy-s26-256gb-preto-galaxy-buds-core-preto-samsung/divulgador/oferta/ad2c2ekf59/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/galaxy-s26-256gb-preto-galaxy-buds-core-preto-samsung/divulgador/oferta/ad2c2ekf59/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Galaxy S26 256GB + Buds Core Preto",
+        "preco": 3753.0,
+        "timestamp": 1787315626.3417263,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB22871761",
+        "link_bruto": "https://www.mercadolivre.com.br/escova-rotativa-mondial-ceramica-tourmaline-ion-3x1-erb-01-rosa-127220v/p/MLB22871761",
+        "titulo": "Escova Rotativa Mondial Ceramica Tourmaline Ion 3x1 Erb-01 Rosa 127/220v",
+        "preco": 132.99,
+        "timestamp": 1787315664.6118739,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50555746",
+        "link_bruto": "https://www.mercadolivre.com.br/jogo-de-banho-4-pecas-fio-cardado-100-algodao-empire-urbano-cinza-karsten/p/MLB50555746",
+        "titulo": "Jogo de Banho 4 Peças Fio Cardado 100% Algodão Empire Urbano cinza Karsten",
+        "preco": 98.71,
+        "timestamp": 1787315705.0784886,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B094X2N4HV",
+        "link_bruto": "https://www.amazon.com.br/Aspirador-Vertical-1300W-STK15-127V/dp/B094X2N4HV",
+        "titulo": "Electrolux, Aspirador pó vertical com fio portátil de mão 2 em 1 potente 1450W cabo 6m capacidade 1,6L filtro HEPA Electrolux STK15 Cinza Urban Grey STK 127v",
+        "preco": 178.99,
+        "timestamp": 1787315749.5773792,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB62253296",
+        "link_bruto": "https://www.mercadolivre.com.br/smartphone-gamer-infinix-gt30-pro-5g-12gb-ram-256gb-camera-dupla-108mp-selfie-13mp-nfc-678-amoled-144hz-dual-chip-memoria-ram-expansivel-ate-24gb-chumbo/p/MLB62253296",
+        "titulo": "Smartphone Gamer Infinix GT30 PRO 5G - 12GB RAM 256GB Câmera Dupla 108MP+ Selfie 13MP NFC 6,78\" Amoled 144Hz Dual Chip - Memória RAM Expansível Até 24GB - Chumbo",
+        "preco": 1999.0,
+        "timestamp": 1787315786.9807174,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB77160771",
+        "link_bruto": "https://www.mercadolivre.com.br/console-playstation-5-digital-825gb-edicao-limitada-wolverine/p/MLB77160771?matt_event_ts=1787315490381&matt_d2id=18666b46-ae38-4b0b-b9ce-cfd0de45bd48&matt_tracing_id=a13e5b25-bda4-4b5c-b3e4-14559bf41ae3#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=8d31f105-013b-45e3-92de-48d57b858a4e&tracking_id=d503d8fa-8d70-43ff-b2ad-6b7ecff2bdcd&c_id=/home/card-featured/element&c_uid=20b4fa12-fba5-4c57-a490-c8cec0fe8fb6",
+        "titulo": "Console PlayStation 5 Digital 825GB - Edição Limitada Wolverine",
+        "preco": 4687.11,
+        "timestamp": 1787315822.8444932,
+        "expirado": false
     }
 ]
