@@ -33382,5 +33382,37 @@
         "preco": 157.9,
         "timestamp": 1787431271.4299319,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB50719512",
+        "link_bruto": "https://www.mercadolivre.com.br/bicicleta-spinning-ltx-fit-lt311s-preto-100kg-aco-carbono-squeeze/p/MLB50719512",
+        "titulo": "Bicicleta Spinning LTX Fit LT311S Preto 100kg Aço Carbono + Squeeze",
+        "preco": 436.1,
+        "timestamp": 1787437972.6895447,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5514060604",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5514060604-kit-camiseta-casal-streetwear-carros-mcqueen-sally-_JM?searchVariation=189148337795&matt_event_ts=1787437836518&matt_d2id=5ef63dbb-a401-4baf-ad5c-7e366a58a44a&matt_tracing_id=e45fff88-a061-499f-9bbb-bd267dad7176#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0ed95c02-1953-4685-9c2c-1119b2301fb0&tracking_id=98fa59e1-1cce-44d4-a7bd-823987cff2eb&c_id=/home/card-featured/element&c_uid=2f6a0c9b-86d1-4c9d-a0cf-0a5276e609fa",
+        "titulo": "Kit Camiseta Relâmpago Mcqueen e Sally Carros",
+        "preco": 45.0,
+        "timestamp": 1787438013.787271,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BTJ4NPCG",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0BTJ4NPCG?btn_type=ss&tag=promobit-d-20",
+        "titulo": "Flash Limp - Mop Giratório Água Limpa - MOP0648 - PP Verde",
+        "preco": 145.0,
+        "timestamp": 1787438043.7538996,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3926841688",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-masculino-casual-estilo-sneaker-sola-alta-da-moda/up/MLBU3926841688?pdp_filters=item_id%3AMLB4631719533&matt_event_ts=1787437847490&matt_d2id=108fbccd-90bc-46f3-af99-5af6772d4531&matt_tracing_id=c2148f7d-1849-4c5b-8ddc-4649dfd2fec3#polycard_client=recommendations_home_affiliate-profile&wid=MLB4631719533&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=8f5b716f-4d77-4531-a754-6861cb24311b&tracking_id=c66521c8-b427-476f-8e75-d4d0b7faa3cc&c_id=/home/card-featured/element&c_uid=1668b4a7-30b5-44a1-bd52-1888ba99b98f",
+        "titulo": "Sapatênis Masculino Casual Sneakers Sola Alta Elegante Leve Cinza 43 Br",
+        "preco": 101.91,
+        "timestamp": 1787438088.8943207,
+        "expirado": false
     }
 ]
