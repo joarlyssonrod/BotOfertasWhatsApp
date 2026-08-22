@@ -33118,5 +33118,61 @@
         "preco": 539.0,
         "timestamp": 1787402410.6004403,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB64809074",
+        "link_bruto": "https://www.mercadolivre.com.br/conjunto-de-bowls-tigela-inox-com-tampa-plastica-bumper-cinza/p/MLB64809074",
+        "titulo": "Conjunto De Bowls Tigela Inox Com Tampa Plástica Bumper Cinza",
+        "preco": 49.9,
+        "timestamp": 1787409200.447061,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB51334657",
+        "link_bruto": "https://www.mercadolivre.com.br/jogo-de-toalhas-buddemeyer-atena-fio-penteado-banho-cinzacinza-claro-4-pecas/p/MLB51334657",
+        "titulo": "Jogo De Toalhas Buddemeyer Atena Fio Penteado Banho Cinza/cinza Claro 4 Peças",
+        "preco": 134.25,
+        "timestamp": 1787409241.5492969,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/cervejeira-frost-free-82l-prata-midea/divulgador/oferta/ah9fj28f2e/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/cervejeira-frost-free-82l-prata-midea/divulgador/oferta/ah9fj28f2e/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Cervejeira Frost Free 82L Prata Midea",
+        "preco": 1339.0,
+        "timestamp": 1787409278.9570587,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_49557147562",
+        "link_bruto": "https://s.shopee.com.br/5q7ZzYnOZ2",
+        "titulo": "Macacão Fitness Longo  Legg Treino  Academia Zero Transparência Bojo removível Confortável Premium",
+        "preco": 62.94,
+        "timestamp": 1787409318.0417366,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58214087527",
+        "link_bruto": "https://s.shopee.com.br/3qMVbsv0cq",
+        "titulo": "Tênis Masculino Esportivo Academia Corrida Caminhada Promoção",
+        "preco": 79.9,
+        "timestamp": 1787409348.002955,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DVMQVVDY",
+        "link_bruto": "https://www.amazon.com.br/PHILIPS-TAT1109BK-00-Bluetooth-Microfone/dp/B0DVMQVVDY",
+        "titulo": "PHILIPS, Fone de Ouvido Sem Fio TWS, TAT1109BK/00, Bluetooth, Com Microfone, Até 24 horas de bateria, Preto",
+        "preco": 99.99,
+        "timestamp": 1787409377.9211187,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08QYZHYRJ",
+        "link_bruto": "https://www.amazon.com.br/Scotch-Whisky-Aberlour-Single-700Ml/dp/B08QYZHYRJ",
+        "titulo": "Aberlour Whisky 14 Anos Single Malt Escocês - 700 Ml",
+        "preco": 393.72,
+        "timestamp": 1787409407.8087914,
+        "expirado": false
     }
 ]
