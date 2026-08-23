@@ -33414,5 +33414,29 @@
         "preco": 101.91,
         "timestamp": 1787438088.8943207,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB60239158",
+        "link_bruto": "https://www.mercadolivre.com.br/electrolux-filtro-de-agua-refil-acqua-pure-para-purificador-pe12-refil-duracao-6-meses-ou-3000l/p/MLB60239158?matt_event_ts=1787445049826&matt_d2id=4809f112-db29-4d06-a477-889353fdba9b&matt_tracing_id=b26c1e20-81f3-4350-818d-e4198b54efaf#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=115cfd11-f55e-4af3-aa34-c886709da9ab&tracking_id=31421da2-7e5f-4aa3-811f-09aa7e46437b&c_id=/home/card-featured/element&c_uid=643a4a07-c0da-4e74-ac60-358a0ba78c1c",
+        "titulo": "Electrolux Filtro de Água Refil Acqua Pure para Purificador PE12 Refil Duração 6 Meses ou 3000L",
+        "preco": 57.9,
+        "timestamp": 1787445193.8002188,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0G1TVJWRR",
+        "link_bruto": "https://www.amazon.com.br/dp/B0G1TVJWRR?aref=ZCDOi07Eww&aaxitk=6feaeb1150a143989f7be16f935da207&language=pt_BR&pd_rd_plhdr=t&tag=promobit-d-20",
+        "titulo": "Tablet Samsung Galaxy TAB A11 +Samsung Galaxy Buds Core Fone de Ouvido sem fio cancelamento de ruído interprete int",
+        "preco": 1345.16,
+        "timestamp": 1787445239.4153714,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BZ15NC13",
+        "link_bruto": "https://www.amazon.com.br/Lava-Seca-Samsung-Branco-WD11M4473PW/dp/B0BZ15NC13",
+        "titulo": "Samsung Lava e Seca 11kg Branco WD11M4473PW - 127V",
+        "preco": 3499.0,
+        "timestamp": 1787445268.3790681,
+        "expirado": false
     }
 ]
