@@ -34078,5 +34078,37 @@
         "preco": 97.0,
         "timestamp": 1787589601.3387027,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3951542930",
+        "link_bruto": "https://www.mercadolivre.com.br/mochila-a-prova-dagua-reforcada-expansivel-para-viagens-dia/up/MLBU3951542930",
+        "titulo": "Mochila À Prova D'água Reforçada Expansível Para Viagens Diá Preto",
+        "preco": 81.7,
+        "timestamp": 1787596486.4137874,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3859470117",
+        "link_bruto": "https://www.mercadolivre.com.br/chave-impacto-kinetx-880nm-brushless-21v2-bat-kit-completo/up/MLBU3859470117",
+        "titulo": "Chave Impacto Kinetx 880nm Brushless 21v+2 Bat Kit Completo Azul 127/220v",
+        "preco": 174.16,
+        "timestamp": 1787596526.6070478,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_ABCCAF0J9G",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-duramo-rc-2-masculino/p/abccaf0j9g/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Adidas Duramo RC 2 Masculino",
+        "preco": 199.49,
+        "timestamp": 1787596560.9915702,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB38477725",
+        "link_bruto": "https://www.mercadolivre.com.br/latex-acrilica-tinta-coral-anti-mofo-branco-18l-coralar-branco-fosco/p/MLB38477725?matt_event_ts=1787596354638&matt_d2id=f982dc87-9b5b-4191-8006-72c9ed278667&matt_tracing_id=da8635de-7edc-4cc4-81fb-d149ebab831c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5ce166bd-36f6-403b-9da6-0140c23e8941&tracking_id=6fd0ffba-7fe2-4178-b4d7-e188b0547524&c_id=/home/card-featured/element&c_uid=dcc8bef8-f7ae-46b9-bc7b-4296b6c4b63a",
+        "titulo": "Latex acrílica tinta coral anti mofo branco 18l coralar branco fosco",
+        "preco": 187.42,
+        "timestamp": 1787596602.9912362,
+        "expirado": false
     }
 ]
