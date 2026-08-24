@@ -34110,5 +34110,69 @@
         "preco": 187.42,
         "timestamp": 1787596602.9912362,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GKQPFCXS",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GKQPFCXS?tag=promobit-d-20&th=1",
+        "titulo": "Celular Samsung Galaxy S26 5G 256GB 12GB RAM Câmera Tripla de 50+12+10 Tela Grande de 6.3\" - Branco",
+        "preco": 3909.1,
+        "timestamp": 1787603584.4625182,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB41312260",
+        "link_bruto": "https://www.mercadolivre.com.br/rocadeira-aparador-grama-a-bateria-recarregavel-21v-750w-profissional-com-acessorios-tcg21c-the-black-tools/p/MLB41312260",
+        "titulo": "Roçadeira Aparador Grama A Bateria Recarregável 21v 750w Profissional Com Acessórios Tcg21c The Black Tools",
+        "preco": 169.25,
+        "timestamp": 1787603631.071811,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BPMQKXQB",
+        "link_bruto": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Parede-Dupla-Branca/dp/B0BPMQKXQB?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promobit-d-20&th=1",
+        "titulo": "WOLFF - Garrafa Térmica de Aço Inox Branca com Parede Dupla - 500ml - Linha Ice",
+        "preco": 34.9,
+        "timestamp": 1787603666.0942178,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4793518944",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-club-de-nuit-intense-da-armaf-edt-105ml-masculino/up/MLBU4793518944",
+        "titulo": "Perfume Club De Nuit Intense Da Armaf Edt 105ml Masculino",
+        "preco": 188.37,
+        "timestamp": 1787603712.2419503,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB74787844",
+        "link_bruto": "https://www.mercadolivre.com.br/alfajor-dr-peanut-12un-420g-avela-doce-de-leite-brigadeiro-sabor-doce-de-leite-com-cobertura-de-chocolate-ao-leite/p/MLB74787844",
+        "titulo": "Alfajor Dr. Peanut 12un 420g Avelã Doce De Leite Brigadeiro Sabor Doce de leite com cobertura de chocolate ao leite",
+        "preco": 98.93,
+        "timestamp": 1787603760.4596856,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54263212",
+        "link_bruto": "https://www.mercadolivre.com.br/maionese-grill-saborosa-gourmet-original-boccaneira-370g-artesanal-molho-suave-premium-lanche-churrasco/p/MLB54263212?matt_event_ts=1787603427935&matt_d2id=e740da8d-4fd5-4294-85ab-5b38517496ac&matt_tracing_id=178e6968-49f4-4254-a9bc-7d3790d8f88e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4fdaf133-ae66-41d1-ba68-16bebfba2d28&tracking_id=964703e5-609e-43a8-b9de-9ce1ad9cce96&c_id=/home/card-featured/element&c_uid=cd455dd8-56ff-4e4f-9090-abed57b80601",
+        "titulo": "Maionese Grill Saborosa Gourmet Original Boccaneira 370g Artesanal Molho Suave Premium Lanche Churrasco",
+        "preco": 25.12,
+        "timestamp": 1787603803.2147145,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB29076728",
+        "link_bruto": "https://www.mercadolivre.com.br/vitamina-b12-metilcobalamina-414-60caps-nutrify/p/MLB29076728?matt_event_ts=1787603472999&matt_d2id=4d4f3142-686f-49fe-9a8f-6fd372d8f2ce&matt_tracing_id=effb8c67-7e01-44bc-803c-17b723a1ff46#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=64befec3-6c28-474c-acdf-b6cec4868794&tracking_id=2afd633a-6b20-4b20-8e73-5fc28c393806&c_id=/home/card-featured/element&c_uid=5714f78b-a4de-4e83-adf0-57453d5644c2",
+        "titulo": "Vitamina B12 Metilcobalamina 414% 60caps Nutrify",
+        "preco": 23.63,
+        "timestamp": 1787603846.18564,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GKPGFGMP",
+        "link_bruto": "https://www.amazon.com.br/WAP-Extratora-Aspirador-2250mmH20-Acabamento/dp/B0GKPGFGMP?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promobit-d-20&th=1",
+        "titulo": "WAP Extratora e Aspirador Barril Carpet Cleaner Pro 25 1700W 2250mmH20 Com 8m de Alcance e Acabamento em Inox (127 Volt",
+        "preco": 985.5,
+        "timestamp": 1787603883.0995104,
+        "expirado": false
     }
 ]
