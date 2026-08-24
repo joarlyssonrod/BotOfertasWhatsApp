@@ -33830,5 +33830,45 @@
         "preco": 5813.48,
         "timestamp": 1787524560.475506,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB62959421",
+        "link_bruto": "https://www.mercadolivre.com.br/relogio-smartwatch-bettdow-fb041-gps-alexa-5mip68-prova-dagua/p/MLB62959421",
+        "titulo": "Relógio Smartwatch Bettdow FB041 GPS Alexa 5M/IP68 À Prova D'Água",
+        "preco": 178.48,
+        "timestamp": 1787531609.954017,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23494626157",
+        "link_bruto": "https://s.shopee.com.br/30nQsSVP7N",
+        "titulo": "GOKOCO Modelador De Cabelo Portáti íons Negativos 9 Níveis De Temperatura Aquecimento Rápido 30s Para Cabelos Cacheado",
+        "preco": 189.0,
+        "timestamp": 1787531642.617966,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CY6QMTJW",
+        "link_bruto": "https://www.amazon.com.br/dp/B0CY6QMTJW?social_share=cm_sw_r_cso_cp_apan_dp_KB3C1FB8ZRHJWHYW6TN9&tag=promobit-d-20&th=1",
+        "titulo": "WAP Parafusadeira e Furadeira de Impacto 38\" WF-700FE com Chave de Mandril Controle de Velocidade 700W 220V",
+        "preco": 97.68,
+        "timestamp": 1787531674.4633312,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB24165315",
+        "link_bruto": "https://www.mercadolivre.com.br/camera-de-video-seguranca-intelbras-im5-wi-fi-full-hd-full-color-cor-branca/p/MLB24165315",
+        "titulo": "Câmera De Video Segurança Intelbras Im5+ Wi-fi Full Hd Full Color Cor Branca",
+        "preco": 284.0,
+        "timestamp": 1787531712.325129,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54458534",
+        "link_bruto": "https://www.mercadolivre.com.br/xiaomi-vacuum-s40c-robo-aspirador-inteligente-5000pa/p/MLB54458534?matt_event_ts=1787531497763&matt_d2id=c2ebe358-0397-47d1-a13a-e8f6067fec5c&matt_tracing_id=36fa192a-339a-48d9-a1b7-ea2bc56b8a8d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=cd7eb792-6910-439f-a074-e2a86bb724d9&tracking_id=9a009b3e-52aa-42f9-9416-73c9a132b8d8&c_id=/home/card-featured/element&c_uid=624b24f1-edbb-45bb-bc77-e005a80c5f98",
+        "titulo": "Xiaomi Vacuum S40C Robô Aspirador Inteligente 5000Pa",
+        "preco": 895.5,
+        "timestamp": 1787531746.6834495,
+        "expirado": false
     }
 ]
