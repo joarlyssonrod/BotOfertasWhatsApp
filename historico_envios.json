@@ -34630,5 +34630,53 @@
         "preco": 43.12,
         "timestamp": 1787690023.5709965,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3690846340",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-kappa-treviso-original-unissex-confortavel-academia/up/MLBU3690846340?pdp_filters=item_id%3AMLB7477663178&matt_event_ts=1787697076133&matt_d2id=addd28d1-38b0-4155-bab6-4f9418c5debd&matt_tracing_id=8eec4f82-c6d8-4c57-b134-6db4961fa535#polycard_client=recommendations_home_affiliate-profile&wid=MLB7477663178&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=b78c51a7-2ddf-4ce4-9f77-dd8b73c0f0a7&tracking_id=0298e608-e61c-4e53-b3d7-036d6999c05c&c_id=/home/card-featured/element&c_uid=4cc2aba9-3757-41c6-b06a-6aa9b11c238a",
+        "titulo": "Tênis Kappa Treviso",
+        "preco": 74.0,
+        "timestamp": 1787697210.418279,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/cafeteira-cadence-single-up-2-cafes-preta-e-vermelha-caf230/divulgador/oferta/241356500/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/cafeteira-cadence-single-up-2-cafes-preta-e-vermelha-caf230/divulgador/oferta/241356500/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Cafeteira Cadence Single Up, 127V, CAF230",
+        "preco": 87.39,
+        "timestamp": 1787697246.1338654,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54692573",
+        "link_bruto": "https://www.mercadolivre.com.br/frigideira-profissional-rizzoflon-hotel-de-32-cm-em-aluminio-antiaderente/p/MLB54692573?matt_event_ts=1787697085950&matt_d2id=a8b1b152-3301-4c51-8051-b1d3653ebdcb&matt_tracing_id=36ad9d5e-06f8-4d89-b228-751ebc071903#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=fe4c71a9-80ba-42a8-9c51-dc39032e0acc&tracking_id=82cad804-a969-4a99-855c-a0d243eb3eeb&c_id=/home/card-featured/element&c_uid=9a2795b4-9e38-447c-8f59-53922485b5ba",
+        "titulo": "Frigideira Profissional Rizzoflon Hotel de 32 cm em Alumínio Antiaderente",
+        "preco": 69.0,
+        "timestamp": 1787697293.27749,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5871604618",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5871604618-kit-2-camisetas-brasa-pica-pau-bordado-reserva-_JM?searchVariation=192382684759&matt_event_ts=1787697106466&matt_d2id=2e5e65ea-0fb9-4350-8783-653df5bdf5ef&matt_tracing_id=04b15afb-82b5-4d8e-88ca-2062b436a084#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=dd1526ff-4235-4b8d-a03e-3d7d5251ca68&tracking_id=5b16b17a-9ddf-44d6-a53d-b43fe0ae3ff3&c_id=/home/card-featured/element&c_uid=74d88ae9-e3db-47cc-b887-4360c9fadf9e",
+        "titulo": "Kit 2 Camisetas Brasa Pica Pau Bordado Reserva",
+        "preco": 152.0,
+        "timestamp": 1787697337.2332737,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GZJD9ZGQ",
+        "link_bruto": "https://www.amazon.com.br/Laruno-Dobr%C3%A1vel-Port%C3%A1til-Marrom-Maleta/dp/B0GZJD9ZGQ?tag=promobit-d-20&th=1",
+        "titulo": "Mesa Dobrável Portátil Marrom 1,80m Tipo Maleta até 150kg",
+        "preco": 175.41,
+        "timestamp": 1787697373.6886911,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5334374396",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5334374396-jaqueta-corta-vento-masculino-casaco-impermeavel-_JM?searchVariation=183242432798&matt_event_ts=1787697116679&matt_d2id=ff2fd9b6-185f-4041-a6d0-0fb3717b8e4e&matt_tracing_id=f09a6d26-00de-47c5-bb36-0ccaea5d9af8#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=58cb86a7-ab62-4185-8805-5721fba2f89b&tracking_id=2b5b8a88-8434-4745-b7cf-9cb74210d10e&c_id=/home/card-featured/element&c_uid=e1971194-429d-48c4-a5c4-b3df033de3e3",
+        "titulo": "Jaqueta Corta Vento Masculino Casaco Impermeável",
+        "preco": 32.24,
+        "timestamp": 1787697418.1656933,
+        "expirado": false
     }
 ]
