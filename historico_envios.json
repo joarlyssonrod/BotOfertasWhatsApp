@@ -34310,5 +34310,93 @@
         "preco": 759.98,
         "timestamp": 1787618534.036224,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3935949287",
+        "link_bruto": "https://www.mercadolivre.com.br/bicicleta-spinning-ergometrica-fitness-mopower-19ba/up/MLBU3935949287",
+        "titulo": "Bicicleta Spinning Ergométrica Fitness Mopower 19ba Vermelho 1.2v",
+        "preco": 449.9,
+        "timestamp": 1787661243.7127688,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23295027006",
+        "link_bruto": "https://s.shopee.com.br/4AzQextTd0",
+        "titulo": "Fone De Ouvido sem fio Bluetooh 5.2  Compativel  IOS e  Android Sem borracha",
+        "preco": 49.99,
+        "timestamp": 1787661273.9683926,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F6VXTYL9",
+        "link_bruto": "https://www.amazon.com.br/dp/B0F6VXTYL9?tag=promobit-d-20&th=1&psc=1",
+        "titulo": "Tênis de Corrida Puma Pounce Lite Preto - Tam 43",
+        "preco": 189.99,
+        "timestamp": 1787661318.9412067,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB46058544",
+        "link_bruto": "https://www.mercadolivre.com.br/tenda-gazebo-sanfonada-articulada-luvinco-3x3m-azul-impermeavel-resistente-protecao-ao-ar-livre-camping-praia-eventos-montagem-pratica-estrutura-resistente-duravel/p/MLB46058544",
+        "titulo": "Tenda Gazebo Sanfonada Articulada Luvinco 3x3m Azul Impermeável Resistente Proteção Ao Ar Livre Camping Praia Eventos Montagem Prática Estrutura Resistente Durável",
+        "preco": 379.9,
+        "timestamp": 1787661367.0762093,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07XPCK5H5",
+        "link_bruto": "https://www.amazon.com.br/dp/B07XPCK5H5?btn_type=ss&tag=promobit-d-20&th=1",
+        "titulo": "Hemmer Ketchup Tradicional Bisnaga 1kg",
+        "preco": 13.67,
+        "timestamp": 1787661405.724878,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_57214396358",
+        "link_bruto": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_in=false&next=https%3A%2F%2Fshopee.com.br%2FSmart-TV-43-LG-LED-4K-UHD-Com-ThinQ-AI-Google-Assistente-e-Amazon-Alexa-i.1509845472.57214396358%3Fgads_t_sig%3DgqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMaaRlZwa4TmRr35EbRKe45opqqWzquDpxLoPl6a_nP90XlrFndAmj-Eti4LViLnnfxaArnW_92wfHWioVqmNpcGhlcnRleHTE0gAAAAz3Vjl4ZqwCc5vBSjoU193dH5vXismslUn9SpJwhJluNjLFRYac_cKXM3-4CNhmUKEdMw7J1PZKLIpyfwLtlh1vDGDchdeoiUXd8VizoeAYilxxjSerA-BAuWovi_ZEhTRGwZz4nmtXO708fvIZsCD7inKUeNSEOTFy0Oms5FsYg1_muRdUAT0xRzLmQFZBQwK5dzF9DfImXLMeP13wVGWU3k3yzaIt3666f3fpnqyj0NTjNExVUf7bRwO-cv5BXk6URfS27gbxJksJO26IOA%26mmp_pid%3Dan_18140170000%26uls_trackid%3D56fkkp22001k%26utm_campaign%3Did_4d888aeb6d252280%26utm_content%3D----%26utm_medium%3Daffiliates%26utm_source%3Dan_18140170000%26utm_term%3Dffe3bkq9gozf&tracking_id=37d8ff36fe-374a-4288-a24c-1274b3141c1a&type=4",
+        "titulo": "Smart TV 43 LG LED 4K UHD - Com ThinQ AI Google Assistente e Amazon Alexa",
+        "preco": 1519.89,
+        "timestamp": 1787661448.4273777,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F8KZDRJB",
+        "link_bruto": "https://www.amazon.com.br/Granado-Col%C3%B4nia-Vintage-Lavanda-300ml/dp/B0F8KZDRJB?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promobit-d-20",
+        "titulo": "Perfume Granado Colônia Vintage Lavanda 300ml",
+        "preco": 164.24,
+        "timestamp": 1787661483.4116867,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/smart-tv-55-tcl-4k-uhd-miniled-55c6k-120hz-google-tv-aipq-google-assistente-4-hdmi-2-usb/divulgador/oferta/240162700/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/smart-tv-55-tcl-4k-uhd-miniled-55c6k-120hz-google-tv-aipq-google-assistente-4-hdmi-2-usb/divulgador/oferta/240162700/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Smart TV 55\" TCL 4K UHD MiniLED 55C6K 120Hz Google TV AiPQ",
+        "preco": 2872.0,
+        "timestamp": 1787661528.967482,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DYC2GV1Z",
+        "link_bruto": "https://www.amazon.com.br/Novo-Echo-Show-11-Preto/dp/B0DYC2GV1Z",
+        "titulo": "Amazon Echo Show 8 (Geração mais recente) - Com novo design, tela vibrante HD de 8,7\", áudio espacial e Alexa, Cor Grafite, com Acesso Antecipado à Alexa+",
+        "preco": 1469.0,
+        "timestamp": 1787661572.3971157,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3932364441",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3932364441-mala-de-viagem-bordo-mo-pequena-10kg-abs-cadeado-360-_JM?searchVariation=182522343918&matt_event_ts=1787661095975&matt_d2id=b5abeb38-47bd-4465-bdb1-5a60d0e69f07&matt_tracing_id=5d22a477-c8e0-4e8d-aa4f-50816ec8d6ee#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=77b3fb57-3740-4421-b6b0-4b5219a1c010&tracking_id=ce7d7106-01a4-4c0f-8e2b-84eb52b7d8de&c_id=/home/card-featured/element&c_uid=8887026a-f2b5-4509-8286-3e40484f84c2",
+        "titulo": "Mala De Viagem Bordo Mão Pequena 10kg Abs Cadeado 360",
+        "preco": 127.39,
+        "timestamp": 1787661617.8199115,
+        "expirado": false
+    },
+    {
+        "id": "https://shopee.com.br/opaanlp/1021003165/22096106124",
+        "link_bruto": "https://shopee.com.br/opaanlp/1021003165/22096106124?__mobile__=1&credential_token=8wEwiDL7YDXiJxoGa1xRkewKqewa8R1zMEejxLd8Ti&d_id=18a45&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMaaRlZwa4TmRr35EbRKe45opqqWzquDpxLoPl6a_nP90XlrFndAmj-Eti4LViLnnfxaArnW_92wfHWioVqmNpcGhlcnRleHTEmQAAAAx--wKBIZ78LDWctKWD0caurvkxTax6ZApdu7bPHX_ImOB4B8hsOEU7AaB1nqlSXgaGBl6ukAllVcwpzgznDmV3c-5A4D0VZIT2NXVN1RumY8py6lQjSkAhpcLfw5NGFezJtLhKcJI5jNDYREtPwy0XKA9OboAphgQ-W0xOFYW-rm1Z73Q46tCBCXfT3P5X6B8xZy3MHA&mmp_pid=an_18140170000&uls_trackid=56fkkq4b0038&utm_campaign=id_49a99c6652ec6c87&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=ffe3cggtwf19",
+        "titulo": "Pendrive HP USB 2.0 Metal 2TB Giratório De Alta Velocidade Para Smartphone/Notebook/PC Android",
+        "preco": 33.99,
+        "timestamp": 1787661656.7766588,
+        "expirado": false
     }
 ]
