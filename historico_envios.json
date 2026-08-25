@@ -34542,5 +34542,37 @@
         "preco": 329.49,
         "timestamp": 1787669201.67584,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0B8C23KVB",
+        "link_bruto": "https://www.amazon.com.br/Caneca-Ayrton-Senna-F%C3%B3rmula-Corrida/dp/B0B8C23KVB?tag=promobit-d-20",
+        "titulo": "Caneca Ayrton Senna Fórmula 1 F1 Corrida - Mega Oferta!!!",
+        "preco": 18.9,
+        "timestamp": 1787675677.357355,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3326209979",
+        "link_bruto": "https://www.mercadolivre.com.br/principia-kit-limpeza-e-hidratacao-para-o-dia-a-dia/up/MLBU3326209979?pdp_filters=item_id%3AMLB5528207138&matt_event_ts=1787675521562&matt_d2id=7b084cb2-9608-4581-a238-92394a5d6d70&matt_tracing_id=9c7d5363-f6e5-4523-b975-48964fc3bf9f#polycard_client=recommendations_home_affiliate-profile&wid=MLB5528207138&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f7d23152-0286-438a-8f15-cda17405a8da&tracking_id=bf28577f-0ba7-4c02-a1cc-482234d92df1&c_id=/home/card-featured/element&c_uid=a5659e52-7ea4-4b28-950a-636d22d15c40",
+        "titulo": "Principia Kit Limpeza E Hidratação - Gel de Limpeza GL-02 - Creme Hidratante CH-01",
+        "preco": 55.0,
+        "timestamp": 1787675714.277125,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB61655019",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s25-fe-5g-128gb-8gb-ram-camera-tripla-de-50128-tela-grande-de-67-azul-marinho/p/MLB61655019?matt_event_ts=1787675532130&matt_d2id=210afc59-bd69-4782-8302-dc263b17e501&matt_tracing_id=8e119c85-2830-4bcc-b58a-b109c39c5ef4#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1a898b0b-09b2-4c32-a47e-113f4d2ae09d&tracking_id=539b0318-d830-4f71-a539-9a0eb1b87478&c_id=/home/card-featured/element&c_uid=d0210f7d-d983-409b-b761-813a35b639e1",
+        "titulo": "Celular Samsung Galaxy S25 Fe 5g 128gb 8gb Ram Câmera Tripla De 50+12+8 Tela Grande De 6.7 Azul Marinho",
+        "preco": 2348.19,
+        "timestamp": 1787675754.506482,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB46469571",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-aoc-238-100hz-1ms-gaming-hdmi-24b30hm2/p/MLB46469571?matt_event_ts=1787675584451&matt_d2id=61617a3f-c327-41d7-a5bb-7621633d340b&matt_tracing_id=4ef78806-c9db-4b08-9a37-c0b97465488e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4ca1508f-65cc-423d-a407-13ab59c1bcd8&tracking_id=aa68af3e-5c63-4478-9f24-bb589710039f&c_id=/home/card-featured/element&c_uid=1f3d27b8-5c5e-44a7-8ace-2c30a9cfe560",
+        "titulo": "Monitor Aoc 23,8\" 100Hz 1ms Gaming Hdmi 24B30hm2",
+        "preco": 393.0,
+        "timestamp": 1787675791.7870197,
+        "expirado": false
     }
 ]
