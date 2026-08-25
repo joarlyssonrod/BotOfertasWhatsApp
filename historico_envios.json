@@ -34614,5 +34614,21 @@
         "preco": 26.0,
         "timestamp": 1787683011.7512302,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB4067068251",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4067068251-jaqueta-ralph-lauren-blusa-slim-masculina-suede-inverno-_JM?searchVariation=204244086245&matt_event_ts=1787689876291&matt_d2id=6c6c17c9-fc16-4c50-a0ea-5716992f2153&matt_tracing_id=30350029-c035-497c-86ec-d8d0b7f37878#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4bafa776-12b0-40c8-b290-78fbfba83360&tracking_id=b8eddc25-1704-45be-bae9-e6ff631ec14f&c_id=/home/card-featured/element&c_uid=b7aa599a-532a-478b-abfa-1208d13b833f",
+        "titulo": "Jaqueta Ralph Lauren Blusa Slim (3 cores)",
+        "preco": 434.0,
+        "timestamp": 1787689988.3486583,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4193708511",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4193708511-tinta-latex-coral-fosca-parede-coralar-antimofo-36l-_JM?searchVariation=190464436753&matt_event_ts=1787689819414&matt_d2id=5ef95feb-3975-4cb2-88e6-bbde1022d437&matt_tracing_id=60a9a884-f6cf-4b33-b0e4-db4fd64c1ee6#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=92e97181-8495-40da-9ffc-aabbc0ed1c37&tracking_id=bd2d510d-75de-48b2-ac5a-21326b70f049&c_id=/home/card-featured/element&c_uid=3aa9729b-f9ca-49ad-bfed-ccd7d1f63a78",
+        "titulo": "Tinta Látex Coral Fosca Parede Coralar Antimofo 3,6L",
+        "preco": 43.12,
+        "timestamp": 1787690023.5709965,
+        "expirado": false
     }
 ]
