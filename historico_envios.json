@@ -34238,5 +34238,77 @@
         "preco": 200.64,
         "timestamp": 1787611249.8923094,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GTX2ZSR4",
+        "link_bruto": "https://www.amazon.com.br/Tangle-Teezer-desembara%C3%A7adora-Detangler-metalizado/dp/B0GTX2ZSR4?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promobit-d-20",
+        "titulo": "Tangle Teezer - Escova de cabelo desembaraçadora The Mini Ultimate Detangler para todos os tipos de cabelo ideal para",
+        "preco": 99.0,
+        "timestamp": 1787618222.8098662,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3460345557",
+        "link_bruto": "https://www.mercadolivre.com.br/camisa-polo-reserva-essence-basica/up/MLBU3460345557",
+        "titulo": "Camisa Polo Reserva Essence Básica Preto Liso M",
+        "preco": 141.55,
+        "timestamp": 1787618255.8066425,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB68206959",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-new-balance-fresh-foam-410v9-masculino/p/MLB68206959?matt_event_ts=1787618103587&matt_d2id=cbc2a32c-875e-40a4-b1ab-4f50c4d262da&matt_tracing_id=5fff5916-8ebb-4b7d-bb17-355fbc334a78#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=39d39207-7d01-4661-b459-e050675f74ba&tracking_id=8116c812-17f1-4ef7-8327-f38cb86f1d23&c_id=/home/card-featured/element&c_uid=459bd2f2-2d1f-4444-a730-10d1148d742f",
+        "titulo": "Tenis New Balance Fresh Foam 410v9 Masculino",
+        "preco": 349.81,
+        "timestamp": 1787618296.5075855,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FQFJ1T12",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FQFJ1T12?social_share=cm_sw_r_apan_dp_2EQWGNRXMK5NSM4WA1TX&tag=promobit-d-20&th=1",
+        "titulo": "Apple Watch Series 11 GPS Caixa em alumínio preto brilhante de 42 mm com Bracelete desportiva preta - PM",
+        "preco": 3795.16,
+        "timestamp": 1787618345.367402,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66435520",
+        "link_bruto": "https://www.mercadolivre.com.br/notebook-lenovo-slim3-i3-100u-8gb-512gb-ssd-153-fhd-linux-cinza/p/MLB66435520?matt_event_ts=1787618013031&matt_d2id=2645d51a-2fde-4ded-954b-fa6f2a3664d7&matt_tracing_id=bdc72efb-c9e1-46b7-8db5-6d06dbfac855#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=84c7de7e-b337-4e0a-8e82-c344964e1196&tracking_id=bd093b3e-b9c7-4859-99aa-5c7a5750e0e9&c_id=/home/card-featured/element&c_uid=31e17308-38a5-4f76-99d6-43440efcf317",
+        "titulo": "Notebook Lenovo Slim3 I3 100u 8gb 512gb Ssd 15,3 Fhd Linux Cinza",
+        "preco": 2988.92,
+        "timestamp": 1787618380.5015974,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4135027763",
+        "link_bruto": "https://www.mercadolivre.com.br/ar-condicionado-inverter-philco-9000-btus-frio-220v-pac9ft/up/MLBU4135027763?pdp_filters=item_id%3AMLB4806278937&matt_event_ts=1787618114358&matt_d2id=92503e1f-7ec0-4984-bb70-a789e7ae09db&matt_tracing_id=df3126b0-55ee-4595-ba03-1a8980d34332#polycard_client=recommendations_home_affiliate-profile&wid=MLB4806278937&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=007b1d84-82d7-4c00-8f1a-017b8ef24e9b&tracking_id=0600410c-aab4-4915-85a9-d4981669a1f9&c_id=/home/card-featured/element&c_uid=e79eb82d-710f-45e2-a861-360ef22c1409",
+        "titulo": "Ar Condicionado Inverter Philco 9000 Btus Frio 220v Pac9ft Branco 220v",
+        "preco": 1452.55,
+        "timestamp": 1787618414.8843892,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FV11G92G",
+        "link_bruto": "https://www.amazon.com.br/Samsung-Bateria-5-100mAh-frontal-traseira/dp/B0FV11G92G/ref=sr_1_55?dib=eyJ2IjoiMSJ9.1l1vU5ST6ZzjGovcB1NAGkfs0AplWLE6eEHGUhVuoi5i19aCVrYxyMyOrgYT5IrOZToNboyCk2lXTcZ3gYekAw8mSVPU-Cc4wnHwr1AZz0-H1eYDMnWm3AGaJoqUK6oE5zRma1uVgkPsmFmZrgJ5vA.wePfbrYVHaLAgtERdWuTghI1M75TPZ6Q5Q73D2HA-jg&dib_tag=se&qid=1787615689&s=electronics&ufe=app_do%3Aamzn1.fos.9e6a115c-05b9-4b96-8e1c-b1f9ce2ac1a6&xpid=YfB_ex_rrnCWe&tag=promobit-d-20",
+        "titulo": "Tablet Samsung Galaxy TAB A11 64GB 4GB RAM Tela de 8.7\" Bateria 5.100mAh Câmera frontal 5MP Câmera traseira 8MP,",
+        "preco": 999.01,
+        "timestamp": 1787618457.7241695,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5420759822",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5420759822-tnis-nike-revolution-8-masculino-_JM?searchVariation=203605026697&matt_event_ts=1787617887918&matt_d2id=22780f02-e71e-4c6d-bb05-5348eb856559&matt_tracing_id=55a02641-9cab-41ba-8870-069b2be9546c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=cbbaecbf-4126-44ca-a8ad-a15d4801e744&tracking_id=9ea99b3d-b02a-430c-b093-10c2f6eb5858&c_id=/home/card-featured/element&c_uid=fdcde9f9-6584-4e7b-92e0-4c9a73804439",
+        "titulo": "Tênis Nike Revolution 8 Masculino",
+        "preco": 299.99,
+        "timestamp": 1787618492.1505997,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3752104507",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-de-basquete-masculino-nexus-skechers/up/MLBU3752104507?pdp_filters=item_id%3AMLB6201108726&matt_event_ts=1787617991249&matt_d2id=8c3ac040-b5b3-4716-b0c6-6f323e606ab1&matt_tracing_id=2294f9a5-637b-497d-959c-5dff1bcf3a8b#polycard_client=recommendations_home_affiliate-profile&wid=MLB6201108726&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=82bfaa2f-946b-48e0-8ee0-42bd7c929303&tracking_id=1e05806f-145d-4d26-8772-6d8c088b57a6&c_id=/home/card-featured/element&c_uid=876b4172-3cbc-420c-af03-50056c7abd54",
+        "titulo": "Tênis De Basquete Masculino Nexus Skechers",
+        "preco": 759.98,
+        "timestamp": 1787618534.036224,
+        "expirado": false
     }
 ]
