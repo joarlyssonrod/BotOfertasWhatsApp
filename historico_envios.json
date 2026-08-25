@@ -34574,5 +34574,45 @@
         "preco": 393.0,
         "timestamp": 1787675791.7870197,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB3660682711",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3660682711-blusa-feminina-manga-curta-estonada-hering-_JM?searchVariation=206048635715&matt_event_ts=1787682618257&matt_d2id=7cc9f633-9b4c-4ea7-9c0e-5fc5b2e4ac4f&matt_tracing_id=766def36-f6c1-4c22-9e9a-85defbc39940#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=e5422ddd-1314-4453-938b-d7cdc02a7e45&tracking_id=f50e24f1-22a7-495d-8a49-c9149bca8635&c_id=/home/card-featured/element&c_uid=6dc60b1a-c853-4cdc-a653-18ac735695ab",
+        "titulo": "Blusa Feminina Manga Curta Estonada Hering",
+        "preco": 49.99,
+        "timestamp": 1787682851.9758098,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3701849128",
+        "link_bruto": "https://www.mercadolivre.com.br/camiseta-masculina-manga-curta-com-estampa-hering/up/MLBU3701849128?pdp_filters=item_id%3AMLB4387665129&matt_event_ts=1787682736979&matt_d2id=933d393e-27ff-4427-ba97-2d446e312243&matt_tracing_id=ecf29299-0a32-4ecc-9681-a4844249add1#polycard_client=recommendations_home_affiliate-profile&wid=MLB4387665129&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=363a0c7a-2f73-41bf-ad3a-f12121d5b065&tracking_id=6b95b0ee-932c-42cb-a852-0bc5f6c3efb8&c_id=/home/card-featured/element&c_uid=cefb0585-81f1-4beb-bd0c-a2e7db77626d",
+        "titulo": "Camiseta Masculina Manga Curta Com Estampa Hering",
+        "preco": 39.99,
+        "timestamp": 1787682887.6090972,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B079J6SF2G",
+        "link_bruto": "https://www.amazon.com.br/BALANCA-DIGITAL-COZINHA-FITNESS-PRECISAO/dp/B079J6SF2G/ref=sr_1_6?dib=eyJ2IjoiMSJ9.UTGq-uvCd5fYcrZaMKeF4xUz0dJ-a1SPD53rBYcoFo2ce4FUMEkx4ZbkGSXgl9DqHCxDUcvpd7nFRDFqKABd_iFIXYDWYXSy5v0eloeERULUZqCQSQ2w7O9xViZM4E8KebtvPBsuyi4TqAAsu6Q3mFOA-znwADG-rN3bSzF5UiQA8visTLqkTkl24VJawq4005ZgE55ACfueloGyH6RIqNh5ez9G6vpK5bPNJlPTJsc.Xvb0t4bog9JGUQpo4m3J4Qz2w-_js7zrplIE7s5McyI&dib_tag=se&qid=1787680875&refinements=p_85%3A19171728011%2Cp_n_deal_type%3A23565493011&rnid=23565491011&rps=1&s=kitchen&tag=promobit-d-20",
+        "titulo": "Balança Digital Cozinha 1g a 10kg Alta Precisão",
+        "preco": 8.5,
+        "timestamp": 1787682924.122023,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09LRFMY7Q",
+        "link_bruto": "https://www.amazon.com.br/dp/B09LRFMY7Q/ref=cm_sw_r_as_gl_api_gl_i_FGQHCQH3VJK4D8S4HZBZ/?tag=promobit-d-20",
+        "titulo": "Buba Kit Cuidados Multicolorido",
+        "preco": 28.89,
+        "timestamp": 1787682969.6458554,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0B99BCYCP",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0B99BCYCP?tag=promobit-d-20",
+        "titulo": "Lava-Roupas em Pó OMO Puro Cuidado 2,2kg Tamanho Família",
+        "preco": 26.0,
+        "timestamp": 1787683011.7512302,
+        "expirado": false
     }
 ]
