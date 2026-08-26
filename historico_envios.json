@@ -34678,5 +34678,29 @@
         "preco": 32.24,
         "timestamp": 1787697418.1656933,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB64692263",
+        "link_bruto": "https://www.mercadolivre.com.br/interruptor-smart-inteligente-wi-fi-24-ghz-alexa-google-1-botao-4x2-bivolt-branco-cod-291990356-neo-avant/p/MLB64692263?matt_event_ts=1787704224649&matt_d2id=091155bd-5757-42ad-bc11-14159ef8d78a&matt_tracing_id=6f0f901a-2cdb-4113-b4e2-cf04ae4bac50#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=411f78f4-a850-4029-ba8f-60f6b43fb719&tracking_id=6e073c8f-38de-4cb7-a4fb-99e58eb8efd1&c_id=/home/card-featured/element&c_uid=07ec538d-4c3e-4d16-aeb4-684c3874c3f9",
+        "titulo": "Interruptor Smart Inteligente Wi-fi 2.4 GHz Alexa google 1 Botão 4x2 Bivolt Branco Cod: 291990356 Neo Avant",
+        "preco": 43.0,
+        "timestamp": 1787704434.8681586,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63648603",
+        "link_bruto": "https://www.mercadolivre.com.br/ar-condicionado-inverter-samsung-windfree-18000-btus-qf-branco/p/MLB63648603?matt_event_ts=1787704234364&matt_d2id=e50baeca-0fab-4654-99eb-b7cd7648aa9b&matt_tracing_id=a4c8ee9b-5121-4d85-a0b7-561fe0935be3#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=8b574530-2f2b-4043-b1b4-decd55054fad&tracking_id=a1e2d4f7-e48f-44e1-b9cb-5b3993f4ff46&c_id=/home/card-featured/element&c_uid=b1ed711e-1e59-4291-a630-ad70f82adfdd",
+        "titulo": "Ar Condicionado Inverter Samsung Windfree 18000 Btus Qf Branco",
+        "preco": 3189.0,
+        "timestamp": 1787704472.4977014,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB48515682",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-wella-invigo-nutri-enrich-shampoo-condicionador-e-valvulas/p/MLB48515682",
+        "titulo": "Kit Wella Invigo Nutri Enrich Shampoo Condicionador E Válvulas",
+        "preco": 268.43,
+        "timestamp": 1787704518.4633806,
+        "expirado": false
     }
 ]
