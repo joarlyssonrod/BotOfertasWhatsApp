@@ -34774,5 +34774,61 @@
         "preco": 338.0,
         "timestamp": 1787748251.7970276,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_46054420959",
+        "link_bruto": "https://s.shopee.com.br/5foGAqoZgk",
+        "titulo": "Nova Profissional Placa De Carbono Tênis De Corrida Maratona Moda Sapatos Para Homens E Mulheres 33-44",
+        "preco": 117.4,
+        "timestamp": 1787754832.7321677,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4119018970",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-feminino-dasher-lite-puma/up/MLBU4119018970?pdp_filters=item_id%3AMLB6978225284&matt_event_ts=1787754628399&matt_d2id=0ddd5589-1970-428f-868e-b57dc9850f60&matt_tracing_id=548a0790-04e4-400d-ba1d-a25f8bac0d88#polycard_client=recommendations_home_affiliate-profile&wid=MLB6978225284&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=dfa6227a-9806-487b-99e0-72be9b1846c1&tracking_id=9095dcd6-6690-4065-b79d-c8bb2c6d15eb&c_id=/home/card-featured/element&c_uid=3e5a5afa-6401-4136-b99b-8d51de22c188",
+        "titulo": "Tênis Dasher Lite Puma",
+        "preco": 195.49,
+        "timestamp": 1787754877.3127472,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22898682191",
+        "link_bruto": "https://s.shopee.com.br/30nUzwyj6U",
+        "titulo": "2026 High Street Hellstar New Vintage Print Hip Hop Casual Camiseta Manga Curta Gola Redonda Casal, Camiseta Unisex",
+        "preco": 40.5,
+        "timestamp": 1787754919.7259624,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_21897135337",
+        "link_bruto": "https://s.shopee.com.br/50YZNcr72w",
+        "titulo": "Adega de Vinhos Preta com Suporte para 4 Taças Elegância Praticidade Bancada Mesa Mdf",
+        "preco": 16.5,
+        "timestamp": 1787754964.1786911,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB67483279",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-chaves-jogo-catraca-reversivel-soquetes-46-pecasmaleta-mecanico-manutencao-casa-carro-profissional-resistente-portatil-compacto/p/MLB67483279",
+        "titulo": "Kit Chaves Jogo Catraca Reversível Soquetes 46 Peças+maleta Mecânico Manutenção Casa Carro Profissional Resistente Portátil Compacto",
+        "preco": 26.99,
+        "timestamp": 1787755006.1486826,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB22991180",
+        "link_bruto": "https://www.mercadolivre.com.br/caixa-para-ferramentas-sanfonada-com-5-gavetas-e-ala-vonder/p/MLB22991180",
+        "titulo": "Caixa Para Ferramentas Sanfonada Com 5 Gavetas E Ala Vonder",
+        "preco": 99.0,
+        "timestamp": 1787755050.2833467,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CH1RRW1L",
+        "link_bruto": "https://www.amazon.com.br/dp/B0CH1RRW1L?tag=promobit-d-20",
+        "titulo": "Fogão Mueller titânio 5 Bocas com mesa esmaltada e acendimento Mfi5bc",
+        "preco": 797.35,
+        "timestamp": 1787755093.1652064,
+        "expirado": false
     }
 ]
