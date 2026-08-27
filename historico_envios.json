@@ -35358,5 +35358,53 @@
         "preco": 234.2,
         "timestamp": 1787848766.346523,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB49095078",
+        "link_bruto": "https://www.mercadolivre.com.br/ar-condicionado-split-inverter-hitachi-airhome-12000-btus-frio-r-32/p/MLB49095078",
+        "titulo": "Ar Condicionado Split Inverter Hitachi Airhome 12.000 Btus Frio R-32",
+        "preco": 1849.0,
+        "timestamp": 1787855697.2522283,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB75482306",
+        "link_bruto": "https://www.mercadolivre.com.br/maquina-acabamento-degrade-pezinho-cortar-cabelo-barba-e-pelos-corpo-kemei-032/p/MLB75482306",
+        "titulo": "Maquina Acabamento Degrade Pezinho Cortar Cabelo Barba E Pelos Corpo Kemei 032",
+        "preco": 36.0,
+        "timestamp": 1787855735.7632153,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB61648010",
+        "link_bruto": "https://www.mercadolivre.com.br/curcuma-130mg-colageno-tipo-ii-45mg-formula-com-maxima-concentracao-e-pureza-60-capsulas/p/MLB61648010",
+        "titulo": "CÚRCUMA 130mg + COLÁGENO Tipo Ii 45mg - Fórmula com Máxima Concentração e Pureza - 60 Cápsulas",
+        "preco": 46.33,
+        "timestamp": 1787855772.2268782,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GY4YVSJG",
+        "link_bruto": "https://www.amazon.com.br/El%C3%A9trico-Infantil-Esportivo-Controle-Remoto/dp/B0GY4YVSJG?tag=promobit-d-20&th=1",
+        "titulo": "Carro Elétrico Infantil Esportivo com Controle Remoto (Rosa)",
+        "preco": 759.9,
+        "timestamp": 1787855813.0932076,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB22621721",
+        "link_bruto": "https://www.mercadolivre.com.br/deo-parfum-natura-una-infinito-75ml/p/MLB22621721?matt_event_ts=1787855500287&matt_d2id=4e6d4284-e758-431d-8a88-48f827a184e4&matt_tracing_id=b17f8064-d5ea-4741-9728-638a7e5e241c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=02925367-765f-4d0d-9354-111373facb6b&tracking_id=13bf4025-4a9b-4eb9-926c-c136771a775c&c_id=/home/card-featured/element&c_uid=babc87a4-1364-4294-b30a-e31a623fae5a",
+        "titulo": "Deo Parfum Natura Una Infinito 75ml",
+        "preco": 181.94,
+        "timestamp": 1787855866.9186013,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3132391538",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-bluey-e-bingo-para-presente-28cm-antialergico/up/MLBU3132391538?pdp_filters=item_id%3AMLB4035145769&matt_event_ts=1787855583542&matt_d2id=a93a1195-5fdb-4a83-b8d8-a147b4f70041&matt_tracing_id=6db22347-f7d9-41a7-a313-d60ffd6e0e53#polycard_client=recommendations_home_affiliate-profile&wid=MLB4035145769&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=48b7f058-07e0-4843-aa81-bc90de036b34&tracking_id=65845be2-40d8-4b2e-b1ca-11eae303127a&c_id=/home/card-featured/element&c_uid=c2b3ee86-31e1-4e82-8926-b4ae87a872b9",
+        "titulo": "Kit Bluey E Bingo Para Presente 28cm Antialérgico",
+        "preco": 94.0,
+        "timestamp": 1787855915.9633534,
+        "expirado": false
     }
 ]
