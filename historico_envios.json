@@ -35406,5 +35406,29 @@
         "preco": 94.0,
         "timestamp": 1787855915.9633534,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU4682539364",
+        "link_bruto": "https://www.mercadolivre.com.br/refil-nativa-spa-locao-desodorante-hidratante-corporal-ameix/up/MLBU4682539364?pdp_filters=item_id%3AMLB7381412994&matt_event_ts=1787862690988&matt_d2id=aba12da5-aae7-41b7-89ba-e2a062db55ad&matt_tracing_id=896a1928-f20a-44b0-b8ab-efae9c8ce616#polycard_client=recommendations_home_affiliate-profile&wid=MLB7381412994&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d9428f9e-2b91-4e21-8c8c-f79420ea6c37&tracking_id=8f57eacc-8740-4080-851d-daed84497f08&c_id=/home/card-featured/element&c_uid=39b0b980-2abb-4b83-8068-b9b6954fde29",
+        "titulo": "Refil nativa spa locao desodorante hidratante corporal ameixa",
+        "preco": 62.9,
+        "timestamp": 1787862788.8573399,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FCSVKFBV",
+        "link_bruto": "https://www.amazon.com.br/Condicionado-12000-Inverter-Midea-Ecomaster/dp/B0FCSVKFBV?tag=promobit-d-20",
+        "titulo": "Ar Condicionado 12000 Btus Split Hi Wall Inverter Midea Frio Ai Ecomaster 220v",
+        "preco": 1998.99,
+        "timestamp": 1787862823.3218954,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23998193011",
+        "link_bruto": "https://s.shopee.com.br/gPcDEjhjN",
+        "titulo": "Pulverizador Borrifador Snow Foam 2l Spray Lavar Carro E Limpeza 2 Em 1 2l",
+        "preco": 39.9,
+        "timestamp": 1787862864.9282796,
+        "expirado": false
     }
 ]
