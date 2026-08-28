@@ -97,7 +97,7 @@ class WhatsAppSender:
                     
                     upload_sucesso = False
                     
-                    # 1. Abre o menu de anexar (+) e seleciona via File Chooser
+                    # 1. Abre o menu de anexar (+) e seleciona via File Chooser ou injeção direta de mídia
                     try:
                         plus_btn = self.page.locator('button[data-tab="10"], button[aria-label="Anexar"], button[aria-label="Attach"], button[aria-label="Adjuntar"], span[data-icon="plus-rounded"], span[data-icon="plus"]').first
                         plus_btn.click(timeout=5000, force=True)
@@ -111,25 +111,58 @@ class WhatsAppSender:
                         upload_sucesso = True
                         print("✅ Imagem selecionada via menu de anexo (File Chooser).")
                     except Exception as upload_err:
-                        print(f"⚠️ Falha ao anexar via File Chooser: {upload_err}. Tentando injeção direta...")
+                        print(f"⚠️ Falha ao anexar via File Chooser: {upload_err}. Tentando injeção direta de mídia...")
                         try:
-                            file_input = self.page.locator('input[type="file"]').first
-                            file_input.set_input_files(caminho_imagem_abs)
-                            upload_sucesso = True
+                            # Filtra especificamente os inputs de fotos/vídeos no DOM, descartando o input de figurinhas (webp)
+                            all_inputs = self.page.locator('input[type="file"]').all()
+                            media_input = None
+                            for inp in all_inputs:
+                                accept = (inp.get_attribute("accept") or "").lower()
+                                if "image" in accept and "webp" not in accept:
+                                    media_input = inp
+                                    break
+                                elif "image/*" in accept or "video/*" in accept:
+                                    media_input = inp
+                                    break
+                            
+                            if not media_input and all_inputs:
+                                media_input = all_inputs[0]
+
+                            if media_input:
+                                media_input.set_input_files(caminho_imagem_abs)
+                                upload_sucesso = True
+                            else:
+                                print("🚨 Nenhum elemento input file encontrado.")
+                                return False
                         except Exception as fb_err:
                             print(f"🚨 Falha ao anexar imagem: {fb_err}")
                             return False
 
-                    # 2. Aguarda a tela de preview da imagem carregar
+                    # 2. Aguarda a tela de preview da imagem carregar e localiza a caixa de legenda
                     print("⏳ Aguardando tela de preview da imagem...")
-                    caption_box = self.page.locator('div[data-testid="media-caption-input-container"]').first
-                    try:
-                        caption_box.wait_for(state="visible", timeout=10000)
-                    except Exception:
-                        print("⚠️ Tela de preview/legenda demorou a responder...")
+                    caption_box = None
+                    caption_selectors = [
+                        'div[data-testid="media-caption-input-container"]',
+                        'div[aria-label*="Adicione uma legenda"]',
+                        'div[aria-label*="Add a caption"]',
+                        'div[aria-label*="legenda"]',
+                        'div[aria-label*="caption"]',
+                        'div[contenteditable="true"][data-tab="10"]',
+                        'div[contenteditable="true"][data-tab="6"]'
+                    ]
+                    
+                    for selector in caption_selectors:
+                        try:
+                            loc = self.page.locator(selector).first
+                            loc.wait_for(state="visible", timeout=3000)
+                            if loc.is_visible():
+                                caption_box = loc
+                                break
+                        except Exception:
+                            continue
 
                     # 3. Foca a caixa de legenda da tela de preview e digita a mensagem formatada
-                    if caption_box.is_visible():
+                    if caption_box and caption_box.is_visible():
                         caption_box.focus()
                         caption_box.click(force=True)
                         self.page.wait_for_timeout(300)
@@ -143,18 +176,17 @@ class WhatsAppSender:
                         
                         self.page.wait_for_timeout(500)
                     else:
-                        print("⚠️ Caixa de legenda não localizada na tela de preview. Tentando enviar com Enter...")
+                        print("⚠️ Caixa de legenda não localizada na tela de preview. A imagem será enviada.")
 
                     # 4. Confirma o envio da foto com legenda
-                    self.page.keyboard.press("Enter")
-                    self.page.wait_for_timeout(1000)
-                    
                     send_btn = self.page.locator('span[data-icon="wds-ic-send-filled"], span[data-icon="send"], div[role="button"][aria-label*="Enviar"], button[aria-label*="Enviar"], button[aria-label*="Send"]').first
                     if send_btn.is_visible():
                         print("👉 Clicando no botão de enviar da tela de preview...")
                         send_btn.click(force=True)
-                        self.page.wait_for_timeout(1000)
+                    else:
+                        self.page.keyboard.press("Enter")
                     
+                    self.page.wait_for_timeout(1500)
                     print(f"✅ Imagem + legenda enviadas com sucesso para '{nome_grupo}'!")
                     return True
                 

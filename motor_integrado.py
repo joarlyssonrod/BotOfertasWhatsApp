@@ -324,26 +324,55 @@ def formatar_mensagem_oferta(titulo, preco_original, preco_atual, desconto, link
     return msg
 
 def baixar_imagem(url, caminho_destino):
-    """Baixa uma imagem de uma URL e salva localmente"""
+    """Baixa uma imagem de uma URL, converte obrigatoriamente para JPG RGB via PIL e salva localmente"""
     if not url:
         return False
     import urllib.request
     import ssl
+    import io
+    from PIL import Image
+
     try:
-        # Define cabeçalhos de navegador comum para evitar bloqueios de CDN
         req = urllib.request.Request(
             url, 
             headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36'}
         )
-        # Ignora verificação SSL para evitar erros com proxies corporativos ou antivírus
         contexto_ssl = ssl._create_unverified_context()
         with urllib.request.urlopen(req, context=contexto_ssl, timeout=10) as response:
-            with open(caminho_destino, 'wb') as out_file:
-                out_file.write(response.read())
+            image_bytes = response.read()
+
+        # Abre a imagem via PIL (suporta WebP, PNG, GIF, JPEG, etc.)
+        img = Image.open(io.BytesIO(image_bytes))
+
+        # Se possuir canal de transparência (RGBA, LA, P), insere fundo branco
+        if img.mode in ("RGBA", "LA", "P"):
+            bg = Image.new("RGB", img.size, (255, 255, 255))
+            if img.mode == "P":
+                img = img.convert("RGBA")
+            bg.paste(img, mask=img.split()[-1] if "A" in img.mode else None)
+            img = bg
+        else:
+            img = img.convert("RGB")
+
+        # Salva como formato JPEG padrão (WhatsApp Web reconhece sempre como foto, nunca como figurinha)
+        img.save(caminho_destino, format="JPEG", quality=92)
         return True
     except Exception as e:
-        print(f"⚠️ Erro ao baixar imagem da oferta: {e}")
-        return False
+        print(f"⚠️ Erro ao baixar/converter imagem da oferta ({url}): {e}")
+        # Fallback de salvamento bruto
+        try:
+            req = urllib.request.Request(
+                url, 
+                headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+            )
+            contexto_ssl = ssl._create_unverified_context()
+            with urllib.request.urlopen(req, context=contexto_ssl, timeout=10) as response:
+                with open(caminho_destino, 'wb') as out_file:
+                    out_file.write(response.read())
+            return True
+        except Exception as fb_err:
+            print(f"🚨 Falha ao baixar imagem: {fb_err}")
+            return False
 
 def atende_filtro_termos(titulo):
     """Retorna True se o titulo do produto contiver algum dos termos especificos configurados"""
