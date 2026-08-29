@@ -36326,5 +36326,61 @@
         "preco": 1931.31,
         "timestamp": 1788028978.858712,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-mizuno-base-one-masculino/divulgador/oferta/ff316g476b/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-mizuno-base-one-masculino/divulgador/oferta/ff316g476b/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis Mizuno Base One Masculino",
+        "preco": 245.99,
+        "timestamp": 1788035620.6599283,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB29011598",
+        "link_bruto": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-wap-wl-1820-com-stop-total-jato-leque-e-concentrado/p/MLB29011598?matt_event_ts=1788035457027&matt_d2id=b23238b9-6bbf-4ec7-a2f3-294dc842cb41&matt_tracing_id=05b87025-c461-4f6f-b628-675ce07543c4#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=18cbc478-c006-4080-91b7-a79ae3f9df2b&tracking_id=3f23d8e1-4b0b-4601-9406-f6b34040b511&c_id=/home/card-featured/element&c_uid=49785305-db2e-4854-8fb7-e1cc750fd66d",
+        "titulo": "Lavadora de Alta Pressão WAP WL 1820 com Stop Total, Jato Leque e Concentrado",
+        "preco": 301.74,
+        "timestamp": 1788035664.0223484,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-sapatenis-masculino-polo-open-casual-conforto/divulgador/oferta/ed2g448c4e/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-sapatenis-masculino-polo-open-casual-conforto/divulgador/oferta/ed2g448c4e/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis Sapatênis Masculino Polo Open Casual Conforto",
+        "preco": 64.41,
+        "timestamp": 1788035708.6668866,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F8VVSF6W",
+        "link_bruto": "https://www.amazon.com.br/Profissional-Negativos-Temperatura-Brushless-Velocidade/dp/B0F8VVSF6W?tag=promobit-d-20&th=1",
+        "titulo": "Secador de Cabelo 1500W, Motor Brushless 120.000 RPM, Íons Negativos, 127V",
+        "preco": 97.69,
+        "timestamp": 1788035752.1367633,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07YCQ64HM",
+        "link_bruto": "https://www.amazon.com.br/CAF%C3%89-MELITTA-SABOR-FAZENDA-V%C3%81CUO/dp/B07YCQ64HM/?tag=promobit-d-20",
+        "titulo": "Café Melitta Sabor Da Fazenda Vácuo 500g",
+        "preco": 24.22,
+        "timestamp": 1788035794.705036,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CJ9Q67PG",
+        "link_bruto": "https://www.amazon.com.br/dp/B0CJ9Q67PG/?tag=promobit-d-20",
+        "titulo": "Gillette Venus Íntima, Aparelho de Depilação Descartável, 2 Unidades",
+        "preco": 14.0,
+        "timestamp": 1788035831.0323622,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/smartphone-samsung-galaxy-a57-128gb-cinza-5g-smartband-samsung-galaxy-fit3-grafite/divulgador/oferta/239225100/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/smartphone-samsung-galaxy-a57-128gb-cinza-5g-smartband-samsung-galaxy-fit3-grafite/divulgador/oferta/239225100/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Smartphone Samsung Galaxy A57 128GB Cinza - 5G + Smartband Samsung Galaxy Fit3 Grafite",
+        "preco": 1744.0,
+        "timestamp": 1788035867.0790367,
+        "expirado": false
     }
 ]
