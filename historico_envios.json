@@ -36382,5 +36382,69 @@
         "preco": 1744.0,
         "timestamp": 1788035867.0790367,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB22327257",
+        "link_bruto": "https://www.mercadolivre.com.br/suporte-wb-echo-dot-4a-alexa-geracao-cor-preto/p/MLB22327257?matt_event_ts=1788042712364&matt_d2id=9745ff65-d22a-4144-900d-fcef03b82d79&matt_tracing_id=f219d9ad-627f-4d73-91a4-54a2fa38eddb#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=e0a08d0f-4472-46bd-b00e-c8913fbe740c&tracking_id=61cac0ad-b663-46ff-b959-8f3ec623fb32&c_id=/home/card-featured/element&c_uid=1299a215-3568-4a22-bfbc-c06f083f4f22",
+        "titulo": "Suporte Wb Echo Dot 4a Alexa Geração Cor Preto",
+        "preco": 19.0,
+        "timestamp": 1788042872.917529,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB59324574",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-gamer-curvo-aoc-agon-g4z-27-300hz-03ms-hdr10-base-ajustavel-c27g4zp-preto/p/MLB59324574?matt_event_ts=1788042763669&matt_d2id=1fa65ae4-7fb6-46ed-9f40-25721793e723&matt_tracing_id=12a0ea12-c607-474b-9be8-bab4e9942474#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4a078439-e451-41ae-ac6d-4d0b6e82d08c&tracking_id=12454815-137d-4daf-b863-458ca1966b29&c_id=/home/card-featured/element&c_uid=a83ee85e-66de-481e-8b50-11238a78b0a5",
+        "titulo": "Monitor Gamer Curvo AOC AGON G4Z 27\" 300Hz 0,3ms HDR10 Base Ajustável C27G4ZP",
+        "preco": 1088.91,
+        "timestamp": 1788042915.5668883,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F8P8KKH1",
+        "link_bruto": "https://www.amazon.com.br/Infantil-El%C3%A9trico-Passeio-Vermelho-Controle/dp/B0F8P8KKH1/?tag=promobit-d-20&th=1",
+        "titulo": "Jipe Infantil Elétrico 12v Carrinho Controle Remoto Música (preto)",
+        "preco": 827.09,
+        "timestamp": 1788042954.031809,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07K1FVM4S",
+        "link_bruto": "https://www.amazon.com.br/Versace-741010-Eros-Flame-Masculino/dp/B07K1FVM4S/ref=zg_bs_g_214028774011_d_sccl_26/142-7581729-8654335?tag=promobit-d-20",
+        "titulo": "Eros Flame Versace - Perfume Masculino - Eau de Parfum 100ml",
+        "preco": 544.56,
+        "timestamp": 1788042991.1953647,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07YN9M2MH",
+        "link_bruto": "https://www.amazon.com.br/Ketchup-Sabor-Bacon-Cebola-Caramelizada/dp/B07YN9M2MH/ref=zg_bs_g_grocery_d_sccl_44/142-7581729-8654335?tag=promobit-d-20",
+        "titulo": "Heinz Ketchup Bacon & Cebola Caramelizada 397g",
+        "preco": 10.79,
+        "timestamp": 1788043033.533277,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GTRZFNJM",
+        "link_bruto": "https://www.amazon.com.br/Apple-iPhone-17e-256-Rosa-p%C3%A1lido/dp/B0GTRZFNJM?pd_rd_w=LjfII&content-id=amzn1.sym.568366b7-4db6-4e5b-8122-c1e860f9b7d1&pd_rd_wg=ytseO&pd_rd_r=8da433ec-40d9-4f41-a84b-ac6d11e84ca1&pd_rd_i=B0GTRZFNJM&tag=promobit-d-20",
+        "titulo": "Apple iPhone 17e de 256 GB Rosa-pálido",
+        "preco": 4229.1,
+        "timestamp": 1788043070.353056,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H5CSX7ZS",
+        "link_bruto": "https://www.amazon.com.br/Electrolux-Ar-condicionado-MaxComfort-NI09F-NE09F/dp/B0H5CSX7ZS?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promobit-d-20",
+        "titulo": "Electrolux Ar-condicionado Split Electrolux MaxComfort Full Inverter Frio 9.000 BTUs (NI09FNE09F) 220V",
+        "preco": 1699.0,
+        "timestamp": 1788043111.0086586,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GQMVCQQ5",
+        "link_bruto": "https://www.amazon.com.br/Acer-Aspire-Go-15-AG15-71P-54PD/dp/B0GQMVCQQ5?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promobit-d-20",
+        "titulo": "Notebook Acer Aspire Go 15 AG15-71P-54PD Intel Core i5-13420H 8 Núcleos Memória RAM 8GB DDR5 5200MHz SSD NVMe 256Gb Te",
+        "preco": 3999.0,
+        "timestamp": 1788043149.4030747,
+        "expirado": false
     }
 ]
