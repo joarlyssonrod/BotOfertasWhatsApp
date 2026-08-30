@@ -36862,5 +36862,45 @@
         "preco": 305.36,
         "timestamp": 1788122199.4786274,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB64532795",
+        "link_bruto": "https://www.mercadolivre.com.br/saca-rolhas-eletrico-automatico-portatil-de-pilhas-para-vinhos/p/MLB64532795?matt_event_ts=1788129163706&matt_d2id=c800b58f-4692-456c-96cf-f81a8d3152f4&matt_tracing_id=3e7ac131-868d-4766-b9be-79d7ed0c9b71#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=566650e6-2e63-43d8-990c-a03bded0627b&tracking_id=dc982021-d6f8-4e14-9224-511002b3b3df&c_id=/home/card-featured/element&c_uid=7251d35d-1ea8-48e4-9744-da59b82a75a9",
+        "titulo": "Saca-rolhas Elétrico Automático Portátil de Pilhas para Vinhos",
+        "preco": 32.35,
+        "timestamp": 1788129250.6150346,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-adidas-grand-court-alpha-00-feminino/divulgador/oferta/gb7a271b9c/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-adidas-grand-court-alpha-00-feminino/divulgador/oferta/gb7a271b9c/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis Adidas Grand Court Alpha 00 Feminino",
+        "preco": 229.99,
+        "timestamp": 1788129289.260757,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/celular-samsung-galaxy-s26-ultra-5g-512gb-12gb-ram-camera-quadrupla-tela-grande-de-6-9/divulgador/oferta/gdk23482eg/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/celular-samsung-galaxy-s26-ultra-5g-512gb-12gb-ram-camera-quadrupla-tela-grande-de-6-9/divulgador/oferta/gdk23482eg/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Celular Samsung Galaxy S26 Ultra 5G 512GB 12GB RAM Câmera Quádrupla Tela Grande de 6.9\"",
+        "preco": 6399.0,
+        "timestamp": 1788129327.9550085,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3924338315",
+        "link_bruto": "https://www.mercadolivre.com.br/mangueira-20metros-duraflex-silconada-reforcada-profissional/up/MLBU3924338315",
+        "titulo": "Mangueira 20metros Duraflex Silconada Reforçada Profissional Laranja",
+        "preco": 48.0,
+        "timestamp": 1788129361.8411484,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/geladeira-brastemp-frost-free-inverse-591-litros-inox-bre85mk/divulgador/oferta/he1ff8ah43/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/geladeira-brastemp-frost-free-inverse-591-litros-inox-bre85mk/divulgador/oferta/he1ff8ah43/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Geladeira Brastemp Frost Free Inverse 591 Litros Inox - BRE85MK",
+        "preco": 4099.82,
+        "timestamp": 1788129395.3916428,
+        "expirado": false
     }
 ]
