@@ -36814,5 +36814,53 @@
         "preco": 1583.2,
         "timestamp": 1788114969.4171484,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/caixa-som-portatil-jbl-charge-6-bluetooth-preta/divulgador/oferta/akbce255h8/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/caixa-som-portatil-jbl-charge-6-bluetooth-preta/divulgador/oferta/akbce255h8/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Caixa Som Portatil Jbl Charge 6 Bluetooth Preta",
+        "preco": 671.04,
+        "timestamp": 1788122002.282232,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3319767882",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-casual-all-star-cano-curto-algodao-converse/up/MLBU3319767882?pdp_filters=item_id%3AMLB4470377659&matt_event_ts=1788121856569&matt_d2id=103aed8d-0fd6-4441-a610-55011576367c&matt_tracing_id=c2f323d3-36d1-4188-8877-e157adf8a220#polycard_client=recommendations_home_affiliate-profile&wid=MLB4470377659&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=404e3ac1-f6dc-40a6-8c4f-8f047d3c017a&tracking_id=e0661b21-7540-4a20-bf8f-8a8511068555&c_id=/home/card-featured/element&c_uid=4188dbb2-c1c1-4114-9676-9698e250cc42",
+        "titulo": "Tênis Casual All Star Cano Curto Algodão Converse",
+        "preco": 168.14,
+        "timestamp": 1788122047.878374,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB2086569826",
+        "link_bruto": "https://www.mercadolivre.com.br/soprador-de-ar-portatil-turbo-130000-rpm-preto/p/MLB2086569826?matt_event_ts=1788121826022&matt_d2id=b55fd5cf-a355-49f8-b43d-fdb1e476138a&matt_tracing_id=d1d29dd1-3773-400c-bd3f-ed7b7cfe398b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=326069e8-63d6-49ce-a4b5-279f3de43cb2&tracking_id=5bb55842-27b9-4711-a951-a45cf50845ac&c_id=/home/card-featured/element&c_uid=a02bf68a-f71d-4917-9b57-36184b460088",
+        "titulo": "Soprador De Ar Portátil Turbo 130000 Rpm Preto",
+        "preco": 31.29,
+        "timestamp": 1788122081.9060547,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FJ7SSWVZ",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FJ7SSWVZ?social_share=cm_sw_r_apan_dp_94XCGYHZNZ7FMFAHEWX4&tag=promobit-d-20",
+        "titulo": "Lava-Roupas Líquido Omo Ciclo Rápido Ação Antiodor Frasco 1,4L",
+        "preco": 18.99,
+        "timestamp": 1788122126.1000507,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F2GNQSKS",
+        "link_bruto": "https://www.amazon.com.br/Dyson-SupersonicTM-Secador-Cabelo-127v/dp/B0F2GNQSKS?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promobit-d-20",
+        "titulo": "Dyson Supersonic Secador de Cabelo 127v",
+        "preco": 3427.78,
+        "timestamp": 1788122157.2498372,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_55858748353",
+        "link_bruto": "https://s.shopee.com.br/2VrLBIQ6VB",
+        "titulo": "Tênis Casuais Com Sola Grossa Que Aumentam A Altura E Possui Blocos Coloridos",
+        "preco": 305.36,
+        "timestamp": 1788122199.4786274,
+        "expirado": false
     }
 ]
