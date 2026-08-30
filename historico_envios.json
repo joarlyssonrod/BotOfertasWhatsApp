@@ -36774,5 +36774,45 @@
         "preco": 698.99,
         "timestamp": 1788108131.1226797,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB21619053",
+        "link_bruto": "https://www.mercadolivre.com.br/lava-loucas-14-servicos-midea-cor-branca-cor-branco/p/MLB21619053?pdp_filters=item_id%3AMLB4598144093&matt_event_ts=1788114714874&matt_d2id=248cfc95-d485-4685-92a1-fd801437c945&matt_tracing_id=2a67c830-9f14-4ba9-bc0e-079a4df8e531#polycard_client=recommendations_home_affiliate-profile&wid=MLB4598144093&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6786449f-ed60-4e86-aacd-48e69dbdbed4&tracking_id=bed88681-f3bd-4882-af1e-92974ab50270&c_id=/home/card-featured/element&c_uid=c04be929-d8a5-49c8-a637-f4b00a6f7130",
+        "titulo": "Lava Louças 14 Serviços Midea Cor Branca Cor Branco",
+        "preco": 2271.53,
+        "timestamp": 1788114803.7217095,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3976318154",
+        "link_bruto": "https://www.mercadolivre.com.br/teclado-gamer-attack-shark-r85he-mecanico-usb/up/MLBU3976318154?pdp_filters=item_id%3AMLB6781666650&matt_event_ts=1788114704312&matt_d2id=c5fed5dc-41d6-43cb-bddd-a87b9cdcb7b0&matt_tracing_id=75ac7e66-3815-4b07-9434-2ea8ccd51ffb#polycard_client=recommendations_home_affiliate-profile&wid=MLB6781666650&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=9b37ebb4-4976-4643-8eaf-af6730c0967d&tracking_id=ce7c0872-c180-425c-b967-794ebe64c334&c_id=/home/card-featured/element&c_uid=07cb6323-c746-46ad-93a4-483519d44bde",
+        "titulo": "Teclado Gamer Attack Shark R85he Magnético USB",
+        "preco": 208.0,
+        "timestamp": 1788114842.076859,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB1055308852",
+        "link_bruto": "https://www.mercadolivre.com.br/iphone-17-256gb-azul-nevoa-distribuidor-autorizado/p/MLB1055308852?matt_event_ts=1788114675855&matt_d2id=66cdd262-1731-4775-8d5c-0b088287bf4e&matt_tracing_id=97db6801-0558-4032-be83-88c6129b1021#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ba95f2be-7270-4bc8-8b6d-89aba15257e9&tracking_id=abd4fa12-50ed-4ea0-be4b-220809f7079f&c_id=/home/card-featured/element&c_uid=699e92c2-63ae-4349-be81-e44cf9d2432a",
+        "titulo": "iPhone 17 256 GB - Azul-névoa - Distribuidor Autorizado",
+        "preco": 5219.1,
+        "timestamp": 1788114883.481375,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3981748760",
+        "link_bruto": "https://www.mercadolivre.com.br/teclado-mecanico-f75-sem-fio-75-rgb/up/MLBU3981748760?pdp_filters=item_id%3AMLB6793142546&matt_event_ts=1788114635932&matt_d2id=35b60006-7417-42a8-b909-96cf66cc8292&matt_tracing_id=d134fa07-3173-4533-a25d-20e968127f4e#polycard_client=recommendations_home_affiliate-profile&wid=MLB6793142546&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f7cf8a95-97ce-4f2c-8987-6d252cc8b13a&tracking_id=6f7a1d18-efd0-4f46-96f7-fe8ccf2874f0&c_id=/home/card-featured/element&c_uid=bd7fe671-9315-41d5-9c60-8766badde1e6",
+        "titulo": "Teclado Mecânico F75 Sem Fio 75% RGB",
+        "preco": 185.0,
+        "timestamp": 1788114922.8776634,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/caixa-de-som-bluetooth-jbl-boombox-3-preto/divulgador/oferta/bf96ghhjg8/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/caixa-de-som-bluetooth-jbl-boombox-3-preto/divulgador/oferta/bf96ghhjg8/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Caixa de Som Bluetooth JBL Boombox 3 Preto",
+        "preco": 1583.2,
+        "timestamp": 1788114969.4171484,
+        "expirado": false
     }
 ]
