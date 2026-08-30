@@ -36446,5 +36446,21 @@
         "preco": 3999.0,
         "timestamp": 1788043149.4030747,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU2956886989",
+        "link_bruto": "https://www.mercadolivre.com.br/parafusadeira-furadeira-sem-fio-48-2-baterias-340w-cbrocas/up/MLBU2956886989?pdp_filters=item_id%3AMLB3951866299&matt_event_ts=1788049888806&matt_d2id=a26071c2-9da3-4fa1-8fe1-6b80762d8f9d&matt_tracing_id=cbd35c46-9b4d-4b12-a5bd-0d5345d0fc05#polycard_client=recommendations_home_affiliate-profile&wid=MLB3951866299&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=2f46c42f-db2e-4439-9f6e-ba20960985b4&tracking_id=0372dc18-4bf9-4d17-b1d0-91c5455f7813&c_id=/home/card-featured/element&c_uid=a6a6c61d-b376-450c-819e-ea35563ee441",
+        "titulo": "Parafusadeira Furadeira Sem Fio 48 2 Baterias 340w Cbrocas",
+        "preco": 69.65,
+        "timestamp": 1788049973.8838308,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3903560662",
+        "link_bruto": "https://www.mercadolivre.com.br/oimotoo-s6-bicicleta-eletrica-dobravel-450w35km40kmh/up/MLBU3903560662",
+        "titulo": "Oimotoo S6 Bicicleta Elétrica Dobrável 450w-35km-40km/h Preto",
+        "preco": 2446.0,
+        "timestamp": 1788050012.684981,
+        "expirado": false
     }
 ]
