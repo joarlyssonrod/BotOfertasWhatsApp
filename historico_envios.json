@@ -37142,5 +37142,37 @@
         "preco": 428.04,
         "timestamp": 1788194481.0873532,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU4760101286",
+        "link_bruto": "https://www.mercadolivre.com.br/esteira-ergometrica-eletrica-dobravel-residencial-cardio/up/MLBU4760101286",
+        "titulo": "Esteira Ergométrica Elétrica Dobrável Residencial Cardio Preto 127/220v",
+        "preco": 620.0,
+        "timestamp": 1788201946.558401,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66788727",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-arabe-sabah-al-ward-sugar-feminino-100ml-original-com-nf/p/MLB66788727",
+        "titulo": "Perfume Árabe Sabah Al Ward Sugar Feminino 100ml - Original Com Nf",
+        "preco": 115.11,
+        "timestamp": 1788201987.8706555,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CYJ7DBQC",
+        "link_bruto": "https://www.amazon.com.br/NIVEA-Desodorante-Stick-Protect-Clinical/dp/B0CYJ7DBQC?tag=promobit-d-20",
+        "titulo": "NIVEA Desodorante Antitranspirante Stick Derma Protect Clinical 58g, Defesa Intensa 96h, Controle de Suor Extremo",
+        "preco": 13.99,
+        "timestamp": 1788202031.2577617,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB75636536",
+        "link_bruto": "https://www.mercadolivre.com.br/pulverizador-de-espuma-eletrico-recarregavel-alta-pressao-snow-foam/p/MLB75636536",
+        "titulo": "Pulverizador De Espuma À Elétrico Recarregável Alta Pressão Snow Foam",
+        "preco": 100.8,
+        "timestamp": 1788202081.45121,
+        "expirado": false
     }
 ]
