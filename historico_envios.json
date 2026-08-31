@@ -37054,5 +37054,53 @@
         "preco": 60.9,
         "timestamp": 1788180019.4310005,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_9478115936",
+        "link_bruto": "https://s.shopee.com.br/5LBXkfsFGa",
+        "titulo": "Suporte Porta Controle Videogame Gamer Para Ps4 Xbox Ps5",
+        "preco": 19.85,
+        "timestamp": 1788186817.2920191,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3938131998",
+        "link_bruto": "https://www.mercadolivre.com.br/esteira-eletrica-ergometrica-de-academia-16kmh-150kg-dobevi/up/MLBU3938131998",
+        "titulo": "Esteira Elétrica Ergométrica De Academia 16km/h 150kg Dobevi Preto 127v",
+        "preco": 2036.0,
+        "timestamp": 1788186853.8481443,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19803789",
+        "link_bruto": "https://www.mercadolivre.com.br/o-boticario-insensatez-deo-colonia-100ml/p/MLB19803789",
+        "titulo": "O Boticário Insensatez Deo Colônia 100ml",
+        "preco": 86.9,
+        "timestamp": 1788186888.2790663,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07MWT9NND",
+        "link_bruto": "https://www.amazon.com.br/Escorredor-de-Mamadeira-Clingo-Verde/dp/B07MWT9NND?tag=promobit-d-20",
+        "titulo": "Escorredor De Mamadeira Clingo",
+        "preco": 31.0,
+        "timestamp": 1788186921.493003,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22698291028",
+        "link_bruto": "https://s.shopee.com.br/4fvqxRumcO",
+        "titulo": "Máscara de Hidrataçâo Morte Subita Lola Cosmetics 450g",
+        "preco": 44.9,
+        "timestamp": 1788186956.8061132,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3436451079",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3436451079-lava-loucas-brastemp-8-servicos-preta-blf08ae-_JM?searchVariation=179786658147&matt_event_ts=1788186700635&matt_d2id=d5eb9e82-becf-4d64-9c80-fb5c2fd7a305&matt_tracing_id=0e6c02d5-baa5-459d-a41e-eea151ae17c7#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a8233d4b-6b5c-42f1-a0f9-a7394505d1cd&tracking_id=f8a0c2fd-1c87-4546-a7d9-9318d45ecc41&c_id=/home/card-featured/element&c_uid=712d86e8-d794-487a-b081-709db15b1d8d",
+        "titulo": "Lava Louças Brastemp 8 Serviços Preta - Blf08ae",
+        "preco": 1489.57,
+        "timestamp": 1788187009.2677422,
+        "expirado": false
     }
 ]
