@@ -37102,5 +37102,45 @@
         "preco": 1489.57,
         "timestamp": 1788187009.2677422,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB64747262",
+        "link_bruto": "https://www.mercadolivre.com.br/jipe-infantil-eletrico-12v-carrinho-controle-remoto-musica-cor-preto-voltagem-do-carregador-110220/p/MLB64747262",
+        "titulo": "Jipe Infantil Elétrico 12v Carrinho Controle Remoto Música Cor Preto Voltagem Do Carregador 110/220",
+        "preco": 819.63,
+        "timestamp": 1788194314.725983,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB42695004",
+        "link_bruto": "https://www.mercadolivre.com.br/jipe-infantil-eletrico-12v-carrinho-controle-remoto-musica-brinq-kids/p/MLB42695004",
+        "titulo": "Jipe Infantil Elétrico 12v Carrinho Controle Remoto Música Brinq Kids",
+        "preco": 890.9,
+        "timestamp": 1788194355.9512618,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB17822925",
+        "link_bruto": "https://www.mercadolivre.com.br/relogio-casio-g-shock-ga-2100-1adr-carbon-core-guard-cor-da-correia-preto-cor-do-bisel-pretocinza-cor-do-fundo-preto/p/MLB17822925",
+        "titulo": "Relógio Casio G-shock Ga-2100-1adr Carbon Core Guard Cor da correia Preto Cor do bisel Preto/Cinza Cor do fundo Preto",
+        "preco": 356.73,
+        "timestamp": 1788194404.6443038,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU1406075610",
+        "link_bruto": "https://www.mercadolivre.com.br/calca-sarja-masculina-social-slim-elastano-bolso-embutido/up/MLBU1406075610",
+        "titulo": "Calça Sarja Masculina Social Slim Elastano Bolso Embutido Sarja Preta 42",
+        "preco": 54.05,
+        "timestamp": 1788194439.2269676,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU755382748",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-teclado-musical-estudante-iniciante-58--capa-suporte/up/MLBU755382748",
+        "titulo": "Kit Teclado Musical Estudante Iniciante 5/8 + Capa Suporte 127/220v Preto",
+        "preco": 428.04,
+        "timestamp": 1788194481.0873532,
+        "expirado": false
     }
 ]
