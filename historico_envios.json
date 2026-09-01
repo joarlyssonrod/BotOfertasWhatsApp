@@ -37390,5 +37390,61 @@
         "preco": 43.89,
         "timestamp": 1788265984.2395954,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB75655937",
+        "link_bruto": "https://www.mercadolivre.com.br/pulverizador-eletrico-snow-foam-bahrein-2l-para-limpeza-automotiva-e-domestica/p/MLB75655937",
+        "titulo": "Pulverizador Elétrico Snow Foam Bahrein 2L para Limpeza Automotiva e Doméstica",
+        "preco": 96.73,
+        "timestamp": 1788267538.0781813,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB75534513",
+        "link_bruto": "https://www.mercadolivre.com.br/aweshine-tripe-bastao-para-celular-portatil-ate-170-m-com-bluetooth-controlecelular-360-rotacao/p/MLB75534513",
+        "titulo": "aweshine Tripé / Bastão Para Celular Portátil Até 1,70 M Com Bluetooth Controle,Celular 360° Rotação",
+        "preco": 72.01,
+        "timestamp": 1788267581.9170167,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4545448191",
+        "link_bruto": "https://www.mercadolivre.com.br/bicicleta-ergometrica-bike-spinning-garrafa--meca-mix-preto/up/MLBU4545448191",
+        "titulo": "Bicicleta Ergométrica Bike Spinning Garrafa  Meca Mix Preto Preto 0",
+        "preco": 650.0,
+        "timestamp": 1788267623.7854903,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3625243427",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-feminino-role-olympikus/up/MLBU3625243427?pdp_filters=item_id%3AMLB4482833025&matt_event_ts=1788267441823&matt_d2id=2d1e31dc-c454-43ce-8056-85235b13b361&matt_tracing_id=50e29c19-cd5c-4bbd-915c-47f1ef1e61fa#polycard_client=recommendations_home_affiliate-profile&wid=MLB4482833025&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0685e70e-3954-4c8a-a84b-5c9857b5113c&tracking_id=d1d33b93-cc82-40ec-8d61-8a38c31356e1&c_id=/home/card-featured/element&c_uid=574e85f4-33bb-424b-8501-c342fd3b38a2",
+        "titulo": "Tênis Feminino Role Olympikus",
+        "preco": 127.5,
+        "timestamp": 1788267666.6097457,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB60399706",
+        "link_bruto": "https://www.mercadolivre.com.br/cabide-acrilico-premium-kit-50-unidades-cor-transparente-libery-casa/p/MLB60399706",
+        "titulo": "Cabide acrílico premium kit 50 unidades cor transparente Libery Casa",
+        "preco": 57.99,
+        "timestamp": 1788267699.4331431,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB25386934",
+        "link_bruto": "https://www.mercadolivre.com.br/toalhas-umedecidas-mamypoko-dianoite-200-unidades/p/MLB25386934",
+        "titulo": "Toalhas umedecidas MamyPoko Dia&Noite 200 unidades",
+        "preco": 25.0,
+        "timestamp": 1788267732.1952894,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GQWP9K1G",
+        "link_bruto": "https://www.amazon.com.br/Apple-iPhone-17-256-GB/dp/B0GQWP9K1G",
+        "titulo": "Apple iPhone 17 de 256 GB — Sálvia",
+        "preco": 5887.78,
+        "timestamp": 1788267765.91921,
+        "expirado": false
     }
 ]
