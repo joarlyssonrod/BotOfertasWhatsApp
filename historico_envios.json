@@ -37318,5 +37318,61 @@
         "preco": 5499.99,
         "timestamp": 1788216107.0883517,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB6093745",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-calvin-klein-ck-one-200ml/p/MLB6093745?matt_event_ts=1788222653235&matt_d2id=eba909ad-5c8d-4059-a899-79d150f82fe9&matt_tracing_id=c594ad38-ad19-40a4-807d-2f39d83e16ce#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7692426c-723d-4b4c-8e24-fcb4f9520050&tracking_id=995c699a-1866-49df-91b7-3d5d6f4e9d74&c_id=/home/card-featured/element&c_uid=99b9dd42-70a2-4107-8317-9e3b294657c0",
+        "titulo": "Perfume Calvin Klein CK One 200ml",
+        "preco": 234.5,
+        "timestamp": 1788222830.9581323,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4096599421",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4096599421-kit-3-meias-under-armour-core-cotton-cano-alto-original-_JM?searchVariation=206046335283&matt_event_ts=1788222685214&matt_d2id=27529fc7-0b26-4eb2-88a8-3e18eaaf69f1&matt_tracing_id=2410e9a2-f665-4d51-96ea-27849964c100#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6ca2ccd0-dbeb-4dca-ac7e-7d8f3ca0dd96&tracking_id=43c73557-abec-493c-b067-d88e9e69c29d&c_id=/home/card-featured/element&c_uid=2974e292-064a-4cbc-83c9-086d535d10f0",
+        "titulo": "Kit 3 Meias Under Armour Core Cotton Cano Alto Original",
+        "preco": 45.0,
+        "timestamp": 1788222870.0996063,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B091664YFV",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B091664YFV/?tag=promobit-d-20&th=1",
+        "titulo": "Triciclo Avespa Maral Pink",
+        "preco": 195.83,
+        "timestamp": 1788222899.1146438,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58263655585",
+        "link_bruto": "https://shopee.com.br/product/1867922822/58263655585?credential_token=8wEwiDL7ZS6Hharxu18vFNywkedL9mFiEjht8t3WHS&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmQAAAAwI7GUY8p-NgUkR46cmBMVeipy34sHw4zT09gyzbQXqKoWYIipffVYfkH4ZXPwrneGBptGe933buQCUlCpufNd-1ASU8igRcH3uavH8yitbCTHw68RIxLGtUuydo3onYvV3_kRJX6lZ3TAfGXqtSqR_8pOzWcaHntvf1zV-hxOj4i2sXgUTPyW40bGxKKBzkwwuZ8AWBw&mmp_pid=an_18140170000&uls_trackid=56ha6dg900a3&utm_campaign=id_e351fad5ad45fbfa&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fgiv6qq8kn9m",
+        "titulo": "Combo Body Splash Hello Hello + Hidratante Muse + Body Splash Muse",
+        "preco": 111.16,
+        "timestamp": 1788222939.1572192,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/smart-tv-65-lg-4k-ultra-hd-qned-mini-led-65qned70bsa-webos-26-2026/divulgador/oferta/241763300/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/smart-tv-65-lg-4k-ultra-hd-qned-mini-led-65qned70bsa-webos-26-2026/divulgador/oferta/241763300/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Smart TV 65\" LG 4K Ultra HD QNED Mini LED 65QNED70BSA WebOS 26 2026",
+        "preco": 3500.0,
+        "timestamp": 1788222985.0127263,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/playstation-5-slim-disk-1tb-1-controle-branco-sony-com-2-jogos/divulgador/oferta/240590800/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/playstation-5-slim-disk-1tb-1-controle-branco-sony-com-2-jogos/divulgador/oferta/240590800/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "PlayStation 5 Slim Disk 1TB 1 Controle Branco Sony com 2 Jogos",
+        "preco": 4483.08,
+        "timestamp": 1788223032.4609435,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/playstation-5-edicao-digital-825gb-1-controle-branco-sony/divulgador/oferta/240604800/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/playstation-5-edicao-digital-825gb-1-controle-branco-sony/divulgador/oferta/240604800/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "PlayStation 5 Edição Digital 825GB 1 Controle Branco Sony",
+        "preco": 3998.99,
+        "timestamp": 1788223073.5873144,
+        "expirado": false
     }
 ]
