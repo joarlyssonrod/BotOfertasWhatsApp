@@ -37446,5 +37446,69 @@
         "preco": 5887.78,
         "timestamp": 1788267765.91921,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/lapromotion/divulgador/oferta/241815700/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/lapromotion/divulgador/oferta/241815700/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Kit Churrasco Tramontina Plenus 3 Peças",
+        "preco": 25.0,
+        "timestamp": 1788273354.2173128,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB78299839",
+        "link_bruto": "https://www.mercadolivre.com.br/cabo-flexivel-25-mm-illuminix-rolo-com-100-metros-750v-preto/p/MLB78299839",
+        "titulo": "Cabo Flexível 2,5 Mm² Illuminix Rolo Com 100 Metros 750v Preto",
+        "preco": 50.0,
+        "timestamp": 1788273394.624241,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19040301",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-armaf-club-de-nuit-sillage-105ml-edp-masculino/p/MLB19040301?matt_event_ts=1788273167165&matt_d2id=1158c3b2-bdef-4670-9261-834d130d07a4&matt_tracing_id=f816873f-3857-4e0a-9e83-74fefa662fdd#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7cba2bd2-1d0a-493c-9db8-51439da047a3&tracking_id=72aa39f7-f7cb-472d-ade8-e102657bf1c2&c_id=/home/card-featured/element&c_uid=ee0e77d7-9d7e-428e-88e2-65db388af8f5",
+        "titulo": "Perfume Árabe Armaf Club de Nuit Sillage 105ml",
+        "preco": 225.0,
+        "timestamp": 1788273446.7888117,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B091W9FN9N",
+        "link_bruto": "https://www.amazon.com.br/dp/B091W9FN9N?tag=promobit-d-20",
+        "titulo": "Comfort Amaciante Concentrado Energia Floral 1,5L",
+        "preco": 22.99,
+        "timestamp": 1788273477.7925715,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3434837789",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-fila-vector-feminino/up/MLBU3434837789?pdp_filters=item_id%3AMLB6415391084&matt_event_ts=1788273139496&matt_d2id=6efe36cf-cf50-4b6f-98fe-11ce308e9898&matt_tracing_id=0967b4ff-3603-4134-abe8-dda02fd93735#polycard_client=recommendations_home_affiliate-profile&wid=MLB6415391084&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4f5cba33-cdac-4987-963c-756808bda63f&tracking_id=3b295b32-8b04-4482-be1c-8757d09eed9c&c_id=/home/card-featured/element&c_uid=7fc007e3-6c6a-4006-a6ce-f031e01e85c7",
+        "titulo": "Tenis fila vector feminino",
+        "preco": 189.99,
+        "timestamp": 1788273521.633452,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DD8H1XQY",
+        "link_bruto": "https://www.amazon.com.br/Hellmanns-Maionese-Sinistro-Stranger-Limitada/dp/B0DD8H1XQY?mcid=722194913f9e3057bd4a2f72eefb5b3c&hvadid=714419491879&hvpos=&hvnetw=g&hvrand=6850001761346450596&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100738&hvtargid=pla-2369040227001&hvocijid=6850001761346450596-B0DD8H1XQY-&hvexpln=0&btn_type=ss&tag=promobit-d-20",
+        "titulo": "Hellmann&#039;s Maionese Bacon 335g",
+        "preco": 9.49,
+        "timestamp": 1788273575.107263,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DDZWGD1S",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DDZWGD1S/?tag=promobit-d-20&th=1",
+        "titulo": "Fechadura Digital De Embutir, Wi-fi Com Biometria, Elsys, Sax, Prata - Abertura Via Biometria, Senha Numérica, Aplicativo, Campainha",
+        "preco": 842.07,
+        "timestamp": 1788273609.7543955,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22297917415",
+        "link_bruto": "https://s.shopee.com.br/4VcSDjAInp",
+        "titulo": "Lavajato 48V Pistola Lavadora Portátil De Alta Pressão Recarregável Carros e Jardins Pistola Residêncial Bivolt",
+        "preco": 119.9,
+        "timestamp": 1788273649.0485811,
+        "expirado": false
     }
 ]
