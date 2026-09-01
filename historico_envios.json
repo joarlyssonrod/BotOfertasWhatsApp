@@ -37374,5 +37374,21 @@
         "preco": 3998.99,
         "timestamp": 1788223073.5873144,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_58214711084",
+        "link_bruto": "https://s.shopee.com.br/2qUEEfGeBP",
+        "titulo": "PROMOCAO DE MOLETOM CANGURU ESTAMPADO N AIR OFERTA UNICA",
+        "preco": 53.0,
+        "timestamp": 1788265949.768281,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07MQG6SWC",
+        "link_bruto": "https://www.amazon.com.br/Bepantol-Baby-Creme-Preven%C3%A7%C3%A3o-Assaduras/dp/B07MQG6SWC",
+        "titulo": "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g | 100g, Com Pró-Vitamina B5, Hipoalergênico, Dermatologicamente testado, Barreira protetora, Sem fragrâncias e corantes",
+        "preco": 43.89,
+        "timestamp": 1788265984.2395954,
+        "expirado": false
     }
 ]
