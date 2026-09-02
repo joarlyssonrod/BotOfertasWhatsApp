@@ -38086,5 +38086,37 @@
         "preco": 57.9,
         "timestamp": 1788374205.6859503,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0G9BB8M6G",
+        "link_bruto": "https://www.amazon.com.br/dp/B0G9BB8M6G?tag=promobit-d-20&th=1&psc=1",
+        "titulo": "Camiseta Mizuno Nirvana Masculina - Preto",
+        "preco": 31.96,
+        "timestamp": 1788381180.2696888,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D2RJMDGK",
+        "link_bruto": "https://www.amazon.com.br/dp/B0D2RJMDGK?tag=promobit-d-20&th=1&psc=1",
+        "titulo": "Camiseta Puma Essentials No 1 Logo Masculina",
+        "preco": 62.99,
+        "timestamp": 1788381218.298947,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB53024151",
+        "link_bruto": "https://www.mercadolivre.com.br/conjunto-panelas-7-pecas-sartin-cook-cor-aquamint-mimo-style-cor-verde-claro/p/MLB53024151?matt_event_ts=1788381073569&matt_d2id=23dcd33b-da06-449d-b038-d05a808ee280&matt_tracing_id=8481b96e-07bf-4cbf-8e44-209b9004cc8d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=51855d03-507f-43cf-87ae-1011f16ea4e6&tracking_id=c9eb8b2b-007d-4ba6-b151-e8fcb749a043&c_id=/home/card-featured/element&c_uid=a09cf517-2126-435d-99e5-fa77338379e4",
+        "titulo": "Mimo Style Conjunto de 7 Sartin Cook Aquamint, Compativel com Fogão a Gás",
+        "preco": 320.39,
+        "timestamp": 1788381252.365398,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB67955586",
+        "link_bruto": "https://www.mercadolivre.com.br/power-bank-basike-30000mah-com-carga-rapida-225w-e-cabos-integrados-para-iphone-e-android/p/MLB67955586?matt_event_ts=1788381047218&matt_d2id=da5c3870-21da-41dd-a32f-a68dfe0c3713&matt_tracing_id=e6183266-8dff-4586-bbcb-c8c6047d36b9#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=78e090d7-4b25-40d4-b466-412928ea1b75&tracking_id=25221a50-d9de-401b-bec1-8fd7c35bfea7&c_id=/home/card-featured/element&c_uid=bdcdc667-8e2d-44c5-8330-162e8bf0d3b4",
+        "titulo": "Power Bank Basike 30000mAh com Carga Rápida 22.5W e Cabos Integrados, para iPhone e Android",
+        "preco": 129.0,
+        "timestamp": 1788381292.710834,
+        "expirado": false
     }
 ]
