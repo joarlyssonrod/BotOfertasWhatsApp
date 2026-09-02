@@ -37862,5 +37862,61 @@
         "preco": 184.47,
         "timestamp": 1788352993.9625394,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BKLPZ4BH",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0BKLPZ4BH?tag=promobit-d-20&th=1",
+        "titulo": "Fralda Huggies Natural Care Pants G 60 unidades",
+        "preco": 63.0,
+        "timestamp": 1788359593.6536443,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB51340616",
+        "link_bruto": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g86-5g-256gb-24gb-8gb-ram16gb-ram-boost-tela-15k-poled-50mp-sony-camera-ois-moto-ai-videos-em-4k-ip68-ip69-vermelho/p/MLB51340616",
+        "titulo": "Smartphone Motorola Moto G86 5g - 256gb 24gb (8gb Ram+16gb Ram Boost), Tela 1.5k Poled, 50mp Sony Camera Ois Moto Ai, Videos Em 4k, Ip68 + Ip69 - Vermelho",
+        "preco": 1599.0,
+        "timestamp": 1788359639.0517366,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB55685029",
+        "link_bruto": "https://www.mercadolivre.com.br/jogo-de-toalhas-4-pecas-fio-cardado-100-algodao-softmax-bressan-karsten/p/MLB55685029",
+        "titulo": "Jogo de Toalhas 4 Peças Fio Cardado 100 Algodão Softmax Bressan Karsten",
+        "preco": 95.92,
+        "timestamp": 1788359684.5994744,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4313012193",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-arabe-yara-tous-lattafa-edp-com-nf/up/MLBU4313012193?pdp_filters=item_id%3AMLB7175912832&matt_event_ts=1788359485409&matt_d2id=b65e0ac6-8d9c-4147-b72e-ae883fa78cff&matt_tracing_id=a5e122ae-00c8-4d14-ad62-52a072df350a#polycard_client=recommendations_home_affiliate-profile&wid=MLB7175912832&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=58fc11d1-1e7f-4937-b3dc-c1718da5ae6e&tracking_id=ce454308-a3ec-4529-b527-4440f434991b&c_id=/home/card-featured/element&c_uid=db812ab4-8b12-457f-91f6-c1d3b286d826",
+        "titulo": "Perfume Árabe Yara Tous Lattafa EDP 100ml",
+        "preco": 159.0,
+        "timestamp": 1788359730.8738687,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FQHFTDF7",
+        "link_bruto": "https://www.amazon.com.br/Apple-iPhone-Air-256-GB/dp/B0FQHFTDF7?pd_rd_w=DqQht&content-id=amzn1.sym.7137224b-777e-4c07-b31e-490e258655f6&pd_rd_wg=0K4Sv&pd_rd_r=c0ecc5da-5857-4d21-85f7-bc4e1d2c4d5c&pd_rd_i=B0FQHRD3MD&tag=promobit-d-20&th=1",
+        "titulo": "Apple iPhone Air (256 GB) - Preto sideral",
+        "preco": 6839.1,
+        "timestamp": 1788359765.323955,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DHSW82HD",
+        "link_bruto": "https://www.amazon.com.br/Ninja-standalone-liquidificador-Pot%C3%AAncia-Smoothies/dp/B0DHSW82HD?p=&tag=promobit-d-20&th=1",
+        "titulo": "Liquidificador Ninja Total Crushing 127v",
+        "preco": 701.0,
+        "timestamp": 1788359808.7263608,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DHSVLM3K",
+        "link_bruto": "https://www.amazon.com.br/Ninja-Creami-Sorveteira-220v-Milkshakes/dp/B0DHSVLM3K",
+        "titulo": "Ninja, Sorveteira, Creami, 7 Programas Auto-iQ, Tecnologia Creamify, 220 v",
+        "preco": 1650.0,
+        "timestamp": 1788359844.4628117,
+        "expirado": false
     }
 ]
