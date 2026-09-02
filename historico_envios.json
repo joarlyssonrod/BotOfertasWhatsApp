@@ -38118,5 +38118,45 @@
         "preco": 129.0,
         "timestamp": 1788381292.710834,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB4132087625",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4132087625-top-selene-alta-sustentaco-sem-costura-fitness-academia-_JM?searchVariation=184355839688&matt_event_ts=1788388255364&matt_d2id=d41cce23-9840-42f9-9b63-e6580eeecf3f&matt_tracing_id=cd63f10c-b64b-4ed4-a56d-87a190b8c8c8#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=b06a9d14-99e9-423e-b372-2c9f9bb4d8b0&tracking_id=463290f8-43ca-47b1-9dca-d448f58e26d9&c_id=/home/card-featured/element&c_uid=b21f18e2-5945-4f03-9186-f71653645e2b",
+        "titulo": "Top Selene Alta Sustentação (3 Cores)",
+        "preco": 29.0,
+        "timestamp": 1788388400.3341732,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB49090259",
+        "link_bruto": "https://www.mercadolivre.com.br/pulverizador-manual-2-l-snow-foam-profissional-com-3-bicos-para-espuma-ativa/p/MLB49090259",
+        "titulo": "Pulverizador Manual 2 L Snow Foam Profissional Com 3 Bicos para Espuma Ativa",
+        "preco": 29.52,
+        "timestamp": 1788388444.7942865,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/lapromotion/divulgador/oferta/242045100/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/lapromotion/divulgador/oferta/242045100/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Smart TV Mini LED Samsung M75H 2026 65\"",
+        "preco": 3214.0,
+        "timestamp": 1788388486.2775166,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08KHPDMLC",
+        "link_bruto": "https://www.amazon.com.br/dp/B08KHPDMLC?social_share=cm_sw_r_cso_cp_apan_dp_ZS3XMM767MBWB6F5R9E6&tag=promobit-d-20",
+        "titulo": "Pepinos em Conserva Agridoce Hemmer Vidro 440G",
+        "preco": 14.78,
+        "timestamp": 1788388530.4381087,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C4BG535B",
+        "link_bruto": "https://www.amazon.com.br/Street-Fighter-6-PlayStation-5/dp/B0C4BG535B/?tag=promobit-d-20&th=1",
+        "titulo": "Street Fighter 6 - PlayStation 5",
+        "preco": 102.2,
+        "timestamp": 1788388562.8925238,
+        "expirado": false
     }
 ]
