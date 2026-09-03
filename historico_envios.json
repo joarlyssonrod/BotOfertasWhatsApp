@@ -38534,5 +38534,53 @@
         "preco": 389.0,
         "timestamp": 1788460922.7114193,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB4803090739",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4803090739-tnis-mizuno-wave-creation-20-original-academia-treino-_JM",
+        "titulo": "Tênis Mizuno Wave Creation 20 Original Academia Treino",
+        "preco": 99.8,
+        "timestamp": 1788467641.5932627,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-adidas-lite-racer-4-0/divulgador/oferta/aj83k93fbk/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-adidas-lite-racer-4-0/divulgador/oferta/aj83k93fbk/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tenis Adidas Lite Racer 4 0",
+        "preco": 109.99,
+        "timestamp": 1788467684.8441002,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_DE500JE708",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-racer-tr23-masculino/p/de500je708/es/osnr/?seller_id=zattini",
+        "titulo": "Tênis Adidas Racer Tr23 Masculino",
+        "preco": 199.99,
+        "timestamp": 1788467719.687202,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_21299575410",
+        "link_bruto": "https://shopee.com.br/product/1009975506/21299575410?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmQAAAAwbKJNDlGALNzkHgzW6nTCSnftQZo3-0Yu5CYmsv17Cn48p88PYVsERYDDw8ELWehzWfTCUpE2luPnecawI5HAdWZFF4goJI3CY9eCbiTbK6FphQjrNKDwgDcVWqNcMbKk4JWCAml9aF6FUrR71QjPy1l-j9rj5vv8tyTxlCVKNN0nZlUjx-jX_LZLJs3G8oxfEg9VpmA&mmp_pid=an_18140170000&uls_trackid=56i1hmsd003m&utm_campaign=id_028e58b963b11d18&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fh1sbbavn27r",
+        "titulo": "LAVA LOUÇAS PHILCO 10 SERVIÇOS 6 OPÇÕES DE LAVAGEM PLL10 PRETO",
+        "preco": 1869.92,
+        "timestamp": 1788467761.1182063,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_20999662937",
+        "link_bruto": "https://shopee.com.br/product/1372644554/20999662937?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmQAAAAzsXMktSDUtEZK8H9M4277MW1eDvIBCziAt7N3wSmj6pxrukdZM9BbY17ZH-nSvzmLKF0uOym9tprWYmbZ0KdAlF7r-oAebNstLK6oz9js2yZvJVTHdZC7Tg8H2_YWj79Q7wh57pqjuV35q-HZR7ua1P8CcIBGdXpSIR1gU7rjlBWud6p3QFQ1M8SrzbvdXFKa9U0RS0A&mmp_pid=an_18140170000&uls_trackid=56i1hkmj002a&utm_campaign=id_3373f391c89735bc&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fh1s9ins93hq",
+        "titulo": "Guarda-roupa Casal Easy Slim 8 Portas Com Espelho Amendoa CleanOff White",
+        "preco": 957.17,
+        "timestamp": 1788467797.5694642,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU1729263090",
+        "link_bruto": "https://www.mercadolivre.com.br/50-cartas-pokemon-sem-repetidas-original-copag-com-brilhante/up/MLBU1729263090?pdp_filters=item_id%3AMLB3196684494&matt_event_ts=1788467555945&matt_d2id=a082f577-64b2-4885-8a97-1b0634ea6bc6&matt_tracing_id=18d22256-b00d-4c67-b31c-bfb5e5d09702#polycard_client=recommendations_home_affiliate-profile&wid=MLB3196684494&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=c8ac6369-1ec7-404f-8810-95c9ee165fd5&tracking_id=bba3630a-d3bf-4eae-a5d3-18a14f92506f&c_id=/home/card-featured/element&c_uid=06c0940b-6891-425a-a4c6-f31327edbe20",
+        "titulo": "100 Cartas Pokémon (2x50unids) Sem Repetidas Original Copag Com Brilhante",
+        "preco": 34.9,
+        "timestamp": 1788467831.4328513,
+        "expirado": false
     }
 ]
