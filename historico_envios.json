@@ -38238,5 +38238,109 @@
         "preco": 8999.0,
         "timestamp": 1788395980.8926346,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB4232914111",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4232914111-camiseta-tech-light-insider-masculino-_JM",
+        "titulo": "Camiseta Tech Light  Insider Masculino",
+        "preco": 58.9,
+        "timestamp": 1788438906.48641,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3995292526",
+        "link_bruto": "https://www.mercadolivre.com.br/patinete-eletrico-yoyo-v01-500w78a-velocidade-32km-dobravel/up/MLBU3995292526?pdp_filters=item_id%3AMLB6824636132&matt_event_ts=1788438806558&matt_d2id=e90939a8-0b21-4d86-b1da-78ebd7a44949&matt_tracing_id=4026aec2-5fe3-4cc2-9c5a-aa13ff491604#polycard_client=recommendations_home_affiliate-profile&wid=MLB6824636132&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=c6751d34-c602-48be-ba0f-efdd55127b8d&tracking_id=32e5c2b7-7180-4e3a-b929-d91ff8319606&c_id=/home/card-featured/element&c_uid=ccf49b57-c572-4990-a934-ddf03143a985",
+        "titulo": "Patinete Elétrico Yoyo V01 500w7.8a Velocidade 32km Dobrável",
+        "preco": 1479.0,
+        "timestamp": 1788438957.9102187,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB6212831274",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-6212831274-manta-liquida-18kg-para-laje-telhado-e-parede-externa-_JM",
+        "titulo": "Manta Líquida 18kg Para Laje, Telhado E Parede Externa",
+        "preco": 152.25,
+        "timestamp": 1788438992.4207268,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB61669854",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-4-refletores-led-400w-blackone-bivolt-ip67-branco-frio-6500k-externo/p/MLB61669854",
+        "titulo": "Kit 4 Refletores LED 400W Blackone Bivolt IP67 Branco Frio 6500K Externo",
+        "preco": 71.28,
+        "timestamp": 1788439027.6863153,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C9G2QNS9",
+        "link_bruto": "https://www.amazon.com.br/dp/B0C9G2QNS9/?tag=promobit-d-20&th=1",
+        "titulo": "GA.MA ITALY Secador de Cabelo Gama Lichia Ceramic Ion 2100W 220V",
+        "preco": 120.79,
+        "timestamp": 1788439066.966047,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GM1GYWR1",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0GM1GYWR1?btn_type=ss&tag=promobit-d-20",
+        "titulo": "JBL Fone de Ouvido Bluetooth Over-Ear Tune 530BT Sem Fio Até 76 Horas de Bateria - Branco",
+        "preco": 149.25,
+        "timestamp": 1788439104.8184922,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3824152711",
+        "link_bruto": "https://www.mercadolivre.com.br/combo-cuidese-bem-cereja-de-fases-creme-relaxante-corporal/up/MLBU3824152711?pdp_filters=item_id%3AMLB4511187873&matt_event_ts=1788438816562&matt_d2id=d4b4f5aa-67b6-4f7a-87f4-c81d4cb06e26&matt_tracing_id=c4b26c57-6ced-4270-b8f1-4c8c52c2fc21#polycard_client=recommendations_home_affiliate-profile&wid=MLB4511187873&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a110a55f-0789-40f9-814b-81bb43b4a128&tracking_id=58321953-515c-4598-a237-dfeadd027006&c_id=/home/card-featured/element&c_uid=9796439d-b575-4265-a5bb-df170664b1af",
+        "titulo": "Combo Cuide Se Bem Cereja De Fases: Sabonete Spray E Óleo",
+        "preco": 79.04,
+        "timestamp": 1788439154.2620552,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07ZYZ83Q9",
+        "link_bruto": "https://www.amazon.com.br/Geladeira-Hisense-Multidoor-Frost-Inverter/dp/B07ZYZ83Q9?tag=promobit-d-20&th=1",
+        "titulo": "Geladeira Hisense Multidoor 460L Frost Free Inverter Inox 127V",
+        "preco": 4298.99,
+        "timestamp": 1788439202.0278091,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DQQV7GDF",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DQQV7GDF?social_share=cm_sw_r_apin_dp_9BMBR9KW508ZK5G0EDK1&tag=promobit-d-20",
+        "titulo": "Caloi Bicicleta Aluminum Pro Aro 29 Tamanho 17 Câmbio Microshift 20 Velocidades Branca",
+        "preco": 1199.0,
+        "timestamp": 1788439288.0564573,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09WPRD3BN",
+        "link_bruto": "https://www.amazon.com.br/dp/B09WPRD3BN/ref=cm_sw_r_as_gl_apa_gl_i_GQ5Y6BFR6AEC150TBSZE?tag=promobit-d-20",
+        "titulo": "Kit Aussie Mega Moist Super Hidratação Shampoo 180Ml e 3 Minutos Milagrosos 236Ml, Aussie, Roxo",
+        "preco": 45.92,
+        "timestamp": 1788439373.2805467,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FGDLNWWT",
+        "link_bruto": "https://www.amazon.com.br/Monitor-Gamer-AOC-Ajust%C3%A1vel-25G4S/dp/B0FGDLNWWT?tag=promobit-d-20",
+        "titulo": "Monitor Gamer AOC AGON G4S 25\" 310Hz 0.3ms HDR10 IPS Base Ajustável 25G4SP",
+        "preco": 1199.0,
+        "timestamp": 1788439451.9410253,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FQH5C9T9",
+        "link_bruto": "https://www.amazon.com.br/Apple-iPhone-17-Pro-Max/dp/B0FQH5C9T9?tag=promobit-d-20&th=1",
+        "titulo": "Apple iPhone 17 Pro Max (2 TB) - Laranja cósmico",
+        "preco": 14999.0,
+        "timestamp": 1788439489.6490164,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CSPNDPKG",
+        "link_bruto": "https://www.amazon.com.br/PlayStation%C2%AE5-Slim-Disk-2-Jogos/dp/B0CSPNDPKG/ref=sr_1_57?dib=eyJ2IjoiMSJ9.jl5WmpHSEuUgLs-58l8MLfHX4Rvkb_5jX4a-If2UR9AUPjDriU5MU0t68zZA7_s8XkZ1lMKuDO2SgcxE7Us92URegoQUR4exY159DC2LNPMz6uc_LpT_7AZbAOy8Yd-UTangNaIHoMAvULbZMbJr_aOEo4kZ2oCWaEZLj5EEkcQ3iFcTvLDVouaPkc1oZqfr.Kp_PVcS-r176fRsY_89S8K621v_7BWTYVThhDRK19jk&dib_tag=se&qid=1788435428&refinements=p_123%3A358345&rnid=119962938011&s=videogames&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=FKWFvF-40paSO&tag=promobit-d-20",
+        "titulo": "PlayStation5 Slim Disk + 2 Jogos",
+        "preco": 4499.9,
+        "timestamp": 1788439529.13717,
+        "expirado": false
     }
 ]
