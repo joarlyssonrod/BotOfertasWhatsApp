@@ -39070,5 +39070,37 @@
         "preco": 21.16,
         "timestamp": 1788540008.0675113,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_52407426682",
+        "link_bruto": "https://shopee.com.br/product/1777841231/52407426682?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmQAAAAywGy2_I4PM6cTdjyUBlfb2D8eM5EjfZLUYJZo0g-CV3_aTnAhrNtqX46YldDm0uqTv1sZaar9dF8b7PLeVz7AmYGk54kfW82pmTTjyh4e5nSRhD9OcPNgtz6K5dJEUZ9r_iP7fsEe-ebyMDmu7HH3PdUOWG4ELKdNjlFHzDAq7YeRPohyWjcfm0zuoau5q8qIqcj8GzQ&mmp_pid=an_18140170000&uls_trackid=56i93fek023h&utm_campaign=id_04fd9a356c79de1d&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fh79dpiqjiib",
+        "titulo": "Tênis De Corrida Placa De Carbono Profissional Para Homens E Mulheres",
+        "preco": 71.62,
+        "timestamp": 1788546837.059554,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5187281878",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5187281878-camisa-gola-polo-masculina-pique-premium-algodo-confortavel-_JM",
+        "titulo": "Camisa Gola Polo Masculina Pique Premium Algodão Confortável",
+        "preco": 33.9,
+        "timestamp": 1788546872.3900192,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0G97B17K8",
+        "link_bruto": "https://www.amazon.com.br/dp/B0G97B17K8?tag=promobit-d-20&th=1",
+        "titulo": "Camisa Brasil Cheiro Masculina",
+        "preco": 51.7,
+        "timestamp": 1788546907.4719834,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3141412477",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3141412477-jaqueta-casaco-corta-vento-rock-saints-liso-_JM?matt_event_ts=1788546750794&matt_d2id=354e1144-b9a6-4d16-a540-3f86d807f93f&matt_tracing_id=acf8efd3-1405-4dc3-a0f9-a11b2e108418#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=914dc0e1-9baa-4b48-b05c-ce46a1e5914a&tracking_id=489a7b14-5aab-4ccb-973b-add37f6d0980&c_id=/home/card-featured/element&c_uid=5858170f-72a7-4bff-b64b-613e37bb876c",
+        "titulo": "Jaqueta Corta Vento Rock Saints (3 cores)",
+        "preco": 37.0,
+        "timestamp": 1788546953.7096438,
+        "expirado": false
     }
 ]
