@@ -38990,5 +38990,85 @@
         "preco": 158.0,
         "timestamp": 1788533110.9148226,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_ED7GH50A8C",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-mizuno-neo-vortex-masculino/p/ed7gh50a8c/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Mizuno Neo Vortex Masculino",
+        "preco": 332.49,
+        "timestamp": 1788539624.9559,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_238660800",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/air-fryer-britania-redstone-bfr50-preto-com-timer-55l/p/238660800/ep/efso/?seller_id=magazineluiza",
+        "titulo": "Air Fryer Britânia Redstone BFR50 Preto com Timer 5,5L",
+        "preco": 268.0,
+        "timestamp": 1788539668.6903877,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63137487",
+        "link_bruto": "https://www.mercadolivre.com.br/principia-kit-anti-manchas-essencial-gl-02/p/MLB63137487",
+        "titulo": "Principia Kit Anti-manchas Essencial Gl-02",
+        "preco": 119.15,
+        "timestamp": 1788539707.4602787,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB76779956",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-4k-50-lg-nano-uhd-ai-nu850-2026-processador-7-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-webos-26-50nu850bpsa/p/MLB76779956",
+        "titulo": "Smart TV 4K 50\" LG NANO UHD AI NU850 2026 Processador α7 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini webOS 26 - 50NU850BPSA",
+        "preco": 2159.0,
+        "timestamp": 1788539750.2895424,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240424400",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-32-tcl-full-hd-qled-32s5k-google-tv-2-hdmi/p/240424400/et/tves/?seller_id=magazineluiza",
+        "titulo": "Smart TV 32\" TCL Full HD QLED 32S5K Google TV 2 HDMI",
+        "preco": 999.75,
+        "timestamp": 1788539789.8809195,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07WG9313J",
+        "link_bruto": "https://www.amazon.com.br/dp/B07WG9313J?tag=promobit-d-20&th=1",
+        "titulo": "BLACK+DECKER Ferro de Passar Roupa FX3060 1200W Azul e Branco 110V",
+        "preco": 122.54,
+        "timestamp": 1788539829.0982852,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50380495",
+        "link_bruto": "https://www.mercadolivre.com.br/notebook-asus-tuf-gaming-f16-core-5-nvidia-rtx-4050-16gb-ram-512gb-ssd-home-tela-16-fhd-mecha-gray-fx607vu-rl053w/p/MLB50380495?matt_event_ts=1788539444033&matt_d2id=a9024dc5-cfc8-47c7-a132-a4def01fe946&matt_tracing_id=f0b61405-2294-4c2a-a307-d291d168c89e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=8f15b464-dea7-4b5a-b37d-b29e3d0f2e4f&tracking_id=527e1561-71f4-4feb-ab7c-74d63efec14c&c_id=/home/card-featured/element&c_uid=b865e0d9-6c15-444f-b60c-4612b15cb23d",
+        "titulo": "Notebook ASUS TUF Gaming F16 Core 5 NVIDIA RTX 4050 16GB Ram 512GB SSD Home Tela 16\" FHD+ Mecha Gray - FX607VU-RL053W",
+        "preco": 5983.12,
+        "timestamp": 1788539883.0194676,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB57720836",
+        "link_bruto": "https://www.mercadolivre.com.br/caixa-de-som-sabala-dr-909-200w-bluetooth-36h-tws-ipx6-cor-preto/p/MLB57720836?matt_event_ts=1788539501902&matt_d2id=6158b586-744b-4512-a3cd-d690fd046f97&matt_tracing_id=73eeb122-4185-4c02-bfa8-4b54a59de47f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=942f28de-a904-4819-8db4-ae665220acbf&tracking_id=cad2f6a7-8d48-48a3-9615-557402211439&c_id=/home/card-featured/element&c_uid=0f2ab5d2-034d-422b-9c41-736010dad6c4",
+        "titulo": "Caixa De Som Sabala Dr-909 200w Bluetooth 36h Tws Ipx6 Cor Preto",
+        "preco": 1176.0,
+        "timestamp": 1788539923.6442487,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB67646413",
+        "link_bruto": "https://www.mercadolivre.com.br/basike-fone-de-ouvido-sem-fio-bluetooth-com-gancho-gamer-esportivo-baixa-latencia-100h-design-aberto/p/MLB67646413?matt_event_ts=1788539514591&matt_d2id=7ef37e86-392b-48e1-a185-0cec1f37b2a3&matt_tracing_id=038c56f1-30a1-4e25-8f74-dfe3626e3af7#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f8c2bb39-fc4a-47ae-a540-5def67f63286&tracking_id=5e9178f5-fa58-43f5-aa3b-6fc27cd34cf2&c_id=/home/card-featured/element&c_uid=48ba11a3-51a3-4408-9b3c-61681b5e76c7",
+        "titulo": "Basike Fone De Ouvido Sem Fio Bluetooth Com Gancho Gamer Esportivo Baixa Latência 100h Design Aberto",
+        "preco": 77.5,
+        "timestamp": 1788539970.6465616,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4477748373",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4477748373-palmilha-ortopedica-gel-4d-nuvem-altissimo-conforto-_JM?searchVariation=197167692143&matt_event_ts=1788539526048&matt_d2id=8ad16285-4fb7-4667-aeee-4379e4ec6987&matt_tracing_id=344760bf-08e4-47af-8509-1e0a1e64d48a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0f16e9ff-b673-4e18-b261-f33672c91aac&tracking_id=949addf1-b8f8-493a-ada5-892356c98f47&c_id=/home/card-featured/element&c_uid=3df869be-640c-41c6-92b7-d9179451ff7f",
+        "titulo": "Palmilha Ortopédica Gel 4D Nuvem Altíssimo Conforto",
+        "preco": 21.16,
+        "timestamp": 1788540008.0675113,
+        "expirado": false
     }
 ]
