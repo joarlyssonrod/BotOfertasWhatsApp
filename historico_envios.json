@@ -39102,5 +39102,29 @@
         "preco": 37.0,
         "timestamp": 1788546953.7096438,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB75627276",
+        "link_bruto": "https://www.mercadolivre.com.br/mochila-para-notebook-impermeavel-e-reforcada-com-entrada-usb-25-a-40l-masculina-e-feminina/p/MLB75627276",
+        "titulo": "Mochila para Notebook Impermeável e Reforçada com Entrada USB – 25 a 40L, Masculina e Feminina",
+        "preco": 79.85,
+        "timestamp": 1788554047.769703,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4028845341",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4028845341-tnis-kappa-run-200-original-caminhada-academia-_JM",
+        "titulo": "Tênis Kappa Run 200 Original Caminhada Academia",
+        "preco": 73.6,
+        "timestamp": 1788554090.6091163,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58212749475",
+        "link_bruto": "https://shopee.com.br/verify/traffic/error?home_url=https%3A%2F%2Fshopee.com.br&is_logged_in=false&next=https%3A%2F%2Fshopee.com.br%2FXiaomi-Poco-X8-Pro-Max-512GB-256GB-12GB-Ram-5G-Nfc-Vers%25C3%25A3o-Global-Envio-Imediato-i.1427325462.58212749475%3FextraParams%3D%257B%2522display_model_id%2522%253A219190771930%252C%2522model_selection_logic%2522%253A3%257D%26gads_t_sig%3DgqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTE2wAAAAx_Hg5Pnv91a40AuY9Rwojji7jwDvsKRVguMlm7XIBVTf9Vw1RQDm2cG4uDWHQun8Vno-WiV_3ELdfhV8NZlkRCdPyy6lcdZL2alX7clN-s_qceH10c9CUMrcSId_L26SAcHnpzcTizGH9xSHdZkEnStzO_71VxK3x0WaKrbDQJSal_BLmo-q214GInIfE7qr0xHFVEpyc_o982o0JjQBw5J5VwVpWc2e-LpcK4Qk0wTzUdo1tf_xF5Qp1LtPxdakBoBRAiGHxRwDTl0UL2LuumC1ihLCRkew%26mmp_pid%3Dan_18140170000%26uls_trackid%3D56i9p8re011l%26utm_campaign%3Did_c2375a6f6f83de77%26utm_content%3D----%26utm_medium%3Daffiliates%26utm_source%3Dan_18140170000%26utm_term%3Dfh7r5z4upxbr&tracking_id=543366cc6b-a327-418a-abf4-3f4fff8fd872&type=4",
+        "titulo": "Xiaomi Poco X8 Pro Max 512GB 256GB 12GB Ram 5G Nfc Versão Global",
+        "preco": 3012.08,
+        "timestamp": 1788554127.614937,
+        "expirado": false
     }
 ]
