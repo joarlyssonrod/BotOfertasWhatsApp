@@ -39398,5 +39398,53 @@
         "preco": 78.13,
         "timestamp": 1788971797.8984053,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_58256432279",
+        "link_bruto": "https://s.shopee.com.br/1LfdblzRDC",
+        "titulo": "Fone Ouvido Bluetooth Compatível AirPods Pro 3 6a Geração",
+        "preco": 79.89,
+        "timestamp": 1788978749.8818777,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58211255048",
+        "link_bruto": "https://s.shopee.com.br/8AVxkKZQLO",
+        "titulo": "Fone de Ouvido Bluetooth 5.4 Sem Fio TWS Quatro Fones Display LED Redução Ruído Esportivo Pronta Entrega-B3",
+        "preco": 64.99,
+        "timestamp": 1788978783.8885279,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB23448213",
+        "link_bruto": "https://www.mercadolivre.com.br/tenda-roteador-wi-fi-ac1200-dual-band-1200mbps-4-antenas-externas-5dbi-3-portas-gigabit-wanlan-mu-mimo-ipv6-wi-fi-para-convidados-modo-ap-compativel-com-todas-operadoras-ideal-para-casa-ac8/p/MLB23448213",
+        "titulo": "Tenda Roteador Wi-Fi AC1200 Dual-Band 1200Mbps, 4 Antenas Externas 5dBi, 3 portas Gigabit WAN/LAN, MU-MIMO, IPv6, Wi-Fi para convidados, Modo AP Compatível com Todas Operadoras, Ideal para Casa (AC8)",
+        "preco": 149.0,
+        "timestamp": 1788978841.7380617,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4903101001",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4903101001-kit-10-cuecas-boxer-sem-costura-polo-wear-sortido-_JM",
+        "titulo": "Kit 10 Cuecas Boxer Sem Costura Polo Wear Sortido",
+        "preco": 95.9,
+        "timestamp": 1788978892.243449,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/console-playstation-5-slim-digital-825gb-com-controle-dualsense-sony/divulgador/oferta/hg9286bd4c/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/console-playstation-5-slim-digital-825gb-com-controle-dualsense-sony/divulgador/oferta/hg9286bd4c/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Console PlayStation 5 Slim Digital 825GB com Dualsense",
+        "preco": 3643.0,
+        "timestamp": 1788978942.7669442,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3687263886",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-2-2200w-luminaria-poste-solar-potente-com-sensor/up/MLBU3687263886?pdp_filters=item_id%3AMLB4370097923&matt_event_ts=1788978666078&matt_d2id=0396f00c-9f4b-4ae3-b855-c83b2dd84bfc&matt_tracing_id=c2dffa1a-11d4-4fb5-87e1-63d551a8c4e8#polycard_client=recommendations_home_affiliate-profile&wid=MLB4370097923&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=2098790d-0033-4a7c-8f9b-e078eec7fced&tracking_id=f1c9367b-9b12-4296-8086-848fd30f5a18&c_id=/home/card-featured/element&c_uid=c78934b2-ac86-471e-9209-afc360102bea",
+        "titulo": "Kit 2 2200w Luminaria Poste Solar Potente Com Sensor Solar Preto",
+        "preco": 149.25,
+        "timestamp": 1788978993.0533307,
+        "expirado": false
     }
 ]
