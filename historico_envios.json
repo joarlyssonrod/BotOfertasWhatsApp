@@ -39446,5 +39446,21 @@
         "preco": 149.25,
         "timestamp": 1788978993.0533307,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB68834252",
+        "link_bruto": "https://www.mercadolivre.com.br/air-fryer-britania-65l-1700w-8-funcoes-painel-digital-redstone-baf65a/p/MLB68834252?matt_event_ts=1788985889539&matt_d2id=df22267f-90f7-42bc-a772-c51e3baa23e4&matt_tracing_id=c14c6531-f887-4d2b-ac42-03ce49d86aa3#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5416095f-b7e4-40fd-8e82-79d1f5d2b41a&tracking_id=086e1ee7-80d7-44f3-bc24-03e51540724f&c_id=/home/card-featured/element&c_uid=40eefeb7-6ffa-423a-97fc-113a35fdb6c0",
+        "titulo": "Air Fryer Britânia 6,5L 1700W 8 Funções Painel Digital Redstone BAF65A",
+        "preco": 251.68,
+        "timestamp": 1788985959.0871315,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU2782960571",
+        "link_bruto": "https://www.mercadolivre.com.br/the-blend-o-boticario-tradicional-eau-de-parfum-perfume-masculino-original-100ml/up/MLBU2782960571?pdp_filters=item_id%3AMLB5047176650&matt_event_ts=1788985865019&matt_d2id=f772da61-2f92-4a75-8b17-2a249a3def7d&matt_tracing_id=fc019643-9553-47b9-83e2-0940f3172c86#polycard_client=recommendations_home_affiliate-profile&wid=MLB5047176650&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=674c8fda-2a55-41b2-a89c-079b245176c0&tracking_id=4e76e4fe-d7ac-4935-b1c3-8f62e7d7589c&c_id=/home/card-featured/element&c_uid=0aa671af-19df-47e9-8b51-302b0c01576d",
+        "titulo": "The Blend O Boticário Tradicional Eau De Parfum Perfume Masculino Original 100ml",
+        "preco": 260.02,
+        "timestamp": 1788985999.5187528,
+        "expirado": false
     }
 ]
