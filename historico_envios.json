@@ -39462,5 +39462,29 @@
         "preco": 260.02,
         "timestamp": 1788985999.5187528,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_240248200",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-g86-256gb-grafite-5g-8gb-8gb-ram-boost-inteligente-67-cam-dupla-selfie-32mp/p/240248200/te/mg86/?seller_id=magazineluiza",
+        "titulo": "Smartphone Motorola G86 256GB Grafite 5G 8GB+8GB RAM Boost Inteligente 6,7\" Câm. Dupla + Selfie 32MP",
+        "preco": 1599.0,
+        "timestamp": 1788993148.3183908,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58215268646",
+        "link_bruto": "https://shopee.com.br/product/1653322439/58215268646?d_id=c23c4&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmQAAAAxT9f_sJNSYvY9WeGcrv5ecR6btaKWSkvux0127mkdk66hDyks7SoTe22uQg1HFuOYEqi_r_u0Vst0AA08-zwpAuAM3GEcpZ30obl7NLqm0Mzqr-RPOfeUarBfDyHzMalUQVECrtmqxGDAE6ssU0Uuk57O02FCZ_jiZnbOAT-JZK-8Bf8qxQrlW0qExfOFoJ5Kl3ejXbQ&mmp_pid=an_18140170000&uls_trackid=56jjlhfq01d7&utm_campaign=id_8422f1e69bd299ae&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fi43o4bt8wpj",
+        "titulo": "Celular Xiaomi Poco X7 Pro 5G 512GB 12GB RAM",
+        "preco": 1909.04,
+        "timestamp": 1788993182.0797875,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_20699704061",
+        "link_bruto": "https://s.shopee.com.br/3B7I3cfrQt",
+        "titulo": "Filamento PLA Premium Rosa Claro 1kg 1,75mm – Impressora 3D",
+        "preco": 119.9,
+        "timestamp": 1788993210.8407617,
+        "expirado": false
     }
 ]
