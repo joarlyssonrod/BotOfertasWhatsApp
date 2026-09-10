@@ -39814,5 +39814,69 @@
         "preco": 36.48,
         "timestamp": 1789065988.247918,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU4995276260",
+        "link_bruto": "https://www.mercadolivre.com.br/psn-playstation-cartao-presente-credito-35-reais/up/MLBU4995276260",
+        "titulo": "Psn Playstation Cartão Presente Crédito 35 Reais",
+        "preco": 48.0,
+        "timestamp": 1789072369.1620705,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_FEHBK796J4",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-duramo-rc2-masculino/p/fehbk796j4/es/oedc/?seller_id=netshoes",
+        "titulo": "Tênis Adidas Duramo Rc2 Masculino",
+        "preco": 209.99,
+        "timestamp": 1789072407.8429394,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/inalador-mesh-air-flow-recarregavel-multi-saude-hc151-multilaser-saude/divulgador/oferta/ebg5hb968e/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/inalador-mesh-air-flow-recarregavel-multi-saude-hc151-multilaser-saude/divulgador/oferta/ebg5hb968e/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Inalador Mesh Air Flow Recarregável Multi Saúde - HC151",
+        "preco": 130.06,
+        "timestamp": 1789072458.508175,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/hidromassageador-para-os-pes-foot-spa-127v-multi-saude-hc606-multilaser-saude/divulgador/oferta/hkb117f8k9/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/hidromassageador-para-os-pes-foot-spa-127v-multi-saude-hc606-multilaser-saude/divulgador/oferta/hkb117f8k9/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Hidromassageador para os pés Foot Spa 127v Multi Saúde - HC606",
+        "preco": 172.81,
+        "timestamp": 1789072496.8898423,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/inalador-compressor-neb-travel-bivolt-multi-saude-hc032/divulgador/oferta/gb32dh8hg0/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/inalador-compressor-neb-travel-bivolt-multi-saude-hc032/divulgador/oferta/gb32dh8hg0/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Inalador Compressor Neb Travel Bivolt Multi Saúde - HC032",
+        "preco": 80.9,
+        "timestamp": 1789072534.0271888,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4845444141",
+        "link_bruto": "https://www.mercadolivre.com.br/impressora-epson-ecotank-l1250-tanque-de-tinta-wifi-usb/up/MLBU4845444141?pdp_filters=item_id%3AMLB5099515271&matt_event_ts=1789072255170&matt_d2id=feb1624b-92a5-4430-8257-375d3f17f878&matt_tracing_id=21486ed6-eced-49ae-93f4-0eac188aaa60#polycard_client=recommendations_home_affiliate-profile&wid=MLB5099515271&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3a9bb23a-2fa2-44a8-9443-a15fb3ce1019&tracking_id=6e58e161-045e-4333-ba54-00df38988893&c_id=/home/card-featured/element&c_uid=d308cfda-53c7-423f-a3b7-8226312fcbe4",
+        "titulo": "Impressora Epson Ecotank L1250 Tanque De Tinta Wi-fi Usb",
+        "preco": 708.79,
+        "timestamp": 1789072569.8045325,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB17944017",
+        "link_bruto": "https://www.mercadolivre.com.br/micro-ondas-nn-st55lmruk-27-litros-prata-panasonic/p/MLB17944017?matt_event_ts=1789072265892&matt_d2id=8ab0dc15-9b2b-44f1-92b5-a9092923d4f7&matt_tracing_id=81e2769a-315b-485d-83fe-d24ff05c4afe#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f9aa2ecc-24b3-4d2e-b266-774e8ad2b7a8&tracking_id=f0528ee5-9407-4365-be99-0937a2917635&c_id=/home/card-featured/element&c_uid=378f3011-7c7e-4a2a-8c21-57857e513cf0",
+        "titulo": "Micro-ondas Nn-st55lmruk 27 Litros Prata Panasonic 220v",
+        "preco": 493.0,
+        "timestamp": 1789072601.4801648,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H6LVH152",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0H6LVH152?btn_type=pt&tag=promobit-d-20",
+        "titulo": "GTA VI + PS5 Slim Digital 825 GB + Astro Bot",
+        "preco": 4254.0,
+        "timestamp": 1789072637.969824,
+        "expirado": false
     }
 ]
