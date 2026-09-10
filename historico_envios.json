@@ -39878,5 +39878,53 @@
         "preco": 4254.0,
         "timestamp": 1789072637.969824,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB20704214",
+        "link_bruto": "https://www.mercadolivre.com.br/roteador-huawei-wifi-ax2s-5-ghz-wi-fi-6-harmonyos-mesh-easymeshvisualizacao-de-diagnosticos-do-wi-fi-controle-parental-branco/p/MLB20704214",
+        "titulo": "Roteador HUAWEI WiFi AX2S 5 GHz Wi-Fi 6 HarmonyOS Mesh+ EasyMeshVisualização de Diagnósticos do Wi-Fi Controle Parental Branco",
+        "preco": 146.28,
+        "timestamp": 1789079582.8122613,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DSY9G59S",
+        "link_bruto": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Marinho/dp/B0DSY9G59S",
+        "titulo": "Celular Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7\", Azul Marinho",
+        "preco": 3999.0,
+        "timestamp": 1789079614.1225207,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19514227",
+        "link_bruto": "https://www.mercadolivre.com.br/mascara-keune-care-keratin-smooth-200ml/p/MLB19514227",
+        "titulo": "Mascara Keune Care Keratin Smooth 200ml",
+        "preco": 119.84,
+        "timestamp": 1789079643.0560853,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4248401786",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-4-blusas-feminina-suplex-estilosa-t-shirt-basica-casual/up/MLBU4248401786?pdp_filters=item_id%3AMLB4857636451&matt_event_ts=1789079441410&matt_d2id=51ff5ad9-4e22-41d6-aef1-c3f3feebbdf0&matt_tracing_id=0bd5c95e-0943-433e-ac93-a0c7d1f877fe#polycard_client=recommendations_home_affiliate-profile&wid=MLB4857636451&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=c971b1a9-6780-4f57-b8f0-c3ca1b539f44&tracking_id=59d05fa1-a8ac-4f79-8b27-12edc5eca259&c_id=/home/card-featured/element&c_uid=0f7c8bd8-e496-4b85-971d-6f3fda16a082",
+        "titulo": "Kit 4 Blusas Feminina Suplex Estilosa T Shirt Básica Casual",
+        "preco": 53.89,
+        "timestamp": 1789079681.3358326,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3891985170",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-4-cuecas-algodao-essencial-polo-wear-sortido/up/MLBU3891985170?pdp_filters=item_id%3AMLB6582477276&matt_event_ts=1789079486577&matt_d2id=4fdd28f5-7ea1-42f6-ba73-11a9db170a2e&matt_tracing_id=b21f5c32-82a9-473d-9f19-8e14307359d2#polycard_client=recommendations_home_affiliate-profile&wid=MLB6582477276&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d2d7d277-2d11-49b8-ad91-e968c9bb1bb9&tracking_id=7f29bf53-50e6-4341-a558-eff5f8842b92&c_id=/home/card-featured/element&c_uid=1981affa-e387-47b7-93c4-d20fe69097e6",
+        "titulo": "Kit 4 Cuecas Algodão Essencial Polo Wear Sortido",
+        "preco": 57.39,
+        "timestamp": 1789079717.735746,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5044170500",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5044170500-kit-2-calcas-jogger-tactel-com-elastano-impulse-_JM?searchVariation=188576909037&matt_event_ts=1789079510979&matt_d2id=3c8b5568-b13b-4ac8-a3e6-49ab81fcdc47&matt_tracing_id=7a3e5c42-c34d-48bb-8706-6b65c43fe59f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5c8b4a46-8b53-41d9-93c6-f1b769927d8c&tracking_id=68c9cece-fadb-4384-b178-634d2ad4e5dd&c_id=/home/card-featured/element&c_uid=7f00962a-b254-4df9-9922-84c9699af7c1",
+        "titulo": "Kit 2 Calças Jogger Tactel Com Elastano Impulse",
+        "preco": 64.69,
+        "timestamp": 1789079750.651616,
+        "expirado": false
     }
 ]
