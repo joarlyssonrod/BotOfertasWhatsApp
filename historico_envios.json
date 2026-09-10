@@ -39486,5 +39486,13 @@
         "preco": 119.9,
         "timestamp": 1788993210.8407617,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CP6CR795",
+        "link_bruto": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CR795",
+        "titulo": "Apple iPhone 15 (128 GB) — Azul",
+        "preco": 4443.14,
+        "timestamp": 1789000321.8437505,
+        "expirado": false
     }
 ]
