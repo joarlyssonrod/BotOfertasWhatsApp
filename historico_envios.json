@@ -40070,5 +40070,69 @@
         "preco": 1767.91,
         "timestamp": 1789130421.7611578,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB22974856",
+        "link_bruto": "https://www.mercadolivre.com.br/chaleira-digital-oster-17l-com-controle-de-temperatura/p/MLB22974856",
+        "titulo": "Chaleira Digital Oster 1,7l Com Controle De Temperatura",
+        "preco": 253.82,
+        "timestamp": 1789137241.294485,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5866003778",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5866003778-camiseta-sb-algodo-carimbo-gaze-reserva-_JM",
+        "titulo": "Camiseta Sb Algodão Carimbo Gaze Reserva",
+        "preco": 81.88,
+        "timestamp": 1789137281.887491,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5321704950",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5321704950-tnis-barreda-decode-adidas-_JM",
+        "titulo": "Tênis Barreda Decode adidas",
+        "preco": 269.04,
+        "timestamp": 1789137327.359087,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3627440326",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3627440326-calca-cargo-jogger-jeans-feminina-com-bolso-lateral-premium-_JM",
+        "titulo": "Calça Cargo Jogger Jeans Feminina Com Bolso Lateral Premium",
+        "preco": 66.39,
+        "timestamp": 1789137374.7001414,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DWBCG2M9",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DWBCG2M9?ta=&tag=promobit-d-20",
+        "titulo": "Shark Ninja Liquidificador Kitchen System 3 em 1",
+        "preco": 1613.0,
+        "timestamp": 1789137407.4673963,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4419920375",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4419920375-bermuda-jeans-cargo-baggy-masculina-streetwear-mesclada-_JM?searchVariation=195727825847&matt_event_ts=1789137042025&matt_d2id=918a419a-b58b-4804-b0d1-de0b22ac38eb&matt_tracing_id=a75666b7-2a49-4c1b-ad79-e42e0aa116d9#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=687b8127-d161-443f-aa05-a9ad25cda626&tracking_id=c9a9ea84-2b8b-410d-890b-649bbec17f67&c_id=/home/card-featured/element&c_uid=9ac0b8ae-13f8-444a-93d4-b3a40ef4107a",
+        "titulo": "Bermuda Jeans Cargo Baggy Streetwear Mesclada",
+        "preco": 52.0,
+        "timestamp": 1789137448.3897028,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB978746011",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-978746011-calca-social-masculina-oxford-tradicional-tecido-plus-size-_JM?searchVariation=55248804032&matt_event_ts=1789137075153&matt_d2id=613d634a-6b79-4b31-8da7-a12d99943560&matt_tracing_id=2b2d0b62-9dfc-441c-95f9-5fa1665ce70f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=61639af7-fbd6-4a04-81be-9fdfb3bf87c5&tracking_id=d17f5ee5-123a-42f8-8648-85b48f71a61b&c_id=/home/card-featured/element&c_uid=739e3ac2-7877-43bb-9781-2685025af58b",
+        "titulo": "Calça Social Oxford",
+        "preco": 53.0,
+        "timestamp": 1789137494.2978253,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4999421471",
+        "link_bruto": "https://www.mercadolivre.com.br/bicicleta-eletrica-altrax-350w-500w-1000w-48v-60km-mobility/up/MLBU4999421471?pdp_filters=item_id%3AMLB5158979945&matt_event_ts=1789137132537&matt_d2id=cb5f541a-07a8-485e-9640-9da8fa8f9be9&matt_tracing_id=5f803fec-df96-45d3-b6de-5f708335091b#polycard_client=recommendations_home_affiliate-profile&wid=MLB5158979945&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=cf97d4d3-3971-4aaa-9935-ef33b0fdfa89&tracking_id=67386560-a5ef-4d2e-8707-2139cd6ec5c9&c_id=/home/card-featured/element&c_uid=ff42f748-c3ea-41da-82d0-137a88a4909e",
+        "titulo": "Bicicleta Elétrica Altrax 60km Mobility",
+        "preco": 2829.99,
+        "timestamp": 1789137532.5903835,
+        "expirado": false
     }
 ]
