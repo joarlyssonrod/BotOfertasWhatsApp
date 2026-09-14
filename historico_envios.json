@@ -40486,5 +40486,85 @@
         "preco": 2088.99,
         "timestamp": 1789411096.8463185,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB5499090526",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5499090526-compre-2-camisetas-techs-t-shirts-masculina-insider-e-leve-3-_JM",
+        "titulo": "Compre 2 Camisetas Techs T-shirts Masculina Insider E Leve 3",
+        "preco": 122.55,
+        "timestamp": 1789418001.8908086,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB20328007",
+        "link_bruto": "https://www.mercadolivre.com.br/serum-facial-antirrugas-preenchedor-com-duplo-acido-hialuronico-e-vitamina-b5-hyalu-b5-la-roche-posay-15ml/p/MLB20328007?matt_event_ts=1789417922408&matt_d2id=e9bbe175-4232-4ff5-80a2-4e919add0120&matt_tracing_id=864c4582-867a-4c54-bcc5-44ab863760d1#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ae76bafc-fc13-4ca5-806c-0688f01329b5&tracking_id=502e08f8-9228-4145-b712-74a28f903214&c_id=/home/card-featured/element&c_uid=141c9a0e-5ee6-4ee3-b6be-30ac0ca2f67b",
+        "titulo": "Sérum Hyalu B5 La Roche-Posay 15ml",
+        "preco": 128.0,
+        "timestamp": 1789418049.704766,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GVW8464B",
+        "link_bruto": "https://www.amazon.com.br/Samsung-Combo-Smart-Soundbar-B400F/dp/B0GVW8464B",
+        "titulo": "Samsung Combo Smart TV 43\" QLED Full HD Q5F + Soundbar HW B400F",
+        "preco": 2089.05,
+        "timestamp": 1789418083.3825486,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_KC3DKH9KH6",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-mizuno-hawk-5-masculino/p/kc3dkh9kh6/es/oedc/?seller_id=netshoes",
+        "titulo": "Tênis Mizuno Hawk 5 Masculino",
+        "preco": 199.49,
+        "timestamp": 1789418122.1190348,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB6807502842",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-6807502842-kit-6-cuecas-boxer-reebok-classic-microfibra-sem-costura-_JM",
+        "titulo": "Kit 6 Cuecas Boxer Reebok Classic Microfibra Sem Costura",
+        "preco": 58.1,
+        "timestamp": 1789418160.880317,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50613178",
+        "link_bruto": "https://www.mercadolivre.com.br/jogo-de-toalhas-4-pcs-fio-cardado-100-algodao-softmax-bressan-karsten/p/MLB50613178",
+        "titulo": "Jogo de Toalhas 4 Pçs Fio Cardado 100 Algodão Softmax Bressan Karsten",
+        "preco": 98.87,
+        "timestamp": 1789418193.9693186,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3711450043",
+        "link_bruto": "https://www.mercadolivre.com.br/regata-comfy-inlounge-feminino-insider/up/MLBU3711450043?pdp_filters=item_id%3AMLB6150523622&matt_event_ts=1789417868174&matt_d2id=d7139d30-a4f3-49dc-b2c6-e407fcf1f3ab&matt_tracing_id=e6b5790f-1a13-4c8e-88e8-f7097b2f0533#polycard_client=recommendations_home_affiliate-profile&wid=MLB6150523622&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=c492d907-d754-48f8-b8dd-7e556e296d6f&tracking_id=3f870b72-2cf9-43b8-9992-faa04bab5500&c_id=/home/card-featured/element&c_uid=b8d5ef93-4b44-447a-8bd1-d2e2af7e6fa2",
+        "titulo": "Regata Insider Comfy Inlounge",
+        "preco": 41.36,
+        "timestamp": 1789418234.5543618,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4387829509",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4387829509-tnis-sandrini-storm-wave-masculino-casual-esportivo-_JM?searchVariation=188520100356&matt_event_ts=1789417878255&matt_d2id=1c839cbe-0ea2-437a-b0ed-54d26614c20d&matt_tracing_id=f9cd9664-5283-4356-b996-108e49caa5e9#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=83884a0b-853d-4bb9-854b-6b025077a7cb&tracking_id=6905fe95-84f3-4145-a27a-42f0556a2c48&c_id=/home/card-featured/element&c_uid=10f05086-81ff-4f51-bb66-a306dcbc0902",
+        "titulo": "Tênis Sandrini Storm Wave Masculino Casual Esportivo",
+        "preco": 58.0,
+        "timestamp": 1789418278.0258286,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB69627327",
+        "link_bruto": "https://www.mercadolivre.com.br/carregador-portatil-20000-mah-com-carregamento-rapido-geonav/p/MLB69627327?matt_event_ts=1789417900390&matt_d2id=38bab4e8-72a0-4bc1-b499-becf4f091460&matt_tracing_id=62008f18-d102-4a29-be5e-dbb9b60174a1#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3d6aa178-1ca6-4f6c-8a7f-1a51af398611&tracking_id=f74d0b27-2236-4359-a41d-8651ec1f385d&c_id=/home/card-featured/element&c_uid=ff397379-6cfa-4d11-9a91-9fbed7ed2e7f",
+        "titulo": "Carregador Portátil 20.000 Mah Com Carregamento Rápido Geonav",
+        "preco": 90.0,
+        "timestamp": 1789418324.3318248,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B079VTMGTH",
+        "link_bruto": "https://www.amazon.com.br/Lo%C3%A7%C3%A3o-Hidratante-Banho-250ml-Nivea/dp/B079VTMGTH/?tag=promobit-d-20&th=1",
+        "titulo": "Nivea Hidratante Para Banho Milk 250ml, Cuidado Nutritivo 24h, Uso No Banho, Óleo De Amêndoas, Sensação De Maciez, Pele Seca",
+        "preco": 11.97,
+        "timestamp": 1789418368.1106505,
+        "expirado": false
     }
 ]
