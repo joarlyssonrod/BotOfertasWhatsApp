@@ -40406,5 +40406,45 @@
         "preco": 27.92,
         "timestamp": 1789396683.3264036,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB22816858",
+        "link_bruto": "https://www.mercadolivre.com.br/relogio-technos-masculino-quartzo-aco-inoxidavel-resistente-agua-prata/p/MLB22816858",
+        "titulo": "Relógio Technos Masculino Quartzo Aço Inoxidável Resistente Água Prata",
+        "preco": 174.0,
+        "timestamp": 1789403646.4905705,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5943120120",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5943120120-kit-10-cuecas-algodo-polo-wear-sortido-_JM",
+        "titulo": "Kit 10 Cuecas Algodão Polo Wear Sortido",
+        "preco": 147.19,
+        "timestamp": 1789403676.1840832,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3526651964",
+        "link_bruto": "https://www.mercadolivre.com.br/7kw-carregador-carro-eletrico-portatil-rapido-32a-tipo-2/up/MLBU3526651964",
+        "titulo": "7kw Carregador Carro Elétrico Portátil Rápido 32a Tipo 2",
+        "preco": 521.1,
+        "timestamp": 1789403721.740028,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H41D4KFT",
+        "link_bruto": "https://www.amazon.com.br/AMD-Processador-5800X3D-n%C3%BAcleos-tecnologia/dp/B0H41D4KFT",
+        "titulo": "AMD Processador Ryzen 7 5800X3D de 8 núcleos e 16 threads para desktop com tecnologia AMD 3D V-Cache",
+        "preco": 2099.99,
+        "timestamp": 1789403754.3911254,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB35277819",
+        "link_bruto": "https://www.mercadolivre.com.br/cadeira-executiva-eike-mesh-zebra-alta-preta-giratoria-ergonomica-com-reclinavel/p/MLB35277819?matt_event_ts=1789403531955&matt_d2id=4d00f829-3696-480a-a917-f3237878679a&matt_tracing_id=8569f371-234b-424a-901c-936fe5cb1cac#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=276e43e5-f269-4720-a964-4c3d738e1b63&tracking_id=093a7050-468e-43bd-80e2-0c2d7fa1096a&c_id=/home/card-featured/element&c_uid=b5f0fbd7-dbdc-40a2-871e-ed4570970768",
+        "titulo": "Cadeira Executiva Eike Mesh Zebra Alta Preta Giratória Ergonômica Com Reclinável",
+        "preco": 174.77,
+        "timestamp": 1789403792.223794,
+        "expirado": false
     }
 ]
