@@ -40446,5 +40446,45 @@
         "preco": 174.77,
         "timestamp": 1789403792.223794,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BH58QPYN",
+        "link_bruto": "https://www.amazon.com.br/God-War-Ragnar%C3%B6k-Standard-PlayStation/dp/B0BH58QPYN/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.vj_zQjwufhxMdqO4EQNOQQfI7Mykv9oArjx3IwoBaqz1j4JamPJVxMBRhOqw-Ixu0sooxhsx-Oed8a0H_-aTsVH8086NVeeBJ86pr1W6SpwX2I5lOdE8MF9gnuwrq1wMoSmRASSrM69p4CSH2_hjdJUsh4EJPiA31wXkvjMflIPdak_8tta154Jb_tpeJGhWhEVVlBBsVQOXrTUYATg2rWGwtzHM0cib6ysBFYmW2Hw.IeGFj9C5rPwVlknVfjNtDydDYhnchIF7KpR4Rt18Qy4&dib_tag=se&keywords=god+of+war&qid=1789407307&s=videogames&ufe=app_do%3Aamzn1.fos.2fb4d624-b7be-441e-af6d-3c953cfae5bf&tag=promobit-d-20",
+        "titulo": "Jogo God of War Ragnarök - Edição Standard - PlayStation 4",
+        "preco": 89.9,
+        "timestamp": 1789410899.658614,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B088MVWBM9",
+        "link_bruto": "https://www.amazon.com.br/ASPIRADOR-PAS4000V-POWER-CLEAN-Preto/dp/B088MVWBM9",
+        "titulo": "Philco Aspirador Pó Vertical Power Clean 2000W PAS4000V 127V",
+        "preco": 211.9,
+        "timestamp": 1789410944.7375836,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3361238479",
+        "link_bruto": "https://www.mercadolivre.com.br/mala-de-10kg-blogueirinha-bordo-com-frasqueira-promocao/up/MLBU3361238479",
+        "titulo": "Mala De 10kg Blogueirinha Bordo Com Frasqueira Promoção Bege Listras",
+        "preco": 220.04,
+        "timestamp": 1789410981.230864,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50368907",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-tcl-65-polegadas-qled-mini-led-4k-c6k-wifi-bluetooth-google-tv-4-hdmi-144hz-hdr10-65c6k/p/MLB50368907?matt_event_ts=1789410770523&matt_d2id=7639d2c2-01b8-4f5d-a3c4-440ea7a03410&matt_tracing_id=d984e4c1-8a65-46c8-9463-b4840413bc8c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f9d4b46e-7545-4e90-b886-cbff94f0ad86&tracking_id=c14932c5-2ad6-44a6-8b94-b1875810bc26&c_id=/home/card-featured/element&c_uid=d7a6b324-a1a3-4366-afe7-d88dc0a5a5ad",
+        "titulo": "Smart TV TCL 65 Polegadas QLED Mini LED 4K C6K WiFi Bluetooth Google TV 4 HDMI 144Hz HDR10+ 65C6K",
+        "preco": 3719.0,
+        "timestamp": 1789411022.8779922,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FPBR8V26",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FPBR8V26?tag=promobit-d-20",
+        "titulo": "Smart TV PHILIPS Ambilight 50\" 4K Comando de Voz HDR10+/Dolby Atmos VRR/ALLM Bluetooth - 50PUG8100/78",
+        "preco": 2088.99,
+        "timestamp": 1789411096.8463185,
+        "expirado": false
     }
 ]
