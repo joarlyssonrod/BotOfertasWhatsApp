@@ -40574,5 +40574,21 @@
         "preco": 159.53,
         "timestamp": 1789425148.2009215,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0781CTJF6",
+        "link_bruto": "https://www.amazon.com.br/TOALHINHAS-UMED-PIQUITUCHO-PREMIUM-120UN/dp/B0781CTJF6?dib=eyJ2IjoiMSJ9.2VcQ-VzY47VzgCDqLK0klEdfVaq4hRGsSLjd1LUwEc2FmwtU_HCsCAVN51oCE8zipy1qe0RhyGMs2QesjII9emrRoY-haeN2BqqeXXh2cHI5VCSi18r2A6gvJWD-EoPUI-HdI_G5nTd4K13AdAXy69rvUc7mrnHurXM8gfV0NdfHmG-gNmks30kBQGFmXRwDVbU05IuuS12IuVXfTjH2mIPKVU2UtOFfcBbcrR3sQp-7aVtuAX82dYrRATBka6Oqs5rxMvvzE0wLTz3LfhYqYi85aO4p1vtZczm8rAAymPI.V1DclCumN-RiP8mpJ-A1XaLtSQjRt8XGFiqgF2-HvbI&dib_tag=se&qid=1789423649&refinements=p_85%3A19171728011&rnid=19171727011&rps=1&s=baby-products&xpid=0ca4PWSiNRKhC&btn_type=ss&tag=promobit-d-20",
+        "titulo": "PIQUITUCHO Toalhinhas Umed Premium 1 Unidade Com 120 Lenços Umedecidos",
+        "preco": 8.55,
+        "timestamp": 1789432358.613386,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/sofa-confort-premium-230m-assento-retratil-reclinavel-porta-copos-e-usb-suede-cinza-xflex-sofas-xflex-sofas/divulgador/oferta/cjhae2b7f8/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/sofa-confort-premium-230m-assento-retratil-reclinavel-porta-copos-e-usb-suede-cinza-xflex-sofas-xflex-sofas/divulgador/oferta/cjhae2b7f8/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Sofá Confort Premium 230m Assento RetrátilReclinável porta copos e USB Suede Cinza - XFlex Sofas",
+        "preco": 1223.84,
+        "timestamp": 1789432403.430927,
+        "expirado": false
     }
 ]
