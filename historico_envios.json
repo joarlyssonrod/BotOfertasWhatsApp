@@ -40726,5 +40726,69 @@
         "preco": 44.0,
         "timestamp": 1789483741.7218597,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB3374416249",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3374416249-calca-legging-poliamida-sem-costura-benevola-leg-confortavel-_JM",
+        "titulo": "Calça Legging Poliamida Sem Costura Benévola Leg Confortável",
+        "preco": 75.97,
+        "timestamp": 1789489988.5670137,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB65084417",
+        "link_bruto": "https://www.mercadolivre.com.br/maquina-de-solda-inversora-mma-250a-sem-gas/p/MLB65084417",
+        "titulo": "Máquina De Solda Inversora MMA 250A Sem Gás",
+        "preco": 199.5,
+        "timestamp": 1789490027.262091,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB61672926",
+        "link_bruto": "https://www.mercadolivre.com.br/compressor-de-ar-portatil-blackone-4000mah-digital-150psi-carro-moto-bike/p/MLB61672926",
+        "titulo": "Compressor de Ar Portátil Blackone 4000mAh Digital 150PSI Carro Moto Bike",
+        "preco": 67.93,
+        "timestamp": 1789490077.7117865,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_CBK740344K",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-racer-tr23-masculino/p/cbk740344k/es/osnr/?seller_id=zattini",
+        "titulo": "Tênis Adidas Racer Tr23 Masculino",
+        "preco": 259.99,
+        "timestamp": 1789490117.7847211,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5857442960",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5857442960-tnis-kappa-pulse-supra-masculino-feminino-_JM",
+        "titulo": "Tênis Kappa Pulse Supra Masculino Feminino",
+        "preco": 140.97,
+        "timestamp": 1789490161.8331223,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5286342618",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5286342618-tnis-nike-uplift-sc-masculino-_JM",
+        "titulo": "Tênis Nike Uplift Sc Masculino",
+        "preco": 287.99,
+        "timestamp": 1789490200.07934,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CSK9296X",
+        "link_bruto": "https://www.amazon.com.br/dp/B0CSK9296X?social_share=cm_sw_r_apan_dp_APFMG6ZEZXKTJ522TCEK&tag=promobit-d-20",
+        "titulo": "TCL TABLET NXTPAPER 14 - Tela 14,3\" NXTPAPER 2.4K - 256 ROM - 16Gb (8Gb + 8Gb RAM BOOST) -Octacore - 10.000 mAh de Bater",
+        "preco": 2691.0,
+        "timestamp": 1789490248.7877755,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/geladeira-inteligente-b-smart-brastemp-frost-free-inverse-500-litros-cor-branca-bre66ab/divulgador/oferta/gdb173bea2/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/geladeira-inteligente-b-smart-brastemp-frost-free-inverse-500-litros-cor-branca-bre66ab/divulgador/oferta/gdb173bea2/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Geladeira Inteligente B= Smart Brastemp Frost Free Inverse 500 Litros Cor Branca - BRE66AB",
+        "preco": 3856.17,
+        "timestamp": 1789490292.8535302,
+        "expirado": false
     }
 ]
