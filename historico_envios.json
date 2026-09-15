@@ -40902,5 +40902,21 @@
         "preco": 3967.37,
         "timestamp": 1789503071.1524105,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB70267191",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-arabe-rayhaan-nocturno-elixir-eau-de-parfum-100ml/p/MLB70267191?matt_event_ts=1789504266225&matt_d2id=ceee02b4-c230-4fbc-a492-6214c97bd0e4&matt_tracing_id=5cd6c0c4-e090-4d6f-8c7d-a5d914f62ec9#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=9ca536fe-6594-4733-abf7-8b2a868dd5b6&tracking_id=c69fee0a-3ff5-4a92-baf3-53e5d4f463c0&c_id=/home/card-featured/element&c_uid=552ffa05-af27-488c-9586-2e9cd43e68da",
+        "titulo": "Perfume Árabe Rayhaan Nocturno Elixir Eau De Parfum 100ml",
+        "preco": 259.0,
+        "timestamp": 1789504356.4981725,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CN78J7WM",
+        "link_bruto": "https://www.amazon.com.br/Nebacetin-Baby-Creme-Preven%C3%A7%C3%A3o-30G/dp/B0CN78J7WM?tag=promobit-d-20&th=1",
+        "titulo": "Creme Contra Assaduras Nebacetin Baby 30g",
+        "preco": 16.0,
+        "timestamp": 1789504397.2064369,
+        "expirado": false
     }
 ]
