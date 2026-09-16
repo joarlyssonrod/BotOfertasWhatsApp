@@ -41534,5 +41534,45 @@
         "preco": 126.87,
         "timestamp": 1789591101.0104854,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3556992723",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-masculino-e-feminino-advantage-20-adidas/up/MLBU3556992723?pdp_filters=item_id%3AMLB4470380081&matt_event_ts=1789597895326&matt_d2id=a48a64dd-c81c-4fda-ae03-9efe2d6b0408&matt_tracing_id=acbfb2a2-2d99-4452-8bd7-34978465dac2#polycard_client=recommendations_home_affiliate-profile&wid=MLB4470380081&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5eff593b-5327-4d53-ae3b-b085cb653bd3&tracking_id=7dbd6e44-7758-4e57-ba0d-a4f7cb6a9d6b&c_id=/home/card-featured/element&c_uid=d13e30d1-8241-4306-8ea2-4e9ea2831f15",
+        "titulo": "Tênis Masculino E Feminino Advantage 2.0 Adidas",
+        "preco": 117.33,
+        "timestamp": 1789597989.6469154,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB65637634",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-flyer-runner-mesh-feminino-puma/p/MLB65637634",
+        "titulo": "Tênis Flyer Runner Mesh Feminino Puma",
+        "preco": 189.99,
+        "timestamp": 1789598020.849302,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB61580271",
+        "link_bruto": "https://www.mercadolivre.com.br/cadeira-escritorio-diretor-ergonomica-reclinavel-giratoria-cor-preto-material-do-estofamento-couro-sintetico/p/MLB61580271",
+        "titulo": "Cadeira Escritorio Diretor Ergonômica Reclinável Giratória Cor Preto Material do estofamento Couro sintético",
+        "preco": 407.53,
+        "timestamp": 1789598069.5962794,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5363965796",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5363965796-tenis-masculino-olympikus-veloz-_JM?searchVariation=206346985719&matt_event_ts=1789597885892&matt_d2id=254f4726-b130-4b6a-9663-75527e0e0788&matt_tracing_id=281ef198-fc92-4545-b547-1b669a1021c0#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5911caea-a22e-4365-81aa-990baf3e984e&tracking_id=d4d971b2-a809-4ce6-bb7c-7f425c5ee5f3&c_id=/home/card-featured/element&c_uid=2f9ec2cf-cb3a-4f7f-a9b2-70199f84a557",
+        "titulo": "Tenis Masculino Olympikus Veloz",
+        "preco": 263.0,
+        "timestamp": 1789598104.8427427,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08R9XTH39",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B08R9XTH39?tag=promobit-d-20",
+        "titulo": "OMO Sabão Em Pó Lavagem Perfeita 2.2Kg",
+        "preco": 26.99,
+        "timestamp": 1789598145.6559803,
+        "expirado": false
     }
 ]
