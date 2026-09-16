@@ -41462,5 +41462,77 @@
         "preco": 184.0,
         "timestamp": 1789584066.2546363,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB2728233902",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-2728233902-polo-calvin-klein-jeans-piquet-regular-re-issue-azul-marinho-_JM",
+        "titulo": "Polo Calvin Klein Jeans Piquet Regular Re Issue Azul Marinho",
+        "preco": 147.24,
+        "timestamp": 1789590784.192632,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_KCJ1CF7374",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-urban-court-masculino/p/kcj1cf7374/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Adidas Urban Court Masculino",
+        "preco": 149.99,
+        "timestamp": 1789590815.1362312,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB47405572",
+        "link_bruto": "https://www.mercadolivre.com.br/panela-de-pressao-eletrica-5-litros-kian-inox/p/MLB47405572",
+        "titulo": "Panela De Pressão Elétrica 5 Litros Kian Inox",
+        "preco": 245.64,
+        "timestamp": 1789590856.8336766,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4125132275",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4125132275-jogo-toalhas-banho-grossas-macias-algodo-4pc-absorventes-_JM",
+        "titulo": "Jogo Toalhas Banho Grossas Macias Algodão 4pç Absorventes",
+        "preco": 76.24,
+        "timestamp": 1789590897.6656032,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5298029156",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5298029156-tnis-jada-feminino-puma-_JM",
+        "titulo": "Tênis Jada Feminino Puma",
+        "preco": 246.99,
+        "timestamp": 1789590936.5744696,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H4X79RZ6",
+        "link_bruto": "https://www.amazon.com.br/T%C3%AAnis-Adidas-Adizero-Drive-Feminino/dp/B0H4X79RZ6?tag=promobit-d-20&th=1&psc=1",
+        "titulo": "Tênis Adidas Adizero Drive Rc Feminino - Verdepreto",
+        "preco": 510.99,
+        "timestamp": 1789590980.881574,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB65503993",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s26-ultra-5g-256gb-12gb-ram-camera-quadrupla-tela-grande-de-69-azul/p/MLB65503993?matt_event_ts=1789590710144&matt_d2id=4d1ccc52-9933-4162-bd7b-3790c0046afc&matt_tracing_id=9b455d2b-dbeb-40f9-be77-08cbacecfa44#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a1b17a69-ab36-4514-811c-961a1d57c17d&tracking_id=281492ac-0f59-4ce2-9e2d-1cbeaa4f63b2&c_id=/home/card-featured/element&c_uid=5b926260-45e1-4816-891d-2063b0448657",
+        "titulo": "Celular Samsung Galaxy S26 Ultra 5G 256GB 12GB RAM Câmera Quádrupla Tela Grande de 6.9\" Azul",
+        "preco": 6839.0,
+        "timestamp": 1789591027.9754012,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4505765996",
+        "link_bruto": "https://www.mercadolivre.com.br/lego-technic-carro-de-amr25-42240/up/MLBU4505765996?pdp_filters=item_id%3AMLB7285324596&matt_event_ts=1789590644476&matt_d2id=77b9a04a-32af-4bc0-a974-71077dbbc211&matt_tracing_id=b0e931bf-b425-4e96-9937-7f9661ec8161#polycard_client=recommendations_home_affiliate-profile&wid=MLB7285324596&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ec9790bf-3df7-40e4-bc2c-81216d2526f2&tracking_id=6b72347a-b914-498a-b5d4-e83234c432a3&c_id=/home/card-featured/element&c_uid=d7faeebc-d23a-4b1b-a3ab-5537753997c6",
+        "titulo": "Technic Carro F1 Aston Martin Aramco #42240 (1547 Peças) LEGO",
+        "preco": 1239.0,
+        "timestamp": 1789591064.8908153,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB44692293",
+        "link_bruto": "https://www.mercadolivre.com.br/liquidificador-portatil-obld700-220-power-blender-2-jarras-oster/p/MLB44692293?matt_event_ts=1789590687197&matt_d2id=672fee69-7575-4faa-aa6b-4f91d7610043&matt_tracing_id=2505182f-e0f8-413f-baf7-71c9127857db#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=96a070e9-fe43-4e3c-8d78-9a10a3526921&tracking_id=abd2a056-cfb2-4e23-bd8d-cdae814ffb80&c_id=/home/card-featured/element&c_uid=9211be59-8f41-48e5-a7f8-d9a9533c9118",
+        "titulo": "Liquidificador Portátil OBLD700-220 Power Blender 2 Jarras Oster",
+        "preco": 126.87,
+        "timestamp": 1789591101.0104854,
+        "expirado": false
     }
 ]
