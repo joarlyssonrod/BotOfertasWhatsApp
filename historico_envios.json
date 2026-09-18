@@ -41006,5 +41006,101 @@
         "preco": 899.99,
         "timestamp": 1789762224.9227118,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_6555117656",
+        "link_bruto": "https://www.amazon.com.br/arte-gastar-dinheiro-equilibrada-psicologia/dp/6555117656/ref=tmm_pap_swatch_0?tag=promobit-d-20",
+        "titulo": "Livro: A arte de gastar dinheiro - Vida equilibrada",
+        "preco": 27.0,
+        "timestamp": 1789769603.4576256,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB27993232",
+        "link_bruto": "https://www.mercadolivre.com.br/bola-de-basquete-mini-penalty-fun-530155-cor-azul/p/MLB27993232?matt_event_ts=1789769139687&matt_d2id=3d0beb24-c801-4cdb-b6e0-0a3b7fdeb486&matt_tracing_id=9926c62b-b22b-4cae-8dfb-0efe8daa5989#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3c8a8568-1585-490c-85cd-12e2e6552a68&tracking_id=f99d2ccb-e8a6-4336-95c9-b4d37f87d49b&c_id=/home/card-featured/element&c_uid=99e7f3dd-682c-4ac9-85e4-8391b1d1cfcb",
+        "titulo": "Bola De Basquete Mini Penalty Fun 530155 Cor Azul",
+        "preco": 49.0,
+        "timestamp": 1789769629.1164186,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63436594",
+        "link_bruto": "https://www.mercadolivre.com.br/robo-aspirador-de-po-inteligente-s40c-xiaomi-branco-bi-volt/p/MLB63436594?matt_event_ts=1789768987033&matt_d2id=2097462a-c5a3-498b-8146-d97d7accb4fd&matt_tracing_id=5fe5ab92-cac1-4d7e-b807-bbf53af3b659#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0da86a08-ab26-4f75-9012-87431a240288&tracking_id=07d3edc2-4838-4fae-af13-d40615010014&c_id=/home/card-featured/element&c_uid=7c19047e-abcd-4811-966c-56eaf8a8c8c2",
+        "titulo": "Robô Aspirador de Pó Inteligente Xiaomi S40C",
+        "preco": 864.87,
+        "timestamp": 1789769652.4220467,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB77201385",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-4k-65-lg-nano-uhd-ai-nu850-2026-processador-7-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-webos-26-65nu850bpsa/p/MLB77201385?matt_event_ts=1789769302519&matt_d2id=dab3d318-8fe6-4031-a817-e90979cef8d7&matt_tracing_id=66b77f74-26f2-427d-915f-64a8396c5923#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=cdf107b7-21d3-47a4-97b3-af033f5557a0&tracking_id=c55c5010-d4d7-42f9-8e3d-7a75a43f197f&c_id=/home/card-featured/element&c_uid=84c9b391-0476-4e8e-a968-7c76577c7a5a",
+        "titulo": "Smart TV 4K 65\" LG NANO UHD AI NU850 2026 Processador 7 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini webOS",
+        "preco": 3164.91,
+        "timestamp": 1789769675.6706614,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB23873195",
+        "link_bruto": "https://www.mercadolivre.com.br/colchao-casal-emma-basics-17-138x188cm-espuma-d28-17cm-com-tecnologia-alema-embalado-vacuo-firmeza-ideal-suporte-confortavel/p/MLB23873195",
+        "titulo": "Colchão Casal Emma Basics 17 – 138x188cm - Espuma D28 17cm com Tecnologia Alemã, Embalado à Vácuo, Firmeza Ideal, Suporte Confortável",
+        "preco": 1149.0,
+        "timestamp": 1789769689.166233,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4070388221",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4070388221-tnis-park-st-20-adidas-_JM?searchVariation=188061163229&matt_event_ts=1789768954250&matt_d2id=a3ce18eb-ab22-4852-8d78-1ad691378b5b&matt_tracing_id=bf82f877-97e5-43bf-9c90-0b8eeedda3b4#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=2df46437-bfb7-45c3-af82-2d97da3acd4c&tracking_id=a70740b3-a019-4c8b-9494-132dc5e8e4db&c_id=/home/card-featured/element&c_uid=5f274ace-945d-42a8-8074-d1bdc52acee8",
+        "titulo": "Tênis Park St 2.0 adidas",
+        "preco": 212.0,
+        "timestamp": 1789769706.8014874,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B001HUBXJO",
+        "link_bruto": "https://www.amazon.com.br/dp/B001HUBXJO?social_share=cm_sw_r_apan_dp_LIGHTSABER1U6CT5F8D0_1&tag=promobit-d-20",
+        "titulo": "Whisky Chivas Regal 12 anos Blended Escocês - 750 ml",
+        "preco": 79.9,
+        "timestamp": 1789769725.6412754,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU5107346766",
+        "link_bruto": "https://www.mercadolivre.com.br/fire-stick-amazon-fire-4k-select-8gb-wifi-controle-alexa/up/MLBU5107346766?pdp_filters=item_id%3AMLB7585930678&matt_event_ts=1789769243417&matt_d2id=e13422bd-1321-41ff-b4ff-4052a2558916&matt_tracing_id=db4913d8-f99a-486d-9424-f6818c6170c4#polycard_client=recommendations_home_affiliate-profile&wid=MLB7585930678&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a58f7e88-33bb-4306-9006-4eb339a97865&tracking_id=97faf35c-d8ad-45a7-8031-82a782da7cb1&c_id=/home/card-featured/element&c_uid=7b2a655b-df9b-40f3-a32c-adb57e8cf7a9",
+        "titulo": "Fire Stick Amazon Fire 4k Select 8gb Wi-fi Controle Alexa",
+        "preco": 231.19,
+        "timestamp": 1789769744.0276756,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_GGK96C47HH",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-olympikus-proof-3-masculino/p/ggk96c47hh/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Olympikus Proof 3 Masculino",
+        "preco": 151.99,
+        "timestamp": 1789769765.5852885,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240429300",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/notebook-acer-aspire-go-15-ag15-51p-35jz-intel-core-i3-8gb-ram-256gb-ssd-153-windows-11-nx-jgfal-005/p/240429300/in/nota/?seller_id=magazineluiza",
+        "titulo": "Notebook Acer Aspire Go 15 AG15-51P-35JZ Intel Core i3 8GB RAM 256GB SSD 15,3\" Windows 11 NX.JGFAL.005",
+        "preco": 3419.1,
+        "timestamp": 1789769787.9894857,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B000GKUEVE",
+        "link_bruto": "https://www.amazon.com.br/dp/B000GKUEVE?social_share=cm_sw_r_apan_dp_KJC4V6E76F82E9GHFH7X&tag=promobit-d-20",
+        "titulo": "Pacote 5 Carros Sortidos Hot Wheels Mattel Multicor - não é possível escolher as cores",
+        "preco": 58.99,
+        "timestamp": 1789769801.4525526,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB45047643",
+        "link_bruto": "https://www.mercadolivre.com.br/fruteira-de-mesa-3-andares-cesto-de-frutas-legumes-multiuso/p/MLB45047643?matt_event_ts=1789769332516&matt_d2id=66d8377a-3520-4f26-aa90-af309ba50a93&matt_tracing_id=788cd0f8-46a0-48e4-91a3-fe5f6a9a7b40#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=fe845d9e-ebbe-4437-bcd4-b6395b15ea18&tracking_id=96648d77-6da6-4c38-ae8e-4fbd8a051497&c_id=/home/card-featured/element&c_uid=2cea556e-1670-4f2c-9cf8-5a46396d3f5a",
+        "titulo": "Fruteira De Mesa 3 Andares Cesto De Frutas Legumes Multiuso",
+        "preco": 43.3,
+        "timestamp": 1789769815.134793,
+        "expirado": false
     }
 ]
