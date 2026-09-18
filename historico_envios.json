@@ -40974,5 +40974,37 @@
         "preco": 3457.09,
         "timestamp": 1789755441.190714,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB5221980703",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5221980703-tnis-mizuno-inspire-18-academia-caminhada-top-envio-full-_JM",
+        "titulo": "Tênis Mizuno Inspire 18 Academia Caminhada Top Envio Full",
+        "preco": 119.6,
+        "timestamp": 1789762164.6957648,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4242841805",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4242841805-mousepad-gamer-antiderrapante-80x30cm-jogos-drago-chins-_JM?searchVariation=191588854717&matt_event_ts=1789761668933&matt_d2id=3e569fdd-7bf2-49aa-91c3-7d705de4d8ae&matt_tracing_id=73d912bc-0936-46ce-966e-f7761c83984d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=56211d3e-93b7-4f60-b39f-a6bf09aecce4&tracking_id=5835fb09-4cd3-4422-a8e3-7c7afd83fd90&c_id=/home/card-featured/element&c_uid=feeaa2c0-4963-4fab-b5a8-82b94e0beac6",
+        "titulo": "Mousepad Gamer Antiderrapante 80x30cm Jogos Dragão Chinês (14 cores)",
+        "preco": 19.0,
+        "timestamp": 1789762182.2089682,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07Z9T391J",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B07Z9T391J/ref=ewc_pr_img_1?tag=promobit-d-20",
+        "titulo": "Babysec Fralda Ultrasec Galinha Pintadinha Azul Xg 56 Unidades",
+        "preco": 54.99,
+        "timestamp": 1789762200.4212697,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07Y94W69D",
+        "link_bruto": "https://www.amazon.com.br/Hot-Wheels-GJL14-WheelsCity-Ultimate/dp/B07Y94W69D",
+        "titulo": "Kit Caminhão Hot Wheels Ultimate Garagem Roubo T-Rex Mattel. Pista gigante com lançador, rampas e ataque do T-Rex motorizado. Para crianças a partir de 4 anos.",
+        "preco": 899.99,
+        "timestamp": 1789762224.9227118,
+        "expirado": false
     }
 ]
