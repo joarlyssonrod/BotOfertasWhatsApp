@@ -40918,5 +40918,61 @@
         "preco": 34.89,
         "timestamp": 1789749913.4642181,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB75898879",
+        "link_bruto": "https://www.mercadolivre.com.br/panela-de-pressao-vitrex-ceramic-42-l-cinza-com-inducao-e-antiaderente/p/MLB75898879?matt_event_ts=1789755018122&matt_d2id=a37632ab-a058-4416-b31c-fafa8591f8a2&matt_tracing_id=95b1e85b-fffb-47ea-b1fe-01672f794e00#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=15a7f1ae-aa50-4e83-a910-293fa82e39b2&tracking_id=1e32bea2-60fe-4dcf-bba2-63294a13b60d&c_id=/home/card-featured/element&c_uid=46c0d610-7be0-43de-87bd-bad6335c2e53",
+        "titulo": "Panela de Pressão Vitrex Ceramic 4.2 L Cinza, com Indução e Antiaderente",
+        "preco": 143.0,
+        "timestamp": 1789755310.106216,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FDX5W5T9",
+        "link_bruto": "https://www.amazon.com.br/Samsung-Galaxy-Watch8-Smartwatch-44mm/dp/B0FDX5W5T9/?tag=promobit-d-20",
+        "titulo": "Galaxy Watch 8 LTE 44 mm",
+        "preco": 1316.68,
+        "timestamp": 1789755331.4592175,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB68434526",
+        "link_bruto": "https://www.mercadolivre.com.br/seringa-insulina-sr-05ml-6-x-025mm-agulha-fixa-100-unidade-capacidade-05-ml/p/MLB68434526",
+        "titulo": "Seringa Insulina Sr 0.5ml 6 X 0.25mm Agulha Fixa 100 Unidade Capacidade 0.5 Ml",
+        "preco": 85.8,
+        "timestamp": 1789755355.3443804,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_51807345661",
+        "link_bruto": "https://s.shopee.com.br/6VNy65TV9x",
+        "titulo": "Secador Esterelizador de Tenis Elétrico Seca Tenis Sapatos 110v ou 220v",
+        "preco": 59.9,
+        "timestamp": 1789755379.7172475,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU5028487272",
+        "link_bruto": "https://www.mercadolivre.com.br/secador-de-roupas-eletrico-portatil-suspenso-cortina/up/MLBU5028487272?pdp_filters=item_id%3AMLB7551490720&matt_event_ts=1789754483991&matt_d2id=eb72bec3-b7fc-4b80-b9cb-533f52e3b787&matt_tracing_id=822736a0-d449-4fff-8f07-9c1827d78e85#polycard_client=recommendations_home_affiliate-profile&wid=MLB7551490720&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=95ebb05d-a353-4b27-a67c-2f31034932c4&tracking_id=d18ab467-edc9-4eb0-86af-64afcef63171&c_id=/home/card-featured/element&c_uid=7974b35d-b3c2-448a-9427-daa211186b97",
+        "titulo": "Secador De Roupas Elétrico Portátil Suspenso Cortina",
+        "preco": 96.9,
+        "timestamp": 1789755398.540638,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB59197873",
+        "link_bruto": "https://www.mercadolivre.com.br/forno-de-embutir-eletrico-electrolux-80l-oe8el/p/MLB59197873?matt_event_ts=1789754512215&matt_d2id=ab972c65-8f59-45ff-abfa-95fd2a30a76a&matt_tracing_id=41a62482-db56-40ca-8b21-58551145d52c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6c2db4e6-b3db-4e42-833e-aea76c37bc22&tracking_id=4ce4171e-3ef7-4b1a-a1ca-5529a8d20fc0&c_id=/home/card-featured/element&c_uid=6f445c28-4fb6-499b-a126-7c655c639f23",
+        "titulo": "Forno de Embutir Elétrico Electrolux 80L OE8EL",
+        "preco": 1609.0,
+        "timestamp": 1789755419.1550162,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/geladeira-refrigerador-hq-frost-free-inverter-multidoor-426-litros-cinza-hq-426mdff/divulgador/oferta/bfh3b8b4cg/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/geladeira-refrigerador-hq-frost-free-inverter-multidoor-426-litros-cinza-hq-426mdff/divulgador/oferta/bfh3b8b4cg/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Geladeira Refrigerador HQ Frost Free Inverter Multidoor 426 Litros Cinza HQ-426MDFF",
+        "preco": 3457.09,
+        "timestamp": 1789755441.190714,
+        "expirado": false
     }
 ]
