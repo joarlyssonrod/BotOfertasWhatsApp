@@ -47,12 +47,17 @@ class WhatsAppSender:
             print("🔗 Carregando WhatsApp Web...")
             self.page.goto("https://web.whatsapp.com/")
             
-            # Aguarda a tela inicial carregar. O input de pesquisa indica que as conversas carregaram.
-            print("⏳ Aguardando sincronização das conversas (isso pode levar alguns segundos)...")
-            search_bar = self.page.locator('input[data-tab="3"], div[contenteditable="true"][data-tab="3"], div[data-testid="chat-list-search"]').first
-            search_bar.wait_for(state="visible", timeout=45000)
-            print("✅ WhatsApp Web conectado com sucesso!")
-            return True
+            # Aguarda a tela inicial carregar (painel de conversas ou barra de pesquisa)
+            print("⏳ Aguardando sincronização das conversas (isso pode levar até 90s)...")
+            seletor_principal = '#side, [data-testid="chat-list"], input[data-tab="3"], div[contenteditable="true"][data-tab="3"], div[data-testid="chat-list-search"]'
+            try:
+                self.page.wait_for_selector(seletor_principal, timeout=90000)
+                print("✅ WhatsApp Web conectado com sucesso!")
+                return True
+            except Exception as e:
+                self.page.screenshot(path="wpp_erro_conexao.png")
+                print(f"🚨 Screenshot do erro salvo em wpp_erro_conexao.png: {e}")
+                raise e
             
         except Exception as e:
             print(f"🚨 Erro ou tempo limite esgotado ao conectar no WhatsApp Web: {e}")
@@ -151,42 +156,63 @@ class WhatsAppSender:
                         'div[contenteditable="true"][data-tab="6"]'
                     ]
                     
-                    for selector in caption_selectors:
-                        try:
-                            loc = self.page.locator(selector).first
-                            loc.wait_for(state="visible", timeout=3000)
-                            if loc.is_visible():
-                                caption_box = loc
-                                break
-                        except Exception:
-                            continue
+                    for tentativa in range(6):
+                        for selector in caption_selectors:
+                            try:
+                                loc = self.page.locator(selector).first
+                                if loc.is_visible():
+                                    caption_box = loc
+                                    break
+                            except Exception:
+                                continue
+                        if caption_box:
+                            break
+                        self.page.wait_for_timeout(1000)
 
-                    # 3. Foca a caixa de legenda da tela de preview e digita a mensagem formatada
-                    if caption_box and caption_box.is_visible():
-                        caption_box.focus()
-                        caption_box.click(force=True)
-                        self.page.wait_for_timeout(300)
-                        
-                        linhas = mensagem.split("\n")
+                                        # 3. Foca a caixa de legenda e insere o texto completo de forma atômica
+                    if not caption_box or not caption_box.is_visible():
+                        print("🚨 Caixa de legenda NÃO encontrada na tela de preview. Abortando envio para evitar foto sem texto.")
+                        self.page.keyboard.press("Escape")
+                        self.page.wait_for_timeout(1000)
+                        return False
+
+                    caption_box.focus()
+                    caption_box.click(force=True)
+                    self.page.wait_for_timeout(400)
+                    
+                    try:
+                        self.page.evaluate('''text => {
+                            const dt = new DataTransfer();
+                            dt.setData('text/plain', text);
+                            const ev = new ClipboardEvent('paste', {
+                                clipboardData: dt,
+                                bubbles: true,
+                                cancelable: true
+                            });
+                            document.activeElement.dispatchEvent(ev);
+                        }''', mensagem)
+                    except Exception:
+                        linhas = mensagem.split(chr(10))
                         for i, linha in enumerate(linhas):
                             if linha:
-                                self.page.keyboard.type(linha, delay=15)
+                                self.page.keyboard.insert_text(linha)
                             if i < len(linhas) - 1:
                                 self.page.keyboard.press("Shift+Enter")
-                        
-                        self.page.wait_for_timeout(500)
-                    else:
-                        print("⚠️ Caixa de legenda não localizada na tela de preview. A imagem será enviada.")
+
+                    self.page.wait_for_timeout(1000)
 
                     # 4. Confirma o envio da foto com legenda
                     send_btn = self.page.locator('span[data-icon="wds-ic-send-filled"], span[data-icon="send"], div[role="button"][aria-label*="Enviar"], button[aria-label*="Enviar"], button[aria-label*="Send"]').first
                     if send_btn.is_visible():
-                        print("👉 Clicando no botão de enviar da tela de preview...")
                         send_btn.click(force=True)
                     else:
                         self.page.keyboard.press("Enter")
                     
-                    self.page.wait_for_timeout(1500)
+                    try:
+                        self.page.wait_for_selector('div[data-testid="media-caption-input-container"]', state="detached", timeout=15000)
+                    except Exception:
+                        self.page.wait_for_timeout(3000)
+
                     print(f"✅ Imagem + legenda enviadas com sucesso para '{nome_grupo}'!")
                     return True
                 

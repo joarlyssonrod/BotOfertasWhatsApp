@@ -1095,7 +1095,7 @@ def orquestrar_bot():
             caminho_imagem = None
             url_img = item.get("link_imagem")
             if url_img:
-                caminho_imagem = "temp_oferta.jpg"
+                caminho_imagem = f"temp_{idx}_{int(time.time())}.jpg"
                 print(f"📥 Baixando imagem do produto para envio...")
                 baixado = baixar_imagem(url_img, caminho_imagem)
                 if not baixado:
