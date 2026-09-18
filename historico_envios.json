@@ -40878,5 +40878,45 @@
         "preco": 651.94,
         "timestamp": 1789741425.3044434,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_KCJ1CF7374",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-urban-court-masculino/p/kcj1cf7374/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Adidas Urban Court Masculino",
+        "preco": 149.99,
+        "timestamp": 1789749834.89989,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63958065",
+        "link_bruto": "https://www.mercadolivre.com.br/filtro-de-linha-betahome-com-6-tomadas-e-3-usb-para-2500w-bivolt/p/MLB63958065?matt_event_ts=1789749368562&matt_d2id=702eede2-325e-498c-87a3-ca533941b962&matt_tracing_id=510f30e6-6f8f-4920-83ea-ff8eb233bc33#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=9603394e-c93f-4243-97ef-65884083a317&tracking_id=26c89eb7-dd93-411d-a80e-39dfe4806925&c_id=/home/card-featured/element&c_uid=2ae69fa9-acdd-4d8f-a91b-2e00ac386796",
+        "titulo": "Filtro de Linha Betahome com 6 Tomadas e 3 USB para 2500W Bivolt",
+        "preco": 25.0,
+        "timestamp": 1789749857.688843,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB46982438",
+        "link_bruto": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-jbl-wave-flex-2-preto/p/MLB46982438",
+        "titulo": "Fone De Ouvido Bluetooth Jbl Wave Flex 2 Preto",
+        "preco": 197.1,
+        "timestamp": 1789749873.8553147,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB76490088",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-philco-60-p60vik-4k-uhd-led-roku-dolby-audio-wi-fi-hdr10/p/MLB76490088",
+        "titulo": "Smart TV Philco 60\" P60VIK 4K UHD LED Roku Dolby Audio Wi-Fi HDR10",
+        "preco": 2722.0,
+        "timestamp": 1789749894.1412752,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU5072545397",
+        "link_bruto": "https://www.mercadolivre.com.br/squishy-manteiga-13cm-gigante-anti-estresse-slow-rising-butt/up/MLBU5072545397",
+        "titulo": "Squishy Manteiga 13cm Gigante Anti Estresse Slow Rising Butt Amarelo",
+        "preco": 34.89,
+        "timestamp": 1789749913.4642181,
+        "expirado": false
     }
 ]
