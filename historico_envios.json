@@ -41102,5 +41102,37 @@
         "preco": 43.3,
         "timestamp": 1789769815.134793,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU4246716710",
+        "link_bruto": "https://www.mercadolivre.com.br/caixa-de-som-lg-xboom-go-xg8t-bluetooth-53-preto/up/MLBU4246716710?pdp_filters=item_id%3AMLB7110184496&matt_event_ts=1789776036612&matt_d2id=e15502d5-5108-4660-a900-6ee713c562f6&matt_tracing_id=90618aeb-f7e1-410b-bd62-3fe640e647fd#polycard_client=recommendations_home_affiliate-profile&wid=MLB7110184496&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4d4bd923-6978-436d-9a6d-44db1b4d8ad6&tracking_id=22954fdb-cd3b-483d-8507-1a07419d938d&c_id=/home/card-featured/element&c_uid=4d996c22-7d84-4fe9-9023-5d88492e99eb",
+        "titulo": "Caixa De Som LG Xboom Go Xg8t Bluetooth 5.3 Preto",
+        "preco": 581.03,
+        "timestamp": 1789776547.1976771,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_BJ9HK7AHD0",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-eletrica-wap-air-fryer-family-4l/p/bj9hk7ahd0/ep/efso/?seller_id=waplojaoficial",
+        "titulo": "Fritadeira Elétrica WAP Air Fryer Family 4L",
+        "preco": 298.9,
+        "timestamp": 1789776573.1274695,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_241918400",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g47-128gb-5g-12gb-4gb-ram-8gb-ram-boost-azul-nautico-67-cam-dupla-selfie-32mp/p/241918400/te/srmt/?seller_id=magazineluiza",
+        "titulo": "Smartphone Motorola Moto g47 128GB 5G 12GB (4GB RAM + 8GB RAM Boost) Azul Náutico 6,7\" Câm. Dupla Selfie 32MP",
+        "preco": 1079.1,
+        "timestamp": 1789776593.7483034,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB62575495",
+        "link_bruto": "https://www.mercadolivre.com.br/refrigerante-baixa-caloria-h2oh-limao-limoneto-12un-350ml/p/MLB62575495?matt_event_ts=1789776065466&matt_d2id=5581bc88-c339-42f6-8488-49bdf5af20ba&matt_tracing_id=3b2f5c6a-6624-4b79-9f3c-967692616d24#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7f54fd94-a493-447c-98d6-bbb289188d57&tracking_id=9217fc5e-3705-40ac-84f6-5e309ee43453&c_id=/home/card-featured/element&c_uid=31f9ec88-0e34-431b-a571-27e6b52a5612",
+        "titulo": "Refrigerante Baixa Caloria H2oh Limão Limoneto 12un 350ml",
+        "preco": 52.99,
+        "timestamp": 1789776616.352632,
+        "expirado": false
     }
 ]
