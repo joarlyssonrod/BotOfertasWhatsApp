@@ -42054,5 +42054,37 @@
         "preco": 529.74,
         "timestamp": 1789934890.1644013,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3493866002",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-masculino-midnight-blue-alta-fixacao-fero-blue-100ml/up/MLBU3493866002",
+        "titulo": "Perfume Masculino Midnight Blue Alta Fixação Fero Blue 100ml",
+        "preco": 65.82,
+        "timestamp": 1789942116.7062693,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB27401938",
+        "link_bruto": "https://www.mercadolivre.com.br/o-boticario-linda-desodorante-colonia-100ml/p/MLB27401938",
+        "titulo": "O Boticário Linda Desodorante Colônia 100ml",
+        "preco": 105.52,
+        "timestamp": 1789942142.8933508,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07D5LTDT4",
+        "link_bruto": "https://www.amazon.com.br/Papel-Higi%C3%AAnico-Personal-Branco-pacote/dp/B07D5LTDT4?tag=promobit-d-20",
+        "titulo": "Personal Papel Higiênico Vip Folha Dupla, 16 Unidades Branco (embalagem Pode Variar)",
+        "preco": 15.11,
+        "timestamp": 1789942164.3805249,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3301384724",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3301384724-spray-vedatudo-400ml-impermeabilizante-emborrachado-dryko-_JM?searchVariation=177132540677&matt_event_ts=1789941838425&matt_d2id=522df74a-1961-4da1-a456-8e3fb8d192e9&matt_tracing_id=4491c8c1-4a89-4f90-ab45-edddb84532d0#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=17bfa321-e31c-459d-801d-00d6b515ede8&tracking_id=83624090-be52-46ae-b493-5249a57c2629&c_id=/home/card-featured/element&c_uid=a43ffc96-4636-4fb5-b54b-0154c90fc0e0",
+        "titulo": "Spray Vedatudo 400ml Impermeabilizante Emborrachado Dryko",
+        "preco": 14.0,
+        "timestamp": 1789942183.2607822,
+        "expirado": false
     }
 ]
