@@ -41654,5 +41654,29 @@
         "preco": 349.99,
         "timestamp": 1789856017.7393484,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB69618888",
+        "link_bruto": "https://www.mercadolivre.com.br/lixeira-quadrada-preta-16l-inteligente-automatica-com-sensor-para-banheiro-e-cozinha/p/MLB69618888",
+        "titulo": "Lixeira Quadrada Preta 16L Inteligente Automática com Sensor para Banheiro e Cozinha",
+        "preco": 58.66,
+        "timestamp": 1789863024.2004178,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU787799424",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-6-pares-de-meias-cano-curto-unissex-sport-lupo/up/MLBU787799424",
+        "titulo": "Kit 6 Pares De Meias Cano Curto Unissex Sport Lupo Branco / Cinza / Preto Liso 37-40",
+        "preco": 42.49,
+        "timestamp": 1789863038.1002147,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5041357513",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5041357513-kit-2-camisetas-over-masculina-polo-wear-preto-mescla-_JM?searchVariation=206282876165&matt_event_ts=1789862705003&matt_d2id=97321d79-9b71-4b7f-8a11-018bf7e728ba&matt_tracing_id=ed39f198-1466-4972-b0a6-59f032d0b0d1#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=b1e5c63f-b27f-45a2-8192-5affce4e6d3f&tracking_id=ebea5211-3f88-4056-bc34-1df705db2f6c&c_id=/home/card-featured/element&c_uid=96214fff-4e4b-4a8f-87c1-f902773209f0",
+        "titulo": "Kit 2 Camisetas Over Polo Wear",
+        "preco": 84.99,
+        "timestamp": 1789863064.3949819,
+        "expirado": false
     }
 ]
