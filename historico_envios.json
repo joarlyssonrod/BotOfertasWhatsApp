@@ -42038,5 +42038,21 @@
         "preco": 1734.3,
         "timestamp": 1789928466.3781326,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB69622520",
+        "link_bruto": "https://www.mercadolivre.com.br/xiaomi-redmi-note-15-256gb-8gb-ram-dual-sim/p/MLB69622520?matt_event_ts=1789934437741&matt_d2id=952f8f8e-7835-46a1-b367-b236e03b264f&matt_tracing_id=72211141-1589-4762-a18b-4ba60ef079d1#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=2ce1b5d4-5cc2-4743-a613-a1663ffeed05&tracking_id=ca6af000-d7bd-4127-9d4a-fd59a80460a2&c_id=/home/card-featured/element&c_uid=32489057-5327-4632-9993-9b379c25c6a4",
+        "titulo": "Xiaomi Redmi Note 15 256gb 8gb Ram Dual Sim",
+        "preco": 1141.0,
+        "timestamp": 1789934872.4399266,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5379313248",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5379313248-sofa-2-lugares-leona-em-linho-bom-pastor-_JM?searchVariation=187848661959&matt_event_ts=1789934583804&matt_d2id=285c8a29-d0c5-4cc6-85c5-78d506b1b214&matt_tracing_id=79b33527-d6e8-4b60-8036-11f81237fa8b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=423fd6c4-7c76-40d3-b514-b4b8693bd2d5&tracking_id=0dae00d7-96e8-4204-bfb5-194340929ace&c_id=/home/card-featured/element&c_uid=1f738b75-b73a-477f-9215-8a389d8badde",
+        "titulo": "Sofá 2 Lugares Leona Em Linho Bom Pastor",
+        "preco": 529.74,
+        "timestamp": 1789934890.1644013,
+        "expirado": false
     }
 ]
