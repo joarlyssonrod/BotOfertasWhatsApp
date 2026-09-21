@@ -42470,5 +42470,21 @@
         "preco": 4649.91,
         "timestamp": 1790007573.9374216,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB25904875",
+        "link_bruto": "https://www.mercadolivre.com.br/creme-multirreparador-pele-sensivel-cicaplast-baume-b5-la-roche-posay-20ml/p/MLB25904875?matt_event_ts=1790013674947&matt_d2id=93bee8ae-a9c6-4027-ab59-96c41c4b5ed0&matt_tracing_id=4d233d98-b567-4869-8c46-794f836b9272#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d41b3007-b46b-4f13-9aa0-66899a653de4&tracking_id=c46a9d46-ac79-4365-8f60-6cbf179e6c1d&c_id=/home/card-featured/element&c_uid=6d2329bd-ccf6-4c21-b4f8-14cb8894d542",
+        "titulo": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-posay 20ml",
+        "preco": 36.62,
+        "timestamp": 1790014150.244207,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FNYPP9BW",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FNYPP9BW?tag=promobit-d-20",
+        "titulo": "Hisense Smart TV FHD 40\" Polegadas 40A4NV",
+        "preco": 1151.99,
+        "timestamp": 1790014171.4881048,
+        "expirado": false
     }
 ]
