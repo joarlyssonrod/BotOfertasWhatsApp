@@ -43054,5 +43054,61 @@
         "preco": 2634.15,
         "timestamp": 1790093988.59904,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB25354874",
+        "link_bruto": "https://www.mercadolivre.com.br/whey-protein-concentrado-100-900g-refil-dark-lab-sabor-baunilha/p/MLB25354874",
+        "titulo": "Whey Protein Concentrado 100% 900g Refil Dark Lab Sabor Baunilha",
+        "preco": 139.9,
+        "timestamp": 1790100599.41298,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU5147267812",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-parafusadeira-mini-motosserra-2-baterias-maleta-nakasaki/up/MLBU5147267812",
+        "titulo": "Kit Parafusadeira Mini Motosserra 2 Baterias Maleta Nakasaki",
+        "preco": 132.99,
+        "timestamp": 1790100614.803336,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54016038",
+        "link_bruto": "https://www.mercadolivre.com.br/lg-soundbar-sh5a-600w-41-canais-com-ai-sound-pro-e-wow-interface-som-imersivo-voz-clara-e-sincronizacao-total-com-sua-tv/p/MLB54016038?matt_event_ts=1790100062527&matt_d2id=1d05e730-068c-4136-a612-5daf99a0eddd&matt_tracing_id=0920479e-9d3d-497d-8ac2-391a7c6d6ecd#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=acc7a816-addc-4218-a739-386d60b353c1&tracking_id=8c29a667-753c-4d27-89fd-a206a938672e&c_id=/home/card-featured/element&c_uid=56f2ee31-21ac-46dc-9035-417dd9c9bb7b",
+        "titulo": "LG Soundbar SH5A 600W (4.1 canais) com AI Sound Pro e WOW Interface Som Imersivo Voz Clara e Sincronização Total",
+        "preco": 899.1,
+        "timestamp": 1790100627.5139444,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB78851940",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-aoc-50-roku-4k-uhd-dled-wi-fi-dolby-audio-50u7066/p/MLB78851940",
+        "titulo": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
+        "preco": 1839.0,
+        "timestamp": 1790100643.8037906,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB22834019",
+        "link_bruto": "https://www.mercadolivre.com.br/filtro-de-linha-com-dps-iclamper-energia-8-tomadas-regua-com-tecnologia-lcf/p/MLB22834019?matt_event_ts=1790100089377&matt_d2id=65f7b68e-2c75-48f2-a6fd-3c8d7950b2d0&matt_tracing_id=9023c01c-00af-490f-a13e-8255558b57ec#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=2ecb4116-6ee2-4f0d-ab72-684a40e6c79d&tracking_id=0ca09cc7-b71b-46ae-9e9c-ed84e9a3ec5c&c_id=/home/card-featured/element&c_uid=93f752ea-ce5e-46ed-94d9-7b119f920a14",
+        "titulo": "Filtro de Linha com Protetor de Surto DPS iCLAMPER Energia 8 Tomadas 1.3m",
+        "preco": 83.5,
+        "timestamp": 1790100669.5298517,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/bicicleta-ergometrica-schwinn-800ic-lcd-hr-colorido-wellness-gy006i/divulgador/oferta/fb3g1f9e3k/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/bicicleta-ergometrica-schwinn-800ic-lcd-hr-colorido-wellness-gy006i/divulgador/oferta/fb3g1f9e3k/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Bicicleta Ergométrica Schwinn 800ic Lcd Hr Colorido Wellness - GY006I",
+        "preco": 8549.99,
+        "timestamp": 1790100693.550879,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB77717359",
+        "link_bruto": "https://www.mercadolivre.com.br/vitamina-d-1000ui-60-caps-growth-supplements-sem-sabor-sem-sabor/p/MLB77717359?matt_event_ts=1790100301664&matt_d2id=d1166228-1b4e-4beb-a205-673ddb35cb22&matt_tracing_id=bfce2802-3c00-44ea-b3ea-2b20f1a8460e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=24d0f652-59ec-4e1f-a4b7-075ff1b8399f&tracking_id=633d32ed-dbe2-49cc-a27e-781bc0124ad8&c_id=/home/card-featured/element&c_uid=e5c2a1ba-83b2-4e59-94e9-d892997eb96d",
+        "titulo": "Vitamina D 1000ui 60 Caps Growth Supplements - Sem Sabor Sem Sabor",
+        "preco": 29.0,
+        "timestamp": 1790100714.496708,
+        "expirado": false
     }
 ]
