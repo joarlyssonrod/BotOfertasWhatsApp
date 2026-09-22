@@ -42862,5 +42862,85 @@
         "preco": 2896.55,
         "timestamp": 1790079623.6157167,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB5265379346",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5265379346-mala-wilson-viagem-rodinhas-19-rodas-removiveis-10kg-anac-_JM?searchVariation=186786523611&matt_event_ts=1790085891541&matt_d2id=7a87ff64-b3ab-4a7d-b9d3-f7c104042bac&matt_tracing_id=d5ad5bd3-7fb8-4595-acda-30d68674b664#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=21e102ed-a6d1-4220-8e2f-e6996bfe37f4&tracking_id=7bb6fb8e-4c01-4310-883d-8e40eb60476e&c_id=/home/card-featured/element&c_uid=250b7a5c-f7b8-44c9-a82a-6e6c8b809340",
+        "titulo": "Mala Wilson Viagem Rodinhas 19' Rodas Removíveis 10kg Anac",
+        "preco": 185.86,
+        "timestamp": 1790086337.6330228,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4119206697",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4119206697-camisa-camiseta-polo-masculina-texturizada-sem-boto-_JM",
+        "titulo": "Camisa Camiseta Polo Masculina Texturizada Sem Botão",
+        "preco": 46.08,
+        "timestamp": 1790086353.359825,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/celular-samsung-galaxy-s25-ultra-5g-256gb-galaxy-ai-titanio-preto-69-12gb-ram-cam-quadrupla-200-50-10-50mp-bateria-5000mah-dual-chip/divulgador/oferta/238922200/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/celular-samsung-galaxy-s25-ultra-5g-256gb-galaxy-ai-titanio-preto-69-12gb-ram-cam-quadrupla-200-50-10-50mp-bateria-5000mah-dual-chip/divulgador/oferta/238922200/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Galaxy S25 Ultra Snapdragon 8 Elite 256 GB 12 GB RAM",
+        "preco": 5099.0,
+        "timestamp": 1790086370.0472348,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3949149687",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3949149687-tnis-nike-air-max-nuaxis-masculino-_JM?searchVariation=182732096888&matt_event_ts=1790086017021&matt_d2id=1b2d7cc4-07de-474c-ac34-2b3c4734414a&matt_tracing_id=1c07f3f0-309f-4e3e-a601-4dd540ed8177#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4bad955d-3eb9-4d1f-bf22-e7192c5c1057&tracking_id=5ff364d0-c662-42b7-8c72-1d163205279a&c_id=/home/card-featured/element&c_uid=5900e693-6616-4cac-ab1a-8b18eca8b77e",
+        "titulo": "Tênis Nike Air Max Nuaxis (37 ao 44)",
+        "preco": 295.0,
+        "timestamp": 1790086404.4549892,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/lapromotion/divulgador/oferta/ea7f0f10ga/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/lapromotion/divulgador/oferta/ea7f0f10ga/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Nutella 650g Ferrero",
+        "preco": 28.0,
+        "timestamp": 1790086415.9550884,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B00H301K6I",
+        "link_bruto": "https://www.amazon.com.br/dp/B00H301K6I?m=A1ZZFT5FULY4LN&tag=promobit-d-20",
+        "titulo": "3 Corações Café Torrado E Moído Estrada Real Premium À Vácuo 250G",
+        "preco": 17.19,
+        "timestamp": 1790086440.6089,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/lava-e-seca-samsung-wd11m-com-digital-inverter-wd11m4473pw-branca-11-7kg/divulgador/oferta/aee3c4fhj8/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/lava-e-seca-samsung-wd11m-com-digital-inverter-wd11m4473pw-branca-11-7kg/divulgador/oferta/aee3c4fhj8/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Lava e Seca Samsung WD11M com Digital Inverter WD11M4473PW Branca 117kg",
+        "preco": 3079.12,
+        "timestamp": 1790086461.079087,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HDYTPQQF",
+        "link_bruto": "https://www.amazon.com.br/Celular-Samsung-Galaxy-256GB-50MP/dp/B0HDYTPQQF?sbo=7oa42w0ILTiF6GME4JGy%2BQ%3D%3D&tag=promobit-d-20",
+        "titulo": "Celular Samsung Galaxy A17 256GB 8GB 50MP Tela 6.7\" IP54 + Samsung Galaxy Buds Core Fone de Ouvido sem fio",
+        "preco": 1398.0,
+        "timestamp": 1790086473.8591945,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B084S6BCJN",
+        "link_bruto": "https://www.amazon.com.br/PHILIPS-Microfone-TAUE101BK-00-intra-auricular/dp/B084S6BCJN?pd_rd_w=y3VVu&content-id=amzn1.sym.77074a67-d53a-498a-84ec-7c983f8884fc&pd_rd_wg=TWNMX&pd_rd_r=92c148a0-46eb-4096-9437-4efd8947b351&pd_rd_i=B084S6BCJN&tag=promobit-d-20",
+        "titulo": "PHILIPS Fone de Ouvido com Microfone TAUE101BK00 Com fio de 1,2 metros intra-auricular Preto",
+        "preco": 26.6,
+        "timestamp": 1790086500.296674,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB73939343",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-tcl-75-polegadas-qled-4k-t6c-wifi-bluetooth-google-tv-tela-hva-e-hdr10-75t6c/p/MLB73939343?matt_event_ts=1790085987336&matt_d2id=8d3e748c-c1c6-4338-b776-1658718b31ff&matt_tracing_id=c51eda02-ab23-4bb1-a2cf-d10776d6bed3#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1c90de40-a6e0-4d91-8ba3-a340912711bb&tracking_id=137023ad-0c39-470b-b162-0a01845a42d2&c_id=/home/card-featured/element&c_uid=634fcaa3-c5f7-4a9b-b680-fd993b5920e9",
+        "titulo": "Smart Tv Tcl 75 Polegadas Qled 4k T6c Wifi Bluetooth Google Tv Tela Hva E Hdr10+ 75t6c",
+        "preco": 3960.86,
+        "timestamp": 1790086514.1093762,
+        "expirado": false
     }
 ]
