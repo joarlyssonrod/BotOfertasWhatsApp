@@ -43798,5 +43798,61 @@
         "preco": 6788.07,
         "timestamp": 1790194263.2176218,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CJT6JBM8",
+        "link_bruto": "https://www.amazon.com.br/Anker-Interruptor-bidirecional-acabamento-compat%C3%ADvel/dp/B0CJT6JBM8?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promobit-d-20",
+        "titulo": "Anker Switch HDMI 4K@60Hz Splitter HDMI 2 em 1 Saída Comutador Monitor",
+        "preco": 75.04,
+        "timestamp": 1790201222.525719,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_KC2J56GD6B",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-racer-tr23-masculino/p/kc2j56gd6b/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Adidas Racer Tr23 Masculino",
+        "preco": 259.99,
+        "timestamp": 1790201244.8240447,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CPQWZ3C1",
+        "link_bruto": "https://www.amazon.com.br/Caf%C3%A9-Acau%C3%A3-Orfeu-Gr%C3%A3os-Arabica/dp/B0CPQWZ3C1?tag=promobit-d-20",
+        "titulo": "Café Acauã Orfeu em Grãos, 100% Arabica 250g",
+        "preco": 26.39,
+        "timestamp": 1790201271.7070212,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5347162508",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5347162508-tnis-puma-court-classic-clean-bdp-masculino-urbano-casual-_JM",
+        "titulo": "Tênis Puma Court Classic Clean Bdp Masculino Urbano Casual",
+        "preco": 216.55,
+        "timestamp": 1790201293.5531433,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66581729",
+        "link_bruto": "https://www.mercadolivre.com.br/air-fryer-forno-electrolux-7l-1700w-digital-grade-removivel-dupla-camada-antiaderente-8-receitas-programadas-aviso-sonoro-fritadeira-eletrica-sem-oleo-sistema-de-seguranca-automatico-eaf71-cinza/p/MLB66581729",
+        "titulo": "Air Fryer Forno Electrolux 7L 1700W Digital Grade removível dupla camada Antiaderente 8 Receitas Programadas Aviso Sonoro Fritadeira Elétrica sem Óleo sistema de segurança automático EAF71 Cinza",
+        "preco": 375.99,
+        "timestamp": 1790201315.25394,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JJ0G5A3GC7",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-eletrica-air-fryer-42l-1350w-mf1420-127v-preta-multi-go252/p/jj0g5a3gc7/ep/efso/?seller_id=obaboxtecnologia",
+        "titulo": "Fritadeira Elétrica Air Fryer 4,2L 1350W MF1420 127v Preta Multi - GO252",
+        "preco": 248.88,
+        "timestamp": 1790201329.1066422,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GQC12MYK",
+        "link_bruto": "https://www.amazon.com.br/Ar-Condicionado-Split-9-000-AirVolution-Midea/dp/B0GQC12MYK",
+        "titulo": "Ar-Condicionado Split 9.000 BTUs AI AirVolution Frio Midea | AI , inverter",
+        "preco": 1798.0,
+        "timestamp": 1790201350.6377766,
+        "expirado": false
     }
 ]
