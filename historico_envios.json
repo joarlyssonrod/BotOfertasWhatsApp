@@ -44278,5 +44278,45 @@
         "preco": 5398.0,
         "timestamp": 1790273465.2138944,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU4243778280",
+        "link_bruto": "https://www.mercadolivre.com.br/mini-geladeira-brinquedo-zuru-mini-brands-2/up/MLBU4243778280",
+        "titulo": "Mini Geladeira Brinquedo Zuru Mini Brands 2 Azul",
+        "preco": 107.9,
+        "timestamp": 1790280551.5078971,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tablet-samsung-galaxy-tab-s10-fe-wifi-128gb-8gb-tela-13-1-90hz-s-pen-e-capa-inclusas/divulgador/oferta/gbbd6c3dk9/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tablet-samsung-galaxy-tab-s10-fe-wifi-128gb-8gb-tela-13-1-90hz-s-pen-e-capa-inclusas/divulgador/oferta/gbbd6c3dk9/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tablet Samsung Galaxy Tab S10 FE+ WiFi 128GB 8GB Tela 13.1\" 90Hz S Pen e Capa Inclusas",
+        "preco": 2859.12,
+        "timestamp": 1790280572.2148046,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66898359",
+        "link_bruto": "https://www.mercadolivre.com.br/ar-condicionado-high-wall-eco-inverter-iii-wifi-12000-btus-quente-e-frio-elgin/p/MLB66898359?matt_event_ts=1790280161266&matt_d2id=8b22d99f-3985-47e1-8cae-2ea954a5a412&matt_tracing_id=849c551e-fb45-4c37-9597-63834e409e57#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=9a13edfc-948f-4d67-9d0e-36d1f4447e78&tracking_id=5e08fc11-edf5-4763-944f-c36e91f15058&c_id=/home/card-featured/element&c_uid=a61b4512-1aa4-49c2-ad31-b01879fddf3f",
+        "titulo": "Ar Condicionado High Wall Eco Inverter Iii Wifi 12000 Btus Quente E Frio Elgin",
+        "preco": 1682.0,
+        "timestamp": 1790280584.2351358,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB61862927",
+        "link_bruto": "https://www.mercadolivre.com.br/jogo-de-panelas-inducao-antiaderente-ceramica-10-pecas-ppg-pfoa-free-grafite/p/MLB61862927",
+        "titulo": "Jogo De Panelas Induçao Antiaderente Cerâmica 10 Peças Ppg Pfoa Free Grafite",
+        "preco": 341.9,
+        "timestamp": 1790280608.9233258,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_GDK1K17KCB",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-mizuno-hawk-5-masculino/p/gdk1k17kcb/es/oedc/?seller_id=netshoes",
+        "titulo": "Tênis Mizuno Hawk 5 Masculino",
+        "preco": 237.49,
+        "timestamp": 1790280622.7151434,
+        "expirado": false
     }
 ]
