@@ -44174,5 +44174,45 @@
         "preco": 849.0,
         "timestamp": 1790259245.2328055,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3643809737",
+        "link_bruto": "https://www.mercadolivre.com.br/camiseta-feminina-ess-relaxed-tee-puma/up/MLBU3643809737?pdp_filters=item_id%3AMLB6201500476&matt_event_ts=1790265824132&matt_d2id=7205229f-cb51-4330-812a-289c46cc877d&matt_tracing_id=c57e3586-e83d-4c2b-a07b-a0706b9b30cc#polycard_client=recommendations_home_affiliate-profile&wid=MLB6201500476&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=cd2f8532-3067-46f9-94f1-0808aa7e8d20&tracking_id=c911f366-2a07-4d73-86d0-b8e902ca30b1&c_id=/home/card-featured/element&c_uid=4dc83fb5-ea83-4096-98d9-fe2efda3c9f2",
+        "titulo": "Camiseta Puma Feminina Ess Relaxed",
+        "preco": 60.0,
+        "timestamp": 1790266128.0259476,
+        "expirado": false
+    },
+    {
+        "id": "https://shopee.com.br/opaanlp/1509845472/57214396358",
+        "link_bruto": "https://shopee.com.br/opaanlp/1509845472/57214396358?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmQAAAAxe9FRpzjbx0PxHNPEh-E-ruHoSpaHdNj-Sqoam5aMbm1pbb8iXorpG0VVXU1TfEV0NMS_kjHQ0xBJChejx0UhJJtdvGeSu7-yGcem4lLG6aCqNc4XjRa5ZzeE4ojhF6XDfvh9wufdJy36dX_wQvZrxHnSgUr3D0DSEoubMATAf7BWJXjUPXYflzs6sJJCX6eDXzzOKZg&lp=aff&mmp_pid=an_18140170000&uls_trackid=56nd1as600l1&utm_campaign=id_21cff933d03ded4d&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fkozq5jscy6x",
+        "titulo": "Smart TV 43 LG LED 4K UHD - Com ThinQ AI, Google Assistente e Amazon Alexa",
+        "preco": 1204.0,
+        "timestamp": 1790266144.5049462,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BG99WK2Q",
+        "link_bruto": "https://www.amazon.com.br/Chiclete-Trident-Max-Menta-Blueberry/dp/B0BG99WK2Q?tag=promobit-d-20",
+        "titulo": "Chiclete Trident Max Menta Blueberry Sem Açúcar - Caixa Com 14 Unid. De 16,5g",
+        "preco": 33.29,
+        "timestamp": 1790266168.2966204,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07HWWTY3K",
+        "link_bruto": "https://www.amazon.com.br/dp/B07HWWTY3K?tag=promobit-d-20",
+        "titulo": "Café em Grãos Intenso Orfeu 1kg",
+        "preco": 97.0,
+        "timestamp": 1790266185.1169705,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4964975723",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4964975723-google-gemini-ai-pro-18-meses-via-link-de-ativaco-_JM",
+        "titulo": "Google Gemini Ai Pro 18 Meses | Via Link De Ativação",
+        "preco": 18.58,
+        "timestamp": 1790266199.8511677,
+        "expirado": false
     }
 ]
