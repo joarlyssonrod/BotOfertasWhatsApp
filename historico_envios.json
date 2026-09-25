@@ -44358,5 +44358,29 @@
         "preco": 6161.21,
         "timestamp": 1790287754.0169015,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_23093861925",
+        "link_bruto": "https://s.shopee.com.br/60RrSuTh2W",
+        "titulo": "Filtro Coador Inox Reutilizável 103 Premium Dispensa Papel Café Mais Forte e Sustentável",
+        "preco": 27.9,
+        "timestamp": 1790295022.6355615,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CDQGSYRK",
+        "link_bruto": "https://www.amazon.com.br/dp/B0CDQGSYRK?social_share=cm_sw_r_cso_cp_apan_dp_1APEPR67T3T7TBXP3AYH&tag=promobit-d-20",
+        "titulo": "EUDORA SIÀGE SHAMPOO LIMPEZA PURIFICANTE MEN 250ML",
+        "preco": 25.15,
+        "timestamp": 1790295041.9048748,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GR1JYM2F",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GR1JYM2F?social_share=cm_sw_r_cso_cp_apan_dp_WEP7WNMSMM19WD5BFHX0&tag=promobit-d-20",
+        "titulo": "Apple 2026 MacBook Pro (de 14 polegadas Chip M5 Pro da Apple com CPU de 15 núcleos e GPU de 16 núcleos 24GB Memória",
+        "preco": 18533.99,
+        "timestamp": 1790295063.7027164,
+        "expirado": false
     }
 ]
