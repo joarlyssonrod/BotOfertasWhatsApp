@@ -45382,5 +45382,125 @@
         "preco": 200.9,
         "timestamp": 1790453726.6114624,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H78BB9TY",
+        "link_bruto": "https://www.amazon.com.br/dp/B0H78BB9TY?tag=promobit-d-20",
+        "titulo": "Pokémon TCG: 30th Elite Trainer Box Inglês",
+        "preco": 394.0,
+        "timestamp": 1790461018.2953186,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/celular-samsung-s25-512gb-prata-watch9-bt-40-mm-grafite/divulgador/oferta/keje77ee2j/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/celular-samsung-s25-512gb-prata-watch9-bt-40-mm-grafite/divulgador/oferta/keje77ee2j/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Celular Samsung S25+ 512GB + Watch9 40mm",
+        "preco": 4769.0,
+        "timestamp": 1790461045.422218,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4742411565",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4742411565-armario-organizador-5-andares-dobravel-com-rodinhas-multiuso-_JM?searchVariation=203404498667&matt_event_ts=1790460679179&matt_d2id=697d26bc-a62f-4009-9588-8264246b6584&matt_tracing_id=dfe7ba9c-5951-4837-a767-cd36d6b02734#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=922d5817-6f07-48b0-80c7-11f80a8def3c&tracking_id=763655dc-7478-45c6-b374-92626e909236&c_id=/home/card-featured/element&c_uid=83eba0d4-cd7c-4a69-8bfd-5c38436ab57f",
+        "titulo": "Armário Organizador 5 Andares Dobrável Com Rodinhas Multiuso",
+        "preco": 173.04,
+        "timestamp": 1790461060.437081,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB36859846",
+        "link_bruto": "https://www.mercadolivre.com.br/jogo-de-panelas-casambiente-8-pecas-revestimento-ceramico-antiaderente/p/MLB36859846",
+        "titulo": "Jogo de Panelas Casambiente 8 Peças Revestimento Cerâmico Antiaderente",
+        "preco": 317.05,
+        "timestamp": 1790461073.3950126,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB28572551",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-stick-full-hd-intelbras-preto-padrao/p/MLB28572551?matt_event_ts=1790460087673&matt_d2id=20fb595e-e164-4ad5-85f6-7c0a6cbe5d5a&matt_tracing_id=5afb6868-9977-4880-9116-dc0c08045a1f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1de1a52c-f1b9-4160-98ea-3552e9a8ebf5&tracking_id=e0216c9d-fc84-42cf-999e-a01d24f37553&c_id=/home/card-featured/element&c_uid=e7ec76e7-6789-4352-844d-62f9fba7c0d2",
+        "titulo": "Smart Tv Stick Full Hd Intelbras Preto",
+        "preco": 176.12,
+        "timestamp": 1790461093.3213632,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CLHGKHV8",
+        "link_bruto": "https://www.amazon.com.br/Sabonete-L%C3%ADquido-beb%C3%AAs-Protex-Lavanda/dp/B0CLHGKHV8?tag=promobit-d-20",
+        "titulo": "Protex Baby Lavanda Sabonete Líquido Infantil 400ml",
+        "preco": 18.0,
+        "timestamp": 1790461117.332896,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_FH445BGKE0",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-response-runner-2/p/fh445bgke0/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Adidas Response Runner 2",
+        "preco": 208.99,
+        "timestamp": 1790461141.4101791,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB23346569",
+        "link_bruto": "https://www.mercadolivre.com.br/ventilador-de-torre-wap-air-silence-com-ajuste-de-4-velocidades/p/MLB23346569",
+        "titulo": "Ventilador de Torre WAP Air Silence com Ajuste de 4 Velocidades",
+        "preco": 341.99,
+        "timestamp": 1790461153.9129968,
+        "expirado": false
+    },
+    {
+        "id": "https://shopee.com.br/opaanlp/1192511758/23597892259",
+        "link_bruto": "https://shopee.com.br/opaanlp/1192511758/23597892259?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmQAAAAwp2-9z-kNQAJ0GWrqa8so99ioM4wWhgx0sjwcM1XV7PJF45WEabbGvCSop4WIe33N98iyCU13kWPm5EhxcwtqW4jLdPf5lzY_XCjkUIi6sHhVBh0Q-rQAvZyWhH053-zVdFlzMnMrSASLK1DxzPbkREMZz1-gc4ZIjizHKqce5STNOUmZvGBOw6uObEuRWHB1aX2Msgg&mmp_pid=an_18140170000&uls_trackid=56nvjb2401l1&utm_campaign=id_4072dea838542e41&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fm3fvmo6wj2o",
+        "titulo": "Chocolate Trento Massimo Nuts Com 15 Unidades De 25g",
+        "preco": 26.99,
+        "timestamp": 1790461180.8271823,
+        "expirado": false
+    },
+    {
+        "id": "https://shopee.com.br/opaanlp/395166866/58209766348",
+        "link_bruto": "https://shopee.com.br/opaanlp/395166866/58209766348?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTElwAAAAwJkp0ca_v_JNgEkBcBOPO3ISuug2bQWrKiocT6m61C9A-2Es7pLAUniYPAk8CuNXwYJoRmu0I0XqZOWT62UTFjkQ6niB_hrnlBtqW6-s9IEig1jWtoUX-VFChkc1lxQTSL9-MTQj4cqPDo-fhKTqlgPibvZjvdCt74y-K9bzEVekPoYN9COMZidsFTkCthzjyRI8g&mmp_pid=an_18140170000&uls_trackid=56nvjiaj00kf&utm_campaign=id_753bbff2e5e141df&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fm3g2jmtyvv3",
+        "titulo": "Kit Skincare Kokeshi Cosméticos Completo 6 Itens Hidratação e Tratamento Facial",
+        "preco": 108.21,
+        "timestamp": 1790461194.522444,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_CC51CCD8JC",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-mizuno-hawk-5-masculino/p/cc51ccd8jc/es/oedc/?seller_id=netshoes",
+        "titulo": "Tênis Mizuno Hawk 5 Masculino",
+        "preco": 218.49,
+        "timestamp": 1790461218.20737,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_AG07GKHE1J",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-lite-racer-4-0/p/ag07gkhe1j/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Adidas Lite Racer 4 0",
+        "preco": 189.99,
+        "timestamp": 1790461240.0096116,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB6080711",
+        "link_bruto": "https://www.mercadolivre.com.br/ventilador-de-teto-ventisol-fenix-e-27-branco-130w-com-3-pas-de-plastico-960-mm-de-diametro/p/MLB6080711?matt_event_ts=1790460456167&matt_d2id=8ecf1c66-af76-43ad-b4f5-c3890a97e116&matt_tracing_id=b71e1603-33f5-4600-bcd8-a2e6595abae7#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1793ffeb-c844-4d8e-b1c4-b4d8a3612dd5&tracking_id=138c5633-dd14-4316-a159-b63501c661f3&c_id=/home/card-featured/element&c_uid=5258aa44-16be-44d2-8e77-66e9edecd490",
+        "titulo": "Ventilador de Teto Ventisol Fênix E-27 Branco 130w com 3 Pás",
+        "preco": 155.62,
+        "timestamp": 1790461260.8095891,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_DG95F5H7AA",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-infantil-adidas-runfalcon/p/dg95f5h7aa/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Infantil Adidas Runfalcon",
+        "preco": 259.99,
+        "timestamp": 1790461279.3050392,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB70173320",
+        "link_bruto": "https://www.mercadolivre.com.br/natura-deo-parfum-homem-identidad-masculino-100ml/p/MLB70173320?matt_event_ts=1790460386788&matt_d2id=01ed0a03-cb82-4d85-a28a-a597f0ba10ba&matt_tracing_id=2e2109ae-cd9d-4016-994e-916483ce631e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=48a10844-b3e9-479f-aac4-1001335be391&tracking_id=89723406-2f4f-4714-89e2-bd889cf99048&c_id=/home/card-featured/element&c_uid=1623d1c5-5f23-4492-9c69-d7896a9ff970",
+        "titulo": "Natura Deo Parfum Homem Identidade Masculino - 100ml",
+        "preco": 171.0,
+        "timestamp": 1790461303.2323995,
+        "expirado": false
     }
 ]
