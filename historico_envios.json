@@ -45158,5 +45158,53 @@
         "preco": 1999.71,
         "timestamp": 1790424817.1325006,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB36436855",
+        "link_bruto": "https://www.mercadolivre.com.br/tapete-de-atividades-para-bebe-piano-play-funny-dino-maxi-baby/p/MLB36436855",
+        "titulo": "Tapete de Atividades Para Bebê Piano Play Funny Dino Maxi Baby",
+        "preco": 51.82,
+        "timestamp": 1790431768.2949367,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_53314415260",
+        "link_bruto": "https://s.shopee.com.br/4qFwbHTlrK",
+        "titulo": "Kit 4 Blusas Feminina Ribana Canelado Básica Casual Estilosa Tendência Verão",
+        "preco": 65.24,
+        "timestamp": 1790431782.5440536,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23098939170",
+        "link_bruto": "https://s.shopee.com.br/3LR8oWZTtv",
+        "titulo": "Vestido Indiano longo ESTAMPADO LONGO FRENTE Única e costa Nua, ELEGANTE",
+        "preco": 74.8,
+        "timestamp": 1790431801.9077156,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22093291772",
+        "link_bruto": "https://s.shopee.com.br/W6xRJkGeW",
+        "titulo": "Kit Shampoo V-Floc Cera Tok Final Pneu Pretinho Restaurax Vonixx",
+        "preco": 132.53,
+        "timestamp": 1790431815.6410959,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_20099664392",
+        "link_bruto": "https://s.shopee.com.br/1AgqOmAfT",
+        "titulo": "Alforge Moto 60L Universal Impermeável",
+        "preco": 159.0,
+        "timestamp": 1790431838.217656,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB68315935",
+        "link_bruto": "https://www.mercadolivre.com.br/elixir-de-perfume-one-million-night-elixir-100ml/p/MLB68315935?matt_event_ts=1790431358654&matt_d2id=50c42589-15d8-4db0-b000-ce28535ad079&matt_tracing_id=cb40d131-6ef5-4de3-b3a3-6bf3984d1040#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1eb9d1a0-1df6-4c20-bdbd-8d0d4bcbfdd2&tracking_id=e9d01d43-2693-4239-bb53-0c08836b041b&c_id=/home/card-featured/element&c_uid=dff1356c-f06e-4f17-9913-378c49bffc93",
+        "titulo": "Elixir de perfume One Million Night Elixir 100ml.",
+        "preco": 762.0,
+        "timestamp": 1790431865.1246324,
+        "expirado": false
     }
 ]
