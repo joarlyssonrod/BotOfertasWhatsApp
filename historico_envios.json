@@ -45206,5 +45206,45 @@
         "preco": 762.0,
         "timestamp": 1790431865.1246324,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB3751983147",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3751983147-palmilha-de-altissimo-conforto-4d-tnis-sapatos-ortopedica-_JM",
+        "titulo": "Palmilha De Altissimo Conforto 4d Tênis Sapatos Ortopédica",
+        "preco": 23.76,
+        "timestamp": 1790438927.0299687,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08VF7VB1C",
+        "link_bruto": "https://www.amazon.com.br/Lim%C3%A3o-Taiti-N%C3%A9roli-Granado-Cologne/dp/B08VF7VB1C?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promobit-d-20",
+        "titulo": "Perfume Granado Colônia Vintage Limão & Neroli 100ml",
+        "preco": 98.89,
+        "timestamp": 1790438939.8987823,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU1467508532",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-4un-saco-organizador-edredon-cobertor-multiuso-dobravel/up/MLBU1467508532",
+        "titulo": "Kit 4un Saco Organizador Edredon Cobertor Multiuso Dobrável Cinza",
+        "preco": 56.98,
+        "timestamp": 1790438951.4216704,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3841390159",
+        "link_bruto": "https://www.mercadolivre.com.br/furadeira-parafusadeira-impacto-21v-2-baterias-brushless/up/MLBU3841390159",
+        "titulo": "Furadeira Parafusadeira Impacto 21v 2 Baterias Brushless Verde 127/220v",
+        "preco": 198.68,
+        "timestamp": 1790438972.1093833,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09V98YCW1",
+        "link_bruto": "https://www.amazon.com.br/Granola-Tradicional-Tia-S%C3%B4nia-Castanha/dp/B09V98YCW1?pd_rd_w=3YCMq&content-id=amzn1.sym.1b340cc0-52e2-4b06-bbf0-d1544eaa0576&pd_rd_wg=tTS3J&pd_rd_r=9628bed4-51ee-4fcb-a4f4-c317c3bebc5b&pd_rd_i=B09V98YCW1&tag=promobit-d-20",
+        "titulo": "Granola Tradicional Tia Sônia Castanha Coco Fruta 400g",
+        "preco": 20.86,
+        "timestamp": 1790438989.2416115,
+        "expirado": false
     }
 ]
