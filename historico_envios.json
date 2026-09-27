@@ -45598,5 +45598,61 @@
         "preco": 91.08,
         "timestamp": 1790468385.4341245,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB21194393",
+        "link_bruto": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-com-impacto-wap-bpfi-12k4-com-led-de-iluminacao-maleta/p/MLB21194393?matt_event_ts=1790510563038&matt_d2id=6271decd-5693-4d16-84d6-4ad8af719112&matt_tracing_id=afdddec2-e8e1-4c9c-abe9-289c525ce7a1#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6d15b430-5a3e-4486-9f08-763dfd3d6a26&tracking_id=a57a912a-4423-424d-92de-c2025acc2069&c_id=/home/card-featured/element&c_uid=16344541-f352-4598-9c15-addc66057c19",
+        "titulo": "Parafusadeira e Furadeira com Impacto WAP BPFI 12K4 com Led de Iluminação Maleta",
+        "preco": 111.2,
+        "timestamp": 1790511022.0094502,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23199005654",
+        "link_bruto": "https://s.shopee.com.br/AUuKoPFS4Y",
+        "titulo": "Console Playstation 5 Slim Edicao Digital 825gb Nacional CFI 2114 + NF",
+        "preco": 4979.0,
+        "timestamp": 1790511049.9297125,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08R91NTHY",
+        "link_bruto": "https://www.amazon.com.br/Fritadeira-Oven-PFR2200P-Philco-220v/dp/B08R91NTHY",
+        "titulo": "Philco Fritadeira Air Fryer 12L Pt PFR2200P 220V",
+        "preco": 399.0,
+        "timestamp": 1790511068.525416,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DFWVKVSL",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DFWVKVSL?tag=promobit-d-20",
+        "titulo": "Emana Bebida Proteica NOFOCO 15g Sabor Café - 12 Unidades de 250ml",
+        "preco": 56.06,
+        "timestamp": 1790511094.497493,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU1765696119",
+        "link_bruto": "https://www.mercadolivre.com.br/kaiak-urbe-natura-desodorante-colonia-perfume-masculino-original-100ml/up/MLBU1765696119?pdp_filters=item_id%3AMLB5057968630&matt_event_ts=1790510437318&matt_d2id=6de0ac02-93c9-4ef7-baca-3181da108c7d&matt_tracing_id=26f337d6-409f-4249-8e7e-ed2a03100f73#polycard_client=recommendations_home_affiliate-profile&wid=MLB5057968630&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=235b4c1a-42ce-4263-afb1-14fe1bf07366&tracking_id=f48cb41e-5601-45c7-a94c-ba0bad4e9fdc&c_id=/home/card-featured/element&c_uid=5620c274-fbcc-4bfe-935d-1f6e4504a573",
+        "titulo": "Perfume Natura Kaiak Urbe 100ml",
+        "preco": 84.0,
+        "timestamp": 1790511106.4259667,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4390215439",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4390215439-cabo-flexivel-4mm-rolo-100m-unipolar-750v-_JM",
+        "titulo": "Cabo Flexível 4mm Rolo 100m  Unipolar 750v",
+        "preco": 83.14,
+        "timestamp": 1790511125.4166892,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H1F1VKJT",
+        "link_bruto": "https://www.amazon.com.br/JBL-Caixa-Som-Bluetooth-Port%C3%A1til/dp/B0H1F1VKJT?pd_rd_w=R23cy&content-id=amzn1.sym.409e9988-8c0a-4d25-b672-e765604d026f&pd_rd_wg=zg66q&pd_rd_r=6a2878c3-a0bc-4ce4-a285-bd1a596bbcec&pd_rd_i=B0H1F1VKJT&tag=promobit-d-20",
+        "titulo": "JBL Go 5 Caixa de Som Bluetooth Portátil à Prova d'Água Preta",
+        "preco": 280.15,
+        "timestamp": 1790511147.4103322,
+        "expirado": false
     }
 ]
