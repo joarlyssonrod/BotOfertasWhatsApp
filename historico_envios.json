@@ -46054,5 +46054,53 @@
         "preco": 170.99,
         "timestamp": 1790546988.9275262,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B08GKXNVLW",
+        "link_bruto": "https://www.amazon.com.br/dp/B08GKXNVLW?tag=promobit-d-20",
+        "titulo": "Cerave, Loção Hidratante Corporal, Com Textura Fluida E Ácido Hialurônico",
+        "preco": 31.57,
+        "timestamp": 1790554217.621573,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB61622474",
+        "link_bruto": "https://www.mercadolivre.com.br/ventilado-de-coluna-turbo-6-pas-40cm-preto-ventisol-diametro-40-cm-frequencia-80-watts/p/MLB61622474",
+        "titulo": "Ventilado De Coluna Turbo 6 Pás 40cm Preto Ventisol Diâmetro 40 Cm Frequência 80 Watts",
+        "preco": 196.99,
+        "timestamp": 1790554237.4004354,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54151382",
+        "link_bruto": "https://www.mercadolivre.com.br/aparelho-de-jantar-20-pecas-luna-biona-donna-24/p/MLB54151382",
+        "titulo": "Aparelho De Jantar 20 Peças Luna Biona Donna 24",
+        "preco": 168.0,
+        "timestamp": 1790554257.9308422,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_ED4DEK3BD9",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-lite-racer-4-0/p/ed4dek3bd9/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Adidas Lite Racer 4 0",
+        "preco": 189.99,
+        "timestamp": 1790554285.0264003,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GR43T78K",
+        "link_bruto": "https://www.amazon.com.br/soundcore-Space-Ouvido-Bluetooth-Soneca/dp/B0GR43T78K/ref=sr_1_44?dib=eyJ2IjoiMSJ9.yiHgczExatvNis0zP5NzN563FkzrOx3YzLIHoGtZ4NoRzZ0z45I980MLquatpPLR1n7fNMiZICToRrr68Z08EcHQQDVxEKoU_UuUWL1CEYi9ElyWp_xRrsAdHrPxhFdNjTwnvHR1dBbg3Fmw96NBYq4nP6TAFVn3nb_cvtG0mfk.W9HhQ_4r5o5mx40qrjHAARaxc_cghfgflSdhfDvrATk&dib_tag=se&m=A3UQOMSAU7UEA2&marketplaceID=A2Q3Y263D00KWC&qid=1790510421&s=merchant-items&ufe=app_do%3Aamzn1.fos.95de73c3-5dda-43a7-bd1f-63af03b14751&xpid=g0rbV7DuCD8-D&tag=promobit-d-20",
+        "titulo": "soundcore Space 2 da Anker ANC Fone de Ouvido Bluetooth 6.1 Modo Soneca",
+        "preco": 811.3,
+        "timestamp": 1790554309.5078244,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HB79D7ZH",
+        "link_bruto": "https://www.amazon.com.br/dp/B0HB79D7ZH?social_share=cm_sw_r_apan_dp_WFGR1QRKJKTNWNT9F30R&tag=promobit-d-20",
+        "titulo": "Impressora 3D Bambu Lab A2LC - A2L + AMS Lite (Combo) - 127V",
+        "preco": 5588.0,
+        "timestamp": 1790554327.038134,
+        "expirado": false
     }
 ]
