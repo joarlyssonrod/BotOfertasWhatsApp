@@ -46318,5 +46318,45 @@
         "preco": 968.15,
         "timestamp": 1790611848.013427,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB57289720",
+        "link_bruto": "https://www.mercadolivre.com.br/gerador-de-espuma-a-bateria-2l-lotus-74v-3-bar-lavagem-automotiva-branco/p/MLB57289720",
+        "titulo": "Gerador De Espuma A Bateria 2l Lotus 7.4v 3 Bar Lavagem Automotiva Branco",
+        "preco": 92.14,
+        "timestamp": 1790618941.816471,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4054011533",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4054011533-tnis-kappa-sparta-unissex-original-confortavel-caminhada-_JM",
+        "titulo": "Tênis Kappa Sparta Unissex Original Confortável Caminhada",
+        "preco": 118.0,
+        "timestamp": 1790618969.235124,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU5115787152",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-ferramentas-5-em-1-brushless-48v-2-baterias-maleta/up/MLBU5115787152",
+        "titulo": "Kit Ferramentas 5 Em 1 Brushless 48v 2 Baterias Maleta",
+        "preco": 539.99,
+        "timestamp": 1790618990.623543,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB24264822",
+        "link_bruto": "https://www.mercadolivre.com.br/electrolux-jogo-de-panelas-em-inox-com-5-pecas-design-com-fundo-triplo/p/MLB24264822",
+        "titulo": "Electrolux Jogo de Panelas em Inox com 5 Peças Design com Fundo Triplo",
+        "preco": 446.4,
+        "timestamp": 1790619013.5449781,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H9MBJJ16",
+        "link_bruto": "https://www.amazon.com.br/dp/B0H9MBJJ16?social_share=cm_sw_r_apan_dp_CG7KMWHFBSRK73T3SYCP&tag=promobit-d-20",
+        "titulo": "Samsung Galaxy Watch9 Smartwatch 40mm BT Galaxy AI - Grafite",
+        "preco": 1971.08,
+        "timestamp": 1790619038.5466077,
+        "expirado": false
     }
 ]
