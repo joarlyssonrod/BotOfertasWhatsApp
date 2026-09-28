@@ -46206,5 +46206,45 @@
         "preco": 2041.0,
         "timestamp": 1790597933.1204221,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CKJNCZ8P",
+        "link_bruto": "https://www.amazon.com.br/dp/B0CKJNCZ8P?tag=promobit-d-20",
+        "titulo": "I2go, Carregador Portátil (power Bank), Pocket, 5000mah, Não Necessita Cabos, Modelo Lightning",
+        "preco": 65.0,
+        "timestamp": 1790604713.0291936,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4478679081",
+        "link_bruto": "https://www.mercadolivre.com.br/camisa-gola-polo-do-brasil-selecao-brasileira-premium-hexa/up/MLBU4478679081?pdp_filters=item_id%3AMLB4965174739&matt_event_ts=1790604044260&matt_d2id=93876524-baa5-4e77-8c55-9675a7a6a79d&matt_tracing_id=a8cacd63-3905-4b2a-b761-5ed3e08c8a92#polycard_client=recommendations_home_affiliate-profile&wid=MLB4965174739&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=24e2362f-2d7e-45dc-861c-9ceff44fee62&tracking_id=94cf33c3-7c36-4753-bdf8-19b2bac0db54&c_id=/home/card-featured/element&c_uid=b7d4d9ac-16fc-479f-8bc3-bae5a7e1c23e",
+        "titulo": "Camisa Gola Polo Do Brasil Selecao Brasileira Premium Hexa",
+        "preco": 29.04,
+        "timestamp": 1790604739.6145544,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FPM2VC6Q",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FPM2VC6Q?tag=promobit-d-20",
+        "titulo": "Mouse sem fio Logitech MX Master 4 com o Desempenho avançado e a Sensação tátil do Haptic feedback Design ergonômi",
+        "preco": 471.29,
+        "timestamp": 1790604756.141152,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB28562373",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-led-20-brazil-pc-20wr-1600x900-75hz-5ms-hdmivga-preto/p/MLB28562373",
+        "titulo": "Monitor LED 20 Brazil PC 20WR - 1600x900, 75Hz, 5ms - HDMI/VGA - Preto",
+        "preco": 205.2,
+        "timestamp": 1790604778.5125847,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_KAFB45D2K6",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/air-fryer-fritadeira-eletrica-65l-antique-af80m02as-1600w-gaabor-220v/p/kafb45d2k6/ep/efso/?seller_id=elefantevarejo",
+        "titulo": "Air Fryer Fritadeira Elétrica 6,5L Antique AF80M02AS 1600W GAABOR 220V",
+        "preco": 274.41,
+        "timestamp": 1790604795.625591,
+        "expirado": false
     }
 ]
