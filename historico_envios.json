@@ -46246,5 +46246,77 @@
         "preco": 274.41,
         "timestamp": 1790604795.625591,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_23293978804",
+        "link_bruto": "https://s.shopee.com.br/6fhe6ZQbIe",
+        "titulo": "Calça Pantalona De Linho Com Cinto Fake e Cintura Alta e Bolsos",
+        "preco": 39.99,
+        "timestamp": 1790611678.7186885,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4293660093",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4293660093-sandalia-feminina-modelo-chique-casual-confortavel-original-_JM",
+        "titulo": "Sandália Feminina Modelo Chique Casual Confortável Original",
+        "preco": 69.0,
+        "timestamp": 1790611704.4160707,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB2067885628",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-2067885628-top-puma-academia-fitness-original-nadador-alta-sustentaco-_JM",
+        "titulo": "Top Puma Academia Fitness Original Nadador Alta Sustentação",
+        "preco": 47.28,
+        "timestamp": 1790611721.0349138,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5082616612",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5082616612-camisa-social-masculina-ralph-oxford-social-original-_JM",
+        "titulo": "Camisa Social Masculina Ralph Oxford Social Original",
+        "preco": 148.66,
+        "timestamp": 1790611737.8450658,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB48929479",
+        "link_bruto": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-caixinha-grande-2-altos-falantes-10w-hz-50-boombox-com-radio-fm-e-entrada-usb-pendrive/p/MLB48929479?matt_event_ts=1790611266211&matt_d2id=c92ad25b-3f8c-4902-9d74-afeccd2415d1&matt_tracing_id=61fa217f-b950-4cf5-8d87-7953711539b3#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=bde090e2-dadb-43ce-9387-f7ffdf6ad68d&tracking_id=228296b0-770c-4c49-844a-0a8ea161c176&c_id=/home/card-featured/element&c_uid=94556348-85cd-47a4-be2b-e812f0189b2d",
+        "titulo": "Caixa de Som Bluetooth Caixinha Grande 2 Altos Falantes 10w-hz 5.0 Boombox Com Radio Fm E Entrada Usb Pendrive",
+        "preco": 114.0,
+        "timestamp": 1790611759.5198889,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5365327772",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5365327772-tnis-rbd-game-low-puma-_JM",
+        "titulo": "Tênis Rbd Game Low Puma",
+        "preco": 299.99,
+        "timestamp": 1790611782.4974318,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_239229500",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-apple-iphone-16-128gb-preto-5g-fone-de-ouvido-bluetooth-apple-airpods-pro-3/p/239229500/te/ip16/?seller_id=magazineluiza",
+        "titulo": "Smartphone Apple iPhone 16 128GB Preto - 5G + Fone de Ouvido Bluetooth Apple AirPods Pro 3",
+        "preco": 7505.99,
+        "timestamp": 1790611803.7990751,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_KAA0DGCBA8",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/usado-iphone-14-pro-256gb-preto-outlet-bateria-70-apple/p/kaa0dgcba8/te/i14p/?seller_id=ecophone",
+        "titulo": "Usado: iPhone 14 Pro 256GB Preto - Outlet Bateria 70% - Apple",
+        "preco": 2991.15,
+        "timestamp": 1790611822.116719,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JH082BGBC5",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/usado-samsung-galaxy-a34-256gb-preto-bom/p/jh082bgbc5/te/ga34/?seller_id=ecophone",
+        "titulo": "Usado: Samsung Galaxy A34 256GB Preto - Bom",
+        "preco": 968.15,
+        "timestamp": 1790611848.013427,
+        "expirado": false
     }
 ]
