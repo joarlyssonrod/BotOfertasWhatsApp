@@ -46358,5 +46358,61 @@
         "preco": 1971.08,
         "timestamp": 1790619038.5466077,
         "expirado": false
+    },
+    {
+        "id": "https://shopee.com.br/opaanlp/1351433975/58206733400",
+        "link_bruto": "https://shopee.com.br/opaanlp/1351433975/58206733400?__mobile__=1&credential_token=3fbCuxANXURcHSsTfAi45E71pGWRb1rRwjkuZbDbkmHks&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMCDZ1QISG3Y9eQ8yPVgAOiad7g2PqyaqkWO_9nGG8rv2GeSvTKVy0YH9Uq_tAMSkaB8ROm0FmD1_y4Fc6qmNpcGhlcnRleHTEmQAAAAy96rSrAACqP3mygjmAfekJSakkvVn7CuRLYbvXffislT6ymYH2iMu7Q2Lc7X_DaVmbW6jAbI4UUtER2T9KiVRrtZXZgq4hFjSC4iEGBrks3elg0VLHafwa29i7DJ1QV3_X-iiHPQDvCFwH9o0ZXsGqQtTw3cQp-2sbQCJRMoFmiMnaksSbXVBlKS83GK98ol6e4evfmQ&mmp_pid=an_18140170000&uls_trackid=56ofbt9f00jp&utm_campaign=id_c81fe1e44f41f812&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fmev7ssjkduy",
+        "titulo": "POCO X8 PRO MAX 5G NFC",
+        "preco": 2897.08,
+        "timestamp": 1790626550.9405582,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB21727613",
+        "link_bruto": "https://www.mercadolivre.com.br/shampoo-wella-invigo-nutri-enrich-nutricao-cabelos-secos-danificados-1-litro/p/MLB21727613?matt_event_ts=1790625642541&matt_d2id=409eef20-b603-488a-a645-83db46636fb6&matt_tracing_id=688f7928-4be8-4a95-a93d-8c3984a2d5fc#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=207e6bfe-7c80-4c49-a71c-dfeebdf9ef72&tracking_id=201ada0c-62a7-4cf4-9900-47eb1fc0c4dd&c_id=/home/card-featured/element&c_uid=ef9c25df-1b4d-47f6-aafe-b3137d6a0977",
+        "titulo": "Shampoo Wella Invigo Nutri Enrich 1L",
+        "preco": 123.0,
+        "timestamp": 1790626568.122051,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23199027541",
+        "link_bruto": "https://s.shopee.com.br/4Vd9nbdmuC",
+        "titulo": "Adeforte Ampola 3Ml - Gross",
+        "preco": 27.99,
+        "timestamp": 1790626596.33263,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB41643826",
+        "link_bruto": "https://www.mercadolivre.com.br/cadeira-de-alimentacao-infantil-portatil-minnie-multikids/p/MLB41643826?matt_event_ts=1790626095155&matt_d2id=d47e0c69-b325-4453-ba8a-26a402ff1bd8&matt_tracing_id=e7fe6702-58d8-4ee7-9deb-e9d543b85ec3#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=170f4386-f5f3-41f7-a585-b9dae29d8d6a&tracking_id=ecfd9d9c-d5ce-4a0a-8914-fa430eb572d6&c_id=/home/card-featured/element&c_uid=9541809b-296c-4cee-92d6-af4b4f2196fa",
+        "titulo": "Cadeira de Alimentação Portátil Minnie Multikids",
+        "preco": 76.41,
+        "timestamp": 1790626620.6312695,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB17336138",
+        "link_bruto": "https://www.mercadolivre.com.br/huggies-fralda-pants-roupinha-protecao-acolchoada-xg-48-un/p/MLB17336138?matt_event_ts=1790625843469&matt_d2id=b6b63771-b166-4509-9216-cdc0ed53a0de&matt_tracing_id=a975f05a-de22-4a5f-b733-82e41406583d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=acf353cd-f103-41a5-906d-267bb030bf4d&tracking_id=e463cbfc-1194-49b0-8e4c-51f07576e844&c_id=/home/card-featured/element&c_uid=69945727-7ed5-445d-9f45-f6205e6eab9d",
+        "titulo": "Fralda Huggies Proteção Alcochoada Pants",
+        "preco": 59.0,
+        "timestamp": 1790626640.9191535,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB2780255136",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-2780255136-calcado-bb80-soft-works-sapato-enfermagem-cozinha-hospital-_JM",
+        "titulo": "Calçado Bb80 Soft Works Sapato Enfermagem Cozinha Hospital",
+        "preco": 90.15,
+        "timestamp": 1790626662.538428,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB79535419",
+        "link_bruto": "https://www.mercadolivre.com.br/zurbe-bicicleta-eletrica-bike-s20-pro-1000w-32kmh-60km-autonomia-pneu-slick-aro-20-bateria-litio-removivel-48v-182ah-suporta-150kg-trava-na-roda-antifurto-freio-a-disco-cartao-nfc-preto-banco-marrom/p/MLB79535419?matt_event_ts=1790625755488&matt_d2id=4682b49d-3fd0-459b-9582-1f8fbf5f391e&matt_tracing_id=b1a08636-4ba8-487a-aaaa-af99fc4f4105#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7e2b7971-6c40-4714-a887-6881b245a951&tracking_id=2afb86db-faf4-4ece-8bca-07313cdce033&c_id=/home/card-featured/element&c_uid=58de83d0-3aaf-45bb-91bf-ab7fa5142146",
+        "titulo": "Zurbe Bicicleta Elétrica Bike S20 Pro 1000W 32kmh 60km Autonomia Pneu Slick Aro 20 Bateria Lítio Removível 48V 18.2A",
+        "preco": 6293.7,
+        "timestamp": 1790626686.8063605,
+        "expirado": false
     }
 ]
