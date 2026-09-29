@@ -46902,5 +46902,37 @@
         "preco": 1530.97,
         "timestamp": 1790705794.9226315,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DK4Y2YP3",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DK4Y2YP3?tag=promobit-d-20",
+        "titulo": "Creme Facial com Retinal celimax Shot Tightening Booster - 15ml",
+        "preco": 72.0,
+        "timestamp": 1790712446.2992775,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3367167774",
+        "link_bruto": "https://www.mercadolivre.com.br/mala-de-10kg-bordo-de-mao-bloguerinha-com-frasqueira/up/MLBU3367167774",
+        "titulo": "Mala De 10kg Bordo De Mão Bloguerinha Com Frasqueira Preto Com Bege Listras",
+        "preco": 215.1,
+        "timestamp": 1790712464.4279723,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FQG8WBGZ",
+        "link_bruto": "https://www.amazon.com.br/Bancada-Penteadeira-Infantil-Maxi-Toys/dp/B0FQG8WBGZ/?tag=promobit-d-20",
+        "titulo": "Bancada Penteadeira Infantil 3 em 1 Maleta 21 Peça Maxi Toys",
+        "preco": 60.08,
+        "timestamp": 1790712494.7461858,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5713154316",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5713154316-mala-mao-extensor-10kg-aviao-aeroporto-giratoria-bordo-pp-_JM",
+        "titulo": "Mala Mao Extensor 10kg Aviao Aeroporto Giratoria Bordo Pp",
+        "preco": 216.54,
+        "timestamp": 1790712506.6004353,
+        "expirado": false
     }
 ]
