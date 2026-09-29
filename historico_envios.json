@@ -46790,5 +46790,117 @@
         "preco": 699.11,
         "timestamp": 1790698491.7142432,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B09WJHTHVQ",
+        "link_bruto": "https://www.amazon.com.br/dp/B09WJHTHVQ?social_share=cm_sw_r_apan_dp_X66083R9QYKEK4NG3K7C&tag=promobit-d-20",
+        "titulo": "Porto Brasil Conjunto com 6 Pratos Raso Bio Stoneware Campestre 27,5cm",
+        "preco": 141.15,
+        "timestamp": 1790705539.8486881,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_FFDDC8JAK3",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-air-fryer-philco-4l-redstone-1500w-paf40a/p/ffddc8jak3/ep/efso/?seller_id=pafeletroltda",
+        "titulo": "Fritadeira Air Fryer Philco 4L Redstone 1500W Paf40A",
+        "preco": 362.49,
+        "timestamp": 1790705556.2106936,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB79566827",
+        "link_bruto": "https://www.mercadolivre.com.br/creatina-monohidratada-500g-pouch-growth-supplements-sem-sabor/p/MLB79566827",
+        "titulo": "Creatina Monohidratada 500g Pouch - Growth Supplements Sem Sabor",
+        "preco": 62.9,
+        "timestamp": 1790705578.3304238,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CV65W3FS",
+        "link_bruto": "https://www.amazon.com.br/dp/B0CV65W3FS?social_share=cm_sw_r_apan_dp_M8B4C97WRM279SHQMKA9&tag=promobit-d-20",
+        "titulo": "Porto Brasil Conjunto com 6 Pratos Raso Orgânico Oceano Ø26.5cm",
+        "preco": 130.75,
+        "timestamp": 1790705597.227507,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB52053098",
+        "link_bruto": "https://www.mercadolivre.com.br/smartwatch-samsung-galaxy-watch-8-40mm-bt-gps-grafite/p/MLB52053098?matt_event_ts=1790705022573&matt_d2id=961dc6c7-2abc-4724-8f2b-5d3b87c252e7&matt_tracing_id=98c0b38e-b996-4d6f-a004-5ad6a4204699#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=19d61176-891d-4ec5-a3bf-5970803a68ae&tracking_id=85c78894-21ed-421f-acb5-a48f5584aa5d&c_id=/home/card-featured/element&c_uid=07c851fe-9f90-4101-9baa-5cc59edcfa60",
+        "titulo": "Smartwatch Samsung Galaxy Watch 8 40mm Prateado com Bluetooth e Wi-Fi",
+        "preco": 899.1,
+        "timestamp": 1790705621.1296904,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB36453549",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-masculino-azzaro-chrome-united-edt-100ml/p/MLB36453549?matt_event_ts=1790705198580&matt_d2id=eebf894c-9a91-4a9c-bd21-75b96bf9b19a&matt_tracing_id=e1d7123b-05b3-4654-bdf7-5abc6d3bb30a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=77f017c1-e5d5-48c6-baca-e3971091d16b&tracking_id=af75c6e0-e32f-46df-b44c-c05d22bd3dbb&c_id=/home/card-featured/element&c_uid=3ecd562e-825d-46c3-a58f-19d0539f2bae",
+        "titulo": "Perfume Masculino Azzaro Chrome United EDT 100ml",
+        "preco": 279.99,
+        "timestamp": 1790705632.9093916,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JCKG5D0JD7",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-eletrica-gaabor-28l-air-fryer-uni-easy-life-800w-af35m02as-127v/p/jckg5d0jd7/ep/efso/?seller_id=maxxmercadinho",
+        "titulo": "Fritadeira Elétrica Gaabor 2,8L Air Fryer UNI Easy Life 800W AF35M02AS 127V",
+        "preco": 199.99,
+        "timestamp": 1790705654.5233433,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H719G321",
+        "link_bruto": "https://www.amazon.com.br/dp/B0H719G321?social_share=cm_sw_r_apan_dp_47ZSKB7M5GBP0JBE7S34&tag=promobit-d-20",
+        "titulo": "Câmera Infantil com Impressão Instantânea 40MP 1080P 32GB - fotografa grava e imprime fotos sem tinta",
+        "preco": 141.55,
+        "timestamp": 1790705676.2288544,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_AJ6C82C1GC",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-sem-oleo-air-fryer-4l-mondial-afn40tbi-127v/p/aj6c82c1gc/ep/efso/?seller_id=negociunoficial",
+        "titulo": "Fritadeira Sem Óleo Air Fryer 4L Mondial AFN40TBI 127V",
+        "preco": 250.17,
+        "timestamp": 1790705688.9107137,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FGX68GFC",
+        "link_bruto": "https://www.amazon.com.br/Lingerie-feminina-floral-acabamento-recortado/dp/B0FGX68GFC/ref=gs-homepage-customer-recs-test_d_sccl_1_5/142-7581729-8654335?pd_rd_w=Z7wA6&content-id=amzn1.sym.bf312b6a-d4ca-42ce-a9ec-b23b37283976&pd_rd_wg=QWBSJ&pd_rd_r=2f98f504-15f4-4c3d-a53c-45ecfabc0c7b&pd_rd_i=B0FGX68GFC&tag=promobit-d-20",
+        "titulo": "Lingerie feminina de renda floral com acabamento recortado nas costas",
+        "preco": 24.22,
+        "timestamp": 1790705707.6211946,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GTRPYH9M",
+        "link_bruto": "https://www.amazon.com.br/Apple-iPhone-17e-512-GB/dp/B0GTRPYH9M/ref=sr_1_54?dib=eyJ2IjoiMSJ9.9FnWoDwr1Zw2pPmSmnBnbL-cQg_ctMGOVIA_6UFNmylfa6CcH6HAP-qdYhLq00QPJRWbMCVQ5vGZEM7J4JGJ4rP8VSLSuzyGS3QvueetsyJTSEFZUCd0ycZ5O0fruytvsXe4nI1OTGyjevkZ_7RylZFXah2_rhDKBt9dCazR9AdTNmC-0R65Kw1Q5A9kUo9mNiUyPCBf4oiZ-ZGPZNNcUGadBDwUUd-1zJJrUNwpElvR9tzAcwegeBe8KqdTfBQZwQeAHw0ZeAhxwKniQ-WqpXdU-w_hr5vODctsHGH0P94.tuXmK8DfX-pQ9E-pjWidalHjYnG3gSKGgfmlMNOjZzk&dib_tag=se&qid=1790626612&refinements=p_n_condition-type%3A13862762011%2Cp_n_deal_type%3A23565493011&rnid=23565491011&s=wireless&ufe=app_do%3Aamzn1.fos.9e6a115c-05b9-4b96-8e1c-b1f9ce2ac1a6&xpid=PYB0FqMVHFcln&tag=promobit-d-20",
+        "titulo": "Apple iPhone 17e de 512 GB",
+        "preco": 5099.08,
+        "timestamp": 1790705728.125821,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FDBH45D6",
+        "link_bruto": "https://www.amazon.com.br/LEGO-71837-Ninjago%C2%AE-Oficinas-Cidade/dp/B0FDBH45D6/ref=asc_df_B0FDBH45D6?mcid=7e76bf89ebf139de821e1a34aed325fd&hvadid=778719337326&hvpos=&hvnetw=g&hvrand=11485769482832327311&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9100573&hvtargid=pla-2447093195955&hvocijid=11485769482832327311-B0FDBH45D6-&hvexpln=0&language=pt_BR&tag=promobit-d-20",
+        "titulo": "LEGO Ninjago Oficinas da Cidade NINJAGO 71837 (3.244 Peças)",
+        "preco": 1799.99,
+        "timestamp": 1790705754.1107748,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D4VZFTRG",
+        "link_bruto": "https://www.amazon.com.br/dp/B0D4VZFTRG?ta=&tag=promobit-d-20",
+        "titulo": "Tâmara Sem Caroço - Castanha do Bem - 1kg",
+        "preco": 27.0,
+        "timestamp": 1790705777.1443512,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB55315589",
+        "link_bruto": "https://www.mercadolivre.com.br/moto-edge-60-fusion-slipstream/p/MLB55315589?matt_event_ts=1790705240163&matt_d2id=7244e2e1-ec32-4ad8-b231-33164f0c645b&matt_tracing_id=17218ba2-1f82-4ed5-ac7a-8a4bf28d2522#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=16d21fcc-1c17-4557-b73f-f339e88bcbe0&tracking_id=2fd8d47a-ef47-425b-b709-0f71c3099400&c_id=/home/card-featured/element&c_uid=1b428aa9-425c-4fe8-b423-dcfacf503c0e",
+        "titulo": "Moto Edge 60 Fusion Slipstream",
+        "preco": 1530.97,
+        "timestamp": 1790705794.9226315,
+        "expirado": false
     }
 ]
