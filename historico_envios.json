@@ -46614,5 +46614,85 @@
         "preco": 142.49,
         "timestamp": 1790683925.7972736,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB5455269586",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5455269586-kit-10-pares-meias-zhamaro-algodo-sapatilha-100-invisivel-_JM",
+        "titulo": "Kit 10 Pares Meias Zhamaro Algodão Sapatilha 100% Invisível",
+        "preco": 59.97,
+        "timestamp": 1790691017.5031981,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB44587024",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-5-refletor-smd-led-bg-200w-prova-dagua-carcaca-preto-luz-branco-frio/p/MLB44587024",
+        "titulo": "Kit 5 Refletor SMD Led B&G 200w Prova Dágua Carcaça Preto Luz Branco-frio",
+        "preco": 91.49,
+        "timestamp": 1790691039.5536973,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB77186530",
+        "link_bruto": "https://www.mercadolivre.com.br/maleta-48-carrinhos-tapete-pista-40x60-estacionamento-brinquedo-infantil-presente-crianca-super-brasileirinho/p/MLB77186530",
+        "titulo": "Maleta 48 Carrinhos + Tapete Pista 40x60 Estacionamento Brinquedo Infantil Presente Criança - Super Brasileirinho",
+        "preco": 63.0,
+        "timestamp": 1790691058.3260477,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CZS2LGFD",
+        "link_bruto": "https://www.amazon.com.br/dp/B0CZS2LGFD?tag=promobit-d-20",
+        "titulo": "O-LIVE & Co, Azeite de oliva extra virgem, Chileno, vidro, 450ml",
+        "preco": 21.74,
+        "timestamp": 1790691080.7953355,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63335606",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-5g-com-ia-128gb-4gb-ram-cam-de-50mp-tela-de-67-nfc-ip54-preto/p/MLB63335606",
+        "titulo": "Celular Samsung Galaxy A17 5G Com IA, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7\", Nfc, Ip54 - Preto",
+        "preco": 1049.0,
+        "timestamp": 1790691094.3305178,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D1DSFV8C",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0D1DSFV8C?tag=promobit-d-20",
+        "titulo": "Refil Sabonete Líquido Protex Baby Glicerina 800ml",
+        "preco": 26.4,
+        "timestamp": 1790691122.0349498,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_6555118148",
+        "link_bruto": "https://www.amazon.com.br/Hobbit-quadrinhos-expandida-atualizada-graphic/dp/6555118148?amp=&tag=promobit-d-20",
+        "titulo": "O Hobbit Em Quadrinhos – Nova Edição Expandida E Atualizada Da Graphic Novel",
+        "preco": 59.89,
+        "timestamp": 1790691135.4353783,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_KDK5K7A9K0",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-mizuno-hawk-5-masculino/p/kdk5k7a9k0/es/oedc/?seller_id=netshoes",
+        "titulo": "Tênis Mizuno Hawk 5 Masculino",
+        "preco": 218.49,
+        "timestamp": 1790691154.5986335,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HKTFGRQV",
+        "link_bruto": "https://www.amazon.com.br/dp/B0HKTFGRQV?social_share=cm_sw_r_apan_dp_DQR13BH91EZ6GS7C72HX&tag=promobit-d-20",
+        "titulo": "Jogo God of War Laufey - PlayStation 5",
+        "preco": 351.91,
+        "timestamp": 1790691175.4421504,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HGHY3BGT",
+        "link_bruto": "https://www.amazon.com.br/EA-Sports-FC-27-Nintendo/dp/B0HGHY3BGT?tag=promobit-d-20",
+        "titulo": "EA Sports FC 27 - Switch",
+        "preco": 350.92,
+        "timestamp": 1790691201.3016045,
+        "expirado": false
     }
 ]
