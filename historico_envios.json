@@ -47014,5 +47014,45 @@
         "preco": 3529.0,
         "timestamp": 1790720059.830271,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB3765473453",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3765473453-kit-6-cuecas-boxer-mash-poliamida-toque-gelado-sem-costura-_JM",
+        "titulo": "Kit 6 Cuecas Boxer Mash Poliamida Toque Gelado Sem Costura",
+        "preco": 97.0,
+        "timestamp": 1790727112.7146568,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19373057",
+        "link_bruto": "https://www.mercadolivre.com.br/natura-essencial-elixir-deo-parfum-deo-parfum-100ml-para-masculino/p/MLB19373057",
+        "titulo": "Natura Essencial Elixir Deo Parfum Deo parfum 100ml para masculino",
+        "preco": 124.95,
+        "timestamp": 1790727137.2362278,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB40003089",
+        "link_bruto": "https://www.mercadolivre.com.br/aparelho-de-jantar-porto-brasil-ceramica-30-pecas-organico-petroleum-azul/p/MLB40003089",
+        "titulo": "Aparelho de Jantar Porto Brasil Cerâmica 30 Peças Orgânico Petroleum Azul",
+        "preco": 474.9,
+        "timestamp": 1790727162.8065665,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/celular-samsung-galaxy-s26-5g-256gb-12gb-ram-galaxy-ai-camera-tripla-de-50-12-10-tela-de-6-7/divulgador/oferta/haj47ha11f/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/celular-samsung-galaxy-s26-5g-256gb-12gb-ram-galaxy-ai-camera-tripla-de-50-12-10-tela-de-6-7/divulgador/oferta/haj47ha11f/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Celular Samsung Galaxy S26+ 5G 256GB 12GB RAM Galaxy AI Câmera Tripla de 50+12+10 Tela de 6.7\"",
+        "preco": 4887.91,
+        "timestamp": 1790727184.7253878,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB51884541",
+        "link_bruto": "https://www.mercadolivre.com.br/tablet-tcl-tab-11-fe-cinza-estelar-11-128gb-4gb-6000mah/p/MLB51884541",
+        "titulo": "Tablet Tcl Tab 11 Fe Cinza Estelar 11\" 128gb 4gb 6000mAh",
+        "preco": 764.1,
+        "timestamp": 1790727206.0531256,
+        "expirado": false
     }
 ]
