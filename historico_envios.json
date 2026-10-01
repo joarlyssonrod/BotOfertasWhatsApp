@@ -48054,5 +48054,21 @@
         "preco": 287.04,
         "timestamp": 1790871649.5156474,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB1046215784",
+        "link_bruto": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784?matt_event_ts=1790877698816&matt_d2id=ea5d3903-1e24-4123-b8bd-a482df313a75&matt_tracing_id=7bed4e94-3c2a-4f94-86ca-c9effce28c3a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=445e19a3-f9bb-42a2-81df-9c57b3000e22&tracking_id=c75967fc-efa8-4cb0-8072-e7111666461e&c_id=/home/card-featured/element&c_uid=3de228fd-d28d-4f24-ac19-feb062f1c8cb",
+        "titulo": "iPhone 16e Apple A18 128 GB 8 GB RAM",
+        "preco": 3299.4,
+        "timestamp": 1790878077.8194795,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JF6ACGAE48",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-x-plr-path-masculino/p/jf6acgae48/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Adidas X PLR Path Masculino",
+        "preco": 259.99,
+        "timestamp": 1790878104.7139542,
+        "expirado": false
     }
 ]
