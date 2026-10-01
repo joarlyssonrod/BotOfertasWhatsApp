@@ -47630,5 +47630,93 @@
         "preco": 75.0,
         "timestamp": 1790806817.028956,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B07WWZ3L2V",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B07WWZ3L2V/ref=ox_sc_act_title_1?tag=promobit-d-20",
+        "titulo": "Lâmpada Super Bulbo LED T 30W 6500K Elgin Bivolt Luz Branca Fria",
+        "preco": 13.96,
+        "timestamp": 1790813578.728616,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B096G6CM9N",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B096G6CM9N/?tag=promobit-d-20",
+        "titulo": "Eudora Siàge Nutri Óleos Poderosos Condicionador 200ml",
+        "preco": 19.67,
+        "timestamp": 1790813604.1484966,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB14660268",
+        "link_bruto": "https://www.mercadolivre.com.br/frigobar-philco-47-litros-compacto-porta-reversivel-ph50n/p/MLB14660268",
+        "titulo": "Frigobar Philco 47 Litros Compacto Porta Reversível PH50N",
+        "preco": 699.89,
+        "timestamp": 1790813616.7311072,
+        "expirado": false
+    },
+    {
+        "id": "https://shopee.com.br/opaanlp/324941754/23695021241",
+        "link_bruto": "https://shopee.com.br/opaanlp/324941754/23695021241?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMaBRvcqdZwgRklGTWoHoxFGhRfNAexxPkhN1n8rcCO5qFEud_-aY2hsGdfUnqCpX0P0Z7lpJy6IP6_Ew8qmNpcGhlcnRleHTElwAAAAxpiWjWnWxmZAqs5dStesbskj9loM8PsPGpa22Y5YKWeiZh3sNUPvCQIgT0T8u2GHhu56c9LejC5xcvSwHkhZpr7WWchHiJalTZscEKR1C0ig6_ucFMMPwa1CK_hNrirA3undfKq1im9zbk96RbRf-QeNr_A4lwLGzIRnmvtnK5LmMQM8sIgfGBSNZ1KixqybLZgi4&mmp_pid=an_18140170000&uls_trackid=56p17ucs00l1&utm_campaign=id_f574dd1c1b733137&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fmstgcgqqw9q",
+        "titulo": "Faceplate Decorativo Emblema Frontal PS5 GTA6 Grand Theft Auto VI Fat Slim Pro Gamer",
+        "preco": 12.0,
+        "timestamp": 1790813640.1982582,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB68574744",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-masculino-adizero-drive-rc-adidas/p/MLB68574744?matt_event_ts=1790812932900&matt_d2id=b5f60ff2-1a66-4513-9190-c48f10ab9cd3&matt_tracing_id=58627b1a-ed2c-406d-a30b-403df69d2e6f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=9c8643a2-7ea6-423c-98d1-2cb2a9f6d148&tracking_id=08d30fba-6ce2-4882-9ea8-b31e681d80c2&c_id=/home/card-featured/element&c_uid=756c0bef-7027-4dbd-a227-7081a9d559a3",
+        "titulo": "Tênis Masculino Adizero Drive Rc adidas",
+        "preco": 533.89,
+        "timestamp": 1790813663.418191,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_EK5061533C",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-air-fryer-forno-oven-12l-mondial-branco-inox-2000w-afon12lwi/p/ek5061533c/ep/efso/?seller_id=mercadofacilstore",
+        "titulo": "Fritadeira Air Fryer Forno Oven 12L Mondial Branco Inox 2000W AFON12LWI",
+        "preco": 539.0,
+        "timestamp": 1790813686.5291758,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08X1P11KS",
+        "link_bruto": "https://www.amazon.com.br/dp/B08X1P11KS/?tag=promobit-d-20",
+        "titulo": "LYOR - Bandeja de Bambu Hire Marrom Natural 20cm - Mesa Posta - Organização - Utensílios de Cozinha - Enxoval - Decoração - Travessa Retangular",
+        "preco": 12.35,
+        "timestamp": 1790813707.438418,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HDL2H1VB",
+        "link_bruto": "https://www.amazon.com.br/Camisa-Botafogo-Goleiro-Reebok-Masculina/dp/B0HDL2H1VB?dib=eyJ2IjoiMSJ9.64h0xwAtp_483Ip-0JHYXowg4w6ytZwu2KK7vPcu6gR3CM82h89i-fSvVxP44ICHsuEAt8eG9SuB3OprYecQ2HZeWWTMQ01sIOCSUY7l4ILGq3B4FKzhkqFg36XrE8uPC-izhYQkIUV3vXR9ajlTNmsZwfc8xyayIOfcIIJWOTfWJjfSEQULyw3A-5ORqesmtNCHAMjcwOCRCV7AgNNB09d5g2XutY0DEvI8eXL12u2Rpob_6xG8GgziPUfrjlWzQ7qelusdxg4n-gW3DCwTzo5vS2zoNNS4b1pAFRknvkg.jm4Y2KSAgbBLPotkexs8IcQH_UY_-G8NlWEAy4Vdzv0&dib_tag=se&qid=1790797753&refinements=p_4%3AReebok&s=apparel&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9&btn_type=ss&tag=promobit-d-20",
+        "titulo": "Camisa Botafogo Iii 2526 Sn Goleiro Reebok Masculina",
+        "preco": 66.49,
+        "timestamp": 1790813734.907607,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU5156449202",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-3-camisa-oversized-masculina-lisa-algodao-street-larga/up/MLBU5156449202?pdp_filters=item_id%3AMLB5209979139&matt_event_ts=1790813263638&matt_d2id=d0448a33-61ff-403d-94ee-cc511a389bdd&matt_tracing_id=1bebc1a8-5215-4de8-9b3d-ae9b95cf6467#polycard_client=recommendations_home_affiliate-profile&wid=MLB5209979139&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=810acfb5-e94c-49f4-bb75-7678bb284aa6&tracking_id=58c0333d-c011-4997-a1c8-8b9c2734bf63&c_id=/home/card-featured/element&c_uid=5aa98277-96ea-467f-91bf-0b573921342e",
+        "titulo": "Kit com 3 Camiseta Oversized Algodão",
+        "preco": 53.0,
+        "timestamp": 1790813758.5323517,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_240552400",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g05-256gb-4gb-ram-vermelho-67-cam-50mp-selfie-8mp/p/240552400/te/tcsp/?seller_id=magazineluiza",
+        "titulo": "Smartphone Motorola Moto g05 256GB 4GB RAM Vermelho 6,7\" Câm. 50MP + Selfie 8MP",
+        "preco": 809.1,
+        "timestamp": 1790813770.5194366,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GN9TZXGG",
+        "link_bruto": "https://www.amazon.com.br/Fischer-Fog%C3%A3o-Bocas-Trempe-Silver/dp/B0GN9TZXGG?tag=promobit-d-20",
+        "titulo": "Fischer Fogão de Piso a Gás 4 Bocas Fit Line Trempe Iron Silver",
+        "preco": 1079.89,
+        "timestamp": 1790813795.1169791,
+        "expirado": false
     }
 ]
