@@ -48182,5 +48182,37 @@
         "preco": 8931.07,
         "timestamp": 1790886010.0369802,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3686082706",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-10-potes-vidro-640ml-hermetico-tampas-4-travas-cozinha/up/MLBU3686082706",
+        "titulo": "Kit 10 Potes Vidro 640ml Hermético Tampas 4 Travas Cozinha Branco",
+        "preco": 93.0,
+        "timestamp": 1790892551.845829,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/apple-iphone-16e-128gb-preto-61-48mp-ios-5g/divulgador/oferta/240060000/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/apple-iphone-16e-128gb-preto-61-48mp-ios-5g/divulgador/oferta/240060000/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Apple iPhone 16e 128GB Preto 61\" 48MP iOS 5G",
+        "preco": 3299.4,
+        "timestamp": 1790892566.4203572,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58255272319",
+        "link_bruto": "https://s.shopee.com.br/1BMmjwCLLB",
+        "titulo": "Kit Mini Umidificador Difusor Aromatizador Ambiente  Egg com Essências | 1 Umidificador + 5 Essências",
+        "preco": 39.99,
+        "timestamp": 1790892585.5223024,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_EC0A21554F",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-duramo-rc-2-masculino/p/ec0a21554f/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Adidas Duramo RC 2 Masculino",
+        "preco": 246.99,
+        "timestamp": 1790892610.3440537,
+        "expirado": false
     }
 ]
