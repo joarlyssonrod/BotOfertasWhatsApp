@@ -48214,5 +48214,45 @@
         "preco": 246.99,
         "timestamp": 1790892610.3440537,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GPY8S8B6",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GPY8S8B6?tag=promobit-d-20",
+        "titulo": "Electrolux Kit 6 Potes Herméticos Plástico Multiuso Vedação Silicone",
+        "preco": 66.55,
+        "timestamp": 1790899744.3273785,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CK9QVQ9F",
+        "link_bruto": "https://www.amazon.com.br/Mochila-Pelucia-Infantil-Hello-Kitty/dp/B0CK9QVQ9F?tag=promobit-d-20",
+        "titulo": "Candide, Mochila Infantil de Pelúcia, Hello Kitty",
+        "preco": 53.99,
+        "timestamp": 1790899758.6184952,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BLJ38RJR",
+        "link_bruto": "https://www.amazon.com.br/dp/B0BLJ38RJR?social_share=cm_sw_r_apin_dp_RDQFM4J2K2Z4N8JVAM2Q&tag=promobit-d-20",
+        "titulo": "LEGO Technic 2022 Ford GT Brinquedos Interativos com Pecinhas de Montar 42154",
+        "preco": 780.98,
+        "timestamp": 1790899773.2463603,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D3CT4H1J",
+        "link_bruto": "https://www.amazon.com.br/dp/B0D3CT4H1J?tag=promobit-d-20",
+        "titulo": "Protetor Contra Surtos Elétricos (DPS) CLAMPER 127220V, 10 Amperes, 3 Pinos, para PC, PS5, Xbox, Smartphone, Monitor, Impressora, etc - iCLAMPER Pock",
+        "preco": 35.21,
+        "timestamp": 1790899792.0398288,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54989183",
+        "link_bruto": "https://www.mercadolivre.com.br/motor-gasolina-7hp-4t-partida-manual-multiuso-te70x-toyama/p/MLB54989183?matt_event_ts=1790899245860&matt_d2id=34fef67d-6224-44da-8de5-897d496b0eb2&matt_tracing_id=de655958-c0f1-49a9-9d56-749e35011e65#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=b58735a3-eaea-438d-9083-c466e51aa172&tracking_id=cf4679f3-2a29-422f-84be-71f1c80fcdae&c_id=/home/card-featured/element&c_uid=a39f0d85-e345-42ba-9c4e-065eb795aed0",
+        "titulo": "Motor Gasolina 7hp 4t Partida Manual Multiuso Te70x Toyama",
+        "preco": 451.0,
+        "timestamp": 1790899804.6292229,
+        "expirado": false
     }
 ]
