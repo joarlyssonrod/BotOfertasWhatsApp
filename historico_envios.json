@@ -48350,5 +48350,37 @@
         "preco": 142.49,
         "timestamp": 1790943356.3408668,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_241309100",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-43-aoc-full-hd-dled-43s5155-78g-roku-tv-2025/p/241309100/et/elit/?seller_id=magazineluiza",
+        "titulo": "Smart TV 43\" AOC Full HD DLED 43S5155/78G Roku TV 2025",
+        "preco": 1614.05,
+        "timestamp": 1790950111.5331185,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB43644803",
+        "link_bruto": "https://www.mercadolivre.com.br/carrinho-eletrico-infantil-brinquedo-mini-carro-passeio-voltagem-do-carregador/p/MLB43644803",
+        "titulo": "Carrinho Elétrico Infantil Brinquedo Mini Carro Passeio Voltagem do carregador",
+        "preco": 990.0,
+        "timestamp": 1790950136.9986725,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB53446590",
+        "link_bruto": "https://www.mercadolivre.com.br/mini-scooter-moto-eletrica-frente-e-re-bateria-6v-som-e-luz-cor-rosa-voltagem-do-carregador-127220v/p/MLB53446590",
+        "titulo": "Mini Scooter Moto Elétrica Frente E Ré Bateria 6v Som E Luz Cor Rosa Voltagem Do Carregador 127/220v",
+        "preco": 319.12,
+        "timestamp": 1790950154.029131,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4146723172",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-cuecas-boxer-reserva-masculino-red-bird/up/MLBU4146723172",
+        "titulo": "Kit Cuecas Boxer Reserva Masculino Red Bird Branco Liso M",
+        "preco": 104.99,
+        "timestamp": 1790950176.93618,
+        "expirado": false
     }
 ]
