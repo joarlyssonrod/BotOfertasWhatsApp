@@ -48382,5 +48382,45 @@
         "preco": 104.99,
         "timestamp": 1790950176.93618,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB74256265",
+        "link_bruto": "https://www.mercadolivre.com.br/body-splash-masculino-enigmamidtownbarbarius-adventus/p/MLB74256265?matt_event_ts=1790957046363&matt_d2id=d7196670-bab5-4b98-859d-207a32f20480&matt_tracing_id=8f7920d2-6f40-47e6-abbb-76d5ad5aff36#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=42ee3086-ba95-4c2a-b84f-56cf680762a9&tracking_id=f93d28b4-f311-47e1-b4d0-d49c6848c210&c_id=/home/card-featured/element&c_uid=7bf89c7f-de20-4ace-942e-86204ed171ba",
+        "titulo": "Body Splash Masculino Enigma,midtown,barbarius, Adventus",
+        "preco": 81.0,
+        "timestamp": 1790957404.9136746,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50117196",
+        "link_bruto": "https://www.mercadolivre.com.br/lego-disney-angel-43257/p/MLB50117196?matt_event_ts=1790956928152&matt_d2id=154522f7-10d6-4e48-93d2-eac222d7e082&matt_tracing_id=24c19003-f8bd-4c3d-bbe3-b55f73aa09dc#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=989e89e9-70d2-4dde-99a7-cab97b65be43&tracking_id=e4e82eab-9872-409d-8cb2-cd82cc72490a&c_id=/home/card-featured/element&c_uid=e02663ed-4f8e-47e9-a8dc-4da3dbda49e0",
+        "titulo": "Lego Disney Angel #43257",
+        "preco": 325.0,
+        "timestamp": 1790957432.9178827,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB67444410",
+        "link_bruto": "https://www.mercadolivre.com.br/smartphone-motorola-edge-70-fusion-5g-fifa-world-cup-collection-256gb-8gb-ram-16gb-ram-boost-camera-50mp-sony-lytia-710-tela-15k-extreme-amoled-grafite/p/MLB67444410?matt_event_ts=1790956852339&matt_d2id=2728123f-4156-4e5d-84c3-704348d4b170&matt_tracing_id=ed3a37e3-4e0a-4328-9329-6eb084ca6e0d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=cead6c4c-9546-4b98-b6cd-99c3a9b9b7d7&tracking_id=3da0c39b-834f-4b15-8aa1-ac1f8222ce0a&c_id=/home/card-featured/element&c_uid=3cd8a267-c99c-43dd-8543-88945da8ed24",
+        "titulo": "Smartphone Motorola Edge 70 Fusion 5g Fifa World Cup Collection - 256gb 8gb Ram + 16gb Ram Boost, Camera 50mp Sony Lytia 710, Tela 1.5k Extreme Amoled",
+        "preco": 2109.0,
+        "timestamp": 1790957457.0994487,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63152047",
+        "link_bruto": "https://www.mercadolivre.com.br/patinete-infantil-3-rodas-led-dobravel-luppy-azul-maxi-toys/p/MLB63152047",
+        "titulo": "Patinete Infantil 3 Rodas Led Dobrável Luppy Azul Maxi Toys",
+        "preco": 42.9,
+        "timestamp": 1790957470.222377,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0763W2SN6",
+        "link_bruto": "https://www.amazon.com.br/Gin-Beefeater-Pink-700-ml/dp/B0763W2SN6/ref=sr_1_16/?tag=promobit-d-20",
+        "titulo": "Beefeater Gin Pink 700 Ml",
+        "preco": 89.0,
+        "timestamp": 1790957493.9451077,
+        "expirado": false
     }
 ]
