@@ -48950,5 +48950,53 @@
         "preco": 62.91,
         "timestamp": 1791044045.343716,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB47793927",
+        "link_bruto": "https://www.mercadolivre.com.br/aparelho-de-jantar-16-pecas-ammi-e-leaf-porto-brasil/p/MLB47793927?matt_event_ts=1791050485741&matt_d2id=6f3aeb9d-94cc-4525-9b19-24974576a1f5&matt_tracing_id=0f5abb26-5608-46d5-9a5e-051503ce930d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=2d6a6dc6-04da-4320-acdf-ca73a1a71597&tracking_id=e402c8f7-46be-42b0-a089-9e27ed2780db&c_id=/home/card-featured/element&c_uid=6612f9d0-4526-467b-865d-11f483f1f9f0",
+        "titulo": "Aparelho De Jantar 16 Peças Ammi E Leaf Porto Brasil",
+        "preco": 268.0,
+        "timestamp": 1791051001.0117307,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F3LTWYS5",
+        "link_bruto": "https://www.amazon.com.br/dp/B0F3LTWYS5?social_share=cm_sw_r_apin_dp_8EMHFD0APN62K6620QJN&tag=promobit-d-20",
+        "titulo": "Tablet Samsung Galaxy Tab S10 FE Cinza 128GB 8GB RAM Tela Imersiva de 10.9\" 90Hz Camera Traseira de 13MP Câmera F",
+        "preco": 2649.63,
+        "timestamp": 1791051020.027272,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CPYDJLH2",
+        "link_bruto": "https://www.amazon.com.br/Professionnel-Absolut-Multi-benef%C3%ADcios-danificados-Prote%C3%ADnas/dp/B0CPYDJLH2",
+        "titulo": "L'Oréal Professionnel Óleo 10 em 1 Absolut Repair | Multi-benefícios para cabelos secos e danificados | Repara e Promove Brilho | Com Gold Quinoa e Proteínas",
+        "preco": 56.62,
+        "timestamp": 1791051039.8994455,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GWNFMG5L",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GWNFMG5L?social_share=cm_sw_r_apin_dp_YWT06CGPKAM19M6D2DQE&tag=promobit-d-20",
+        "titulo": "PlayStation 5 Slim Disk 1TB 1 Controle Branco Sony",
+        "preco": 4359.63,
+        "timestamp": 1791051052.1307883,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B083JKPCFB",
+        "link_bruto": "https://www.amazon.com.br/Antiqueda-K%C3%A9rastase-Genesis-Anti-Chute-Fortifiant/dp/B083JKPCFB",
+        "titulo": "Kérastase Genesis Sérum Anti-Chute Fortifiant, Fortalece a Fibra, 90ml | Tratamento Diário Antiqueda para Cabelos Enfraquecidos com Aminexil, Raiz de Gengibre e Cafeína, Reduz a Queda",
+        "preco": 299.0,
+        "timestamp": 1791051065.0071595,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BZZJWGPQ",
+        "link_bruto": "https://www.amazon.com.br/K%C3%A9rastase-Nutritive-Magic-Night-Travesseiro/dp/B0BZZJWGPQ",
+        "titulo": "Kérastase Nutritive Sérum Capilar Noturno 8H Magic Night Para Cabelos Secos com Nutrição Profunda, Proteção Contra a Fricção do Travesseiro e Cabelos Mais Fortes 90ml",
+        "preco": 299.0,
+        "timestamp": 1791051086.626793,
+        "expirado": false
     }
 ]
