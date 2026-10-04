@@ -49510,5 +49510,61 @@
         "preco": 169.0,
         "timestamp": 1791130716.0948129,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DPRBZ5YG",
+        "link_bruto": "https://www.amazon.com.br/Fritadeira-El%C3%A9trica-Digital-AF-45T02A-127V/dp/B0DPRBZ5YG/ref=sxin_13_pa_sp_search_thematic_sspa/?tag=promobit-d-20",
+        "titulo": "Fritadeira Elétrica Duo Digital 4,2l Af-45t02a, 127v - Gaabor",
+        "preco": 213.9,
+        "timestamp": 1791137392.0106528,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3972576701",
+        "link_bruto": "https://www.mercadolivre.com.br/chave-de-impacto-brushless-21v-2-baterias-600nm-12--ryoku/up/MLBU3972576701",
+        "titulo": "Chave De Impacto Brushless 21v 2 Baterias 600nm 1/2  Ryoku Verde 127/220v 50 Hz/60 Hz",
+        "preco": 217.2,
+        "timestamp": 1791137408.6125479,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3818599259",
+        "link_bruto": "https://www.mercadolivre.com.br/esteira-eletrica-plana-residencial-preta-cor-preto-bluetooth/up/MLBU3818599259",
+        "titulo": "Esteira Elétrica Plana Residencial Preta Cor Preto Bluetooth Preto 127v",
+        "preco": 697.11,
+        "timestamp": 1791137431.310397,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4472960258",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-adidas-zenboost-macio-solado-borracha-corrida-leve/up/MLBU4472960258?pdp_filters=item_id%3AMLB4954524459&matt_event_ts=1791137033344&matt_d2id=879d9a30-adee-4bc8-88b4-53ee204816bc&matt_tracing_id=3233ca2a-f886-485c-94ea-8b74d310db78#polycard_client=recommendations_home_affiliate-profile&wid=MLB4954524459&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a1726bda-02b1-47c9-87aa-985b1c388b82&tracking_id=b99b4b2d-b6f1-44c3-b1bd-1dd61f6c04bd&c_id=/home/card-featured/element&c_uid=73ee9d26-0979-4f7b-992d-c93e8297644e",
+        "titulo": "Tenis adidas Zenboost Macio Solado Borracha Corrida Leve",
+        "preco": 439.99,
+        "timestamp": 1791137449.0131614,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FJMK411X",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FJMK411X?social_share=cm_sw_r_apan_dp_V96WDSRGBT21GTAB9X7H&tag=promobit-d-20",
+        "titulo": "Forno de Embutir Elétrico 80L Midea Digital com Airfryer",
+        "preco": 1358.39,
+        "timestamp": 1791137463.2223933,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FMYXQVSQ",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FMYXQVSQ?social_share=cm_sw_r_apan_dp_Z7JAF664RJ0TMZ0ZY6BB&tag=promobit-d-20",
+        "titulo": "LEGO Pokémon Eevee 72151 (587 Peças)",
+        "preco": 401.9,
+        "timestamp": 1791137477.2352023,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66104173",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-tcl-65-polegadas-qled-4k-t6c-wifi-bluetooth-google-tv-tela-hva-e-hdr10-65t6c/p/MLB66104173?matt_event_ts=1791136834039&matt_d2id=e0e694e9-9b53-4f15-ae80-2dc5e814620a&matt_tracing_id=9c5d7fef-80e7-4c25-b689-cc363648aa94#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d785f311-468d-444e-9517-2de494224507&tracking_id=4ce5831b-85a4-4f0e-881d-386e7de649a2&c_id=/home/card-featured/element&c_uid=ba6393ef-25b0-4629-9857-d7be019e7c3a",
+        "titulo": "Smart TV 65\" TCL 4K UHD Qled 65t6c Google TV 2026",
+        "preco": 3071.28,
+        "timestamp": 1791137495.7076647,
+        "expirado": false
     }
 ]
