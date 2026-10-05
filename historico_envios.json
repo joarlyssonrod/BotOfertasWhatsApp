@@ -49854,5 +49854,77 @@
         "preco": 44.87,
         "timestamp": 1791202406.595659,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB7006107748",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-7006107748-conjunto-feminino-linho-calca-pantalona-e-blusa-regata-_JM",
+        "titulo": "Conjunto Feminino Linho Calça Pantalona E Blusa Regata",
+        "preco": 56.99,
+        "timestamp": 1791209457.818132,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB5421116792",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-5421116792-tnis-sapatenis-masculino-sandrini-evoke-lite-branco-couro-_JM",
+        "titulo": "Tênis Sapatenis Masculino Sandrini Evoke Lite Branco Couro",
+        "preco": 77.99,
+        "timestamp": 1791209474.8158102,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08C7VX6Q6",
+        "link_bruto": "https://www.amazon.com.br/Whisky-Johnnie-Walker-Black-Label/dp/B08C7VX6Q6?tag=promobit-d-20",
+        "titulo": "Whisky Johnnie Walker Black Label 500ml",
+        "preco": 65.9,
+        "timestamp": 1791209500.933943,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB56663484",
+        "link_bruto": "https://www.mercadolivre.com.br/air-fryer-forno-5-em-1-12l-1700wdigital-1-bandeja-antiaderente-5-modos-preparo-7-receitas-programadas-aviso-sonoro-fritadeira-eletrica-sem-oleo-forno-bancada-electrolux-eaf85-grafite/p/MLB56663484?matt_event_ts=1791209155564&matt_d2id=8019dca1-d737-4656-89e4-bb330f92bdf4&matt_tracing_id=de5401f5-99c2-4017-84f3-404e3adced3f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ca0aa063-c329-43c3-ae22-4d226ed48a85&tracking_id=b80e0e4f-9ec7-4027-8a8f-2230d8d44d6d&c_id=/home/card-featured/element&c_uid=0983439b-4efa-4a62-9678-22b15659dfb5",
+        "titulo": "Air Fryer Forno 5 Em 1 12l 1700w Digital 1 Bandeja Antiaderente 5 Modos Preparo 7 Receitas Programadas Aviso Sonoro Fritadeira Elétrica Sem Óleo Fo",
+        "preco": 503.0,
+        "timestamp": 1791209515.3964374,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0874TF8YC",
+        "link_bruto": "https://www.amazon.com.br/Cardamomo-Gengibre-Granado-Eau-Cologne/dp/B0874TF8YC?tag=promobit-d-20",
+        "titulo": "Perfume Granado Terrapeutics 230ml Lavanda",
+        "preco": 62.0,
+        "timestamp": 1791209538.724658,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_21698313823",
+        "link_bruto": "https://s.shopee.com.br/9pequaXf5C",
+        "titulo": "Conjunto Camiseta + Short Moletom Estampado Milano Itália Street Camiseta Malha Linha Premium + Short Mauricinho",
+        "preco": 64.9,
+        "timestamp": 1791209560.4967718,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FMS843F4",
+        "link_bruto": "https://www.amazon.com.br/LEGO-Cruzador-ataque-Venator-Conjunto/dp/B0FMS843F4/ref=pd_rhf_ee_s_pd_sbs_rvi_d_sccl_2_3/142-7581729-8654335?pd_rd_w=0n0E8&content-id=amzn1.sym.549405bf-70e5-4bf7-9e8c-4c06fbb86a63&pd_rd_wg=hb4Rx&pd_rd_r=0b3cab13-d8d0-4d3c-8178-79a1e4338442&pd_rd_i=B0FMS843F4&tag=promobit-d-20",
+        "titulo": "LEGO Star Wars Cruzador de ataque classe Venator Conjunto 75441",
+        "preco": 459.9,
+        "timestamp": 1791209578.3246522,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0G2T43599",
+        "link_bruto": "https://www.amazon.com.br/LEGO-Speed-Champions-Ferrari-77261/dp/B0G2T43599/ref=pd_rhf_ee_s_pd_sbs_rvi_d_sccl_2_5/142-7581729-8654335?pd_rd_w=0n0E8&content-id=amzn1.sym.549405bf-70e5-4bf7-9e8c-4c06fbb86a63&pd_rd_wg=hb4Rx&pd_rd_r=0b3cab13-d8d0-4d3c-8178-79a1e4338442&pd_rd_i=B0G2T43599&tag=promobit-d-20",
+        "titulo": "LEGO Speed Champions Ferrari 499P 77261",
+        "preco": 179.9,
+        "timestamp": 1791209605.4122,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0G2T3JF5X",
+        "link_bruto": "https://www.amazon.com.br/LEGO-Speed-Champions-Mustang-Hoonicorn/dp/B0G2T3JF5X/ref=pd_rhf_ee_s_pd_sbs_rvi_d_sccl_2_6/142-7581729-8654335?pd_rd_w=0n0E8&content-id=amzn1.sym.549405bf-70e5-4bf7-9e8c-4c06fbb86a63&pd_rd_wg=hb4Rx&pd_rd_r=0b3cab13-d8d0-4d3c-8178-79a1e4338442&pd_rd_i=B0G2T3JF5X&tag=promobit-d-20",
+        "titulo": "LEGO Speed Champions 65 Ford Mustang Hoonicorn V1 de Ken Block 77262",
+        "preco": 199.95,
+        "timestamp": 1791209617.020072,
+        "expirado": false
     }
 ]
