@@ -50342,5 +50342,29 @@
         "preco": 85.41,
         "timestamp": 1791238358.49934,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GLHCQD2Z",
+        "link_bruto": "https://www.amazon.com.br/Sandrini-Spryte-Masculino-Confort%C3%A1vel-Num%C3%A9rico/dp/B0GLHCQD2Z/ref=sr_1_16?dib=eyJ2IjoiMSJ9.7aOGHsCzbkuiM7AjdbX4ipJhK34vGuAB1cwoLjbLizVma2P4_621fsZengGYBuVpk76RJ_FhQKGbpn59Htaw_c-NSW5QolD8x2rwlIVcVIi62k5pPdaRCb5ZZyPXlorqrKECxG4sOQI_UyT_6KIZ_QfcEwh_WCd9GQNGPROKeJc0Un-JuhcfXFvQaic85r2HKVxHlBoNK6D5LTa-r2C7cr_RfUV7pfKHZd9k3gPZeTdyuX7cmFxbJsQndxDW7TnFu0AJ09voWDLnCEzxQ9J5iOJqQFMwfvpNTO714BGH3bA.GN4xQK5sK4qav7yi8FxWZvkPhj2AvefkUEn2gVQi3AQ&dib_tag=se&keywords=tenis%2Bmasculino&psr=PDAY&qid=1791237817&refinements=p_n_deal_type%3A23565492011&rnid=23565491011&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9&tag=promobit-d-20",
+        "titulo": "Tênis Sandrini Spryte Masculino Urbano Confortável De Couro (Verde BR Adulto Numérico 40)",
+        "preco": 64.71,
+        "timestamp": 1791245347.4516652,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C2ZQTF27",
+        "link_bruto": "https://www.amazon.com.br/VULT-PROMOPACK-SHAMPOO-CONDICIONADOR-PROFUNDO/dp/B0C2ZQTF27/?tag=promobit-d-20",
+        "titulo": "Vult Promopack Shampoo e Condicionador Liso Profundo 2x200ml",
+        "preco": 22.4,
+        "timestamp": 1791245376.102393,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B074Z9QH5F",
+        "link_bruto": "https://www.amazon.com.br/Perfume-Masculino-Black-Carolina-Herrera/dp/B074Z9QH5F/?tag=promobit-d-20",
+        "titulo": "212 Vip Black Carolina Herrera - Perfume Masculino Eau De Parfum - 100ml, Carolina Herrera, 100",
+        "preco": 379.0,
+        "timestamp": 1791245391.6064627,
+        "expirado": false
     }
 ]
