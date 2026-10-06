@@ -50478,5 +50478,29 @@
         "preco": 2999.0,
         "timestamp": 1791289085.8987768,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FGF63F5G",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FGF63F5G?social_share=cm_sw_r_apan_dp_W0CJ0XE32T46QMRKE78R&tag=promobit-d-20",
+        "titulo": "Hot Wheels Honda Civic EF 1990 Custom",
+        "preco": 89.0,
+        "timestamp": 1791295782.7952666,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B077NDM5QW",
+        "link_bruto": "https://www.amazon.com.br/dp/B077NDM5QW?m=A1ZZFT5FULY4LN&tag=promobit-d-20",
+        "titulo": "Mouse sem Fio HP 200 Oman - com Sensor Óptico de até 1000 DPI Ambidestro Conexão Wireless com Receptor Nano de 2.4G",
+        "preco": 44.98,
+        "timestamp": 1791295806.0573652,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU1720202601",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-12-pares-meia-premium-cano-curto-tamanho-especial-38ao44/up/MLBU1720202601?pdp_filters=item_id%3AMLB2719044754&matt_event_ts=1791295408512&matt_d2id=4e682203-e9f9-4fb5-ab0e-5da0fa86c3bb&matt_tracing_id=a03660a8-1a91-494f-94e1-92921275d4c6#polycard_client=recommendations_home_affiliate-profile&wid=MLB2719044754&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ac56f9cc-36dc-4d0b-b707-dcb9696b627e&tracking_id=88ed6bc6-04ae-43c4-8581-33630af8f0d7&c_id=/home/card-featured/element&c_uid=2aaf21b9-e33b-412c-af74-3c932d293d45",
+        "titulo": "Kit 12 pares meia premium cano curto tamanho especial 38 ao 44",
+        "preco": 29.9,
+        "timestamp": 1791295829.228438,
+        "expirado": false
     }
 ]
