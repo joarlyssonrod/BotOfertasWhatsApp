@@ -50694,5 +50694,45 @@
         "preco": 276.0,
         "timestamp": 1791317501.5075781,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DG32SNZ4",
+        "link_bruto": "https://www.amazon.com.br/Caixa-Party-Mondial-Multicores-Bluetooth/dp/B0DG32SNZ4?tag=promobit-d-20",
+        "titulo": "Mondial Caixa De Som Party Box, Luzes Multicores, Bluetooth, 350w Rms, Tws - Pbx-350",
+        "preco": 329.0,
+        "timestamp": 1791324563.809882,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CMV4JZ65",
+        "link_bruto": "https://www.amazon.com.br/dp/B0CMV4JZ65?language=pt-BR&tag=promobit-d-20",
+        "titulo": "Smartphone Asus Zenfone 10 Snapdragon 8 Gen 2 8GB 256 GB Android 12 Tela 5,92\" Amoled Midnight Black - AI2302-2A06",
+        "preco": 2607.97,
+        "timestamp": 1791324585.599982,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09B8QFYZ2",
+        "link_bruto": "https://www.amazon.com.br/Echo-Dot-4%C2%AA-gera%C3%A7%C3%A3o-Cor-Azul/dp/B09B8QFYZ2",
+        "titulo": "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Azul, com Acesso Antecipado à Alexa+",
+        "preco": 329.0,
+        "timestamp": 1791324607.6013358,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BS6PKKV4",
+        "link_bruto": "https://www.amazon.com.br/dp/B0BS6PKKV4?tag=promobit-d-20",
+        "titulo": "Máquina De Água Com Gás Gaia Preta Sodastream Com Cilindro",
+        "preco": 527.0,
+        "timestamp": 1791324624.0102692,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3730341385",
+        "link_bruto": "https://www.mercadolivre.com.br/hot-wheels-fast--furious-7-cm-colecionavel-premium/up/MLBU3730341385?pdp_filters=item_id%3AMLB6175735804&matt_event_ts=1791324038795&matt_d2id=92652fc5-3240-4c69-9f97-f9841b9392cb&matt_tracing_id=ca943f41-829a-4005-8e6f-4bd896117ed1#polycard_client=recommendations_home_affiliate-profile&wid=MLB6175735804&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=99a79970-6039-4ee7-9622-5dd34c2ab223&tracking_id=feeb5411-366a-45c3-8aa8-7b177baea2ca&c_id=/home/card-featured/element&c_uid=30cce84b-8bba-49a6-b943-0bec6adb9121",
+        "titulo": "Hot Wheels Fast & Furious",
+        "preco": 42.0,
+        "timestamp": 1791324642.222356,
+        "expirado": false
     }
 ]
