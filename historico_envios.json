@@ -50734,5 +50734,45 @@
         "preco": 42.0,
         "timestamp": 1791324642.222356,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU5229782197",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-feminino-modare-ortopedico-chunky-casual-confortavel/up/MLBU5229782197?pdp_filters=item_id%3AMLB5270689929&matt_event_ts=1791331439211&matt_d2id=8e7c1609-d7d7-414d-8d9f-6bb189623a14&matt_tracing_id=d3fc2a11-c68a-4cfe-a8e4-297922c3b1dd#polycard_client=recommendations_home_affiliate-profile&wid=MLB5270689929&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3504bf1f-a461-40f0-ab66-a3f25a149ebe&tracking_id=b5706139-bfb9-445c-96af-a7c4b21540ba&c_id=/home/card-featured/element&c_uid=e5157160-ceb3-42c8-8b3a-9c609f083559",
+        "titulo": "Tênis Feminino Modare Ortopédico Chunky Casual Confortável Branco 34,0 Br",
+        "preco": 134.3,
+        "timestamp": 1791331812.1292777,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GNDP4LTL",
+        "link_bruto": "https://www.amazon.com.br/Monitor-LG-UltraGearTM-27G440A-B-FreeSyncTM/dp/B0GNDP4LTL/ref=sr_1_89?tag=promobit-d-20",
+        "titulo": "Monitor LG UltraGear 27\" FHD (240Hz1ms) 27G440A-B",
+        "preco": 1091.55,
+        "timestamp": 1791331829.218632,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H46V8KR5",
+        "link_bruto": "https://www.amazon.com.br/Frigideira-Antiaderente-Ergon%C3%B4mico-Compat%C3%ADvel-Vitrocer%C3%A2mico/dp/B0H46V8KR5?tag=promobit-d-20",
+        "titulo": "Frigideira Cerâmica Antiaderente Premium",
+        "preco": 41.71,
+        "timestamp": 1791331845.0334456,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07DNJ2QSP",
+        "link_bruto": "https://www.amazon.com.br/dp/B07DNJ2QSP/ref=cm_sw_r_as_gl_api_gl_i_dl_NPYT3D24ZRNZKCH4HGY3?btn_type=ss&tag=promobit-d-20",
+        "titulo": "Baggio Café Cápsulas De Café Aroma Caramelo Compatível Com Nespresso Contém 10 Cápsulas",
+        "preco": 17.9,
+        "timestamp": 1791331868.4143915,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H9P44B51",
+        "link_bruto": "https://www.amazon.com.br/Samsung-Combo-Smart-Crystal-U8000H/dp/B0H9P44B51?tag=promobit-d-20",
+        "titulo": "Samsung Combo Smart TV 70\" Crystal UHD 4K U8000H + Samsung Smart TV 43\" QLED Full HD",
+        "preco": 5719.0,
+        "timestamp": 1791331885.7143383,
+        "expirado": false
     }
 ]
