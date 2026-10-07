@@ -50982,5 +50982,13 @@
         "preco": 557.91,
         "timestamp": 1791403750.7266705,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H5LWHFMZ",
+        "link_bruto": "https://www.amazon.com.br/Micro-ondas-Philco-Branco-Pintura-PMO24B/dp/B0H5LWHFMZ?tag=promobit-d-20",
+        "titulo": "Micro-ondas Philco 20L Branco Limpa Fácil",
+        "preco": 369.0,
+        "timestamp": 1791411014.6104121,
+        "expirado": false
     }
 ]
