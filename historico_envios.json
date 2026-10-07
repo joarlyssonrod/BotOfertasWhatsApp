@@ -50910,5 +50910,45 @@
         "preco": 3770.0,
         "timestamp": 1791389446.696759,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D9PM7MDP",
+        "link_bruto": "https://www.amazon.com.br/dp/B0D9PM7MDP?tag=promobit-d-20",
+        "titulo": "Aspirador De Pó Vertical Britânia 2 Em 1 Com Filtro Ciclone 1400w Bas30 1,5l Azul 127v",
+        "preco": 98.1,
+        "timestamp": 1791396552.5110168,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FJHZWJ3V",
+        "link_bruto": "https://www.amazon.com.br/Frigobar-Litros-Inverter-Bivolt-Midea/dp/B0FJHZWJ3V?tag=promobit-d-20",
+        "titulo": "Frigobar 93 Litros Inverter Bivolt Preto com Porta na Cor Inox, Midea",
+        "preco": 843.9,
+        "timestamp": 1791396568.918036,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BZTB8GQ1",
+        "link_bruto": "https://www.amazon.com.br/dp/B0BZTB8GQ1?tag=promobit-d-20",
+        "titulo": "Forno Elétrico Philco PFE44P Dupla Resistência 44L 127V",
+        "preco": 304.79,
+        "timestamp": 1791396596.120369,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DPNYJ233",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DPNYJ233?tag=promobit-d-20",
+        "titulo": "MONDIAL Fritadeira Air Fryer Forno Oven Analógica 12L, Preto, 2000W, 110V - AFON-12L-AB",
+        "preco": 379.0,
+        "timestamp": 1791396618.0980592,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B087WJQMWH",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B087WJQMWH/?tag=promobit-d-20",
+        "titulo": "Aparelho de Jantar e Chá 20 Pçs Biona Donna Mandala",
+        "preco": 170.9,
+        "timestamp": 1791396633.023548,
+        "expirado": false
     }
 ]
