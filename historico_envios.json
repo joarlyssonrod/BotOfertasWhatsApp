@@ -50886,5 +50886,29 @@
         "preco": 1699.0,
         "timestamp": 1791382295.1301124,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_241202700",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g17-4g-128gb-12gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-fhd-60hz-bateria-5200-mah/p/241202700/te/mg17/?seller_id=magazineluiza",
+        "titulo": "Smartphone Motorola Moto G17 4G 128GB 12GB (4GB RAM + 8GB RAM Boost) Câmera 50MP Sony Lytia 600 Tela FHD+ 60Hz Bateria 5200 mAh",
+        "preco": 799.0,
+        "timestamp": 1791389398.997635,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B072BXQK4X",
+        "link_bruto": "https://www.amazon.com.br/Shampoo-Sabonete-Laranja-Weleda/dp/B072BXQK4X?tag=promobit-d-20",
+        "titulo": "WELEDA 2 Em 1 Shampoo E Sabonete De Laranja",
+        "preco": 46.0,
+        "timestamp": 1791389423.9945958,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/bundle-console-nintendo-switch-2-jogo-mario-kart-world/divulgador/oferta/bh139jfgj9/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/bundle-console-nintendo-switch-2-jogo-mario-kart-world/divulgador/oferta/bh139jfgj9/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Console Nintendo Switch 2 + Jogo Mario Kart",
+        "preco": 3770.0,
+        "timestamp": 1791389446.696759,
+        "expirado": false
     }
 ]
