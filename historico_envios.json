@@ -50950,5 +50950,37 @@
         "preco": 170.9,
         "timestamp": 1791396633.023548,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB52868995",
+        "link_bruto": "https://www.mercadolivre.com.br/escova-eletrica-philips-colgate-sonicpro-35-2-unidades/p/MLB52868995?matt_event_ts=1791403357967&matt_d2id=8ede7925-3747-4944-ba7d-35d7f1d85648&matt_tracing_id=170407d2-1323-4289-9447-f4e267ee4cfe#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3abd2ed6-cec9-4398-ae5d-6cc967c2d3e8&tracking_id=89a12dd6-1ec2-43c0-81ab-5075e5a385f3&c_id=/home/card-featured/element&c_uid=60c3a0d1-8914-4683-9b75-eee8541ac533",
+        "titulo": "Escova Eletrica Philips Colgate Sonicpro 35 2 Unidades",
+        "preco": 189.0,
+        "timestamp": 1791403697.1422534,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB55690976",
+        "link_bruto": "https://www.mercadolivre.com.br/ar-condicionado-dual-inverter-lg-compact-ai-9000-btus-frio/p/MLB55690976?matt_event_ts=1791403265931&matt_d2id=93bffecd-0e2c-4c36-849f-214d2e231ed3&matt_tracing_id=4b0072ab-17d0-4ec1-abea-4f67c648e478#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0fd2c2c5-3c2d-4303-a512-236c6591f13e&tracking_id=aaa275a9-e20b-4196-a30a-6b9f77608937&c_id=/home/card-featured/element&c_uid=47a91843-eb3d-41b7-a397-2e5bef56b7c9",
+        "titulo": "Ar Condicionado Dual Inverter Lg Compact Ai 9000 Btus Frio",
+        "preco": 1598.0,
+        "timestamp": 1791403715.4379568,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4238094563",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4238094563-calca-masculina-alfaiataria-italiana-moderna-social-aba-_JM?searchVariation=191480169337&matt_event_ts=1791403237390&matt_d2id=98cfe5f7-d772-4972-ba70-a178e354f407&matt_tracing_id=6bba260d-5162-4433-a1e1-b0f8d61f7a09#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=18007bde-1fb6-4539-b7f0-ebb6d1dd1423&tracking_id=4919d9ef-62bb-4f83-91cf-4e7a101f4a54&c_id=/home/card-featured/element&c_uid=a71c2c31-f6ff-4e3d-9319-99c582f1f3e2",
+        "titulo": "Calça Masculina Alfaiataria Italiana Moderna Social Aba",
+        "preco": 44.09,
+        "timestamp": 1791403733.603044,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_EGK629D947",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/air-fryer-fritadeira-15l-10-funcoes-1900w-paf15c-110v-philco/p/egk629d947/ep/efso/?seller_id=mbc-ferramentas",
+        "titulo": "Air Fryer Fritadeira 15l 10 Funções 1900w Paf15c 110v Philco",
+        "preco": 557.91,
+        "timestamp": 1791403750.7266705,
+        "expirado": false
     }
 ]
