@@ -50854,5 +50854,37 @@
         "preco": 1629.0,
         "timestamp": 1791375411.708673,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D2NPSGH5",
+        "link_bruto": "https://www.amazon.com.br/dp/B0D2NPSGH5?tag=promobit-d-20",
+        "titulo": "Relógio Inteligente Amazfit Balance 46mm A2287 ZEPP FOLOW Composição Corporal GPS Step Tracking Alexa Built-In Ch",
+        "preco": 841.06,
+        "timestamp": 1791382241.497448,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GH2SC1XG",
+        "link_bruto": "https://www.amazon.com.br/TCL-55P8K-Google-Assistente-Vision/dp/B0GH2SC1XG/ref=pd_sbs_d_sccl_2_2/141-3083875-4606628?pd_rd_w=OKCt1&content-id=amzn1.sym.5b0076ec-a2eb-45c9-a8f1-9806e9523395&pd_rd_wg=UFR6D&pd_rd_r=97ac4f7b-8dbf-40b5-a04a-79eeafd97d2c&pd_rd_i=B0GH2SC1XG&tag=promobit-d-20",
+        "titulo": "TCL QLED Smart TV 55 55P8K 4K UHD Google TV 144Hz Google Assistente Dolby Vision Dolby Atmos Design Sem Bor",
+        "preco": 1499.0,
+        "timestamp": 1791382256.9208345,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB25539351",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-jean-paul-gaultier-le-beau-eau-de-toilette-125-ml-masculino/p/MLB25539351?matt_event_ts=1791381760336&matt_d2id=ff521277-c0ee-4b89-8524-72c4cbac8af4&matt_tracing_id=295459f5-c2e4-47c8-b8fe-6117265f5bc2#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=36fa90da-cd24-418e-bdae-cc41c8c870a3&tracking_id=7b1a57ad-9ed3-4eb8-975f-169d5700ac99&c_id=/home/card-featured/element&c_uid=bb4a43e4-6da5-401f-8bbf-b3c3dc33ae15",
+        "titulo": "Perfume Jean Paul Gaultier Le Beau EDT 125ml",
+        "preco": 465.0,
+        "timestamp": 1791382269.2019904,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FYRDJ4GJ",
+        "link_bruto": "https://www.amazon.com.br/TCL-Polegadas-Bluetooth-Google-Vision/dp/B0FYRDJ4GJ/ref=asc_df_B0FYRDJ4GJ?mcid=a7e4b749a89e3045b5288f92d83cffda&hvadid=709964502896&hvpos=&hvnetw=g&hvrand=16401038251372103684&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9074128&hvtargid=pla-2468430162186&hvocijid=16401038251372103684-B0FYRDJ4GJ-&hvexpln=0&language=pt_BR&tag=promobit-d-20",
+        "titulo": "Smart TV TCL 55 Polegadas QLED 4K P8K WiFi Bluetooth Google TV 144Hz HDR10+ Dolby Atmos Vision 55P8K",
+        "preco": 1699.0,
+        "timestamp": 1791382295.1301124,
+        "expirado": false
     }
 ]
