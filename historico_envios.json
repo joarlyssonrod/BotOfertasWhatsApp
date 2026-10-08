@@ -51142,5 +51142,61 @@
         "preco": 1721.81,
         "timestamp": 1791461877.7070498,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DQQCM4T3",
+        "link_bruto": "https://www.amazon.com.br/Caloi-Bicicleta-Andes-C%C3%A2mbio-Velocidades/dp/B0DQQCM4T3?amp=&tag=promobit-d-20",
+        "titulo": "Bicicleta Caloi Andes Aro 26, 21 Marchas, Grip Shift, Suspensão Dianteira 30mm, Freio V",
+        "preco": 620.99,
+        "timestamp": 1791468591.47191,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU5149104517",
+        "link_bruto": "https://www.mercadolivre.com.br/scooter-eletrico-dx5pro-motor-1500w-para-adultos-max-60kmh/up/MLBU5149104517?pdp_filters=item_id%3AMLB7630297578&matt_event_ts=1791468169007&matt_d2id=a6ecc61d-eed3-42d3-b91a-05b1d71b5056&matt_tracing_id=4d9f4a17-2634-4796-9c71-c015983db6c0#polycard_client=recommendations_home_affiliate-profile&wid=MLB7630297578&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1112265e-ef5a-46e7-972d-d2ea971f20f6&tracking_id=f6b8f1d6-d20f-49f0-8361-35604ad0f5e6&c_id=/home/card-featured/element&c_uid=ec17a6d9-d154-4e0c-924c-465a210e6abf",
+        "titulo": "Scooter Elétrico Dx5pro Motor 1500w Para Adultos Max 60kmh Preto",
+        "preco": 5160.61,
+        "timestamp": 1791468609.9141397,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23397429688",
+        "link_bruto": "https://s.shopee.com.br/3B81kvdybx",
+        "titulo": "Camisola Sexy Com Renda Sem Bojo Costa Nua Sensual Pijama Roupa De Dormi Costas Abertas",
+        "preco": 28.9,
+        "timestamp": 1791468625.6006415,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3713527861",
+        "link_bruto": "https://www.mercadolivre.com.br/cubo-didatico-interativo-para-bebe-brinquedo-montessori-6x1/up/MLBU3713527861?pdp_filters=item_id%3AMLB4411160437&matt_event_ts=1791468129929&matt_d2id=20e425bc-ca4d-41c1-8b72-0b684b730141&matt_tracing_id=b1e043c9-f742-4dc6-a66f-1337f67c02b5#polycard_client=recommendations_home_affiliate-profile&wid=MLB4411160437&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4ee17cf0-971a-4ed4-90a2-72aa44d4d67f&tracking_id=e5b2f931-6438-459e-8a18-a66ca7aac551&c_id=/home/card-featured/element&c_uid=bb9df0aa-e157-4e36-a024-ec0a37bfc839",
+        "titulo": "Brinquedo Interativo Foguete De Atividades",
+        "preco": 51.0,
+        "timestamp": 1791468639.498868,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23796784060",
+        "link_bruto": "https://s.shopee.com.br/3g4ILqc4b6",
+        "titulo": "Árvore Pinheiro Canadense de Natal Tradicional 1,20m 120 Galhos Artificial",
+        "preco": 34.9,
+        "timestamp": 1791468660.7014456,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D3M2R8PK",
+        "link_bruto": "https://www.amazon.com.br/dp/B0D3M2R8PK?social_share=cm_sw_r_cso_cp_apan_dp_2YB53C2E60PEY1W9YHTD&tag=promobit-d-20",
+        "titulo": "Mochila Térmica Bolsa Bag Cooler Homem Mulher Refrigerador Marmita Quente Cerveja Gelada Viagem Praia",
+        "preco": 30.54,
+        "timestamp": 1791468684.4182723,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23294447248",
+        "link_bruto": "https://s.shopee.com.br/3LRRxEdLH4",
+        "titulo": "Bicicleta Ergométrica Horizontal Magnética Winnek Monitor Digital 8 Niveis de ajustes Sensor de pulsaçao Pedal com Cinta",
+        "preco": 1299.97,
+        "timestamp": 1791468700.5129294,
+        "expirado": false
     }
 ]
