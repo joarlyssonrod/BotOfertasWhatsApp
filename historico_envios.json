@@ -51366,5 +51366,53 @@
         "preco": 34.93,
         "timestamp": 1791483523.9098418,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B076X6CCGJ",
+        "link_bruto": "https://www.amazon.com.br/dp/B076X6CCGJ?m=A1ZZFT5FULY4LN&tag=promobit-d-20",
+        "titulo": "Jogo da Vida Brinquedos Estrela",
+        "preco": 65.05,
+        "timestamp": 1791490146.8353436,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BN318ZY7",
+        "link_bruto": "https://www.amazon.com.br/dp/B0BN318ZY7?social_share=cm_sw_r_cso_cp_apan_dp_50J6C4ETVT65Z51MG8TK&tag=promobit-d-20",
+        "titulo": "Buró, Decisões de Merda, Jogo de Cartas para Amigos, 5-30 jogadores",
+        "preco": 47.0,
+        "timestamp": 1791490160.8984327,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GMKJDHT9",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GMKJDHT9?tag=promobit-d-20",
+        "titulo": "Smartphone Motorola Signature 5G 512GB 12GB RAM 3 Cameras 50MP Extreme AMOLED Verde Oliva",
+        "preco": 4702.4,
+        "timestamp": 1791490182.629163,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB17336383",
+        "link_bruto": "https://www.mercadolivre.com.br/huggies-fralda-descartavel-maxima-protecao-g-136-un/p/MLB17336383?matt_event_ts=1791489719134&matt_d2id=9e2f3184-5633-43dc-ba51-18912a4ac141&matt_tracing_id=32683ad2-7382-4e5b-bbf7-17ea4ccd54aa#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=c76c1570-98e7-4111-9eee-9e8835c9428f&tracking_id=6975d921-1160-465f-951d-3a777ace18bb&c_id=/home/card-featured/element&c_uid=86254bb3-d147-43b2-a964-48de3bc07a2f",
+        "titulo": "Fralda Huggies Máxima Proteção G 136 unidades",
+        "preco": 115.64,
+        "timestamp": 1791490197.303148,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BX4GJBZ8",
+        "link_bruto": "https://www.amazon.com.br/Refrigerador-LG-Litros-Side-Prata/dp/B0BX4GJBZ8?tag=promobit-d-20",
+        "titulo": "Refrigerador Lg 509 Litros Side By Side Prata – 220 Volts",
+        "preco": 4589.1,
+        "timestamp": 1791490214.4034507,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19441377",
+        "link_bruto": "https://www.mercadolivre.com.br/deo-colonia-natura-luna-fascinante-feminino-75ml/p/MLB19441377?matt_event_ts=1791489632991&matt_d2id=f06724fb-5940-471b-8066-d515ee529c69&matt_tracing_id=0388dfa1-74a9-4889-8f5b-5395afbd9334#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5b4c6ab8-2809-49a0-928f-a1ca0b485ff6&tracking_id=00fbefb1-030c-4e6c-917e-f6c664b12319&c_id=/home/card-featured/element&c_uid=0c549ab1-730c-4967-b180-674b53ab1099",
+        "titulo": "Deo Colônia Natura Luna Fascinante Feminino 75ml",
+        "preco": 79.0,
+        "timestamp": 1791490243.7967155,
+        "expirado": false
     }
 ]
