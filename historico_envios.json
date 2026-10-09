@@ -51782,5 +51782,29 @@
         "preco": 246.58,
         "timestamp": 1791569864.7286298,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D44L7TFD",
+        "link_bruto": "https://www.amazon.com.br/JBL-Bluetooth-Auricular-Cancelamento-Resistente/dp/B0D44L7TFD/ref=sr_1_18?m=ALWWYP7RC31TD&marketplaceID=A2Q3Y263D00KWC&s=merchant-items&xpid=WNcYs7jgTewLB&tag=promobit-d-20",
+        "titulo": "JBL Fone de Ouvido Bluetooth Live Beam 3 In-ear Tela de 1.45\" Cancelamento de Ruído - Prata",
+        "preco": 567.66,
+        "timestamp": 1791576563.1166508,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB64996605",
+        "link_bruto": "https://www.mercadolivre.com.br/bicicleta-eletrica-xroymexroy-eb5-para-adultos-com-motor-de-750w-e-bateria-de-104ah/p/MLB64996605?matt_event_ts=1791576046539&matt_d2id=0c846149-f66c-4511-b971-2b2a246be603&matt_tracing_id=c56270e5-60db-4b17-bf04-a1138a2a64db#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=45bc53d4-44ec-4400-a6ed-6f50ad81cfcc&tracking_id=10e4f7d5-4bcd-475e-8316-83eb54a4dfdc&c_id=/home/card-featured/element&c_uid=d70afd15-1a5b-43d5-bff9-57c987e6d2d4",
+        "titulo": "Bicicleta Elétrica Xroymexroy EB5 para Adultos com Motor de 750W e Bateria de 10.4Ah",
+        "preco": 5042.0,
+        "timestamp": 1791576580.4072487,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FQGZLNY5",
+        "link_bruto": "https://www.amazon.com.br/Apple-iPhone-17-Pro-Max/dp/B0FQGZLNY5?tag=promobit-d-20",
+        "titulo": "Apple iPhone 17 Pro Max (2 TB) - Prateado",
+        "preco": 13082.4,
+        "timestamp": 1791576597.6187637,
+        "expirado": false
     }
 ]
