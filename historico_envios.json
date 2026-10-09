@@ -51494,5 +51494,45 @@
         "preco": 3897.38,
         "timestamp": 1791504570.635835,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-asics-gel-flexkee-pro-2-0-paris-masculino-preto-amarelo/divulgador/oferta/fdj39ddb12/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-asics-gel-flexkee-pro-2-0-paris-masculino-preto-amarelo/divulgador/oferta/fdj39ddb12/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis ASICS GEL-Flexkee Pro 2.0 Paris - Masculino",
+        "preco": 485.99,
+        "timestamp": 1791547856.2150142,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GKQT7HPX",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GKQT7HPX?social_share=cm_sw_r_apan_dp_2XQ54HTHKN6KEJ04XEMD&tag=promobit-d-20",
+        "titulo": "Celular Samsung Galaxy S26+ 5G 256GB 12GB RAM Câmera Tripla de 50+12+10 Tela Grande de 6.7\" - Preto",
+        "preco": 4999.0,
+        "timestamp": 1791547872.4166522,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D9KL3T8S",
+        "link_bruto": "https://www.amazon.com.br/dp/B0D9KL3T8S?tag=promobit-d-20",
+        "titulo": "Home Teather Soundbar LG 810W RMS Dolby Atmos 9.1.5 Canais Caixas de Som Traseiras - S95TR",
+        "preco": 1359.0,
+        "timestamp": 1791547894.6140056,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/maquina-de-lavar-electrolux-13kg-branca-essential-care-com-cesto-inox-e-jet-clean-led13/divulgador/oferta/ggjc04cgh4/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/maquina-de-lavar-electrolux-13kg-branca-essential-care-com-cesto-inox-e-jet-clean-led13/divulgador/oferta/ggjc04cgh4/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Máquina de Lavar Electrolux 13kg Branca Essential Care com Cesto Inox e Jet&Clean (LED13)",
+        "preco": 1849.0,
+        "timestamp": 1791547906.498253,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GW4633WC",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GW4633WC?tag=promobit-d-20",
+        "titulo": "Fralda Pampers Pants Ajuste Total XXG 74 Unidades",
+        "preco": 88.0,
+        "timestamp": 1791547920.119766,
+        "expirado": false
     }
 ]
