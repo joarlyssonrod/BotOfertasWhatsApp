@@ -51462,5 +51462,37 @@
         "preco": 5969.0,
         "timestamp": 1791497769.002218,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B09XBNTHCC",
+        "link_bruto": "https://www.amazon.com.br/Jogo-Panelas-pe%C3%A7as-Solar-Tramontina/dp/B09XBNTHCC?tag=promobit-d-20",
+        "titulo": "Tramontina Jogo de Panelas de Aço Inox com Fundo Triplo 6 peças Solar",
+        "preco": 493.8,
+        "timestamp": 1791504517.401299,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C6FCQ6CP",
+        "link_bruto": "https://www.amazon.com.br/dp/B0C6FCQ6CP/?tag=promobit-d-20",
+        "titulo": "Philco Adega Pad16e Bivolt",
+        "preco": 701.0,
+        "timestamp": 1791504542.6231966,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HDYZV8NQ",
+        "link_bruto": "https://www.amazon.com.br/Bundle-Console-Nintendo-Switch-Autom%C3%A1tico/dp/B0HDYZV8NQ?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.4WcIQiIKB6Ip7jncfGWrf1RlFtItIE_snJtVH3XPWwEHmWNpDE90YNJkP1ADa5LCpAZ1cMFGgJgihEKSeHRFqDeptTjo3v1odQSKtsNS8CzgBkhXR2q_dwdYmnNAh6kvjeeX7irvLQcksjOQiWZSSOFW5np4hXYEJSJfM1oHjPwFAanamYsLA5i1-dgfA_4Oa1T7HRHb_5vFdWtAqP9HMhUxB9xkoC94LwNwUfJs_90AaWTSCFU42dBRbvgOEVPNry6QvesVEn6mAVVylmqapGmVd0KCu3lpcqtSuoaZc2I.A1wSWPqDVGQoi19ZAeQpXvQRc3RC5WzvbDOyB1sjTtM&dib_tag=se&keywords=Bundle+Console+Nintendo+Switch+2&qid=1790691646&btn_type=ss&tag=promobit-d-20",
+        "titulo": "Bundle Console Nintendo Switch 2 + Câmera USB-C com Sensor de Brilho Automático",
+        "preco": 3860.86,
+        "timestamp": 1791504557.608787,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GV693V88",
+        "link_bruto": "https://www.amazon.com.br/Console-Nintendo-Switch-Metroid-Prime/dp/B0GV693V88?btn_type=ss&content-id=amzn1.sym.6a198a0a-a6d7-4c56-9529-dedc5e546f3c&dib=eyJ2IjoiMSJ9.VZjy6M79ab6Yjz21k1FpG728UrhFmDH3h2rzrLYHNc9s2SbLA36WrOxgZ086zwmrzHvJHKhiUcITogOWIEi8i2wvuAtaSjwTWySgzC38Sy_UP8mU49soaZzFlfeXIIhraNyEXTvmfjEIfaJAmrmT4w.z4CmqTkgAFlgnaoniKU2PrscLcrXqVjitpyv5Ro6RKU&dib_tag=se&pd_rd_r=b58813c7-ab50-4dee-901b-684eca318ff8&pd_rd_w=9TQOo&pd_rd_wg=9FcBL&qid=1790633519&srs=222938479011&xpid=niurhPx7HVaJq&tag=promobit-d-20",
+        "titulo": "Console Nintendo Switch 2 + Jogo Metroid Prime 4: Beyond",
+        "preco": 3897.38,
+        "timestamp": 1791504570.635835,
+        "expirado": false
     }
 ]
