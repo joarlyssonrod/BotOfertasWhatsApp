@@ -52230,5 +52230,21 @@
         "preco": 1212.99,
         "timestamp": 1791641919.5020003,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GT2CBBBR",
+        "link_bruto": "https://www.amazon.com.br/Fralda-Turma-Monica-Baby-Unidades/dp/B0GT2CBBBR?tag=promobit-d-20",
+        "titulo": "Fralda Turma da Monica Baby Giga XXG 50 Unidades",
+        "preco": 47.0,
+        "timestamp": 1791648637.1437728,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB26217738",
+        "link_bruto": "https://www.mercadolivre.com.br/headset-gamer-hyperx-cloud-iii-preto-e-vermelho-com-microfone-e-som-surround-71-para-pc-ps5-e-xbox/p/MLB26217738?matt_event_ts=1791648315351&matt_d2id=cfcb597e-002d-48e3-bcaf-2b8f2a8258d2&matt_tracing_id=b29bc670-7745-418c-bc34-4d427b677671#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=9e9c9e69-2222-45b9-b231-ce786ec42882&tracking_id=850a58dd-5893-4491-8e30-a8009ab21868&c_id=/home/card-featured/element&c_uid=a83dcf27-d9a8-4067-8639-c4ea5f17021f",
+        "titulo": "Headset Gamer HyperX Cloud Iii, Dts, Drivers 53mm, Usb, Preto e Vermelho 727A9aa",
+        "preco": 315.0,
+        "timestamp": 1791648656.8100994,
+        "expirado": false
     }
 ]
