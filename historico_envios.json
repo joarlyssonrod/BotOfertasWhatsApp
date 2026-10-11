@@ -52862,5 +52862,53 @@
         "preco": 115.41,
         "timestamp": 1791749543.4068131,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B093QCF4PM",
+        "link_bruto": "https://www.amazon.com.br/Laptop-Do-Patrulha-Canina-Bilingue/dp/B093QCF4PM/?tag=promobit-d-20",
+        "titulo": "Candide, Laptop Infantil, Patrulha Canina, Brinquedo Educativo - Bilíngue",
+        "preco": 37.99,
+        "timestamp": 1791756631.2054293,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB2040544718",
+        "link_bruto": "https://www.mercadolivre.com.br/console-playstation5-slim-digital-pacote-astro-bot-e-gran-turismo-7-branco-novo-com-caixa-aberta/p/MLB2040544718?matt_event_ts=1791756352287&matt_d2id=b5ec8ca1-ebed-466f-8522-21b3e2c7ba9b&matt_tracing_id=83fe8379-8ab1-4b8a-a157-1c2b1e874042#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=aceed97e-cbff-4dc2-a8c7-4c9585e6a9b1&tracking_id=37dd2fad-007d-4215-8805-7fb7c2c9c4a2&c_id=/home/card-featured/element&c_uid=a29a68a6-2210-4207-b495-009684eae374",
+        "titulo": "Console Playstation5 Slim Digital - Pacote Astro Bot E Gran Turismo 7 - Branco (Novo com caixa aberta)",
+        "preco": 3299.0,
+        "timestamp": 1791756644.6205533,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0B7K738RQ",
+        "link_bruto": "https://www.amazon.com.br/Fralda-Personal-Protect-4x70pads-Unidades/dp/B0B7K738RQ?tag=promobit-d-20",
+        "titulo": "Fralda Personal Baby Protect&Sec M 70 unidades",
+        "preco": 36.87,
+        "timestamp": 1791756665.422634,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50444272",
+        "link_bruto": "https://www.mercadolivre.com.br/caixa-de-som-jbl-charge-6-bluetooth-preto-original/p/MLB50444272?matt_event_ts=1791756229654&matt_d2id=0180ca9c-7995-4457-b3de-70dea8919793&matt_tracing_id=8940ad67-86bf-41fd-9500-96426dfef2cf#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=82afbcac-c683-4eed-a6a6-2f1c088836da&tracking_id=af5c3e45-6326-4412-b2fe-0917082d5d60&c_id=/home/card-featured/element&c_uid=9f208bea-9fae-4ba1-be15-3dd1f8fa628d",
+        "titulo": "Caixa De Som Jbl Charge 6 Bluetooth Preto",
+        "preco": 827.91,
+        "timestamp": 1791756684.815183,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_DKC5AFBDEA",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-olympikus-marte-masculino/p/dkc5afbdea/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Olympikus Marte Masculino",
+        "preco": 142.49,
+        "timestamp": 1791756697.0347795,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HGAK1HFDG7",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-prize-masculino/p/hgak1hfdg7/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Fila Prize Masculino",
+        "preco": 218.49,
+        "timestamp": 1791756724.3096495,
+        "expirado": false
     }
 ]
