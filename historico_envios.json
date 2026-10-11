@@ -52662,5 +52662,29 @@
         "preco": 42.0,
         "timestamp": 1791720697.8009999,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BBPM2V9F",
+        "link_bruto": "https://www.amazon.com.br/dp/B0BBPM2V9F?social_share=cm_sw_r_apin_dp_01TSVZCNGT5JSJEWD938&tag=promobit-d-20",
+        "titulo": "Celite Kit Bacia Convencional Assento Polipropileno Soft Close e Complementos de Instalação City Cor: Branco",
+        "preco": 531.9,
+        "timestamp": 1791727676.795072,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C15N6QWY",
+        "link_bruto": "https://www.amazon.com.br/dp/B0C15N6QWY?social_share=cm_sw_r_apan_dp_MRM6F0C9FPC6QSPJFC6B&tag=promobit-d-20",
+        "titulo": "Casio Iluminador Série AE1500WH | Bateria de 10 anos | Retroiluminação LED | 5 alarmes | Cronômetro de 1100 segundo",
+        "preco": 175.32,
+        "timestamp": 1791727694.7278662,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F3M62DY3",
+        "link_bruto": "https://www.amazon.com.br/dp/B0F3M62DY3?social_share=cm_sw_r_apin_dp_6DSGS91X46AA44GQ5762&tag=promobit-d-20",
+        "titulo": "Tablet Samsung Galaxy Tab S10 FE Prata 128GB 8GB RAM Tela Imersiva de 10.9\" 90Hz Camera Traseira de 13MP Câmera F",
+        "preco": 2998.99,
+        "timestamp": 1791727712.4970698,
+        "expirado": false
     }
 ]
