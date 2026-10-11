@@ -52686,5 +52686,45 @@
         "preco": 2998.99,
         "timestamp": 1791727712.4970698,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B004SOA3ZG",
+        "link_bruto": "https://www.amazon.com.br/dp/B004SOA3ZG?social_share=cm_sw_r_apan_dp_NSH5G5YYCT8YBE3XHFDR&tag=promobit-d-20",
+        "titulo": "Óculos de Sol Ray-Ban Wayfarer Unissex Preto Tamanho 54",
+        "preco": 479.9,
+        "timestamp": 1791734998.1155875,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B00CTH0A1Q",
+        "link_bruto": "https://www.amazon.com.br/dp/B00CTH0A1Q?tag=promobit-d-20",
+        "titulo": "UNO Original",
+        "preco": 13.0,
+        "timestamp": 1791735026.7987175,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08DHW4CT9",
+        "link_bruto": "https://www.amazon.com.br/dp/B08DHW4CT9/ref=cm_sw_r_as_gl_api_gl_i_MPTWKGH4A48QNCPESRJE?tag=promobit-d-20",
+        "titulo": "My Way Giorgio Armani - Perfume Feminino - Edp",
+        "preco": 305.1,
+        "timestamp": 1791735052.2331462,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DTZRBDLQ",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DTZRBDLQ?tag=promobit-d-20",
+        "titulo": "Geladeira Refrigerador HQ Frost Free Multidoor 426 Litros Prata HQ-426MDFF (220V)",
+        "preco": 2690.1,
+        "timestamp": 1791735076.804971,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0789M146B",
+        "link_bruto": "https://www.amazon.com.br/dp/B0789M146B?social_share=cm_sw_r_apan_dp_5CEVYZH8D086DPK8Q23E&tag=promobit-d-20",
+        "titulo": "Faqueiro Tramontina Búzios em Aço Inox com Detalhe 24 Peças",
+        "preco": 62.77,
+        "timestamp": 1791735102.0389783,
+        "expirado": false
     }
 ]
