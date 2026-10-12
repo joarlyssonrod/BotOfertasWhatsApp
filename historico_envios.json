@@ -53214,5 +53214,13 @@
         "preco": 89.75,
         "timestamp": 1791828738.0036616,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CZ4C8G3R",
+        "link_bruto": "https://www.amazon.com.br/dp/B0CZ4C8G3R?tag=promobit-d-20",
+        "titulo": "Vichy, Dercos Shampoo Anticaspa Para Cabelos Normais A Oleosos",
+        "preco": 56.55,
+        "timestamp": 1791835819.8955598,
+        "expirado": false
     }
 ]
