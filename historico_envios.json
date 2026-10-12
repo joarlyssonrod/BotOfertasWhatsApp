@@ -52910,5 +52910,21 @@
         "preco": 218.49,
         "timestamp": 1791756724.3096495,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FCG6CYYT",
+        "link_bruto": "https://www.amazon.com.br/Camisa-Corinthians-Retr%C3%B4-Kalunga-Masculina/dp/B0FCG6CYYT/ref=sr_1_1?psr=PDAY&s=pbdd&tag=promobit-d-20",
+        "titulo": "Corinthians Camisa Polo Retrô Kalunga Masculina Preta",
+        "preco": 89.9,
+        "timestamp": 1791763705.2037983,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CFP3GDNH",
+        "link_bruto": "https://www.amazon.com.br/Condicionado-Fujitsu-Inverter-Airstage-Essencial/dp/B0CFP3GDNH/ref=asc_df_B0CFP3GDNH?mcid=e23a0a51537331adb82269af66992337&hvadid=709968341215&hvpos=&hvnetw=g&hvrand=8405242295928793530&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031795&hvtargid=pla-2374965683437&hvocijid=8405242295928793530-B0CFP3GDNH-&hvexpln=0&language=pt_BR&tag=promobit-d-20",
+        "titulo": "Ar Condicionado Split Fujitsu Inverter 24.000 Btus",
+        "preco": 3238.0,
+        "timestamp": 1791763717.9341278,
+        "expirado": false
     }
 ]
