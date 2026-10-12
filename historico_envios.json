@@ -53222,5 +53222,37 @@
         "preco": 56.55,
         "timestamp": 1791835819.8955598,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU4994215311",
+        "link_bruto": "https://www.mercadolivre.com.br/piscina-inflavel-retangular-3000l-resistente/up/MLBU4994215311?pdp_filters=item_id%3AMLB5156948699&matt_event_ts=1791842445101&matt_d2id=e6584d97-a071-4afe-9a18-5baed86028e9&matt_tracing_id=b6c27432-8568-481b-a09c-3024177d10e0#polycard_client=recommendations_home_affiliate-profile&wid=MLB5156948699&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5ae9500b-7487-4eb6-8cea-0b4cbf87c90f&tracking_id=8473773a-9712-42fa-8f17-c901b7b4accd&c_id=/home/card-featured/element&c_uid=9a037549-1005-4039-a917-75c71fb0de2f",
+        "titulo": "Piscina Inflável Retangular 3000l Resistente",
+        "preco": 347.4,
+        "timestamp": 1791842946.7186534,
+        "expirado": false
+    },
+    {
+        "id": "https://shopee.com.br/opaanlp/667325763/58261074556",
+        "link_bruto": "https://shopee.com.br/opaanlp/667325763/58261074556?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMaBRvcqdZwgRklGTWoHoxFGhRfNAexxPkhN1n8rcCO5qFEud_-aY2hsGdfUnqCpX0P0Z7lpJy6IP6_Ew8qmNpcGhlcnRleHTElwAAAAwTrGkj8jCKiyna3T8s3NxEuag4QU06B8dWnCR4pDHlGXL7ZLpEJ5k5ku5G4LUNavyjpY0qYPsyjoepAo09NniMN4EgfZhROouPYgbfUj1dtLd5eIyHkYTeZ46rc8XxeLTTO1KKX4Mh_rPIDcmpmVKjgGWXJvhhoVZqvtqE_n0TJfSGuN6-8EH71Jpm8LMvWFv1FdU&mmp_pid=an_18140170000&uls_trackid=56s3dlao00kv&utm_campaign=id_cce118f5449363a5&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fovxeb424ihn",
+        "titulo": "Secador De Sapato Inteligente Dobrável Tênis Elimina Umidade Mal Cheiro E Odor 110V 220V",
+        "preco": 48.97,
+        "timestamp": 1791842967.8956704,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0B4DT2DBJ",
+        "link_bruto": "https://www.amazon.com.br/dp/B0B4DT2DBJ?language=pt-BR&tag=promobit-d-20",
+        "titulo": "Câmera Digital Kodak PIXPRO WPZ2 - Red",
+        "preco": 1004.45,
+        "timestamp": 1791842994.5001087,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JAAEF1JJEG",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-lite-racer-4-0/p/jaaef1jjeg/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Adidas Lite Racer 4 0",
+        "preco": 180.49,
+        "timestamp": 1791843015.8304904,
+        "expirado": false
     }
 ]
