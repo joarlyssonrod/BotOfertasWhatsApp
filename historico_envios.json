@@ -53254,5 +53254,61 @@
         "preco": 180.49,
         "timestamp": 1791843015.8304904,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GKR1T5Q1",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GKR1T5Q1?tag=promobit-d-20",
+        "titulo": "Galaxy S26 Plus Exynos 2600 512 GB 12 GB RAM",
+        "preco": 4887.0,
+        "timestamp": 1791850582.6166682,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FDX5NC1G",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FDX5NC1G?tag=promobit-d-20",
+        "titulo": "Samsung Galaxy Watch8 Smartwatch 40mm BT, Galaxy AI - Grafite",
+        "preco": 1092.43,
+        "timestamp": 1791850596.0662417,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3914952759",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-masculino-esportivo-olimpic-academia-caminhada-promoca/up/MLBU3914952759?pdp_filters=item_id%3AMLB4631450199&matt_event_ts=1791849673495&matt_d2id=c465ee2e-9e64-4a0a-917a-25122519f85e&matt_tracing_id=dc639e86-f376-4416-9f24-64e8b13fd788#polycard_client=recommendations_home_affiliate-profile&wid=MLB4631450199&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d3481a05-89fb-4e26-bcdb-be796f60b8eb&tracking_id=2c4bf60b-cd4d-4c6d-8e0a-7da3e441503e&c_id=/home/card-featured/element&c_uid=3e7ecd2d-59ce-446d-9fb5-6b737919f23e",
+        "titulo": "Tenis Masculino Esportivo Olimpic Academia Caminhada Promoçã Pretobranco 40 Br",
+        "preco": 97.0,
+        "timestamp": 1791850617.4007106,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BV3FLK6M",
+        "link_bruto": "https://www.amazon.com.br/dp/B0BV3FLK6M?tag=promobit-d-20",
+        "titulo": "Smartphone Positivo P41 4g, Tela 2.4\", 32mb Ram, Dual Sim, Rádio Fm, Bateria 1000mah - Preto",
+        "preco": 147.32,
+        "timestamp": 1791850642.5246685,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DSLQQ3M1",
+        "link_bruto": "https://www.amazon.com.br/Ricca-Bast%C3%A3o-Protetor-Solar-FPS60/dp/B0DSLQQ3M1?amp=&tag=promobit-d-20",
+        "titulo": "Ricca, Protetor Solar Em Bastão, FPS60",
+        "preco": 35.15,
+        "timestamp": 1791850656.5160131,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GLSYH1KV",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GLSYH1KV?tag=promobit-d-20",
+        "titulo": "Redragon Gabinete Gamer Eternal Pro Mid Tower Aço e Vidro Temperado Sem Fans c Tela LCD ATX Preto e Vermelho - CA-613BR",
+        "preco": 433.0,
+        "timestamp": 1791850670.1200204,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B099KV2733",
+        "link_bruto": "https://www.amazon.com.br/dp/B099KV2733?tag=promobit-d-20",
+        "titulo": "Fralda Turma Da Mônica Baby Mega Xg 42 Unidades",
+        "preco": 37.19,
+        "timestamp": 1791850682.5992758,
+        "expirado": false
     }
 ]
