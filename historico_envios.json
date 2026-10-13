@@ -53318,5 +53318,21 @@
         "preco": 69.99,
         "timestamp": 1791893307.3020842,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_FFHBJ47JGD",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-duramo-rc2-masculino/p/ffhbj47jgd/es/oedc/?seller_id=netshoes",
+        "titulo": "Tênis Adidas Duramo Rc2 Masculino",
+        "preco": 199.49,
+        "timestamp": 1791900704.747659,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22094517520",
+        "link_bruto": "https://s.shopee.com.br/9pf3fldYRY",
+        "titulo": "Kit Moletom Aranha Spider Casal Blusa De Frio Dia Dos Namorados Agasalho 100% Algodão StreetWear",
+        "preco": 165.99,
+        "timestamp": 1791900728.0463624,
+        "expirado": false
     }
 ]
