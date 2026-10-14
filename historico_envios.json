@@ -53438,5 +53438,13 @@
         "preco": 3689.0,
         "timestamp": 1792001528.9041445,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB34166488",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-advantage-20-adidas/p/MLB34166488?matt_event_ts=1792008435068&matt_d2id=9f2de18a-718e-4c80-9e1e-f0d3e855af99&matt_tracing_id=143ab0d4-209b-4c01-b2d3-d2acdca981fe#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=db67ce33-78af-4961-8f63-938f43fba271&tracking_id=61ff6bd6-5470-454d-9816-aee292063978&c_id=/home/card-featured/element&c_uid=1bb59c2d-2593-4ea2-bc91-845c45726a1e",
+        "titulo": "Tênis Advantage 2.0 adidas",
+        "preco": 134.0,
+        "timestamp": 1792008732.9391665,
+        "expirado": false
     }
 ]
