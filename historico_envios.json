@@ -53374,5 +53374,53 @@
         "preco": 1359.0,
         "timestamp": 1791979707.5312543,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_51054004534",
+        "link_bruto": "https://s.shopee.com.br/2LZ4KxQWbL",
+        "titulo": "100 % Algodão Puro Verão Nova Moda Masculina De Manga Curta Luxo Personalizado Camisa polo De Negócios Requintado Bordad",
+        "preco": 104.91,
+        "timestamp": 1791987179.122146,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_GA19CH2F97",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-urban-court-masculino/p/ga19ch2f97/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Adidas Urban Court Masculino",
+        "preco": 179.99,
+        "timestamp": 1791987200.0967052,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_241203100",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g17-4g-128gb-12gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-fhd-60hz-bateria-5200-mah/p/241203100/te/mg17/?seller_id=magazineluiza",
+        "titulo": "Smartphone Motorola Moto G17 4G 128GB 12GB (4GB RAM + 8GB RAM Boost) Câmera 50MP Sony Lytia 600 Tela FHD+ 60Hz Bateria 5200 mAh",
+        "preco": 799.0,
+        "timestamp": 1791987218.3464956,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23694620804",
+        "link_bruto": "https://s.shopee.com.br/1gJNXjT3xH",
+        "titulo": "Tenis masculino polo open casual moderno social confortável sapatenis macio versatil leve barato",
+        "preco": 63.0,
+        "timestamp": 1791987230.418573,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_AE78GAEF2C",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-xiaomi-redmi-15c-dual-sim-256-gb-8-gb-ram-preto-xiaomi/p/ae78gaef2c/te/r15c/?seller_id=atacadoimport",
+        "titulo": "Smartphone Xiaomi Redmi 15c Dual Sim 256 Gb 8 Gb Ram Preto - Xiaomi",
+        "preco": 1061.65,
+        "timestamp": 1791987250.220576,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_BD28HKEEKD",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-infantil-adidas-runfalcon/p/bd28hkeekd/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Infantil Adidas Runfalcon",
+        "preco": 259.99,
+        "timestamp": 1791987263.024447,
+        "expirado": false
     }
 ]
