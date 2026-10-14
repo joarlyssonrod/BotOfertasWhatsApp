@@ -53446,5 +53446,29 @@
         "preco": 134.0,
         "timestamp": 1792008732.9391665,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_13527371956",
+        "link_bruto": "https://s.shopee.com.br/2BFefbtRL4",
+        "titulo": "LIGE Relógio inteligente masculino à prova d'água com Bluetooth de freqüência cardíaca",
+        "preco": 117.9,
+        "timestamp": 1792015973.7969406,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GR1YNLC8",
+        "link_bruto": "https://www.amazon.com.br/Apple-MacBook-polegadas-n%C3%BAcleos-unificada/dp/B0GR1YNLC8",
+        "titulo": "Apple 2025 MacBook Pro (de 14 polegadas, Chip M5 da Apple com CPU de 10 núcleos e GPU de 10 núcleos., 32GB Memória unificada, 1 TB) - Prateado",
+        "preco": 19999.0,
+        "timestamp": 1792015991.824933,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HM5JW3ZC",
+        "link_bruto": "https://www.amazon.com.br/dp/B0HM5JW3ZC?social_share=cm_sw_r_apan_dp_BH1FH967THAVCV8SH5A3&tag=promobit-d-20",
+        "titulo": "Zelda: Ocarina of Time - Switch 2 Capa Padrão",
+        "preco": 387.0,
+        "timestamp": 1792016008.8155208,
+        "expirado": false
     }
 ]
