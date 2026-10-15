@@ -53470,5 +53470,13 @@
         "preco": 387.0,
         "timestamp": 1792016008.8155208,
         "expirado": false
+    },
+    {
+        "id": "https://www.amazon.com.br/promotion/psp/A3CP430RYBQWZI",
+        "link_bruto": "https://www.amazon.com.br/promotion/psp/A3CP430RYBQWZI?redirectAsin=B0GR11CQ84&redirectMerchantId=A1ZZFT5FULY4LN&tag=promobit-d-20",
+        "titulo": "Garanta R$ 200 de desconto no seu novo Monitor Samsung Odyssey! | Na Amazon",
+        "preco": 1651.58,
+        "timestamp": 1792024724.1822813,
+        "expirado": false
     }
 ]
