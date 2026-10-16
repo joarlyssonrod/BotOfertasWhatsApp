@@ -53526,5 +53526,29 @@
         "preco": 64.0,
         "timestamp": 1792103049.1945405,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_GJD5JH0J03",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-prize-masculino/p/gjd5jh0j03/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Fila Prize Masculino",
+        "preco": 218.49,
+        "timestamp": 1792109624.5057065,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JDJ8B72D2B",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-infantil-adidas-runfalcon/p/jdj8b72d2b/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Infantil Adidas Runfalcon",
+        "preco": 259.99,
+        "timestamp": 1792109639.5647614,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JE69A7529B",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-tryon-atlanta-masculino/p/je69a7529b/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Tryon Atlanta Masculino",
+        "preco": 99.99,
+        "timestamp": 1792109655.5127075,
+        "expirado": false
     }
 ]
