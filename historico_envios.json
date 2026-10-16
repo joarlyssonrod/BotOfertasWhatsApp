@@ -53550,5 +53550,21 @@
         "preco": 99.99,
         "timestamp": 1792109655.5127075,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_54367918962",
+        "link_bruto": "https://s.shopee.com.br/8V9kjhbWB8",
+        "titulo": "Kit 12 Enfeites Natalinos de Pelúcia 13cm  para Árvore de Natal Papai Noel Alce Urso Boneco de Neve",
+        "preco": 49.97,
+        "timestamp": 1792152666.0353444,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HCXKT67F",
+        "link_bruto": "https://www.amazon.com.br/Condicionado-Midea-Inverter-42ebvcb12m5-Branco/dp/B0HCXKT67F",
+        "titulo": "Ar Condicionado Split Midea Inverter Lite 12000 Btu R32 Frio 42ebvcb12m5 Branco 220v",
+        "preco": 1851.08,
+        "timestamp": 1792152691.7026775,
+        "expirado": false
     }
 ]
