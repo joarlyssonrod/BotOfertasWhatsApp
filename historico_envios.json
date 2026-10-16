@@ -53566,5 +53566,37 @@
         "preco": 1851.08,
         "timestamp": 1792152691.7026775,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB53368949",
+        "link_bruto": "https://www.mercadolivre.com.br/relogio-tommy-hilfiger-masculino-borracha-azul-1792200/p/MLB53368949?matt_event_ts=1792159811557&matt_d2id=30e21213-d044-4efa-9caa-bcf4063bdb20&matt_tracing_id=dbd1f05e-1add-4bb8-961d-0a2f5d9a3c1d#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=c66c1720-90c4-4235-9f3b-829119595055&tracking_id=24aa14d9-57da-4f5d-94b8-3dfecd7e08ff&c_id=/home/card-featured/element&c_uid=bc629d0e-0ec4-4ade-a063-c753e9baafc5",
+        "titulo": "Relógio Tommy Hilfiger Masculino Borracha Azul 1792200",
+        "preco": 480.05,
+        "timestamp": 1792161095.451643,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB7137878936",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-7137878936-tnis-adidas-adizero-drive-rc-corrida-leve-energy-rods-azul-azul-38-br-_JM?matt_event_ts=1792160675821&matt_d2id=24f351fb-1038-455d-968f-5441b06f4aaf&matt_tracing_id=1b9b3c7d-bfb1-4a91-a5c8-e6b7a272baa6#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f89434cb-d39d-4971-8a9a-b03956a06e09&tracking_id=f33d2559-8586-4162-ab0d-9b433027b51a&c_id=/home/card-featured/element&c_uid=4ba28128-6556-4550-bd8a-2efbf43c378b",
+        "titulo": "Tênis Adizero Drive RC Adidas",
+        "preco": 449.9,
+        "timestamp": 1792161110.796334,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU3662250686",
+        "link_bruto": "https://www.mercadolivre.com.br/nintendo-switch-oled-bundle-mario-bros-wonder--nso-3-meses/up/MLBU3662250686?pdp_filters=item_id%3AMLB4347825223&matt_event_ts=1792160426599&matt_d2id=adbfe28e-583c-4803-8a52-815317fd6bfe&matt_tracing_id=6f2e1967-7904-4e08-a638-15d3bb98eeed#polycard_client=recommendations_home_affiliate-profile&wid=MLB4347825223&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ad29f8c8-968a-4ae8-9af4-b5b4ba842e84&tracking_id=b100384d-adec-4fa7-a0a9-390561c52d5a&c_id=/home/card-featured/element&c_uid=92ce164d-93ba-4731-93aa-9995262d226a",
+        "titulo": "Nintendo Switch Oled Bundle Mario Bros. Wonder + Nso 3 Meses",
+        "preco": 1758.0,
+        "timestamp": 1792161130.5077257,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B00B71OQYC",
+        "link_bruto": "https://www.amazon.com.br/dp/B00B71OQYC?tag=promobit-d-20",
+        "titulo": "Apple iPhone Duo (256 GB) - Céu noturno",
+        "preco": 19799.1,
+        "timestamp": 1792161157.6062093,
+        "expirado": false
     }
 ]
