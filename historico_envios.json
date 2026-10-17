@@ -53702,5 +53702,45 @@
         "preco": 10399.2,
         "timestamp": 1792267970.316184,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB75010251",
+        "link_bruto": "https://www.mercadolivre.com.br/ventilador-parede-mesa-8-pas-180w-wap-flow-turbo-wv01pr/p/MLB75010251?matt_event_ts=1792275949638&matt_d2id=e1ad6e6e-708f-445f-bc7a-d195f82ef92b&matt_tracing_id=359d1fb0-5bdf-4633-a8e6-419ad0fc0fd7#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5a3c503b-1b40-4317-b336-a97c5856ecdb&tracking_id=0cecc5da-de89-4fc2-85c0-e057324f82ce&c_id=/home/card-featured/element&c_uid=8571b8ba-5d01-452c-aaed-aa97b96df4cd",
+        "titulo": "Ventilador Parede Mesa 8 Pás 180W WAP FLOW TURBO WV01PR",
+        "preco": 140.31,
+        "timestamp": 1792277574.9428425,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/combo-smart-tv-55-samsung-4k-uhd-mini-led-m75h-soundbar-samsung-hw-b450f-com-subwoofer/divulgador/oferta/239254300/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/combo-smart-tv-55-samsung-4k-uhd-mini-led-m75h-soundbar-samsung-hw-b450f-com-subwoofer/divulgador/oferta/239254300/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Smart Tv 55\" Samsung 4K M75H + Soundbar B450F 2.1 Canais",
+        "preco": 3031.05,
+        "timestamp": 1792277596.3135993,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB1024171252",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-banderas-the-icon-elixir-eau-de-parfum-50-ml/p/MLB1024171252?matt_event_ts=1792275852412&matt_d2id=0c687c4f-7d4f-4e39-9225-4b08788af5c5&matt_tracing_id=be9916d9-82f2-4fcc-8965-e9d620e705c3#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d50dd9c4-a5eb-4bdc-ad61-b588f43cbb6d&tracking_id=2bcdfbc0-57ac-47ea-a999-c6821a81b83e&c_id=/home/card-featured/element&c_uid=22a07579-5af8-471a-ae85-037fd1157591",
+        "titulo": "Perfume Banderas The Icon Elixir Eau de Parfum 50 ml",
+        "preco": 147.9,
+        "timestamp": 1792277613.333778,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB57724955",
+        "link_bruto": "https://www.mercadolivre.com.br/mouse-sem-fio-logitech-mx-master-4-grafite/p/MLB57724955?matt_event_ts=1792275732654&matt_d2id=1902480b-507b-43c6-ae41-eddf768c8675&matt_tracing_id=5d7bd0d6-83fe-44cd-8935-0188622ecf0e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=c30fa513-ef02-411d-a900-8a1f60bacc82&tracking_id=e8b95b9c-0c8f-4cdf-a13a-756da8cad1f9&c_id=/home/card-featured/element&c_uid=e28d5ea7-6873-4d14-b3b1-cfeeb8ad8fbf",
+        "titulo": "Mouse Sem Fio Logitech MX Master 4 - Grafite",
+        "preco": 576.23,
+        "timestamp": 1792277625.5084813,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B006ZARA98",
+        "link_bruto": "https://www.amazon.com.br/dp/B006ZARA98?tag=promobit-d-20",
+        "titulo": "Apple iPhone 18 Pro de 512 GB — Glacial",
+        "preco": 10799.2,
+        "timestamp": 1792277642.339395,
+        "expirado": false
     }
 ]
