@@ -53654,5 +53654,21 @@
         "preco": 27.0,
         "timestamp": 1792197247.1298275,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB3955329993",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3955329993-botas-adventure-trekking-masculino-land-flex-_JM?searchVariation=182787897200&matt_event_ts=1792246158204&matt_d2id=88f919c5-80f2-4c55-aeed-1ba336a09f86&matt_tracing_id=3b897156-d933-49b7-a713-6278df45698a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=74018bb5-f1be-4506-8417-5a05a1759605&tracking_id=94918f3d-fda2-4955-8d64-0cf40670c1f7&c_id=/home/card-featured/element&c_uid=52f96a9d-699d-4e4a-96b9-aa172d6827a8",
+        "titulo": "Botas Adventure Trekking Masculino Land Flex",
+        "preco": 95.88,
+        "timestamp": 1792246499.3122165,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB39766120",
+        "link_bruto": "https://www.mercadolivre.com.br/ssd-kingston-nv3-1tb-m2-2280-pcie-40-nvme-6000-mbs/p/MLB39766120?matt_event_ts=1792245872873&matt_d2id=a516fbbd-f785-418f-99fc-74784e955096&matt_tracing_id=41e0391c-5b77-4e7b-882f-4c334a2ab0b6#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a2c71c5a-2751-49fe-9265-a9e7ee14a757&tracking_id=068c6262-62f6-4da5-ab1e-78ba64f7a810&c_id=/home/card-featured/element&c_uid=e38e1555-621a-41e0-a228-6f66cde1138e",
+        "titulo": "Ssd Kingston Nv3 1Tb M.2 2280 Pcie 4.0 Nvme 6000 MbS",
+        "preco": 862.0,
+        "timestamp": 1792246523.1512682,
+        "expirado": false
     }
 ]
