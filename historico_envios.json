@@ -53630,5 +53630,29 @@
         "preco": 1299.0,
         "timestamp": 1792189239.1007266,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/controle-para-xbox-e-pc-sem-fio-ep2-40581-microsoft-carbon-black/divulgador/oferta/241128600/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/controle-para-xbox-e-pc-sem-fio-ep2-40581-microsoft-carbon-black/divulgador/oferta/241128600/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Controle Microsoft Xbox, PC, Mobile Carbon Black",
+        "preco": 241.0,
+        "timestamp": 1792197196.8547118,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/ar-condicionado-split-hw-lg-dual-inverter-ai-voice-12-000-btus-r-32-so-frio-220v/divulgador/oferta/feg70e2022/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/ar-condicionado-split-hw-lg-dual-inverter-ai-voice-12-000-btus-r-32-so-frio-220v/divulgador/oferta/feg70e2022/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Ar-Condicionado Split LG Inverter 12.000 BTUs 220V",
+        "preco": 1993.0,
+        "timestamp": 1792197221.5034251,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HD2T6BZZ",
+        "link_bruto": "https://www.amazon.com.br/dp/B0HD2T6BZZ?ta=&tag=promobit-d-20",
+        "titulo": "Lava-Roupas Pó Omo Todo Ciclo 4kg",
+        "preco": 27.0,
+        "timestamp": 1792197247.1298275,
+        "expirado": false
     }
 ]
