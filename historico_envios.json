@@ -53766,5 +53766,21 @@
         "preco": 206.09,
         "timestamp": 1792332722.9973874,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3332442192",
+        "link_bruto": "https://www.mercadolivre.com.br/chinelo-havaianas-dual/up/MLBU3332442192?pdp_filters=item_id%3AMLB6721148838&matt_event_ts=1792339536257&matt_d2id=c6a1d19e-c24c-4edf-ab71-a5ce6f6fddff&matt_tracing_id=9b41c062-754a-4220-a081-94f1bd718901#polycard_client=recommendations_home_affiliate-profile&wid=MLB6721148838&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=34c80c4c-8325-4801-b9d2-e2a79c78a1f5&tracking_id=fc671b13-3b49-46a1-bb0c-9f56b43b3573&c_id=/home/card-featured/element&c_uid=9b61836d-21cc-4566-b165-52729ce7aa84",
+        "titulo": "Chinelo Havaianas Dual",
+        "preco": 22.84,
+        "timestamp": 1792341188.495114,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB69328889",
+        "link_bruto": "https://www.mercadolivre.com.br/micro-ondas-brastemp-23-litros-multi-preparos-bms23a/p/MLB69328889?matt_event_ts=1792340832636&matt_d2id=b9044569-52fb-47ba-b3be-73f22cac75ed&matt_tracing_id=640900a5-41ff-47cc-90f3-0ae43124f950#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0268334e-02be-4212-b394-38a186c4a76f&tracking_id=79d460eb-0ad1-4b11-8b4b-827c1855061d&c_id=/home/card-featured/element&c_uid=66bf44a8-a9d2-42d0-92e9-d7f760897810",
+        "titulo": "Micro-ondas Brastemp 23 Litros Multi Preparos - BMS23A",
+        "preco": 509.0,
+        "timestamp": 1792341208.5243204,
+        "expirado": false
     }
 ]
