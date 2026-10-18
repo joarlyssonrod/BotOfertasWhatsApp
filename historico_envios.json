@@ -53742,5 +53742,21 @@
         "preco": 10799.2,
         "timestamp": 1792277642.339395,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB45502235",
+        "link_bruto": "https://www.mercadolivre.com.br/samsung-galaxy-s25-5g-256gb-12gb-camera-tripla-verde-claro/p/MLB45502235?matt_event_ts=1792324843328&matt_d2id=9a6e4871-5dd2-47ba-8fe6-41d464f33a1c&matt_tracing_id=2dde6e2f-8f83-420e-a159-d345ca725084#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=cbc528ed-0fd0-4ea8-999a-5448b475fb90&tracking_id=b4920237-3dfc-461e-9329-c72c4010ef58&c_id=/home/card-featured/element&c_uid=5ce5f210-302b-4e5f-ba50-e6f3a109a5b7",
+        "titulo": "Samsung Galaxy S25 5G 256GB 12GB Câmera Tripla",
+        "preco": 3445.88,
+        "timestamp": 1792325492.9207513,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HHH8C11H6K",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-prize-masculino/p/hhh8c11h6k/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Fila Prize Masculino",
+        "preco": 189.99,
+        "timestamp": 1792325504.297999,
+        "expirado": false
     }
 ]
