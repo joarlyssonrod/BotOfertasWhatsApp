@@ -53878,5 +53878,21 @@
         "preco": 68.94,
         "timestamp": 1792420410.623261,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU5429949180",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-camisetas-aramistommy-hilfiger-grafite-mesclapreta/up/MLBU5429949180?pdp_filters=item_id%3AMLB5348265297&matt_event_ts=1792426107021&matt_d2id=1c5ea664-427c-4fd0-944f-8dd02a0cd4a0&matt_tracing_id=69cf09e9-f4bb-4bd8-95cf-d9c3b3736af1#polycard_client=recommendations_home_affiliate-profile&wid=MLB5348265297&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=5579e4ca-3134-4a3c-a793-b34ac93d5823&tracking_id=17f8531a-3594-496a-8661-53408953267d&c_id=/home/card-featured/element&c_uid=d8e517f4-c159-4ad8-82d8-146b586bae83",
+        "titulo": "Kit Camisetas Aramistommy Hilfiger Grafite",
+        "preco": 198.0,
+        "timestamp": 1792426665.413991,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-asics-sonicblast-feminino-roxo-branco/divulgador/oferta/jddk92hfck/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-asics-sonicblast-feminino-roxo-branco/divulgador/oferta/jddk92hfck/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis ASICS Sonicblast - Feminino - RoxoBranco",
+        "preco": 865.1,
+        "timestamp": 1792426688.0101795,
+        "expirado": false
     }
 ]
