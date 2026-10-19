@@ -53790,5 +53790,45 @@
         "preco": 218.49,
         "timestamp": 1792368686.604045,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_23193412437",
+        "link_bruto": "https://s.shopee.com.br/7AeRvzt1SN",
+        "titulo": "Kit 2 Cortina 300 Leds 3x3 Metros Festa Casamento Eventos Natal Branco Amarelo",
+        "preco": 59.99,
+        "timestamp": 1792411928.6414664,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23498042511",
+        "link_bruto": "https://s.shopee.com.br/70L1jgtenK",
+        "titulo": "kit Árvore de Natal 1,5m Cheia Decorada 300 Galhos Verde Pé de Ferro 150cm Premium Pisca Led Laço Quente",
+        "preco": 127.96,
+        "timestamp": 1792411953.008205,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22199262533",
+        "link_bruto": "https://s.shopee.com.br/3qNzxs5iDv",
+        "titulo": "Fone de ouvido Wireless sem fio Bluetooth 760BT Microfone Pure Bass Cancelamento Ativo de Ruído Mp3",
+        "preco": 39.55,
+        "timestamp": 1792411970.1431894,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_EBGB467CDH",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-x-plr-path-masculino/p/ebgb467cdh/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Adidas X PLR Path Masculino",
+        "preco": 259.99,
+        "timestamp": 1792411994.4960177,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23198012047",
+        "link_bruto": "https://s.shopee.com.br/3g4ZlZ6LYs",
+        "titulo": "Kit 10 Árvores de Natal Decorativas MDF 3mm| Lembrancinha",
+        "preco": 27.93,
+        "timestamp": 1792412009.8175595,
+        "expirado": false
     }
 ]
