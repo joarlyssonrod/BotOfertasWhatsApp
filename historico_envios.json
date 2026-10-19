@@ -53830,5 +53830,53 @@
         "preco": 27.93,
         "timestamp": 1792412009.8175595,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3816303656",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-oakley-masculino-halftrack-low-iii/up/MLBU3816303656?pdp_filters=item_id%3AMLB4486864603&matt_event_ts=1792418548812&matt_d2id=b2b64dc7-4ee1-42ed-9687-3e992e1d5469&matt_tracing_id=736b6afa-8313-4855-9958-9df21a36bdc0#polycard_client=recommendations_home_affiliate-profile&wid=MLB4486864603&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a1a17863-5fe1-4061-906b-b960c6c13531&tracking_id=19a91db2-2b4c-4745-bf3d-066dfc21a8e8&c_id=/home/card-featured/element&c_uid=e75a3fcc-c449-4b31-be79-4b7d3f056864",
+        "titulo": "Tênis Oakley Masculino Halftrack Low Iii (TAM 41)",
+        "preco": 310.42,
+        "timestamp": 1792420332.2985263,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_45868320453",
+        "link_bruto": "https://s.shopee.com.br/1W05LBpML8",
+        "titulo": "Garrafa Térmica Nórdica Berlim Café 1L Cabo De Madeira Luxo Mesa Posta Canelado Dourado",
+        "preco": 54.9,
+        "timestamp": 1792420347.3336673,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22797891574",
+        "link_bruto": "https://s.shopee.com.br/9KiwfaLXRP",
+        "titulo": "Enfeite De Natal Globo De Neve Vidro 8cm Decoração Natalina",
+        "preco": 29.99,
+        "timestamp": 1792420365.695146,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22694714553",
+        "link_bruto": "https://s.shopee.com.br/2qVSvdkHdW",
+        "titulo": "Sapatênis Vegas -  Tênis com Solado Antiderrapante Estiloso e Confortável",
+        "preco": 109.76,
+        "timestamp": 1792420378.6943538,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54470406",
+        "link_bruto": "https://www.mercadolivre.com.br/alto-falante-jbl-partybox-encore-essential-2-party-preto/p/MLB54470406?matt_event_ts=1792418498836&matt_d2id=dc245a40-e7f6-4267-a96a-37441d30442e&matt_tracing_id=4136e1aa-ffe1-4796-aaae-18704efd8eec#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=71575f33-e4f1-4318-96d6-4fd0380fd33e&tracking_id=98875127-836b-4128-bf19-fc603c1e6811&c_id=/home/card-featured/element&c_uid=0b832870-c7bf-4210-84fa-5c59a326a904",
+        "titulo": "Alto-falante Jbl Partybox Encore Essential 2 Party Preto",
+        "preco": 1049.0,
+        "timestamp": 1792420397.1469383,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23994694255",
+        "link_bruto": "https://s.shopee.com.br/3Vl9irhkHa",
+        "titulo": "Sapatênis Masculino Casual com Elástico e Acabamento em Couro Sintético tênis confortável dia a dia",
+        "preco": 68.94,
+        "timestamp": 1792420410.623261,
+        "expirado": false
     }
 ]
