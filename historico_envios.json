@@ -53958,5 +53958,21 @@
         "preco": 134.91,
         "timestamp": 1792434500.6966834,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3631121309",
+        "link_bruto": "https://www.mercadolivre.com.br/sapateira-de-porta-organizadora-hall-de-entrada-decorativa/up/MLBU3631121309?pdp_filters=item_id%3AMLB4332211777&matt_event_ts=1792440563129&matt_d2id=58612d29-8438-4820-a360-a88279fbe681&matt_tracing_id=7b308dff-3c61-4ecf-872c-38e1f7487d9b#polycard_client=recommendations_home_affiliate-profile&wid=MLB4332211777&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=87445ccc-ba1b-412f-9f36-472031c964f8&tracking_id=14624e0d-ee19-4f9d-9b26-0c81fda637a1&c_id=/home/card-featured/element&c_uid=ae26bc86-895c-46f5-93b2-493e3ba4bfdd",
+        "titulo": "Sapateira De Porta, Organizadora Hall De Entrada. Decorativa",
+        "preco": 61.62,
+        "timestamp": 1792440891.8189042,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB46318307",
+        "link_bruto": "https://www.mercadolivre.com.br/principia-oleo-de-limpeza-demaquilante/p/MLB46318307?matt_event_ts=1792440040077&matt_d2id=a4d19286-b881-45d3-8648-0085de035691&matt_tracing_id=0e583d7a-ee5d-44d6-93c7-ac2a0f96e261#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d4403677-cd0d-4554-ad58-75382c1b4028&tracking_id=ffa41429-21c6-47ad-8e16-4d5bb35b631c&c_id=/home/card-featured/element&c_uid=fe738743-8f5e-4a2b-bf9c-f51e6d0f9468",
+        "titulo": "Principia Óleo De Limpeza Demaquilante",
+        "preco": 47.2,
+        "timestamp": 1792440904.4096324,
+        "expirado": false
     }
 ]
