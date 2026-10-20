@@ -54070,5 +54070,21 @@
         "preco": 259.99,
         "timestamp": 1792506804.0806131,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_22396091146",
+        "link_bruto": "https://s.shopee.com.br/20wNe9BXZP",
+        "titulo": "Refrigerador Side By Side Philco 486L Inox Eco Inverter PRF504ID",
+        "preco": 4124.6,
+        "timestamp": 1792512967.778422,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58216146402",
+        "link_bruto": "https://s.shopee.com.br/4qGZ1M0kpC",
+        "titulo": "Kit Desmaia Cabelo Forever Liss",
+        "preco": 177.9,
+        "timestamp": 1792512985.5268176,
+        "expirado": false
     }
 ]
