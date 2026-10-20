@@ -54086,5 +54086,21 @@
         "preco": 177.9,
         "timestamp": 1792512985.5268176,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/pure-xs-for-her-rabanne-perfume-feminino-eau-de-parfum/divulgador/oferta/gk71ha7e1e/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/pure-xs-for-her-rabanne-perfume-feminino-eau-de-parfum/divulgador/oferta/gk71ha7e1e/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Pure XS For Her Rabanne - Perfume Feminino Eau de Parfum",
+        "preco": 237.9,
+        "timestamp": 1792528276.3443794,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3379383169",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3379383169-tnis-nike-court-borough-low-recraft-infantil-_JM?searchVariation=179654932795&matt_event_ts=1792526594082&matt_d2id=8c01766e-58c6-437a-824c-5237cc2c9a22&matt_tracing_id=26b487aa-7840-49d4-8ff9-ecd54ba9cf69#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=09b8489d-ff8b-4e55-a372-fd2a710f6e1c&tracking_id=24430b74-c087-4e35-a76b-81dfe3b356a7&c_id=/home/card-featured/element&c_uid=96baba5a-5f43-4d18-aefd-ff08b36e2f43",
+        "titulo": "Tênis Nike Court Borough Low Recraft Infantil",
+        "preco": 178.99,
+        "timestamp": 1792528301.8080163,
+        "expirado": false
     }
 ]
