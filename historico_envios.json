@@ -54142,5 +54142,45 @@
         "preco": 1449.87,
         "timestamp": 1792584854.527771,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB43071371",
+        "link_bruto": "https://www.mercadolivre.com.br/mochila-xeryus-14-spider-man-r1-13353/p/MLB43071371?matt_event_ts=1792591608177&matt_d2id=0dccf7b8-98fa-407d-b225-0d94da8d0a05&matt_tracing_id=842977b4-231c-44c6-a0ee-dfdabdb4aa2c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=2969ae77-f242-4705-a7b0-9f09a11c8712&tracking_id=48183e5f-1702-407d-aff2-955f41bd0ec9&c_id=/home/card-featured/element&c_uid=2cfecb6c-feb2-4f80-88e0-526149038937",
+        "titulo": "Mochila Xeryus 14 Homem-Aranha",
+        "preco": 36.39,
+        "timestamp": 1792591902.040144,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/celular-samsung-galaxy-s25-5g-256gb-12gb-ram-camera-tripla-de-50-12-10-tela-grande-de-6-7/divulgador/oferta/aj8fh744gj/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/celular-samsung-galaxy-s25-5g-256gb-12gb-ram-camera-tripla-de-50-12-10-tela-grande-de-6-7/divulgador/oferta/aj8fh744gj/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Samsung Galaxy S25+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50MP + 12MP + 10MP, Tela de 6,7\"",
+        "preco": 3690.13,
+        "timestamp": 1792591918.5376086,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book4-windows-11-home-intel-core-i5-16gb-512gb-ssd-15-6-full-hd-led-1-55-kg/divulgador/oferta/eja386agb5/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/notebook-samsung-galaxy-book4-windows-11-home-intel-core-i5-16gb-512gb-ssd-15-6-full-hd-led-1-55-kg/divulgador/oferta/eja386agb5/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Notebook Samsung Galaxy Book4, Windows 11 Home, Intel Core i5, 16GB, 512GB SSD, 15.6'' Full HD LED, 1.55 kg",
+        "preco": 3999.92,
+        "timestamp": 1792591945.7080188,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_FD4DK3HEAB",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-prize-masculino/p/fd4dk3heab/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Fila Prize Masculino",
+        "preco": 199.49,
+        "timestamp": 1792591959.3217776,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_47354393721",
+        "link_bruto": "https://s.shopee.com.br/8fTIudPV86",
+        "titulo": "National Lovito Férias Vestido Feminino para Primavera/verão LBL32338",
+        "preco": 41.5,
+        "timestamp": 1792591972.9304745,
+        "expirado": false
     }
 ]
