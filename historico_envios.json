@@ -54182,5 +54182,21 @@
         "preco": 41.5,
         "timestamp": 1792591972.9304745,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3786725307",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-unissex-bb80-new-balance/up/MLBU3786725307?pdp_filters=item_id%3AMLB6253236502&matt_event_ts=1792605645640&matt_d2id=c4edd355-a2f3-4bd6-8780-1f4bd01473c8&matt_tracing_id=98eaae19-ea49-430f-ab16-a4a63880dab5#polycard_client=recommendations_home_affiliate-profile&wid=MLB6253236502&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4ecd4c36-35ed-4f5b-97f4-f8a7c7e6fb3c&tracking_id=b7caea7c-a498-404a-975f-9ac056ebd802&c_id=/home/card-featured/element&c_uid=e4424024-4a06-45e2-99e2-262f2cb270ff",
+        "titulo": "Tênis Unissex Bb80 New Balance (39)",
+        "preco": 139.01,
+        "timestamp": 1792606381.6121695,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-under-armour-ch-endless/divulgador/oferta/eecf000a1d/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-under-armour-ch-endless/divulgador/oferta/eecf000a1d/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis Under Armour Ch Endless",
+        "preco": 277.5,
+        "timestamp": 1792606407.5095212,
+        "expirado": false
     }
 ]
