@@ -54110,5 +54110,13 @@
         "preco": 246.99,
         "timestamp": 1792534835.3513134,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H6ZMNX6Q",
+        "link_bruto": "https://www.amazon.com.br/Umbro-31039U-Mochila-Unisex-Squadra/dp/B0H6ZMNX6Q?sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=promobit-d-20",
+        "titulo": "Mochila Unisex Umbro Squadra",
+        "preco": 45.43,
+        "timestamp": 1792541657.7130318,
+        "expirado": false
     }
 ]
