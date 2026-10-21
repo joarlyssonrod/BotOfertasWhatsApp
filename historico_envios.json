@@ -54222,5 +54222,69 @@
         "preco": 85.0,
         "timestamp": 1792613563.4202878,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU2896195729",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-masculino-club-ii-era-puma/up/MLBU2896195729?pdp_filters=item_id%3AMLB6415389998&matt_event_ts=1792621261709&matt_d2id=7ce62272-a231-4eb0-a5c2-b118b8c0d1fb&matt_tracing_id=27a31688-4464-47f0-a523-075ca85dd652#polycard_client=recommendations_home_affiliate-profile&wid=MLB6415389998&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=393b2449-1cd5-4a3f-858d-f079729f32a2&tracking_id=1fc5d758-5979-4b7e-a4f4-59c38fdca8d8&c_id=/home/card-featured/element&c_uid=1aaeb7e4-88f0-409b-b45e-3ab4037ac6f7",
+        "titulo": "Tênis Masculino Club II Era Puma - 42",
+        "preco": 143.87,
+        "timestamp": 1792622108.459187,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB62061940",
+        "link_bruto": "https://www.mercadolivre.com.br/fechadura-digital-de-embutir-biometrica-fr-221v-intelbras/p/MLB62061940?matt_event_ts=1792620266970&matt_d2id=0c59774b-4841-4c8b-9550-ba8ed05c9a25&matt_tracing_id=697be4eb-6b47-4c45-98c3-1bf598ab8ea6#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=297e1f61-4d93-482e-af59-4f2763701640&tracking_id=78b7e789-3996-43c0-abc0-71497dde581a&c_id=/home/card-featured/element&c_uid=00695756-27e9-457e-931d-6cebaf19ae46",
+        "titulo": "Fechadura Digital de Embutir Biométrica FR 221V Intelbras",
+        "preco": 223.94,
+        "timestamp": 1792622125.7950416,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB78270054",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-128gb-8gb-ram-camera-50mp-ip68-super-amoled-67-recursos-ai-azul-escuro/p/MLB78270054?matt_event_ts=1792620787149&matt_d2id=2b3878a9-2e9c-4983-916f-8dc2cdea8165&matt_tracing_id=b77c5c73-45ed-4649-a068-9fd93006ff8b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=dbe8183d-a85a-4ef4-a81a-6b98f4126dd2&tracking_id=b40b8407-a285-484b-a96c-e1b57c33696e&c_id=/home/card-featured/element&c_uid=43409d03-ec81-4d17-8e57-e7a04e305d59",
+        "titulo": "Smartphone Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera 50MP, IP68, Super AMOLED 6.7",
+        "preco": 1519.0,
+        "timestamp": 1792622154.613299,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4305443453",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4305443453-camisa-basica-masculina-manga-longa-slim-hering-_JM?searchVariation=192963091405&matt_event_ts=1792621094502&matt_d2id=ce2e0f91-03e1-405b-a5e7-b9f37f7fd56a&matt_tracing_id=004da781-fc0d-4e7d-988c-dc6d1c277d69#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=9ecdf837-7624-452e-a9f3-bb300ee665c3&tracking_id=b2a53ea6-de2d-4d1c-a958-cf8e2d34a22f&c_id=/home/card-featured/element&c_uid=e0fdc4af-0859-419b-a428-d009afb6e559",
+        "titulo": "Camiseta Manga Longa Slim Hering (4 cores)",
+        "preco": 85.0,
+        "timestamp": 1792622181.0109563,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB23997257",
+        "link_bruto": "https://www.mercadolivre.com.br/jbl-fone-de-ouvido-sem-fio-tune520bt-dobravel-bateria-57h/p/MLB23997257?matt_event_ts=1792621385147&matt_d2id=199d000a-962f-4ec4-8f46-87d08de1617e&matt_tracing_id=895dd47a-3441-4245-958c-11f0edc57e9a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=331b7f27-3b7f-4c86-be59-1e3adc3b3bdb&tracking_id=916d7497-bcf9-4f83-bae7-4a692feffb86&c_id=/home/card-featured/element&c_uid=a3c5181b-4032-4267-931b-ce14cb7c0b36",
+        "titulo": "JBL Fone de Ouvido sem Fio Tune 520BT Dobrável Bateria 57h",
+        "preco": 161.45,
+        "timestamp": 1792622199.0986538,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/smartwatch-huawei-watch-fit-5-gps-amoled-182-spo2-5atm-bluetooth/divulgador/oferta/chb2f61223/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/smartwatch-huawei-watch-fit-5-gps-amoled-182-spo2-5atm-bluetooth/divulgador/oferta/chb2f61223/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Smartwatch HUAWEI Watch Fit 5 GPS AMOLED 182 SpO2 5ATM Bluetooth",
+        "preco": 599.1,
+        "timestamp": 1792622214.9186695,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4151684500",
+        "link_bruto": "https://www.mercadolivre.com.br/ar-condicionado-split-inverter-tcl-12000-btus-frio-220v/up/MLBU4151684500?pdp_filters=item_id%3AMLB7020276652&matt_event_ts=1792620962141&matt_d2id=fadebad2-9840-4ff7-95eb-59fc75f44081&matt_tracing_id=7e3da313-7dda-4c4b-a9bc-3000f9c7707d#polycard_client=recommendations_home_affiliate-profile&wid=MLB7020276652&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=39c65d3e-553d-4aba-9bf2-ee6472ae230d&tracking_id=e9e5d1a0-02d0-4d65-bf08-097749e719ab&c_id=/home/card-featured/element&c_uid=11fba450-ccbc-4050-83d5-208e0690b8b1",
+        "titulo": "Ar Condicionado Split Inverter Tcl 12000 Btus Frio 220v",
+        "preco": 1650.64,
+        "timestamp": 1792622228.439021,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CPN4VX65",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0CPN4VX65?tag=promobit-d-20",
+        "titulo": "Leite em Pó Desnatado Camponesa 200g",
+        "preco": 6.99,
+        "timestamp": 1792622253.5362077,
+        "expirado": false
     }
 ]
