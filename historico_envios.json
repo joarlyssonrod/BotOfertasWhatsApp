@@ -54118,5 +54118,29 @@
         "preco": 45.43,
         "timestamp": 1792541657.7130318,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_46555441248",
+        "link_bruto": "https://s.shopee.com.br/70L4vZVqVQ",
+        "titulo": "Óculos de Sol Espotivo Premium Edição Limitada Baixa Pace Ciclismo Corrida VerãoTendencia uv400",
+        "preco": 77.0,
+        "timestamp": 1792584816.0045354,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_20973450134",
+        "link_bruto": "https://s.shopee.com.br/9V2PuAMKRD",
+        "titulo": "Chaleira Elétrica Aço Inoxidável 2 Litros Prata 127V ou 220V MMHouse",
+        "preco": 44.9,
+        "timestamp": 1792584837.0384872,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_DD90EH0E9B",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-samsung-galaxy-a36-5g-branco-128gb-6gb-ram-tela-super-amoled-6-7-camera-tripla-ate-50mp/p/dd90eh0e9b/te/ga36/?seller_id=negociunoficial",
+        "titulo": "Smartphone Samsung Galaxy A36 5G Branco 128GB 6GB RAM Tela Super AMOLED 6.7 Câmera Tripla até 50MP",
+        "preco": 1449.87,
+        "timestamp": 1792584854.527771,
+        "expirado": false
     }
 ]
