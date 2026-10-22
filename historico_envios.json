@@ -54294,5 +54294,21 @@
         "preco": 99.99,
         "timestamp": 1792627955.9414897,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_58256926114",
+        "link_bruto": "https://s.shopee.com.br/5VWIsH7g3R",
+        "titulo": "Carregador Portátil 5000Mah/10000Mah Indução Sem fio Bateria Carga",
+        "preco": 28.86,
+        "timestamp": 1792678702.1535437,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_FBG19HFK0D",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-inclusion-masculino/p/fbg19hfk0d/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Fila Inclusion Masculino",
+        "preco": 218.49,
+        "timestamp": 1792678716.8981626,
+        "expirado": false
     }
 ]
