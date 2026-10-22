@@ -54374,5 +54374,29 @@
         "preco": 67.54,
         "timestamp": 1792692958.4034665,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB59113801",
+        "link_bruto": "https://www.mercadolivre.com.br/guarda-roupa-casal-6-portas-easy-slim-com-espelho-e-pes-amendoaoff-white/p/MLB59113801?matt_event_ts=1792706512058&matt_d2id=7c2ea36f-9024-4eb9-9db3-7e4a8101d170&matt_tracing_id=a10d90d5-617c-4ee2-98c5-9c986f28b489#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=bd6fac59-f21f-4064-a862-680bfdec513e&tracking_id=2e0616b3-9f41-432a-964a-01e21f2c4cf4&c_id=/home/card-featured/element&c_uid=332be973-9637-4daa-8713-293d7fd1832f",
+        "titulo": "Guarda-roupa Casal 6 Portas Easy Slim com Espelho e Pés AmêndoaOff White",
+        "preco": 703.0,
+        "timestamp": 1792707028.5153546,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_BJ4E3K020J",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/air-fryer-com-cesto-de-vidro-4l-1500w-afv101-fritadeira-eletrica-com-tampa-kian/p/bj4e3k020j/ep/efso/?seller_id=bumpermagazine",
+        "titulo": "Air Fryer com Cesto de Vidro 4L 1500W AFV101 Fritadeira Elétrica com Tampa Kian",
+        "preco": 351.41,
+        "timestamp": 1792707053.413317,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_FCG4B15AJE",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-air-fryer-philco-paf95a-95l-1800w-visor-glass-redstone-220v/p/fcg4b15aje/ep/efso/?seller_id=elefantevarejo",
+        "titulo": "Fritadeira Air Fryer Philco PAF95A 9,5L 1800W Visor Glass Redstone 220V",
+        "preco": 442.61,
+        "timestamp": 1792707068.621328,
+        "expirado": false
     }
 ]
