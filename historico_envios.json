@@ -54358,5 +54358,21 @@
         "preco": 5.84,
         "timestamp": 1792686093.1056848,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB78618645",
+        "link_bruto": "https://www.mercadolivre.com.br/cadeira-de-camping-dobravel-portatil-para-pescar-praia-trilha-viagens-acampamento-varanda-parques-e-lazer-suporta-ate-120kg-apfer-preto/p/MLB78618645?matt_event_ts=1792692188282&matt_d2id=62398850-a008-4609-bdbd-1601ede3e53d&matt_tracing_id=b9396140-6cb0-4186-b3a1-f0401a2e3ccf#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1d466c0d-dc19-497d-a41e-be331c79459e&tracking_id=efd784de-cb39-4f84-8cba-538ac2ec8457&c_id=/home/card-featured/element&c_uid=722b4acc-3f9d-4cec-86ca-ef230d40403c",
+        "titulo": "Cadeira de Camping Dobrável 120kg",
+        "preco": 48.0,
+        "timestamp": 1792692931.2209861,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58219903464",
+        "link_bruto": "https://s.shopee.com.br/4LKLkPeJX3",
+        "titulo": "Kit 2 Canecas Papai Noel 3D Cerâmica Natal Presente Decoração Porcelana Fofo Presente - Resistente",
+        "preco": 67.54,
+        "timestamp": 1792692958.4034665,
+        "expirado": false
     }
 ]
