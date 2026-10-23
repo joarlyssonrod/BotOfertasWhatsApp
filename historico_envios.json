@@ -54606,5 +54606,21 @@
         "preco": 199.49,
         "timestamp": 1792779268.6016152,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB61673347",
+        "link_bruto": "https://www.mercadolivre.com.br/aparador-de-pelos-nariz-orelha-gurumania-recarregavel-sem-fio-preto/p/MLB61673347?matt_event_ts=1792786106229&matt_d2id=89f9677d-f4eb-4229-af91-00372a2e7e26&matt_tracing_id=976be082-b8a8-4c47-8a06-fe8f3c8ed623#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d4297ad1-6154-4b23-bc40-cf13ae79cafd&tracking_id=5dca6d4f-b099-4994-a4a2-f375f981d7f2&c_id=/home/card-featured/element&c_uid=e078d2e2-5876-4b9d-8631-fc5d48160dd9",
+        "titulo": "Aparador de Pelos Nariz Orelha Gurumania Recarregável Sem Fio Preto",
+        "preco": 18.49,
+        "timestamp": 1792786805.6289494,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-asics-versablast-4-masculino/divulgador/oferta/bdg64fh3e1/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-asics-versablast-4-masculino/divulgador/oferta/bdg64fh3e1/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis Asics Versablast 4 Masculino",
+        "preco": 217.49,
+        "timestamp": 1792786828.205813,
+        "expirado": false
     }
 ]
