@@ -54398,5 +54398,29 @@
         "preco": 442.61,
         "timestamp": 1792707068.621328,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3769399894",
+        "link_bruto": "https://www.mercadolivre.com.br/luminaria-teto-ledpendente-lustre-moderna-para-quarto-sala/up/MLBU3769399894?pdp_filters=item_id%3AMLB4453271781&matt_event_ts=1792713959755&matt_d2id=0c1b45a9-4616-40e3-a990-aa5217a87949&matt_tracing_id=703cf2a6-909a-4a73-95c4-0ca3103a5129#polycard_client=recommendations_home_affiliate-profile&wid=MLB4453271781&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=bde4127c-4a5c-4185-a664-35a1197e4761&tracking_id=9615ff3e-69c4-442c-a8cc-5ac2fe6124d1&c_id=/home/card-featured/element&c_uid=19b7cabd-cb18-48cb-874e-6ad32c1c4537",
+        "titulo": "Luminária Teto Led Pendente Lustre Moderna",
+        "preco": 59.0,
+        "timestamp": 1792716026.9307177,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/smartphone-motorola-moto-g47-128gb-5g-12gb-4gb-ram-8gb-ram-boost-azul-nautico-67-cam-dupla-selfie-32mp/divulgador/oferta/241918400/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/smartphone-motorola-moto-g47-128gb-5g-12gb-4gb-ram-8gb-ram-boost-azul-nautico-67-cam-dupla-selfie-32mp/divulgador/oferta/241918400/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Smartphone Motorola Moto g47 128GB 5G 12GB (4GB RAM + 8GB RAM Boost) Azul Náutico 67\" Câm Dupla Selfie 32MP",
+        "preco": 1199.0,
+        "timestamp": 1792716043.6003504,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JK835FF0F3",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-sem-oleo-air-fryer-35l-mondial-preto-prata-1500w-110v-af-35-bf/p/jk835ff0f3/ep/efso/?seller_id=oficialamericanas",
+        "titulo": "Fritadeira Sem Óleo Air Fryer 3,5L, Mondial, Preto/Prata, 1500W, 110V - AF-35-BF",
+        "preco": 218.49,
+        "timestamp": 1792716070.818841,
+        "expirado": false
     }
 ]
