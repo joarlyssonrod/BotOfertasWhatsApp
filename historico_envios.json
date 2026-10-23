@@ -54422,5 +54422,53 @@
         "preco": 218.49,
         "timestamp": 1792716070.818841,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB43696086",
+        "link_bruto": "https://www.mercadolivre.com.br/lenovo-156-liso-capacase-para-notebook-156-cinza-156/p/MLB43696086?matt_event_ts=1792757139712&matt_d2id=b9e87969-5746-450d-b3ae-a549abafe865&matt_tracing_id=59c81637-84a1-46bc-8df2-d995fa72d69e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=e5342984-3765-4af2-9572-3d7977a76c92&tracking_id=9c558587-0d21-4598-865c-e5332d596f58&c_id=/home/card-featured/element&c_uid=50daded3-4e05-4039-a48c-796b073c676d",
+        "titulo": "Capa para Notebook Lenovo 15.6'' - Cinza",
+        "preco": 67.91,
+        "timestamp": 1792757678.9203453,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58215216165",
+        "link_bruto": "https://s.shopee.com.br/80DfJGHtQe",
+        "titulo": "Suporte De Cabeça P/ Celular - Meudome",
+        "preco": 81.95,
+        "timestamp": 1792757699.5144958,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58269796283",
+        "link_bruto": "https://s.shopee.com.br/9zyjgwAHMy",
+        "titulo": "Caneca de Cerâmica Natalina com Alça, Estampa Papai Noel e Boneco de Neve Decoração Natal",
+        "preco": 33.9,
+        "timestamp": 1792757714.9966102,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58269809706",
+        "link_bruto": "https://s.shopee.com.br/BUmmkuAys",
+        "titulo": "Boné Brasil Bordado Alto Relevo Qualidade Premium",
+        "preco": 52.42,
+        "timestamp": 1792757734.3048666,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_GC6AFH38A5",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-eletrica-wap-air-fryer-oven-digital-12l/p/gc6afh38a5/ep/efso/?seller_id=waplojaoficial",
+        "titulo": "Fritadeira Elétrica WAP Air Fryer Oven Digital 12L",
+        "preco": 768.55,
+        "timestamp": 1792757747.514242,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B09WTLQ53R",
+        "link_bruto": "https://www.amazon.com.br/F%C3%B3rmula-Infantil-Ninho-Fases-Pacote/dp/B09WTLQ53R",
+        "titulo": "Ninho Fases 1 - Fórmula Infantil, 1.2 kg (Pacote de 1)",
+        "preco": 63.9,
+        "timestamp": 1792757773.8205142,
+        "expirado": false
     }
 ]
