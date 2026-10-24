@@ -54734,5 +54734,69 @@
         "preco": 1919.27,
         "timestamp": 1792872873.8169487,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB80496585",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-arabe-sabah-al-ward-sugar-feminino-100ml/p/MLB80496585?matt_event_ts=1792879717205&matt_d2id=f738470c-ca09-42d3-bb41-a3cbd8ba80c3&matt_tracing_id=f681eea6-0292-4e74-b7f8-ce12f1638d74#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3384f182-41ea-457f-b765-585bf429c4fc&tracking_id=3af58f21-c4b0-49de-8135-e8ed9d9f617a&c_id=/home/card-featured/element&c_uid=8a341e8f-9dcb-46d5-b42d-3692c4281724",
+        "titulo": "Perfume Árabe Sabah Al ward Sugar 100ml",
+        "preco": 110.85,
+        "timestamp": 1792883182.9551296,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB61814526",
+        "link_bruto": "https://www.mercadolivre.com.br/gabinete-gamer-redragon-carbon-rgb-preto-fibra-de-carbono/p/MLB61814526?matt_event_ts=1792879423782&matt_d2id=8f699ba7-73e9-4cf4-84ed-44bfd710178b&matt_tracing_id=f5ac4f5f-1c67-4764-921f-af3ce7988761#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4fe9bca7-9e6b-44e8-b017-1c74b77b3fb6&tracking_id=ec4c5701-98d5-49ba-b9f4-199eb9844962&c_id=/home/card-featured/element&c_uid=61d8739e-b4ca-49b9-be4f-8925801395e7",
+        "titulo": "Gabinete Gamer Redragon Carbon Rgb Preto Fibra De Carbono",
+        "preco": 250.42,
+        "timestamp": 1792883202.6216364,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/mouse-sem-fio-logitech-mx-master-4-com-feedback-tatil-alto-desempenho-e-conexao-usb-c-bluetooth-grafite/divulgador/oferta/hcbf0h767f/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/mouse-sem-fio-logitech-mx-master-4-com-feedback-tatil-alto-desempenho-e-conexao-usb-c-bluetooth-grafite/divulgador/oferta/hcbf0h767f/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Mouse Logitech MX Master 4 sem fio - Hapitic Feedback, 70 dias Bateria, 3 dispositivos",
+        "preco": 495.8,
+        "timestamp": 1792883214.8971574,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/crimson-desert-ps5-midia-fisica-playstation/divulgador/oferta/jbg2ga8fc4/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/crimson-desert-ps5-midia-fisica-playstation/divulgador/oferta/jbg2ga8fc4/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Jogo Crimson Desert - PS5 - Mídia Física",
+        "preco": 223.0,
+        "timestamp": 1792883238.219188,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JB6B97J9B9",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/air-fryer-com-cesto-de-vidro-4l-1500w-afv101-fritadeira-eletrica-com-tampa-kian/p/jb6b97j9b9/ep/efso/?seller_id=bumpermagazine",
+        "titulo": "Air Fryer com Cesto de Vidro 4L 1500W AFV101 Fritadeira Elétrica com Tampa Kian",
+        "preco": 359.01,
+        "timestamp": 1792883263.3034232,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_EF84E2B713",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-prize-masculino/p/ef84e2b713/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Fila Prize Masculino",
+        "preco": 218.49,
+        "timestamp": 1792883279.5007007,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HJCADE1FBG",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-tryon-atlanta-masculino/p/hjcade1fbg/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Tryon Atlanta Masculino",
+        "preco": 99.99,
+        "timestamp": 1792883291.8176353,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HL16PHN4",
+        "link_bruto": "https://www.amazon.com.br/dp/B0HL16PHN4?tag=promobit-d-20",
+        "titulo": "Chaleira Elétrica Inox 110v 1,8l Aquecimento Rápido Desligamento Automático",
+        "preco": 27.0,
+        "timestamp": 1792883305.7008839,
+        "expirado": false
     }
 ]
