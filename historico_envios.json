@@ -54630,5 +54630,45 @@
         "preco": 309.0,
         "timestamp": 1792793454.6994324,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_58261121925",
+        "link_bruto": "https://s.shopee.com.br/80DgvOVMbn",
+        "titulo": "Garrafa Inox Térmica 350ML/600ML/800ML/1000ML Com Capinha Protetora De Silicone Antiderrapante",
+        "preco": 31.99,
+        "timestamp": 1792845166.0047772,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB4412481109",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-4412481109-vestido-transpassado-modelo-envelope-_JM?searchVariation=189172937650&matt_event_ts=1792844101830&matt_d2id=14f10f11-94f1-47af-a858-9bb74b3429b5&matt_tracing_id=03993e8e-1edf-4933-a454-8464910edc4a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=171f3503-5a25-4539-a649-7882017d7c3d&tracking_id=50fd88d3-b155-40a1-b711-58aabe180572&c_id=/home/card-featured/element&c_uid=0df8af67-65b5-42cb-9228-e9149c375f8e",
+        "titulo": "Vestido Transpassado Modelo Envelope",
+        "preco": 38.07,
+        "timestamp": 1792845190.23026,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_54518040680",
+        "link_bruto": "https://s.shopee.com.br/8fTNicSpFr",
+        "titulo": "AYellowcat 2D Acrílico Plano Presépio Ornamento Decoração De Mesa De Natal BR",
+        "preco": 29.17,
+        "timestamp": 1792845213.2084546,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB57270625",
+        "link_bruto": "https://www.mercadolivre.com.br/meia-antiderrapante-futebol-prosocks-ultragrip-cano-alto-cor-ultragrip-verde-fluorescente-tamanho-38-44/p/MLB57270625?matt_event_ts=1792844194195&matt_d2id=5953f564-8ca1-4ec7-a9f2-4ef2924e92e6&matt_tracing_id=f0b54868-092d-45e4-96ae-244de433a77e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=88f0fafb-54eb-4d02-86d1-20a33015fddf&tracking_id=1356ce81-de78-4157-a3d0-bea6b8e4c375&c_id=/home/card-featured/element&c_uid=95464278-8702-43f0-b0d7-c4d9400b3ddc",
+        "titulo": "Meia Antiderrapante Futebol Prosocks Ultragrip Cano Alto Cor Ultragrip Verde Fluorescente Tamanho 38-44",
+        "preco": 55.93,
+        "timestamp": 1792845231.2402434,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-masculino-de-corrida-em-malha-respiravel-com-amortecimento-antiderrapante-para-caminhada-ao-ar-sxfdneay/divulgador/oferta/cjfje1f8b0/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-masculino-de-corrida-em-malha-respiravel-com-amortecimento-antiderrapante-para-caminhada-ao-ar-sxfdneay/divulgador/oferta/cjfje1f8b0/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis Masculino De Corrida Em Malha Respirável Com Amortecimento Antiderrapante Para Caminhada Ao Ar - Sxfdneay",
+        "preco": 120.23,
+        "timestamp": 1792845248.6349585,
+        "expirado": false
     }
 ]
