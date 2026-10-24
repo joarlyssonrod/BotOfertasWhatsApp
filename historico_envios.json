@@ -54710,5 +54710,29 @@
         "preco": 218.49,
         "timestamp": 1792858458.0212889,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/mouse-sem-fio-conexao-bluetooth-mx-master-3s-grafite-logitech-910-007502/divulgador/oferta/ggk4261cb9/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/mouse-sem-fio-conexao-bluetooth-mx-master-3s-grafite-logitech-910-007502/divulgador/oferta/ggk4261cb9/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Mouse sem Fio Logitech MX Master 3S Bluetooth",
+        "preco": 339.74,
+        "timestamp": 1792872834.2126753,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB63888771",
+        "link_bruto": "https://www.mercadolivre.com.br/sapateira-vertical-empilhavel-6-pares-organizador-de-calcados-modular-branco-caixa-de-tenis-facil-montagem/p/MLB63888771?matt_event_ts=1792872298539&matt_d2id=44ff00f1-54ae-4869-808a-daeccc462f35&matt_tracing_id=2143755d-7c48-458e-8dd6-ff5d056e7e5e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4b62cf27-8f81-4753-ac67-c514fc435f44&tracking_id=d8c96eea-81f0-435f-a257-996e01ab813c&c_id=/home/card-featured/element&c_uid=a1df5f98-e689-456c-92d1-ae2493bf46d1",
+        "titulo": "Sapateira Vertical Empilhável 6 Pares Organizador De Calçados Modular Branco Caixa De Tênis Fácil Montagem",
+        "preco": 107.0,
+        "timestamp": 1792872852.4015067,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/smart-tv-50-lg-50un85cbpsa-nano-4k/divulgador/oferta/cekh54hg99/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/smart-tv-50-lg-50un85cbpsa-nano-4k/divulgador/oferta/cekh54hg99/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Smart TV 50 LG 50UN85CBPSA NANO 4K",
+        "preco": 1919.27,
+        "timestamp": 1792872873.8169487,
+        "expirado": false
     }
 ]
