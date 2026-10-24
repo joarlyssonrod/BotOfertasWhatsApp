@@ -54694,5 +54694,21 @@
         "preco": 2468.0,
         "timestamp": 1792852160.6137564,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU5176792526",
+        "link_bruto": "https://www.mercadolivre.com.br/tenis-nike-reax-8-tr-masculino/up/MLBU5176792526?pdp_filters=item_id%3AMLB7626014962&matt_event_ts=1792858110272&matt_d2id=437b5b21-769a-46e4-9826-30b06228a54b&matt_tracing_id=1e096ea2-dd75-4a8e-bbe3-b55f84d09092#polycard_client=recommendations_home_affiliate-profile&wid=MLB7626014962&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f80a9942-c783-4f27-b1d4-1dfa6beebc15&tracking_id=34015303-6901-43c9-8a22-88371fd8d8c6&c_id=/home/card-featured/element&c_uid=d32caedb-67a4-4885-9d92-d2e8dd9f71b3",
+        "titulo": "Tênis Nike Reax 8 Tr Masculino",
+        "preco": 336.0,
+        "timestamp": 1792858433.8236613,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_EH29CGBC29",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-inclusion-masculino/p/eh29cgbc29/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Fila Inclusion Masculino",
+        "preco": 218.49,
+        "timestamp": 1792858458.0212889,
+        "expirado": false
     }
 ]
