@@ -54670,5 +54670,29 @@
         "preco": 120.23,
         "timestamp": 1792845248.6349585,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C5YFF4PG",
+        "link_bruto": "https://www.amazon.com.br/ESPECIAL-TORRADO-GR%C3%83OS-REALCAF%C3%89-RESERVA/dp/B0C5YFF4PG",
+        "titulo": "CAFÉ ESPECIAL TORRADO EM GRÃOS REALCAFÉ RESERVA 650 - TORRA MÉDIA - 250G",
+        "preco": 17.44,
+        "timestamp": 1792852128.320506,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/kit-camiseta-diadora-com-3-pecas-logo-masculino/divulgador/oferta/kebb1f80j7/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/kit-camiseta-diadora-com-3-pecas-logo-masculino/divulgador/oferta/kebb1f80j7/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Kit Camiseta Diadora Com 3 Peças Logo Masculino",
+        "preco": 49.99,
+        "timestamp": 1792852146.2167938,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB29759324",
+        "link_bruto": "https://www.mercadolivre.com.br/geladeira-lg-frost-free-inverter-395l-duplex-inox-look-220v/p/MLB29759324?matt_event_ts=1792851026943&matt_d2id=3fe9415f-4c59-45be-855a-f08f0b937bbf&matt_tracing_id=5210b86c-e363-438b-94fd-d36cd04c2199#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7ef45f39-1744-4790-8695-6d103ddfdb21&tracking_id=afaef2ed-0d66-4c2c-8f1a-b186fffc1521&c_id=/home/card-featured/element&c_uid=65be13d0-e4b2-49d4-a915-fb542e55b24e",
+        "titulo": "Geladeira LG Frost Free Inverter Duplex Inox 395L",
+        "preco": 2468.0,
+        "timestamp": 1792852160.6137564,
+        "expirado": false
     }
 ]
