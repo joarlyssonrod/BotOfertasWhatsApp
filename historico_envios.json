@@ -54894,5 +54894,21 @@
         "preco": 59.0,
         "timestamp": 1792944707.913993,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_58257668036",
+        "link_bruto": "https://s.shopee.com.br/30p2wT1jxh",
+        "titulo": "Chaleira Elétrica Inox 1,8L 1000W - Aquecimento Rápido, Fácil Limpeza, Design Moderno e Durável",
+        "preco": 39.88,
+        "timestamp": 1792951982.5075622,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_DG32FCGHB7",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-inclusion-masculino/p/dg32fcghb7/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Fila Inclusion Masculino",
+        "preco": 206.99,
+        "timestamp": 1792952000.4107904,
+        "expirado": false
     }
 ]
