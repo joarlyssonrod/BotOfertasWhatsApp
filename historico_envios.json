@@ -54918,5 +54918,21 @@
         "preco": 2939.87,
         "timestamp": 1792959343.8260171,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU4261998798",
+        "link_bruto": "https://www.mercadolivre.com.br/oculos-de-sol-justin-rb4165-marrom-protecao-uv400-unissex/up/MLBU4261998798?pdp_filters=item_id%3AMLB4864768191&matt_event_ts=1792966390746&matt_d2id=af8cdd6a-e296-4de4-bb33-3fbb0162c8be&matt_tracing_id=1008f408-3b39-4582-ad39-935543ca65c1#polycard_client=recommendations_home_affiliate-profile&wid=MLB4864768191&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3168cc24-28b8-4672-953b-20757e5547e5&tracking_id=775e0319-f10a-423b-884e-34da3f7f207a&c_id=/home/card-featured/element&c_uid=788ed630-56e4-42e7-a5c2-422658574ebc",
+        "titulo": "Óculos de Sol Ray-Ban Justin RB4165 Unissex",
+        "preco": 260.0,
+        "timestamp": 1792968002.0181255,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GY4H64Y1",
+        "link_bruto": "https://www.amazon.com.br/H60-GT-Aspirador-Reclin%C3%A1vel-antienrosco/dp/B0GY4H64Y1",
+        "titulo": "DREAME H60 GT Aspirador Seco e Úmido, 21kPa, Reclinável 180°, 220V | TangleCut antienrosco, escova de borda dupla, lavagem e secagem a 90°C, água fresca contínua, 35 min de autonomia",
+        "preco": 2618.99,
+        "timestamp": 1792968019.9994078,
+        "expirado": false
     }
 ]
