@@ -54798,5 +54798,21 @@
         "preco": 27.0,
         "timestamp": 1792883305.7008839,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_22397100162",
+        "link_bruto": "https://s.shopee.com.br/9APftB1GcI",
+        "titulo": "Árvore De Natal 1,20M Decorada Bolinha Laço Enfeites + Pisca",
+        "preco": 77.99,
+        "timestamp": 1792930472.112667,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58264775450",
+        "link_bruto": "https://s.shopee.com.br/6fiKuaAmgr",
+        "titulo": "Copo Garrafa Térmica Inox 1200ml Estampa Floral Com Canudo E Alça",
+        "preco": 53.99,
+        "timestamp": 1792930499.907906,
+        "expirado": false
     }
 ]
