@@ -54814,5 +54814,77 @@
         "preco": 53.99,
         "timestamp": 1792930499.907906,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_58270401549",
+        "link_bruto": "https://s.shopee.com.br/2BFvgKBsBT",
+        "titulo": "Tênis Masculino Esportivo Estilo TN Casual Confortável Solado Alto Moderno",
+        "preco": 79.99,
+        "timestamp": 1792937468.9098418,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58220385956",
+        "link_bruto": "https://s.shopee.com.br/gR7tZHaEI",
+        "titulo": "Tênis Masculino Esportivo Casual Moderno Confortável com Solado Robusto e Design Urbano",
+        "preco": 79.99,
+        "timestamp": 1792937486.1285877,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_48518562579",
+        "link_bruto": "https://s.shopee.com.br/2LZLsdBEqS",
+        "titulo": "Cabide De Porta De Natal LED Iluminado Guirlanda Pendurado Ornamento Decoração De Casa De Férias Luzes Quentes",
+        "preco": 13.95,
+        "timestamp": 1792937501.4011023,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_850130395X",
+        "link_bruto": "https://www.amazon.com.br/Box-Trono-Vidro-Acompanha-Marcadores/dp/850130395X",
+        "titulo": "Box Trono de Vidro (acompanha pôster e marcadores)",
+        "preco": 199.87,
+        "timestamp": 1792937520.804309,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_6559816540",
+        "link_bruto": "https://www.amazon.com.br/Box-Cidade-Crescente-Sarah-Maas/dp/6559816540",
+        "titulo": "Box Cidade da Lua Crescente",
+        "preco": 123.23,
+        "timestamp": 1792937535.7266195,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_20698460713",
+        "link_bruto": "https://s.shopee.com.br/4fxGev2M7C",
+        "titulo": "Coturno Masculino Bota Motociclista Motoboy Militar Cano Médio Tático",
+        "preco": 49.99,
+        "timestamp": 1792937558.7989206,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_41371919868",
+        "link_bruto": "https://s.shopee.com.br/4qGgrE1imF",
+        "titulo": " 22,5cm Estátua Naruto Pain PVC Modelo GK Anime Figura Coleção Decoração de Mesa Brinquedo Presente",
+        "preco": 70.73,
+        "timestamp": 1792937580.919888,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_10997135504",
+        "link_bruto": "https://s.shopee.com.br/5AtXFq0S6H",
+        "titulo": "Árvore De Natal 1,50m Branca Decoração Natalina",
+        "preco": 99.99,
+        "timestamp": 1792937606.1088884,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58269856508",
+        "link_bruto": "https://s.shopee.com.br/1qd5HiD8rJ",
+        "titulo": "Tênis Masculino Casual Moderno com Amortecimento para Caminhada e Dia a Dia",
+        "preco": 79.99,
+        "timestamp": 1792937628.617268,
+        "expirado": false
     }
 ]
