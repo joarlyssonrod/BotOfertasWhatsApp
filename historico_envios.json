@@ -54910,5 +54910,13 @@
         "preco": 206.99,
         "timestamp": 1792952000.4107904,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FCVNLSGV",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0FCVNLSGV/?tag=promobit-d-20",
+        "titulo": "Notebook Lenovo Ideapad Slim 3i 15.3\" - Intel Core I5-13420h, 8gb Ram, 256gb Ssd, Intel Uhd Graphics, Windows 11",
+        "preco": 2939.87,
+        "timestamp": 1792959343.8260171,
+        "expirado": false
     }
 ]
