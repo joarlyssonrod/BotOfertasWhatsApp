@@ -54982,5 +54982,13 @@
         "preco": 67.9,
         "timestamp": 1793024352.8449383,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB63284025",
+        "link_bruto": "https://www.mercadolivre.com.br/frigobar-45-litros-inverter-bivolt-preto-preto/p/MLB63284025?matt_event_ts=1793030439365&matt_d2id=49999ccc-c320-490a-b3cc-fcca5517322f&matt_tracing_id=69350a13-0341-4362-a955-786df28c00af#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=858b2691-c01c-4956-8f3e-7dc13c0875b8&tracking_id=5d4bc478-80aa-4a9d-bb89-134917de5c78&c_id=/home/card-featured/element&c_uid=645bca0f-0790-4135-99f3-5ff5281f1df7",
+        "titulo": "Frigobar 45 Litros Inverter Bivolt Preto",
+        "preco": 569.48,
+        "timestamp": 1793031136.616182,
+        "expirado": false
     }
 ]
