@@ -54942,5 +54942,37 @@
         "preco": 199.49,
         "timestamp": 1792973830.8938766,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_58268909323",
+        "link_bruto": "https://s.shopee.com.br/30p48hlzPG",
+        "titulo": "Kit Ferramentas Eletrica Parafusadeira Martelete Esmerilhadeira Lixadeira Furadeira Chave Impacto",
+        "preco": 548.99,
+        "timestamp": 1793016843.8135588,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HJ9WDWGF",
+        "link_bruto": "https://www.amazon.com.br/Retr%C3%A1til-Lugares-Veludo-Armani-Terracota/dp/B0HJ9WDWGF",
+        "titulo": "Sofá Retrátil 3 Lugares Veludo Armani 2,10 Mts Terracota Terracota",
+        "preco": 3779.99,
+        "timestamp": 1793016867.310872,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DBMMH3JY",
+        "link_bruto": "https://www.amazon.com.br/Samsung-Lavadora-Digital-Inverter-WW11T/dp/B0DBMMH3JY",
+        "titulo": "Samsung Lavadora Digital Inverter WW11T Inox 11kg 220V",
+        "preco": 2849.0,
+        "timestamp": 1793016893.9225593,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HBYBFFFM",
+        "link_bruto": "https://www.amazon.com.br/Samsung-Crystal-U8000H-Companion-Est%C3%A1dio/dp/B0HBYBFFFM",
+        "titulo": "Samsung Smart TV 75\" Crystal UHD 4K U8000H 26/2027, Vision AI Companion, Modo Estádio, Xbox Cloud Gaming",
+        "preco": 4859.0,
+        "timestamp": 1793016907.111958,
+        "expirado": false
     }
 ]
