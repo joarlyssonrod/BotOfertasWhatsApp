@@ -55038,5 +55038,37 @@
         "preco": 218.49,
         "timestamp": 1793103441.6301157,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB76436759",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-hd-32-lg-lb650-ai-2026-processador-5-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-canais-gratis-webos-26-32lb650bpsa/p/MLB76436759?matt_event_ts=1793110043194&matt_d2id=3d6ccba4-7111-428b-a505-68ccb441350b&matt_tracing_id=ee057e77-9442-426f-9318-ae716e12eb7e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=e043bf6a-28a6-4509-8c39-0ab67c68656d&tracking_id=9816f3f6-e54e-455a-9512-c02e2a4888ee&c_id=/home/card-featured/element&c_uid=ceba7791-04f9-4f62-b69a-c5054ab16df7",
+        "titulo": "Smart TV HD 32\" LG LB650 AI 2026 Processador α5 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini Canais Grátis webOS 26 - 32LB650BPSA",
+        "preco": 970.0,
+        "timestamp": 1793110778.7949855,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19617676",
+        "link_bruto": "https://www.mercadolivre.com.br/micro-ondas-me23s-23l-efficient-com-descongelamento-assistido-cor-inox-electrolux/p/MLB19617676?matt_event_ts=1793109819341&matt_d2id=b13c2501-4d33-489d-947d-1162f0d2438a&matt_tracing_id=cf6aadee-7aa6-4f69-ad2a-3619e488f0db#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=bc44740a-231d-4616-a116-8b201a6df472&tracking_id=83211cbf-3a84-4ae5-968f-cd1de9453708&c_id=/home/card-featured/element&c_uid=fc2dfceb-4b1f-4d48-aefa-d5a327c7cf1c",
+        "titulo": "Micro-ondas Electrolux 23L Efficient",
+        "preco": 469.96,
+        "timestamp": 1793110802.4020674,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_FCJA8B3A67",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-sem-oleo-air-fryer-4-litros-afn40di-mondial-220v-preto/p/fcja8b3a67/ep/efso/?seller_id=negociunoficial",
+        "titulo": "Fritadeira Sem Óleo Air Fryer 4 Litros AFN40DI Mondial 220V Preto",
+        "preco": 360.0,
+        "timestamp": 1793110827.0955315,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/geladeira-frost-free-duplex-415-litros-branca-brastemp-brm51mb/divulgador/oferta/de2ffjd8ad/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/geladeira-frost-free-duplex-415-litros-branca-brastemp-brm51mb/divulgador/oferta/de2ffjd8ad/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Geladeira Frost Free Duplex 415 Litros Branca Brastemp - BRM51MB",
+        "preco": 2599.0,
+        "timestamp": 1793110851.9102762,
+        "expirado": false
     }
 ]
