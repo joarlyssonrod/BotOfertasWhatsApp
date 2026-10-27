@@ -55070,5 +55070,29 @@
         "preco": 2599.0,
         "timestamp": 1793110851.9102762,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_58215800426",
+        "link_bruto": "https://s.shopee.com.br/6VOxuE3WV9",
+        "titulo": "Cascata Cortina 300 Leds 3x3 Metros Amarelo Festa/Casamento/Eventos Quente e Branco",
+        "preco": 25.99,
+        "timestamp": 1793117563.953775,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB19714945",
+        "link_bruto": "https://www.mercadolivre.com.br/lava-loucas-brastemp-8-servicos-branca-blf08bb/p/MLB19714945?matt_event_ts=1793116954354&matt_d2id=cb9d25f7-79b4-49a8-9590-1a3cb4c738dd&matt_tracing_id=6e2ec828-a55a-4757-8319-e78c2e753852#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f1797b7e-81a8-498b-997e-690b01392051&tracking_id=f674d558-b021-405e-b18d-d669db355fb5&c_id=/home/card-featured/element&c_uid=2e5d49df-1196-4cbe-bc69-913539dd3834",
+        "titulo": "Lava-louças Brastemp 8 Serviços Branca - Blf08bb",
+        "preco": 1364.0,
+        "timestamp": 1793117590.7995856,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/geladeira-frost-free-duplex-415-litros-cor-inox-brastemp-brm51mk/divulgador/oferta/ef6agd7970/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/geladeira-frost-free-duplex-415-litros-cor-inox-brastemp-brm51mk/divulgador/oferta/ef6agd7970/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Geladeira Frost Free Duplex 415 Litros cor Inox Brastemp - BRM51MK",
+        "preco": 2675.99,
+        "timestamp": 1793117614.8175511,
+        "expirado": false
     }
 ]
