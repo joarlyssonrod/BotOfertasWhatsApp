@@ -55006,5 +55006,21 @@
         "preco": 218.49,
         "timestamp": 1793045571.2333455,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B08TLH52PQ",
+        "link_bruto": "https://www.amazon.com.br/Liquidificador-S%C3%A9rie-RI2244-Philips-Walita/dp/B08TLH52PQ//?tag=promobit-d-20",
+        "titulo": "PHILIPS Liquidificador Série 5000, Jarra Inquebrável, RI2244, 110v, Walita",
+        "preco": 236.0,
+        "timestamp": 1793060489.4175153,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0G6Z6PTJG",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0G6Z6PTJG?tag=promobit-d-20",
+        "titulo": "Robô Aspirador Eufy C20 Omni com Corpo ultrafino e Limpeza Automática",
+        "preco": 2899.0,
+        "timestamp": 1793060512.014362,
+        "expirado": false
     }
 ]
