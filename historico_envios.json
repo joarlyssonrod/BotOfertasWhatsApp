@@ -55022,5 +55022,21 @@
         "preco": 2899.0,
         "timestamp": 1793060512.014362,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CPFBBHP4",
+        "link_bruto": "https://www.amazon.com.br/eufy-Aspirador-Completa-Manuten%C3%A7%C3%A3o-Antiembara%C3%A7o/dp/B0CPFBBHP4",
+        "titulo": "eufy X10 Pro Robô Aspirador e Passa Pano,Esfregão Sempre Úmido,8000Pa, Lava Seca Reabastece Autosecagem 45°C,Navegação e Evita Obstáculos com Visão por IA e Laser LiDAR,Ideal para Pets, 220v",
+        "preco": 4399.0,
+        "timestamp": 1793103415.842328,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HK5FK47BF5",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-prize-masculino/p/hk5fk47bf5/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Fila Prize Masculino",
+        "preco": 218.49,
+        "timestamp": 1793103441.6301157,
+        "expirado": false
     }
 ]
