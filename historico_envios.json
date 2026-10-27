@@ -55094,5 +55094,13 @@
         "preco": 2675.99,
         "timestamp": 1793117614.8175511,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HKTSBGK4",
+        "link_bruto": "https://www.amazon.com.br/Condicionado-Split-Elgin-Inverter-HJFC12C2WECE/dp/B0HKTSBGK4",
+        "titulo": "Ar Condicionado Split Elgin Eco Inverter II WiFi 12000 BTUs Frio 220V HJFC12C2WECE",
+        "preco": 1949.0,
+        "timestamp": 1793124713.116951,
+        "expirado": false
     }
 ]
