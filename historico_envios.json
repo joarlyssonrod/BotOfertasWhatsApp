@@ -55134,5 +55134,21 @@
         "preco": 1333.0,
         "timestamp": 1793189502.717404,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-asics-gel-cumulus-28-masculino/divulgador/oferta/eg8jf8cac9/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-asics-gel-cumulus-28-masculino/divulgador/oferta/eg8jf8cac9/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis ASICS Gel Cumulus 28 Masculino",
+        "preco": 449.0,
+        "timestamp": 1793196754.6070793,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_20198317042",
+        "link_bruto": "https://s.shopee.com.br/60ShhgFQF4",
+        "titulo": "Árvore De Natal 1,50m Pinheiro 500 Galhos Premium Tradicional Verde",
+        "preco": 64.9,
+        "timestamp": 1793196780.7168212,
+        "expirado": false
     }
 ]
