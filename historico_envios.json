@@ -55190,5 +55190,21 @@
         "preco": 226.99,
         "timestamp": 1793275951.8114727,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_GH5FG61056",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-prize-masculino/p/gh5fg61056/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Fila Prize Masculino",
+        "preco": 189.99,
+        "timestamp": 1793283216.2133267,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB35925111",
+        "link_bruto": "https://www.mercadolivre.com.br/playstation-5-edicao-digital-825-gb-slim-cfi-2114b-novo-lacrado/p/MLB35925111?matt_event_ts=1793282793967&matt_d2id=2f2183b9-0f11-4ee4-8e48-ba76671e03cd&matt_tracing_id=bec2a2a9-ebe1-47ef-b6b9-b5d09753c66f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=c453449a-ac0d-4fb7-b56d-b8a53dc3a2ba&tracking_id=ada19a31-4380-437f-a340-5bc8893cb19d&c_id=/home/card-featured/element&c_uid=759244bb-e038-4227-8d4d-b75bc1964090",
+        "titulo": "PlayStation 5 Edição Digital 825 GB Slim CFI 2114B Novo Lacrado - R$ 4.060",
+        "preco": 3880.0,
+        "timestamp": 1793283231.5301452,
+        "expirado": false
     }
 ]
