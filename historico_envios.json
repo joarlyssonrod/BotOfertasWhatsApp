@@ -55446,5 +55446,37 @@
         "preco": 1713.37,
         "timestamp": 1793377215.1010392,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_23698779418",
+        "link_bruto": "https://s.shopee.com.br/9pfV452a9L",
+        "titulo": "Lixeira com Sensor Automático Abre Fácil em Toque Cesto Lixo Casa 16 Litros",
+        "preco": 65.99,
+        "timestamp": 1793384507.69508,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23098130556",
+        "link_bruto": "https://s.shopee.com.br/8VA7Td7erD",
+        "titulo": "Snow Foam Manual Pulverizador Espuma em Neve Detailing 2 Litros com 1 Bico Vermelho de Espuma",
+        "preco": 39.9,
+        "timestamp": 1793384528.935926,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_GDKA7FFF17",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-prize-masculino/p/gdka7fff17/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Fila Prize Masculino",
+        "preco": 189.99,
+        "timestamp": 1793384550.9266193,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_27753957287",
+        "link_bruto": "https://s.shopee.com.br/6L5cteFuFa",
+        "titulo": "Toalhas Extras De Microfibra Macia Para Lavagem De Carros Com 10 Unidades Limpeza , Secagem E Detalhamento-Sem Arranhões",
+        "preco": 50.46,
+        "timestamp": 1793384573.9200592,
+        "expirado": false
     }
 ]
