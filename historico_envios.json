@@ -55478,5 +55478,45 @@
         "preco": 50.46,
         "timestamp": 1793384573.9200592,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_22598454534",
+        "link_bruto": "https://s.shopee.com.br/2gCKhGYVse",
+        "titulo": "Kit de Ferramentas 46 Peças com Catraca Soquete – Maleta Portátil – Ideal para Reparos Domésticos MN",
+        "preco": 27.9,
+        "timestamp": 1793393558.3059714,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB51033143",
+        "link_bruto": "https://www.mercadolivre.com.br/garrafa-termica-stanley-aerolight-flip-straw-ash-473ml/p/MLB51033143?matt_event_ts=1793390448989&matt_d2id=52bb9a04-3e13-42f4-911e-bc07084d8e02&matt_tracing_id=f536bfeb-680c-4355-83cd-3f6d2a632e25#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=24ae91d6-0afe-4efa-9d94-002fa769f1af&tracking_id=fb8dda20-b3c3-4a84-966c-4d4ee8c5335b&c_id=/home/card-featured/element&c_uid=e7c88586-5194-4b0e-b1a9-d5a622a2c803",
+        "titulo": "Garrafa Térmica Stanley Aerolight Flip Straw Ash 473ml",
+        "preco": 106.89,
+        "timestamp": 1793393573.9259696,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FFBQ2FPW",
+        "link_bruto": "https://www.amazon.com.br/Perfume-adidas-Smooth-PaceEau-Parfum/dp/B0FFBQ2FPW?tag=promobit-d-20",
+        "titulo": "Perfume adidas Vibes Smooth PaceEau de Parfum 100ml",
+        "preco": 79.38,
+        "timestamp": 1793393592.8146915,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB3199313997",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-3199313997-tnis-nike-court-legacy-lift-feminino-_JM?searchVariation=176600711131&matt_event_ts=1793391802046&matt_d2id=e2ec6ce9-9e12-4ff1-8585-2ce499e2adda&matt_tracing_id=450d4e71-4796-46bb-944d-cb206c294bfc#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6dfe0483-0676-44d2-a29c-e4b9d549b085&tracking_id=48de9bf1-9c8b-49a4-8275-6788adc87dbd&c_id=/home/card-featured/element&c_uid=1bb79bd4-c891-4dee-9676-64a8cbace20d",
+        "titulo": "Tênis Nike Court Legacy Lift Feminino",
+        "preco": 306.84,
+        "timestamp": 1793393607.101725,
+        "expirado": false
+    },
+    {
+        "id": "https://shopee.com.br/opaanlp/1929663743/58269443339",
+        "link_bruto": "https://shopee.com.br/opaanlp/1929663743/58269443339?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMaBRvcqdZwgRklGTWoHoxFGhRfNAexxPkhN1n8rcCO5qFEud_-aY2hsGdfUnqCpX0P0Z7lpJy6IP6_Ew8qmNpcGhlcnRleHTEmQAAAAynqje9GpAoNJCFr0aG2Qdv0bxGhkN7SangU-mKR450kFpXBrH9R0VfMvYRVrTFpnKfrilRu-Ppwut8z28tzUq_NabHocmPu7kFGWLByR43sp0tm7eOLpICPO6_w8bM2el9QAUalRfreNCaejJrAFuq6ReKz2IukXoAC29Hf-8Mqe-MkmzzpvWfE5umd7gFEOgzYLta0A&mmp_pid=an_18140170000&uls_trackid=570n5nif01bp&utm_campaign=id_3556b3c7cf4b7ed2&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fs1y8prpnarj",
+        "titulo": "Smart Tv 58\" 4K Uhd Led Philips 58Pug701978 Wi-Fi Bluetooth Google Assistente 3 Hdmi 2 Usb",
+        "preco": 2037.0,
+        "timestamp": 1793393622.8972042,
+        "expirado": false
     }
 ]
