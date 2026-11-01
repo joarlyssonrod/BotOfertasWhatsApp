@@ -55614,5 +55614,37 @@
         "preco": 1795.49,
         "timestamp": 1793542465.5133278,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU1747723447",
+        "link_bruto": "https://www.mercadolivre.com.br/guarda-roupa-infantil-com-cama-4-portas-3-gavetas-lisboa-wt/up/MLBU1747723447?pdp_filters=item_id%3AMLB3451125491&matt_event_ts=1793548898535&matt_d2id=ac6bbf41-979e-4b6d-939f-47670d9c2666&matt_tracing_id=3a6050ef-5766-49e8-85c4-dace31fec0cc#polycard_client=recommendations_home_affiliate-profile&wid=MLB3451125491&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f9d7e6a2-9adf-4e25-a8fa-1d7f28c4c29a&tracking_id=2aed7b2b-1f20-47d7-946e-d93f57ddaa55&c_id=/home/card-featured/element&c_uid=b9201532-99c8-45e5-bcfc-47a4e9cc696f",
+        "titulo": "Guarda Roupa Infantil Com Cama 4 Portas 3 Gavetas Lisboa Wt",
+        "preco": 523.79,
+        "timestamp": 1793550994.1179316,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C3SQL65C",
+        "link_bruto": "https://www.amazon.com.br/Vichy-Dercos-Shampoo-Antiqueda-Energy/dp/B0C3SQL65C",
+        "titulo": "Vichy Dercos Energy+ Shampoo Antiqueda Estimulante com Aminexil 1.5%, 400g",
+        "preco": 94.6,
+        "timestamp": 1793551021.6184714,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07Y2C1PWG",
+        "link_bruto": "https://www.amazon.com.br/Roche-Posay-Effaclar-Alta-Toler%C3%A2ncia-Sabonete/dp/B07Y2C1PWG",
+        "titulo": "La Roche-posay Effaclar Gel Alta Tolerância. Limpeza Facial. Limpa a Pele Suavemente Reduzindo a Oleosidade e Eliminando o Brilho. Pele Oleosa e Sensível. Caprylyl Glycol, Glicerina, PCA de Zinco.",
+        "preco": 64.41,
+        "timestamp": 1793551041.295325,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07XP8K162",
+        "link_bruto": "https://www.amazon.com.br/CeraVe-Hidratante-Corporal-textura-Hialur%C3%B4nico/dp/B07XP8K162",
+        "titulo": "CeraVe Creme Hidratante Corporal, para Pele Seca a Extra Seca, com 3 Ceramidas Essenciais e Ácido Hialurônico, Hidratação Profunda e Duradoura, Tecnologia MVE, Sem Perfume, 453g",
+        "preco": 75.67,
+        "timestamp": 1793551054.4127738,
+        "expirado": false
     }
 ]
