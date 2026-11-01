@@ -55582,5 +55582,37 @@
         "preco": 12.82,
         "timestamp": 1793492309.3048582,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB47845899",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-tcl-55-polegadas-qled-4k-t6c-wifi-bluetooth-google-tv-tela-hva-e-hdr10-55t6c/p/MLB47845899?matt_event_ts=1793541646355&matt_d2id=210f851e-246b-474e-a71b-79f1caec817f&matt_tracing_id=f77b10f5-9bce-4bc1-8b30-1e1625f9b1fa#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=091dffca-6049-4342-ae9b-23e79ee43a4b&tracking_id=91b867fa-aee8-4524-8cd7-d5b64a29d542&c_id=/home/card-featured/element&c_uid=127ae949-985a-4f2c-8af9-01fcca7642de",
+        "titulo": "Smart Tv 55\" TCL QLED 4K T6C",
+        "preco": 2299.0,
+        "timestamp": 1793542401.513974,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB6155979",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-jean-paul-gaultier-ultra-male-eau-de-toilette-intense-125-ml-masculino/p/MLB6155979?matt_event_ts=1793542067884&matt_d2id=aef643ab-09d6-4305-927a-4ef487a41947&matt_tracing_id=f30287bb-ef19-414a-a293-bf6d2293ec6e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f07278c9-2ca9-4227-bf17-b56f6f808914&tracking_id=f8aa3e2b-0f8a-4cab-8ec6-a990034662e3&c_id=/home/card-featured/element&c_uid=491d60e6-585e-4d7d-adde-36b559c5d6c7",
+        "titulo": "Perfume Jean Paul Gaultier Ultra Male EDT 125ml",
+        "preco": 485.0,
+        "timestamp": 1793542425.6179771,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HA53D3D6A6",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-courtblock-26-masculino/p/ha53d3d6a6/es/oedc/?seller_id=netshoes",
+        "titulo": "Tênis Adidas Courtblock 26 Masculino",
+        "preco": 264.99,
+        "timestamp": 1793542447.5999436,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/guarda-roupa-casal-madesa-austin-4-portas-de-correr-de-espelho-3-gavetas/divulgador/oferta/hefc1b2187/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/guarda-roupa-casal-madesa-austin-4-portas-de-correr-de-espelho-3-gavetas/divulgador/oferta/hefc1b2187/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Guarda-Roupa Casal Madesa Austin 4 Portas de Correr de Espelho 3 Gavetas",
+        "preco": 1795.49,
+        "timestamp": 1793542465.5133278,
+        "expirado": false
     }
 ]
