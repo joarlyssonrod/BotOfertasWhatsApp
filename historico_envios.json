@@ -55782,5 +55782,13 @@
         "preco": 1489.0,
         "timestamp": 1793643050.9193707,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB24201519",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-lily-lumiere-creme-hidratante-corporal-250g-refil-250g/p/MLB24201519?matt_event_ts=1793657097689&matt_d2id=d048307d-72c1-4501-a717-d5ebf1e1fb0b&matt_tracing_id=b9c0a911-b406-4312-9689-44f7a84e58d9#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=349e58ad-a4ee-4bd0-bb19-5c7c8d27ce10&tracking_id=80e6c393-e21e-4115-b607-0c9d44d75a27&c_id=/home/card-featured/element&c_uid=d483cb9e-1912-4df2-8cae-58dc57192760",
+        "titulo": "Kit Lily Lumière Creme Hidratante Corporal 250g + Refil 250g",
+        "preco": 145.0,
+        "timestamp": 1793657594.8100493,
+        "expirado": false
     }
 ]
