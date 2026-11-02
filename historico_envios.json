@@ -55694,5 +55694,13 @@
         "preco": 14.74,
         "timestamp": 1793578454.398712,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3756728052",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-reparo-pneus-23-remendo-macarrao-moto-carro-sem-camara/up/MLBU3756728052?pdp_filters=item_id%3AMLB6194860656&matt_event_ts=1793621059620&matt_d2id=ed0d86bc-4d20-43fc-b33a-f6563fda8150&matt_tracing_id=c6a837be-5db9-465d-93ab-d8e632875c7f#polycard_client=recommendations_home_affiliate-profile&wid=MLB6194860656&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=05ed0d80-7a67-4dda-8ac7-fc27a90f08fc&tracking_id=7c75dc32-0dee-4de7-89ad-a85e66a52fb2&c_id=/home/card-featured/element&c_uid=fb1cf352-1011-4758-b94c-e2dcb4a6a5b9",
+        "titulo": "Kit Reparo Pneus 23 Remendo Macarrão Moto Carro Sem Câmara",
+        "preco": 20.0,
+        "timestamp": 1793621568.4061344,
+        "expirado": false
     }
 ]
