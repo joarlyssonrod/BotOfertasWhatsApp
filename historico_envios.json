@@ -55766,5 +55766,21 @@
         "preco": 264.99,
         "timestamp": 1793635802.113777,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_241918500",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g47-256gb-5g-12gb-4gb-ram-8gb-ram-boost-grafite-67-cam-dupla-selfie-32mp/p/241918500/te/mg47/?seller_id=magazineluiza",
+        "titulo": "Smartphone Motorola Moto g47 256GB 5G 12GB (4GB RAM + 8GB RAM Boost) Grafite 6,7\" Câm. Dupla Selfie 32MP",
+        "preco": 1529.1,
+        "timestamp": 1793643026.0083492,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB50017556",
+        "link_bruto": "https://www.mercadolivre.com.br/lava-louca-electrolux-8-servicos-branca-lava-e-seca-50-lb08-cor-branco/p/MLB50017556?matt_event_ts=1793642586377&matt_d2id=e32a8f21-ab9f-473e-be94-65a049dc6f08&matt_tracing_id=26a2a908-5c57-4fc7-8910-ab343d1637b2#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=69352b20-0aeb-463b-a610-b0243a0920b2&tracking_id=0c6d1b92-0021-40ee-9b5b-49f9bfaa8341&c_id=/home/card-featured/element&c_uid=e535edce-d805-4b8f-95eb-6b91b986351a",
+        "titulo": "Lava-louça Electrolux 8 Serviços Branca Lava E Seca 50' Lb08 Cor Branco",
+        "preco": 1489.0,
+        "timestamp": 1793643050.9193707,
+        "expirado": false
     }
 ]
