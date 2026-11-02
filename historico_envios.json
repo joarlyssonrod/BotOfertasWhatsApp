@@ -55670,5 +55670,29 @@
         "preco": 27.89,
         "timestamp": 1793571299.7333386,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H514HKD8",
+        "link_bruto": "https://www.amazon.com.br/dp/B0H514HKD8?tag=promobit-d-20",
+        "titulo": "Tech T-shirt Gola U Masculino",
+        "preco": 43.0,
+        "timestamp": 1793578410.1016512,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HFKXKPRJ",
+        "link_bruto": "https://www.amazon.com.br/Clear-Shampoo-Anticaspa-Turbo-Power/dp/B0HFKXKPRJ",
+        "titulo": "Clear Men Shampoo Anticaspa Turbo Max Power 350ml",
+        "preco": 30.85,
+        "timestamp": 1793578437.2161164,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DYK3P3NR",
+        "link_bruto": "https://www.amazon.com.br/dp/B0DYK3P3NR?tag=promobit-d-20",
+        "titulo": "Café Dolce Gusto Espresso Alto Paranaiba - 10 cápsulas",
+        "preco": 14.74,
+        "timestamp": 1793578454.398712,
+        "expirado": false
     }
 ]
