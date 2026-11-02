@@ -55742,5 +55742,29 @@
         "preco": 49.44,
         "timestamp": 1793629633.5973063,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB61742198",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-armaf-club-de-nuit-bling-75ml-masculino/p/MLB61742198?matt_event_ts=1793635300486&matt_d2id=b551b5ca-9048-4716-bcf8-ff055d45883e&matt_tracing_id=bdbcd447-1de5-40a2-aab0-6329211445c3#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=93e5cb3d-e7d9-4544-ac6f-2dc25488c794&tracking_id=4f8f93d5-f17e-45f5-8377-c8f7253b9398&c_id=/home/card-featured/element&c_uid=adff8cdb-788c-472a-8b03-5cfb15e0639b",
+        "titulo": "Perfume Armaf Club de Nuit Bling EDP 75ml",
+        "preco": 218.0,
+        "timestamp": 1793635756.9948597,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_BH71EF7E59",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-duramo-rc-2-masculino/p/bh71ef7e59/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Adidas Duramo RC 2 Masculino",
+        "preco": 218.49,
+        "timestamp": 1793635774.2404242,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JHJ56AC5GD",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-courtblock-26-masculino/p/jhj56ac5gd/es/oedc/?seller_id=netshoes",
+        "titulo": "Tênis Adidas Courtblock 26 Masculino",
+        "preco": 264.99,
+        "timestamp": 1793635802.113777,
+        "expirado": false
     }
 ]
