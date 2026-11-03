@@ -55910,5 +55910,21 @@
         "preco": 2799.0,
         "timestamp": 1793730122.625194,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_BJ9BBKCE3B",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-courtblock-26-masculino/p/bj9bbkce3b/es/oedc/?seller_id=netshoes",
+        "titulo": "Tênis Adidas Courtblock 26 Masculino",
+        "preco": 249.99,
+        "timestamp": 1793744075.8258371,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB52933802",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-gamer-acer-nitro-kg243y-p1bip-238-full-hd-144hz-1ms-vrb-ips-hdmi-displayport-zeroframe/p/MLB52933802?matt_event_ts=1793743750772&matt_d2id=60a08517-d75c-4d9b-814f-b8fb2e337b1c&matt_tracing_id=3ec26824-f109-448e-b340-5efe76adaa50#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a022bf0d-47e0-4352-b12f-36b48d287f32&tracking_id=ca8135c1-e974-4f66-9d44-2f989a15894c&c_id=/home/card-featured/element&c_uid=19e5aa4d-0606-4f44-8fe3-1be2c726b121",
+        "titulo": "Monitor Gamer Acer Nitro KG243Y P1bip 23,8\"",
+        "preco": 474.0,
+        "timestamp": 1793744103.120037,
+        "expirado": false
     }
 ]
