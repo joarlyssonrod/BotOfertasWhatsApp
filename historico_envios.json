@@ -55790,5 +55790,53 @@
         "preco": 145.0,
         "timestamp": 1793657594.8100493,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B077PJDFP5",
+        "link_bruto": "https://www.amazon.com.br/Cloro-Genco-L-E-Mult-3x1-10kg/dp/B077PJDFP5",
+        "titulo": "Cloro Genco 10kg",
+        "preco": 109.9,
+        "timestamp": 1793707977.1148767,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58214190303",
+        "link_bruto": "https://s.shopee.com.br/1Lh2ugfwQi",
+        "titulo": "Maço de Dinheiro inspirado no GTA VI - Roda apoiado - Opção Sem Luz e Luminária com LED USB escolha",
+        "preco": 79.44,
+        "timestamp": 1793708003.8995323,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DVT7GM9C",
+        "link_bruto": "https://www.amazon.com.br/Whisky-Johnnie-Walker-Label-750ml/dp/B0DVT7GM9C",
+        "titulo": "Whisky Johnnie Walker Gold Label, 750ml",
+        "preco": 199.99,
+        "timestamp": 1793708029.018344,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0BZWY2W4R",
+        "link_bruto": "https://www.amazon.com.br/dp/B0BZWY2W4R/?tag=promobit-d-20",
+        "titulo": "3 Corações Tres Cafeteira Espresso E Multibebida Lov Preta - 127v",
+        "preco": 263.19,
+        "timestamp": 1793708056.509381,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0D7NZ3N7P",
+        "link_bruto": "https://www.amazon.com.br/Professionnel-Molecular-Recupera-Desembara%C3%A7o-danificados/dp/B0D7NZ3N7P",
+        "titulo": "L'Oréal Professionnel Máscara Absolut Repair Molecular, Repara os Danos & Recupera a Força, Maciez & Desembaraço, Para cabelos danificados e muito danificados",
+        "preco": 159.0,
+        "timestamp": 1793708072.8007572,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HGBJXJTS",
+        "link_bruto": "https://www.amazon.com.br/dp/B0HGBJXJTS?tag=promobit-d-20",
+        "titulo": "EA Sports FC 27 - PS4",
+        "preco": 306.73,
+        "timestamp": 1793708098.8134303,
+        "expirado": false
     }
 ]
