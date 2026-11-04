@@ -56038,5 +56038,29 @@
         "preco": 2579.1,
         "timestamp": 1793815986.308793,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB65118568",
+        "link_bruto": "https://www.mercadolivre.com.br/refrigerador-panasonic-391l-branco-nr-bt41pd2w-branco/p/MLB65118568?matt_event_ts=1793822488633&matt_d2id=ae575d5f-6b51-4ad8-9484-f64ba49bc545&matt_tracing_id=1dba9b73-7452-41f6-bacd-89984d5f2cfe#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=17594e7c-fe3c-4192-a480-b466a216c457&tracking_id=f9f08f42-4fc3-4f2d-a433-4f3cc62d8bf4&c_id=/home/card-featured/element&c_uid=33b6a500-321c-4d0d-ad48-6c3cb1c404d0",
+        "titulo": "Refrigerador Panasonic 391l Branco Nr-bt41pd2w Branco",
+        "preco": 1857.0,
+        "timestamp": 1793823466.5154755,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DD81K7V7",
+        "link_bruto": "https://www.amazon.com.br/Impressora-Bambu-Lab-A1-Combo/dp/B0DD81K7V7",
+        "titulo": "Impressora 3D Bambu Lab A1 + AMS Lite (Combo) - A1C, Bivolt",
+        "preco": 3929.0,
+        "timestamp": 1793823479.9997876,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB66267122",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s25-fe-icyblue-256gb-sm-s731bdbmltp/p/MLB66267122?matt_event_ts=1793822923920&matt_d2id=e263b22a-7a2d-4fa1-9ae9-3751fa9349dd&matt_tracing_id=3c969ee0-d512-4198-be78-0373e54548c9#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6a5807de-1349-4ca6-afdc-19418328ba2e&tracking_id=88369965-85a6-445c-a650-15d6f3fa872c&c_id=/home/card-featured/element&c_uid=fc2068db-1662-45a9-b969-12399b461cea",
+        "titulo": "Celular Samsung Galaxy S25 Fe Icyblue 256gb SM-S731bdbmltp",
+        "preco": 3149.1,
+        "timestamp": 1793823492.9161367,
+        "expirado": false
     }
 ]
