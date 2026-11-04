@@ -56022,5 +56022,21 @@
         "preco": 2391.08,
         "timestamp": 1793808808.1951606,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB47770795",
+        "link_bruto": "https://www.mercadolivre.com.br/copo-stanley-quencher-frost-887ml/p/MLB47770795?matt_event_ts=1793815414040&matt_d2id=8333f5b8-f589-4a6c-96ee-64668ba5e12c&matt_tracing_id=08786d99-46a9-4e94-8a6d-f6f84aa86a3b#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=95640465-f0e9-4260-8d46-95f952199f44&tracking_id=18715315-47df-4684-8857-5619987f142a&c_id=/home/card-featured/element&c_uid=f94c5d04-edae-4182-a8af-8d2916e81e09",
+        "titulo": "Stanley Copo Quencher Frost 887ml",
+        "preco": 118.44,
+        "timestamp": 1793815962.5191662,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/smartphone-motorola-edge-70-fusion-512gb-5g-12gb-ram-12gb-ram-boost-verde-claro-68-cam-tripla-selfie-50mp/divulgador/oferta/241957500/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/smartphone-motorola-edge-70-fusion-512gb-5g-12gb-ram-12gb-ram-boost-verde-claro-68-cam-tripla-selfie-50mp/divulgador/oferta/241957500/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Smartphone Motorola Edge 70 Fusion+ 512GB 5G 12GB RAM +12GB RAM Boost Verde Claro 68\" Câm Tripla Selfie 50MP",
+        "preco": 2579.1,
+        "timestamp": 1793815986.308793,
+        "expirado": false
     }
 ]
