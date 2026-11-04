@@ -55926,5 +55926,29 @@
         "preco": 474.0,
         "timestamp": 1793744103.120037,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_DK93AG4KKG",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-duramo-rc-2-masculino/p/dk93ag4kkg/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Adidas Duramo RC 2 Masculino",
+        "preco": 218.49,
+        "timestamp": 1793751235.8247755,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B00I3ZWJZI",
+        "link_bruto": "https://www.amazon.com.br/Panasonic-M%C3%A1quina-Lavar-Tit%C3%A2nio-NA-F150B1T/dp/B00I3ZWJZI",
+        "titulo": "Máquina de Lavar Panasonic 15kg Titânio 220v NA-F150B1T",
+        "preco": 1733.42,
+        "timestamp": 1793751252.301718,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F19CK9PK",
+        "link_bruto": "https://www.amazon.com.br/Condicionado-Janela-Eletr%C3%B4nico-Hisense-AW-10CWBRVGU02/dp/B0F19CK9PK",
+        "titulo": "Ar-Condicionado Janela Eletrônico Wi-Fi 10.000 btus Frio 127V AW-10CWBRVGU02 Hisense",
+        "preco": 1499.0,
+        "timestamp": 1793751271.6047955,
+        "expirado": false
     }
 ]
