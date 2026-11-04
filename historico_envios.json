@@ -56062,5 +56062,21 @@
         "preco": 3149.1,
         "timestamp": 1793823492.9161367,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_58200412404",
+        "link_bruto": "https://shopee.com.br/Lava-Lou%C3%A7as-8-Servi%C3%A7os-Brastemp-Cinza-BLF08BS-i.1648122739.58200412404?extraParams=%7B%22display_model_id%22%3A228794399015%2C%22model_selection_logic%22%3A3%7D&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEugAAAAyTXydZ2JV365hNAeCf3LUibap_n-CT0OqjUb9JbpJhs8Y32casmJELOUmWwcinQbnHUfHE5m1DNBUsGBtXsZAi3cfEJQJcnkYYqSfs9xPawk6_D_7_ZMjrO9_69nxl_WAmvOxwvw7xNdjqvg75JRbL3PfC-gBUl3T7pSk8IeSnfkf3cc6_TqxUVhDTr6beOWKW-ytxMb8bMPWyIR6AxrNgzHMPFgq889YqNdag9qFgGAfjYb1z6g&image_ids=sg-11134201-825a4-muxm910r57gh65&mmp_pid=an_18140170000&uls_trackid=5720uvd0000p&utm_campaign=id_f5cab67a250792e0&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fsx8eog63n7y",
+        "titulo": "Lava Louças 8 Serviços Brastemp Cinza - BLF08BS",
+        "preco": 1519.89,
+        "timestamp": 1793830577.3064332,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB20921202",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-aiwa-50-android-4k-borda-ultrafina-hdr10-dolby-audio-aws-tv-50-bl-02-a/p/MLB20921202?matt_event_ts=1793829782668&matt_d2id=ca88db9c-0326-4529-a9c5-9fe58d11ae58&matt_tracing_id=f306a6fc-2964-4ad6-b317-f1c9514704ba#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=2de1c389-0045-43ba-b386-de4e2c70dedd&tracking_id=da5f777b-9556-4790-8b6b-2adedf737e9a&c_id=/home/card-featured/element&c_uid=ec9c78dd-75d3-4f6a-8019-1cc41010dac6",
+        "titulo": "Smart TV AIWA 50 Android 4K Borda Ultrafina HDR10 Dolby Áudio AWS-TV-50-BL-02-A",
+        "preco": 1529.15,
+        "timestamp": 1793830600.2159874,
+        "expirado": false
     }
 ]
