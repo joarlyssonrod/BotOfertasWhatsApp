@@ -56174,5 +56174,21 @@
         "preco": 169.9,
         "timestamp": 1793895097.0115995,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB48678589",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-rabanne-invictus-victory-absolu-parfum-intense-100-ml-masculino/p/MLB48678589?matt_event_ts=1793902058289&matt_d2id=6cef601a-e3a6-4217-b173-f0b62e73d3ba&matt_tracing_id=c15a641d-5fc4-4b2e-9eca-6e4b1a420338#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=a194c246-2aaa-48b5-947e-865776e2fa29&tracking_id=4000624d-52a2-4511-a6fa-b790b5517c96&c_id=/home/card-featured/element&c_uid=0950accc-82a3-4a4f-acd1-2be2d58d88e6",
+        "titulo": "Perfume Rabanne Invictus Victory Absolu Parfum Intense 100 Ml Masculino",
+        "preco": 465.3,
+        "timestamp": 1793902407.0283892,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_AGF6KE1E68",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-prize-masculino/p/agf6ke1e68/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Fila Prize Masculino",
+        "preco": 180.49,
+        "timestamp": 1793902426.4124122,
+        "expirado": false
     }
 ]
