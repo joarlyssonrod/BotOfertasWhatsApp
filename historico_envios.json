@@ -56118,5 +56118,61 @@
         "preco": 146.78,
         "timestamp": 1793888030.321531,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_BC4EHFHKAK",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-gel-thunderlight-2-masculino/p/bc4ehfhkak/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Asics Gel-Thunderlight 2 Masculino",
+        "preco": 208.99,
+        "timestamp": 1793894965.421692,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HD3GEK6222",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-de-corrida-voa-3-unissex-confortavel-43263432-olympikus/p/hd3gek6222/es/osnr/?seller_id=tubaraocentermg",
+        "titulo": "Tênis de Corrida Voa 3 Unissex Confortável 43263432 - Olympikus",
+        "preco": 284.9,
+        "timestamp": 1793894988.0014472,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_JCG363BH8D",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-de-corrida-swift-5-unissex-confortavel-43559375-olympikus/p/jcg363bh8d/es/oedc/?seller_id=tubaraocentermg",
+        "titulo": "Tênis de Corrida Swift 5 Unissex Confortável 43559375 - Olympikus",
+        "preco": 229.9,
+        "timestamp": 1793895014.5022655,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_KEAFAJCH7G",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-de-corrida-volta-unissex-confortavel-43501360-olympikus/p/keafajch7g/es/osnr/?seller_id=tubaraocentermg",
+        "titulo": "Tênis de Corrida Volta Unissex Confortável 43501360 - Olympikus",
+        "preco": 269.9,
+        "timestamp": 1793895029.5261557,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07GBC52Q5",
+        "link_bruto": "https://www.amazon.com.br/dp/B07GBC52Q5?ta=&tag=promobit-d-20",
+        "titulo": "Creme Hidratante NIVEA 29g, Hidratação Profunda",
+        "preco": 11.0,
+        "timestamp": 1793895055.6195755,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/sofa-3-lugares-retratil-e-reclinavel-cama-inbox-compact-180m-velusoft-cinza/divulgador/oferta/kd1dbheb9f/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/sofa-3-lugares-retratil-e-reclinavel-cama-inbox-compact-180m-velusoft-cinza/divulgador/oferta/kd1dbheb9f/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Sofá 3 Lugares Retrátil e Reclinável Cama inBox Compact 180m Velusoft Cinza",
+        "preco": 939.0,
+        "timestamp": 1793895074.7137587,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_FF28H9D6DH",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-unissex-casual-esportivo-confortavel-flutua-43216952-olympikus/p/ff28h9d6dh/es/osnr/?seller_id=tubaraocentermg",
+        "titulo": "Tênis Unissex Casual Esportivo Confortável Flutua 43216952 - Olympikus",
+        "preco": 169.9,
+        "timestamp": 1793895097.0115995,
+        "expirado": false
     }
 ]
