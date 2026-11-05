@@ -56190,5 +56190,13 @@
         "preco": 180.49,
         "timestamp": 1793902426.4124122,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB46215784",
+        "link_bruto": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto/p/MLB46215784?matt_event_ts=1793908892225&matt_d2id=293c95cb-70f6-45f1-b1c3-a4e355845bc0&matt_tracing_id=6f245870-a707-436a-9c71-48565cabd67c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=849c1206-1a9f-4504-aa2d-463e930b19e5&tracking_id=64a9fccd-4d86-41b7-b3fb-3ba5b4479ffb&c_id=/home/card-featured/element&c_uid=b8cf75b2-02a0-43de-956b-cdf4cd4a029d",
+        "titulo": "iPhone 16e (128 GB) - Preto",
+        "preco": 3029.0,
+        "timestamp": 1793909535.330801,
+        "expirado": false
     }
 ]
