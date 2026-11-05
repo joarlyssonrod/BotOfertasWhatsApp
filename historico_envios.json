@@ -56078,5 +56078,29 @@
         "preco": 1529.15,
         "timestamp": 1793830600.2159874,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB43328371",
+        "link_bruto": "https://www.mercadolivre.com.br/jogo-de-panelas-5-pecas-antiaderente-ceramico-grafite-mimo-style-conjunto-completo/p/MLB43328371?matt_event_ts=1793837608745&matt_d2id=d96011c8-376b-458b-b628-48a6ba2d3a68&matt_tracing_id=0de141bc-a944-4b1c-ac8e-7beeeb1c59c6#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=86d43d1c-a008-4fee-ab08-dc814d75a374&tracking_id=9e403a76-c895-4566-9edc-7dc93568fdbb&c_id=/home/card-featured/element&c_uid=753a3b15-67cb-4d0e-8c59-0b38d975c143",
+        "titulo": "Jogo de Panelas 5 Peças Antiaderente Cerâmico Grafite Mimo Style - Conjunto Completo",
+        "preco": 189.65,
+        "timestamp": 1793837933.5489867,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HJSTGWPL",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0HJSTGWPL?btn_type=ss&tag=promobit-d-20",
+        "titulo": "Final Fantasy Resonance - PlayStation 5 (Exclusivo Amazon)",
+        "preco": 218.92,
+        "timestamp": 1793837953.7057188,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H27558K5",
+        "link_bruto": "https://www.amazon.com.br/dp/B0H27558K5?m=A1ZZFT5FULY4LN&btn_type=ss&tag=promobit-d-20",
+        "titulo": "Fritadeira Air Fryer Oven 12L Digital Midea 220V - Potência 1.900W",
+        "preco": 299.0,
+        "timestamp": 1793837971.1049075,
+        "expirado": false
     }
 ]
