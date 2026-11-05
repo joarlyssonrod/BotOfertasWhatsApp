@@ -56110,5 +56110,13 @@
         "preco": 778.18,
         "timestamp": 1793880855.7029033,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0842XB4BN",
+        "link_bruto": "https://www.amazon.com.br/Mochila-DELL-Gaming-Preto-460-BCZE/dp/B0842XB4BN?tag=promobit-d-20",
+        "titulo": "Mochila Dell Gaming 17 para Notebook, 17",
+        "preco": 146.78,
+        "timestamp": 1793888030.321531,
+        "expirado": false
     }
 ]
