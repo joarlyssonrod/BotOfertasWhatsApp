@@ -56206,5 +56206,29 @@
         "preco": 399.0,
         "timestamp": 1793923864.5116508,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B098CL79W1",
+        "link_bruto": "https://www.amazon.com.br/Amaciante-Concentrado-Downy-Perfume-M%C3%ADstico/dp/B098CL79W1",
+        "titulo": "Downy Amaciante Concentrado Perfume Collection Místico 3L",
+        "preco": 39.9,
+        "timestamp": 1793988550.9990468,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/celular-samsung-galaxy-s26-ultra-5g-256gb-galaxy-ai-preto-69-12gb-ram-cam-quadrupla-200-50-10-50mp-bateria-5000mah-dual-chip/divulgador/oferta/241159200/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/celular-samsung-galaxy-s26-ultra-5g-256gb-galaxy-ai-preto-69-12gb-ram-cam-quadrupla-200-50-10-50mp-bateria-5000mah-dual-chip/divulgador/oferta/241159200/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Celular Samsung Galaxy S26 Ultra 5G 256GB Galaxy AI Preto 69\" 12GB RAM Câm Quádrupla 200+50+10+50MP Bateria 5000mAh D",
+        "preco": 6399.1,
+        "timestamp": 1793988569.8063233,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB2665719537",
+        "link_bruto": "https://produto.mercadolivre.com.br/MLB-2665719537-filtro-de-linha-5-tomadas-clamper-dps-energia-5-extenso-_JM?searchVariation=174598880982&matt_event_ts=1793988214036&matt_d2id=5ef7228d-474b-491e-9fb3-4ac80fe118d9&matt_tracing_id=4e3d7210-b773-4eed-b1af-a9f8c4c2b0a1#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ba6c5457-9126-46a6-bc3d-3336741a4183&tracking_id=b5f73f49-48a9-41dd-aab3-c81935943f45&c_id=/home/card-featured/element&c_uid=24b05fbe-2774-4ecf-8781-f86a13c71e9a",
+        "titulo": "Filtro De Linha iCLAMPER - Preto - 5 Tomadas",
+        "preco": 65.18,
+        "timestamp": 1793988588.5182397,
+        "expirado": false
     }
 ]
