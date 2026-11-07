@@ -56238,5 +56238,13 @@
         "preco": 1349.1,
         "timestamp": 1793995923.623409,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3420151050",
+        "link_bruto": "https://www.mercadolivre.com.br/headset-gamer-redragon-h510-pro-zeus-rgb-wireless-71-53mm-p/up/MLBU3420151050?pdp_filters=item_id%3AMLB4202004829&matt_event_ts=1794009880229&matt_d2id=3c677ab6-037b-447a-b0a4-6527a5ecc4c5&matt_tracing_id=f2ccdb63-b95f-4b08-8041-848b545dc850#polycard_client=recommendations_home_affiliate-profile&wid=MLB4202004829&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3418e3e2-88d3-4316-a689-809c60568f4b&tracking_id=2de2070b-df85-427a-9198-c62e3c5fe8b2&c_id=/home/card-featured/element&c_uid=0d90f305-00db-473e-9a6c-d7c4596247ba",
+        "titulo": "Headset Sem Fio Redragon Zeus Pro H510",
+        "preco": 235.0,
+        "timestamp": 1794010309.2949224,
+        "expirado": false
     }
 ]
