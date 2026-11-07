@@ -56294,5 +56294,21 @@
         "preco": 312.0,
         "timestamp": 1794075101.444552,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/ar-condicionado-split-9-000-btus-gree-inverter-quente-e-frio-gwh09atb-d6dna1ab/divulgador/oferta/241051500/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/ar-condicionado-split-9-000-btus-gree-inverter-quente-e-frio-gwh09atb-d6dna1ab/divulgador/oferta/241051500/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Ar-condicionado Split 9.000 BTUs Gree Inverter Quente e Frio GWH09ATB-D6DNA1AB",
+        "preco": 1709.07,
+        "timestamp": 1794089648.9008586,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB80139520",
+        "link_bruto": "https://www.mercadolivre.com.br/ar-condicionado-split-hi-wall-inverter-r-32-midea-ai-ecomaster-9000-btus-frio/p/MLB80139520?matt_event_ts=1794089234122&matt_d2id=a062fae2-cd42-470d-b366-b9b0156ad41d&matt_tracing_id=74e238af-06b9-499a-a46f-0e18b0850cd2#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=6398b591-5667-4e41-bd5a-f6aef29006bb&tracking_id=a8e389b7-e9c3-4460-838f-48f1ca09218b&c_id=/home/card-featured/element&c_uid=7a03998d-30ee-49d2-93b7-9f1c488c447b",
+        "titulo": "Ar Condicionado Split Hi Wall Inverter R-32 Midea AI Ecomaster 9.000 BTUs Frio",
+        "preco": 1619.0,
+        "timestamp": 1794089672.395987,
+        "expirado": false
     }
 ]
