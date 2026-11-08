@@ -56350,5 +56350,13 @@
         "preco": 208.99,
         "timestamp": 1794146875.0131323,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB45513932",
+        "link_bruto": "https://www.mercadolivre.com.br/samsung-galaxy-s25-5g-256gb-12gb-camera-tripla-azul/p/MLB45513932?matt_event_ts=1794168052790&matt_d2id=02434f31-85ee-4d53-9c37-584407b8dc81&matt_tracing_id=e22a3925-258c-4e51-9f95-af7f00bf162c#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=85ac6ccd-14c5-487d-b167-6a6b8cd21dd4&tracking_id=f238e250-bc8a-408c-a919-e8a1ca530e22&c_id=/home/card-featured/element&c_uid=b93fa645-071e-49bf-84c2-f02a3e9ed59c",
+        "titulo": "Samsung Galaxy S25+ 5g 256gb 12gb Câmera Tripla - Azul",
+        "preco": 3659.39,
+        "timestamp": 1794168493.125253,
+        "expirado": false
     }
 ]
