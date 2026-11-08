@@ -56310,5 +56310,21 @@
         "preco": 1619.0,
         "timestamp": 1794089672.395987,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B08665CRL6",
+        "link_bruto": "https://www.amazon.com.br/Hellmanns-Maionese-Light-500g/dp/B08665CRL6?tag=promobit-d-20",
+        "titulo": "Hellmann's Maionese Light 500g",
+        "preco": 7.91,
+        "timestamp": 1794096884.8186753,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/kit-4-pneus-aro-13-175-75r13-westlake-rp68-standard/divulgador/oferta/239235700/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/kit-4-pneus-aro-13-175-75r13-westlake-rp68-standard/divulgador/oferta/239235700/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Kit 4 Pneus Aro 13 17575R13",
+        "preco": 914.47,
+        "timestamp": 1794096907.937984,
+        "expirado": false
     }
 ]
