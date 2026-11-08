@@ -56334,5 +56334,21 @@
         "preco": 1485.41,
         "timestamp": 1794139921.696344,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_KED7467D34",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-gel-nagoya-8-masculino/p/ked7467d34/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Asics Gel-Nagoya 8 Masculino",
+        "preco": 246.99,
+        "timestamp": 1794146861.8225968,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HACHK19HG2",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-gel-thunderlight-2-masculino/p/hachk19hg2/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Asics Gel-Thunderlight 2 Masculino",
+        "preco": 208.99,
+        "timestamp": 1794146875.0131323,
+        "expirado": false
     }
 ]
