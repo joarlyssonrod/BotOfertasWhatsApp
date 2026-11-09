@@ -56462,5 +56462,21 @@
         "preco": 6412.99,
         "timestamp": 1794254997.524242,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB15248175",
+        "link_bruto": "https://www.mercadolivre.com.br/suporte-de-mesa-para-tvmonitor-de-17-ate-30-preto-nb-f80/p/MLB15248175?matt_event_ts=1794261690724&matt_d2id=6db6806e-e68b-4002-bbc2-d83e12865cd3&matt_tracing_id=81741f1b-691d-4878-8240-81be97e880f2#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=33e564a1-94ee-44a7-a34d-344892c4e95d&tracking_id=334a23d5-85e7-4fbb-9367-708f2583f5ce&c_id=/home/card-featured/element&c_uid=e0c09589-08f7-482e-9d52-588367716da2",
+        "titulo": "Suporte De Mesa Para Tvmonitor De 17 Até 30 Preto Nb F80",
+        "preco": 87.88,
+        "timestamp": 1794262157.3966818,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB37882219",
+        "link_bruto": "https://www.mercadolivre.com.br/chuveiro-eletrico-intense-fame-eletronica-7800w-branco-ajuste-de-temperatura/p/MLB37882219?matt_event_ts=1794261743152&matt_d2id=f32bb444-5482-4363-995f-c2f5988fd765&matt_tracing_id=43694d86-d9b1-4f6a-8a4d-38617f1a120e#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=abc3eb06-21c6-48d0-8712-0b22c2984bc9&tracking_id=6b508b4f-1f6c-4607-8241-19f235a903f8&c_id=/home/card-featured/element&c_uid=80177a78-f391-4133-b1f0-7e31df424e95",
+        "titulo": "Chuveiro Elétrico Intense Fame Eletrônica 7800w Branco Ajuste De Temperatura",
+        "preco": 195.04,
+        "timestamp": 1794262180.7091553,
+        "expirado": false
     }
 ]
