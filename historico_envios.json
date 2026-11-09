@@ -56446,5 +56446,21 @@
         "preco": 229.9,
         "timestamp": 1794240696.6070411,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB80724503",
+        "link_bruto": "https://www.mercadolivre.com.br/perfume-arabe-qaed-al-fursan-edp-masculino-90ml-original-com-nf/p/MLB80724503?matt_event_ts=1794254523824&matt_d2id=4ea2e890-2c56-4138-9cc9-39bbbbc0afbc&matt_tracing_id=92d1ad54-0bca-4aee-9a32-cbb3974367f8#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=7250847b-2a54-4d78-9b81-f3e897bfb22e&tracking_id=39dc2722-4318-4d51-8ae9-823acddaa638&c_id=/home/card-featured/element&c_uid=3f7583ca-c29a-4380-8990-c23be5e2123b",
+        "titulo": "Perfume Árabe Lattafa Qaed Al Fursan EDP 90ml",
+        "preco": 122.0,
+        "timestamp": 1794254983.5978875,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/smartphone-celular-samsung-galaxy-s26-ultra-5g-256gb-12gb-ram/divulgador/oferta/gd6fjh219a/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/smartphone-celular-samsung-galaxy-s26-ultra-5g-256gb-12gb-ram/divulgador/oferta/gd6fjh219a/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Smartphone Celular Samsung Galaxy S26 Ultra 5G 256GB 12GB RAM",
+        "preco": 6412.99,
+        "timestamp": 1794254997.524242,
+        "expirado": false
     }
 ]
