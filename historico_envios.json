@@ -56486,5 +56486,13 @@
         "preco": 4354.0,
         "timestamp": 1794269296.2238321,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H3WHDZK2",
+        "link_bruto": "https://www.amazon.com.br/Notebook-Gamer-Lenovo-15IRX9-i7-13645HX/dp/B0H3WHDZK2",
+        "titulo": "Notebook Gamer Lenovo LOQ 15IRX9 Intel Core i7-13645HX 16GB 512GB SSD RTX 4050 Linux 15.6\" - 83KHS00600 Luna Grey",
+        "preco": 6504.0,
+        "timestamp": 1794312707.931076,
+        "expirado": false
     }
 ]
