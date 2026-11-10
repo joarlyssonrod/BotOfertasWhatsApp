@@ -56502,5 +56502,29 @@
         "preco": 1599.1,
         "timestamp": 1794319844.9119222,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3483822097",
+        "link_bruto": "https://www.mercadolivre.com.br/medicube-deep-vita-c-pad-disco-facial-vitamina-c-coreano/up/MLBU3483822097?pdp_filters=item_id%3AMLB4249713497&matt_event_ts=1794348197730&matt_d2id=a2fcb7bc-3ea5-4539-9368-00258f9864b6&matt_tracing_id=5d8f7359-161d-4f36-9d5d-228b7aa7b5e3#polycard_client=recommendations_home_affiliate-profile&wid=MLB4249713497&sid=recommendations-landings-me&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=9d603387-c0a8-44bd-88a4-f9d997ddcf49&tracking_id=bf69d1a6-a568-40e7-873b-f4b5b55e6092&c_id=/home/card-featured/element&c_uid=447d9216-b44b-489e-8e77-04d4c1712a06",
+        "titulo": "Medicube Deep Vita C Pad Disco Facial Vitamina C Coreano",
+        "preco": 70.19,
+        "timestamp": 1794348729.2018256,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_241918600",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g47-256gb-5g-4gb-ram-8gb-ram-boost-azul-nautico-67-cam-dupla-selfie-32mp/p/241918600/te/mg47/?seller_id=magazineluiza",
+        "titulo": "Smartphone Motorola Moto g47 256GB 5G 4GB RAM +8GB RAM Boost Azul Náutico 6,7\" Câm. Dupla Selfie 32MP",
+        "preco": 1499.0,
+        "timestamp": 1794348756.0248563,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B08KJ8QF7P",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B08KJ8QF7P/?tag=promobit-d-20",
+        "titulo": "Sabonete Líquido Refil Nivea, Erva-doce, 200ml",
+        "preco": 5.92,
+        "timestamp": 1794348771.8193057,
+        "expirado": false
     }
 ]
