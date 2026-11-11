@@ -56574,5 +56574,13 @@
         "preco": 999.0,
         "timestamp": 1794398884.1052303,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_58206314946",
+        "link_bruto": "https://s.shopee.com.br/1qdWOY5M5J",
+        "titulo": "Geladeira Refrigerador Compacto HQ 140L Duplex Defrost, Baixo Consumo A Branco HQ-140RDF",
+        "preco": 1314.13,
+        "timestamp": 1794406005.1141477,
+        "expirado": false
     }
 ]
