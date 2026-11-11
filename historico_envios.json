@@ -56566,5 +56566,13 @@
         "preco": 280.49,
         "timestamp": 1794355959.2331798,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CX8MT2M2",
+        "link_bruto": "https://www.amazon.com.br/Kindle-Colorsoft-16GB/dp/B0CX8MT2M2",
+        "titulo": "Amazon Kindle Colorsoft 16 GB (modelo 2024) - Com tela colorida e temperatura de luz ajustável - Cor Preta",
+        "preco": 999.0,
+        "timestamp": 1794398884.1052303,
+        "expirado": false
     }
 ]
