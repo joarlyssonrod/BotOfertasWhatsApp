@@ -56662,5 +56662,21 @@
         "preco": 109.99,
         "timestamp": 1794507077.4003417,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_49368850144",
+        "link_bruto": "https://s.shopee.com.br/2gCfWDnY5h",
+        "titulo": "Copo Térmico 473ml GTA VI",
+        "preco": 49.95,
+        "timestamp": 1794521456.038084,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GMKS98D5",
+        "link_bruto": "https://www.amazon.com.br/Smartphone-Motorola-Signature-5G-cameras/dp/B0GMKS98D5?tag=promobit-d-20",
+        "titulo": "Motorola Signature Snapdragon 8 Gen 5 512 GB 12 GB RAM",
+        "preco": 4498.6,
+        "timestamp": 1794521479.5144894,
+        "expirado": false
     }
 ]
