@@ -56758,5 +56758,21 @@
         "preco": 214.15,
         "timestamp": 1794586380.9181387,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB26783200",
+        "link_bruto": "https://www.mercadolivre.com.br/controle-sem-fio-sony-playstation-dualsense-starlight-blue/p/MLB26783200?matt_event_ts=1794593176132&matt_d2id=dc4f0cd2-9978-44a3-89a8-54e5aa44d30b&matt_tracing_id=3edcccbc-3016-4c14-889e-7ad6f204d4c3#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d443298c-7da1-457e-b831-ddc8c1f8e369&tracking_id=3ed8f5aa-c386-4a69-a0a5-4a74a51e70b8&c_id=/home/card-featured/element&c_uid=9fc2173a-7901-428a-aed6-78d28984f01d",
+        "titulo": "Controle Sem Fio Sony Playstation Dualsense Starlight Blue",
+        "preco": 338.0,
+        "timestamp": 1794593530.9224975,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/tenis-adidas-latin-run-3-0/divulgador/oferta/ajcg41h5fg/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-adidas-latin-run-3-0/divulgador/oferta/ajcg41h5fg/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Tênis Adidas Latin Run 3.0",
+        "preco": 264.99,
+        "timestamp": 1794593550.4299982,
+        "expirado": false
     }
 ]
