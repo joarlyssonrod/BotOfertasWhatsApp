@@ -56806,5 +56806,13 @@
         "preco": 3076.26,
         "timestamp": 1794600790.3956878,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU5610577224",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-smartphone-motorola-edge-70-fusion-5g-12-gb-ram-grafite-moto-buds-2-preto/up/MLBU5610577224?pdp_filters=item_id%3AMLB5425591963&matt_event_ts=1794607428900&matt_d2id=64bb83bc-1541-4104-837a-b554c1137d2b&matt_tracing_id=4a3f2ccf-4812-4514-a98f-3c7af7d4fc87#polycard_client=recommendations_home_affiliate-profile&wid=MLB5425591963&sid=recos&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=08a48d57-cb9a-4533-985a-cf93a37feac6&tracking_id=8304b9fe-19a5-4b07-bb9d-43ccb198e074&c_id=/home/card-featured/element&c_uid=28dbafc4-3fc6-461b-abf5-0e95348819ca",
+        "titulo": "Kit Smartphone Motorola Edge 70 Fusion 5g 12 Gb Ram Grafite  + Moto Buds 2 Preto",
+        "preco": 1899.0,
+        "timestamp": 1794607891.69576,
+        "expirado": false
     }
 ]
