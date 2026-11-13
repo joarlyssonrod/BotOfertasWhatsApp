@@ -56686,5 +56686,21 @@
         "preco": 369.54,
         "timestamp": 1794528580.0181363,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_241763000",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-50-lg-4k-uhd-qned-70-mini-led-ai-50qned70bsa-webos-26-2026/p/241763000/et/elit/?seller_id=magazineluiza",
+        "titulo": "Smart TV 50\" LG 4K UHD QNED 70 Mini LED AI 50QNED70BSA WebOS 26 2026",
+        "preco": 2429.1,
+        "timestamp": 1794572094.0262117,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_241203600",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g17-4g-256gb-12gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-fhd-60hz-bateria-5200-mah/p/241203600/te/mg17/?seller_id=magazineluiza",
+        "titulo": "Smartphone Motorola Moto G17 4G 256GB 12GB (4GB RAM + 8GB RAM Boost) Câmera 50MP Sony Lytia 600 Tela FHD+ 60Hz Bateria 5200 mAh",
+        "preco": 1199.0,
+        "timestamp": 1794572121.8147304,
+        "expirado": false
     }
 ]
