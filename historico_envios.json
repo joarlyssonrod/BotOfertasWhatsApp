@@ -56678,5 +56678,13 @@
         "preco": 4498.6,
         "timestamp": 1794521479.5144894,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU3934881219",
+        "link_bruto": "https://www.mercadolivre.com.br/conjunto-de-agasalho-masculino-dayready-adidas/up/MLBU3934881219?pdp_filters=item_id%3AMLB6713664068&matt_event_ts=1794528132936&matt_d2id=6718c0e2-86d4-4352-8f8c-7024bb6a54e4&matt_tracing_id=0e4ecf4d-d9da-47ef-86a0-b0c220e1e7e9#polycard_client=recommendations_home_affiliate-profile&wid=MLB6713664068&sid=recommendations-landings-me&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f0b136fc-2952-4bb7-8eef-851f7c82de8a&tracking_id=fd5c2687-eb96-4d17-bad8-7db080b30726&c_id=/home/card-featured/element&c_uid=719c169f-2f80-4964-b012-1ab3e71ec1ca",
+        "titulo": "Conjunto De Agasalho Masculino Dayready adidas",
+        "preco": 369.54,
+        "timestamp": 1794528580.0181363,
+        "expirado": false
     }
 ]
