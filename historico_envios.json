@@ -56702,5 +56702,45 @@
         "preco": 1199.0,
         "timestamp": 1794572121.8147304,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/lapromotion/divulgador/oferta/bfj491g8ak/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/lapromotion/divulgador/oferta/bfj491g8ak/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Celular Samsung Galaxy S26+ 5G, 256GB, 12GB RAM, Galaxy AI, Câmera Tripla de 50+12+10, Tela de 6.7\"",
+        "preco": 3949.0,
+        "timestamp": 1794579056.5130157,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_AG93535713",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-x-plr-path-masculino/p/ag93535713/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Adidas X PLR Path Masculino",
+        "preco": 226.09,
+        "timestamp": 1794579072.1994002,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FTC96JJ5",
+        "link_bruto": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0FTC96JJ5",
+        "titulo": "Celular Samsung Galaxy S25 FE 5G, 128GB, 8GB, Câmera Tripla - Jet Black",
+        "preco": 2999.0,
+        "timestamp": 1794579097.802332,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_KDBCGEB9FF",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-prize-masculino/p/kdbcgeb9ff/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Fila Prize Masculino",
+        "preco": 189.99,
+        "timestamp": 1794579119.4123669,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HF6PC5LD",
+        "link_bruto": "https://www.amazon.com.br/dp/B0HF6PC5LD?lv=shuf&social_share=cm_sw_r_apan_dp_4T00F0SYAGF20XYM9EJ3&channelId=704&tag=promobit-d-20&plpRedirect=mhFallback",
+        "titulo": "Notebook Samsung Galaxy Book4 Intel Core 5-120U Windows 11 Home 8GB 512GB SSD Iris Xe 15.6\" Full HD LED 1.55kg*",
+        "preco": 3194.19,
+        "timestamp": 1794579147.8030105,
+        "expirado": false
     }
 ]
