@@ -56830,5 +56830,37 @@
         "preco": 259.9,
         "timestamp": 1794615078.2179923,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_58253630570",
+        "link_bruto": "https://s.shopee.com.br/2VtHqeImgv",
+        "titulo": "Kit Conjunto Masculina Dry Fit Camisa + Bermuda Academy Training",
+        "preco": 68.0,
+        "timestamp": 1794658395.311753,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_23298026624",
+        "link_bruto": "https://s.shopee.com.br/1W0keoMaih",
+        "titulo": "Árvore De Natal Pinheiro 210cm 600 Galhos Cheia Premium Verde",
+        "preco": 137.19,
+        "timestamp": 1794658409.110991,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H6N4P465",
+        "link_bruto": "https://www.amazon.com.br/Samsung-Crystal-Companion-Gratuitos-Atualiza%C3%A7%C3%A3o/dp/B0H6N4P465",
+        "titulo": "Samsung Smart TV 70\" Crystal UHD 4K U8000H 2027 | Vision AI Companion, Modo Futebol, Xbox Cloud Gaming, Canais Gratuitos, 7 Anos de Atualização",
+        "preco": 3799.0,
+        "timestamp": 1794658435.5146604,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/air-fryer-philips-walita-serie-1000-na130-00-preta-com-timer-62l/divulgador/oferta/240412200/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/air-fryer-philips-walita-serie-1000-na130-00-preta-com-timer-62l/divulgador/oferta/240412200/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Air Fryer Philips Walita Série 1000 Na13000 Preta Com Timer 6,2l",
+        "preco": 304.0,
+        "timestamp": 1794658458.4416602,
+        "expirado": false
     }
 ]
