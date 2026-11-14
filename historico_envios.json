@@ -56870,5 +56870,29 @@
         "preco": 189.99,
         "timestamp": 1794672580.40872,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB2101694193",
+        "link_bruto": "https://www.mercadolivre.com.br/gta-vi-playstation-5-versao-standard-nacional-br/p/MLB2101694193?matt_event_ts=1794679559216&matt_d2id=8b221717-5e7f-474e-ad3d-505697e9199b&matt_tracing_id=854c50ef-69ce-465b-ba66-7454c19c7a13#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=eb702abc-f740-4f97-afdb-e6d9c7d4b2a2&tracking_id=cbb233aa-f491-47b8-82ba-908924eabc77&c_id=/home/card-featured/element&c_uid=e1e1178d-7340-470c-a182-f2f6d816863a",
+        "titulo": "Grand Theft Auto Vi PlayStation 5",
+        "preco": 318.0,
+        "timestamp": 1794679889.0176532,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FTCYVMVC",
+        "link_bruto": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0FTCYVMVC",
+        "titulo": "Celular Samsung Galaxy S25 FE 5G, 128GB, 8GB, Câmera Tripla - Azul Marinho",
+        "preco": 2999.0,
+        "timestamp": 1794679911.0254514,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_48703194596",
+        "link_bruto": "https://s.shopee.com.br/7VHyCRYt8S",
+        "titulo": "Kit Lavagem Completa Shampoo Cera Tok Final Intense Sintra Fast Pneu Pretinho Vonixx",
+        "preco": 153.58,
+        "timestamp": 1794679927.4124777,
+        "expirado": false
     }
 ]
