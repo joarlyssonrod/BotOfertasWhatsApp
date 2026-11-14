@@ -56814,5 +56814,21 @@
         "preco": 1899.0,
         "timestamp": 1794607891.69576,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/smart-tv-65-hisense-4k-hi-qled-65q6qv-vidaa-u9/divulgador/oferta/242754400/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/smart-tv-65-hisense-4k-hi-qled-65q6qv-vidaa-u9/divulgador/oferta/242754400/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Smart TV 65\" Hisense 4K Hi-QLED 65Q6QV Vidaa U9",
+        "preco": 2541.0,
+        "timestamp": 1794615052.808946,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0CZ7CDRSV",
+        "link_bruto": "https://www.amazon.com.br/PlayStation-Stellar-Blade-PS5/dp/B0CZ7CDRSV",
+        "titulo": "Stellar Blade PS5",
+        "preco": 259.9,
+        "timestamp": 1794615078.2179923,
+        "expirado": false
     }
 ]
