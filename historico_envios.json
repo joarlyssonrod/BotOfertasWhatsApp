@@ -56910,5 +56910,21 @@
         "preco": 3309.05,
         "timestamp": 1794701573.4208078,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FH5PXDTF",
+        "link_bruto": "https://www.amazon.com.br/Electrolux-Lava-Lou%C3%A7a-Servi%C3%A7os-Programa-LS14E/dp/B0FH5PXDTF",
+        "titulo": "Lava-Louças Electrolux 14 Serviços Inox com Programa Lava e Seca 127v LS14E",
+        "preco": 3148.99,
+        "timestamp": 1794751975.8328187,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/caixa-de-som-jbl-partybox-330-bluetooth-amplificada-portatil-280w-usb/divulgador/oferta/242303600/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/caixa-de-som-jbl-partybox-330-bluetooth-amplificada-portatil-280w-usb/divulgador/oferta/242303600/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Caixa de Som JBL PartyBox 330 Bluetooth Amplificada Portátil 280W USB",
+        "preco": 2644.05,
+        "timestamp": 1794751994.7160766,
+        "expirado": false
     }
 ]
