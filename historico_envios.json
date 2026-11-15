@@ -56926,5 +56926,45 @@
         "preco": 2644.05,
         "timestamp": 1794751994.7160766,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_DDBEBE105A",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-gel-nagoya-8-masculino/p/ddbebe105a/es/osnr/?seller_id=netshoes",
+        "titulo": "Tênis Asics Gel-Nagoya 8 Masculino",
+        "preco": 246.99,
+        "timestamp": 1794759259.414958,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/ar-condicionado-split-12-000-btus-agratto-inverter-frio-19504e/divulgador/oferta/241096500/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/ar-condicionado-split-12-000-btus-agratto-inverter-frio-19504e/divulgador/oferta/241096500/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Ar-condicionado Split 12.000 Btus Agratto Inverter Frio 19504e",
+        "preco": 1739.0,
+        "timestamp": 1794759287.1084578,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/red-dead-redemption-2-ps4-midia-fisica-playstation/divulgador/oferta/ad1ahb77jj/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/red-dead-redemption-2-ps4-midia-fisica-playstation/divulgador/oferta/ad1ahb77jj/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Jogo Red Dead Redemption 2 - PlayStation",
+        "preco": 92.97,
+        "timestamp": 1794759301.6205547,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_EA2497B397",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-prize-masculino/p/ea2497b397/es/osnr/?seller_id=netshoes",
+        "titulo": "Tenis Fila Prize Masculino",
+        "preco": 189.99,
+        "timestamp": 1794759321.2018037,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB54495903",
+        "link_bruto": "https://www.mercadolivre.com.br/fritadeira-air-fryer-oven-electrolux-por-rita-lobo-12l-digital-vermelha-escura-experience-1700w-eaf86/p/MLB54495903?matt_event_ts=1794758596284&matt_d2id=46a15257-43d0-4267-b373-b9ef7afdb959&matt_tracing_id=8b342977-b6e1-4cc0-b938-b98fdc4f07d7#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=0a673124-a8d1-4c42-acc4-2da50edcf496&tracking_id=86320c25-e16d-4a7a-84a7-4e534b4e6937&c_id=/home/card-featured/element&c_uid=3aa22b09-9633-4f10-b195-1a588be322e1",
+        "titulo": "Fritadeira Air Fryer Oven Electrolux por Rita Lobo 12L Digital Vermelha Escura Experience 1700W",
+        "preco": 381.0,
+        "timestamp": 1794759346.4105902,
+        "expirado": false
     }
 ]
