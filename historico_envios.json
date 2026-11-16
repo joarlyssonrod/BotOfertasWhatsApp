@@ -57070,5 +57070,29 @@
         "preco": 1977.91,
         "timestamp": 1794859989.5983384,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/bateria-carregador-portatil-2x-usb-c-10000mah-super-rapida-25w-samsung/divulgador/oferta/ba463kcac3/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/bateria-carregador-portatil-2x-usb-c-10000mah-super-rapida-25w-samsung/divulgador/oferta/ba463kcac3/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Power Bank Samsung 10000mAh Super Rápida 25W 2x USB-C - Bateria Carregador Portátil",
+        "preco": 79.27,
+        "timestamp": 1794867061.6021464,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB35875266",
+        "link_bruto": "https://www.mercadolivre.com.br/guarda-roupa-casal-moveis-lopas-easy-slim-8-portas-espelho-marrom-moderno/p/MLB35875266?matt_event_ts=1794866773532&matt_d2id=6e5bca08-378e-43f6-b6cb-2eadd7177129&matt_tracing_id=000d0257-569f-436a-be93-427a63edf76a#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3f3ccd9b-afd9-4b7a-95d9-e34d61497b17&tracking_id=b3d7a377-d145-4204-9b04-7e579115711e&c_id=/home/card-featured/element&c_uid=51c9e478-bb1f-49f5-96b9-c7a77b7a489e",
+        "titulo": "Guarda-Roupa Casal Móveis Lopas Easy Slim 8 Portas Espelho Marrom Moderno",
+        "preco": 671.93,
+        "timestamp": 1794867074.8032932,
+        "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/geladeira-side-by-side-lg-519l-com-compressor-inverter/divulgador/oferta/dj223g0h5g/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/geladeira-side-by-side-lg-519l-com-compressor-inverter/divulgador/oferta/dj223g0h5g/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Geladeira Side by Side LG 519L com Compressor Inverter",
+        "preco": 4425.12,
+        "timestamp": 1794867087.6213458,
+        "expirado": false
     }
 ]
