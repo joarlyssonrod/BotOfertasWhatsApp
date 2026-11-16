@@ -57022,5 +57022,29 @@
         "preco": 14631.06,
         "timestamp": 1794831134.6954482,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB81331210",
+        "link_bruto": "https://www.mercadolivre.com.br/ssd-externo-portatil-1tb-usb-c-30-alta-velocidade-ate-400mbs-compacto-e-leve-para-mac-windows-e-android/p/MLB81331210?matt_event_ts=1794837848576&matt_d2id=c18b828b-c8e8-400f-81a0-08926fe3ed47&matt_tracing_id=6329af7a-a450-42bb-977f-cfb057e6a740#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=bb28d8df-a987-4cd8-b24b-d1cbd8614f63&tracking_id=dc51e3a7-014c-4a30-89af-be3fb2b80fe4&c_id=/home/card-featured/element&c_uid=7ac00956-c4a4-4e0b-91dd-d728466b26d0",
+        "titulo": "SSD Externo Portátil 1TB USB-C 3.0 Alta Velocidade até 400MBs Compacto e Leve para Mac Windows e Android",
+        "preco": 629.0,
+        "timestamp": 1794838303.0108223,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB39204995",
+        "link_bruto": "https://www.mercadolivre.com.br/lavadora-digital-inverter-samsung-ww11t-inox-11kg/p/MLB39204995?matt_event_ts=1794837742046&matt_d2id=bd31d09c-1741-4c84-a747-9c67f5a1864b&matt_tracing_id=7178048a-6522-4b99-a935-b1d2418aae18#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=4aa95151-bd45-4bae-b370-5b6b89c831a5&tracking_id=7d7e422f-7806-4e67-beb5-7f58b493d2c3&c_id=/home/card-featured/element&c_uid=cb26b51c-face-43aa-afb3-952bc9f9b618",
+        "titulo": "Lavadora Digital Inverter Samsung WW11T Inox 11kg",
+        "preco": 2630.0,
+        "timestamp": 1794838325.6151774,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0F23LYWCD",
+        "link_bruto": "https://www.amazon.com.br/dp/B0F23LYWCD?tag=promobit-d-20",
+        "titulo": "Biscoito Wafer Hershey’s Chocotubes, 25g, Pack com 15 Unidades",
+        "preco": 30.36,
+        "timestamp": 1794838340.809602,
+        "expirado": false
     }
 ]
