@@ -57102,5 +57102,21 @@
         "preco": 29.9,
         "timestamp": 1794874103.8519123,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/mouse-gamer-sem-fio-logitech-g305-lightspeed-12000-dpi-6-botoes-preto-910-005281/divulgador/oferta/fg433h2143/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/mouse-gamer-sem-fio-logitech-g305-lightspeed-12000-dpi-6-botoes-preto-910-005281/divulgador/oferta/fg433h2143/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "titulo": "Mouse Gamer Logitech G305 Sem Fio, 12000 DPI, 6 Botões",
+        "preco": 99.99,
+        "timestamp": 1794917555.3244693,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B07XRX59DY",
+        "link_bruto": "https://www.amazon.com.br/Chiclete-Melancia-Trident-Com-Unidades/dp/B07XRX59DY",
+        "titulo": "Chiclete Trident Melancia Sem Açúcar - Caixa com 21 unid. de 8gs",
+        "preco": 34.81,
+        "timestamp": 1794917568.6027844,
+        "expirado": false
     }
 ]
