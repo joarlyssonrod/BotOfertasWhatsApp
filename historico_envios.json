@@ -57142,5 +57142,21 @@
         "preco": 484.41,
         "timestamp": 1794931697.604942,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU4147878942",
+        "link_bruto": "https://www.mercadolivre.com.br/tanquinho-itatiaia-10kg-lavadora-semiautomatica-branca-127v/up/MLBU4147878942?pdp_filters=item_id%3AMLB7016106718&matt_event_ts=1794938592123&matt_d2id=c75e121c-5773-4deb-bad6-227fa0437761&matt_tracing_id=d9f91910-efaf-42c5-b4bc-09d77bc13d01#polycard_client=recommendations_home_affiliate-profile&wid=MLB7016106718&sid=recommendations-landings-me&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=ad415899-3c91-428e-9abf-d215396fac63&tracking_id=46eb20d5-bed3-4cdc-b682-92fa4997adc9&c_id=/home/card-featured/element&c_uid=30f509f0-5bbc-41ef-b741-222354cb8c70",
+        "titulo": "Tanquinho Itatiaia 10kg Lavadora Semiautomática Branca 127v 127v",
+        "preco": 301.0,
+        "timestamp": 1794939041.7962584,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0DDTZD5BS",
+        "link_bruto": "https://www.amazon.com.br/Fralda-Pampers-Premium-Care-fraldas/dp/B0DDTZD5BS",
+        "titulo": "Fralda Pampers Premium Care Tamanho G 136 Unidades",
+        "preco": 148.72,
+        "timestamp": 1794939058.105887,
+        "expirado": false
     }
 ]
