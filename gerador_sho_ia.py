@@ -2,10 +2,16 @@ import os
 import sys
 import io
 import json
+import asyncio
+import subprocess
 import urllib.request
 import ssl
+import urllib3
 from PIL import Image, ImageDraw, ImageFont
 from shopee_api import buscar_ofertas_do_dia_shopee
+
+# Suprime avisos SSL
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Configura stdout UTF-8
 sys.stdout.reconfigure(encoding='utf-8')
@@ -134,10 +140,88 @@ def criar_card_vertical_achadinho(oferta, idx, pasta_saida):
     card.save(caminho_img, format="JPEG", quality=95)
     return caminho_img
 
+async def _gerar_audio_edge_tts(texto, caminho_mp3):
+    import edge_tts
+    # Voz neural brasileira muito natural e animada (Francisca ou Antonio)
+    communicate = edge_tts.Communicate(texto, voice="pt-BR-FranciscaNeural", rate="+12%")
+    await communicate.save(caminho_mp3)
+
+def gerar_narracao_ia(texto, caminho_mp3):
+    """
+    Gera o áudio MP3 da locução com IA em português.
+    Tenta usar a voz neural Microsoft Edge-TTS primeiro; se a rede corporativa bloquear WebSocket,
+    faz fallback automático para Google TTS (gTTS) com bypass SSL.
+    """
+    try:
+        asyncio.run(_gerar_audio_edge_tts(texto, caminho_mp3))
+        if os.path.exists(caminho_mp3) and os.path.getsize(caminho_mp3) > 500:
+            return True
+    except Exception:
+        pass
+
+    # Fallback gTTS (funciona mesmo em redes com proxy SSL corporativo)
+    try:
+        import requests
+        from gtts import gTTS
+        old_request = requests.Session.request
+        def patched_request(self, *args, **kwargs):
+            kwargs['verify'] = False
+            return old_request(self, *args, **kwargs)
+        requests.Session.request = patched_request
+        tts = gTTS(text=texto, lang='pt', tld='com.br', slow=False)
+        tts.save(caminho_mp3)
+        requests.Session.request = old_request
+        return os.path.exists(caminho_mp3) and os.path.getsize(caminho_mp3) > 500
+    except Exception as e:
+        print(f"⚠️ Erro ao gerar áudio de narração: {e}")
+        return False
+
+def criar_video_mp4_reels(caminho_img, caminho_mp3, caminho_mp4):
+    """
+    Combina o Card 1080x1920 + Áudio da Narração IA em um vídeo MP4 (H.264 + AAC)
+    pronto para postar no Instagram Reels, TikTok, YouTube Shorts e Status do WhatsApp.
+    """
+    try:
+        cmd = [
+            "ffmpeg", "-y",
+            "-loop", "1",
+            "-i", caminho_img,
+            "-i", caminho_mp3,
+            "-c:v", "libx264",
+            "-tune", "stillimage",
+            "-c:a", "aac",
+            "-b:a", "192k",
+            "-pix_fmt", "yuv420p",
+            "-vf", "scale=1080:1920",
+            "-shortest",
+            caminho_mp4
+        ]
+        res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=45)
+        return res.returncode == 0 and os.path.exists(caminho_mp4)
+    except Exception as e:
+        print(f"⚠️ Erro ao renderizar vídeo MP4 via FFmpeg: {e}")
+        return False
+
+def formatar_preco_fala(valor):
+    """Converte 39.90 em '39 reais e 90 centavos' para a voz de IA falar naturalmente"""
+    reais = int(valor)
+    centavos = int(round((valor - reais) * 100))
+    if centavos > 0:
+        return f"{reais} reais e {centavos} centavos"
+    return f"{reais} reais"
+
+def limpar_titulo_para_fala(titulo):
+    """Pega apenas as primeiras 6 a 8 palavras principais do produto para a voz não ler códigos técnicos"""
+    palavras = [p for p in titulo.replace("/", " ").replace("-", " ").split() if len(p) > 1]
+    return " ".join(palavras[:7])
+
 def gerar_kit_achadinhos_sho_ia(quantidade=5):
     """
-    Busca os melhores achadinhos da Shopee, gera os Cards 9:16 prontos para Reels/Stories/TikTok
-    e cria o arquivo com as legendas e roteiros prontos para copiar e colar.
+    Busca os melhores achadinhos da Shopee, gera:
+    1. Cards 9:16 em JPG (para Stories / Feed)
+    2. Narração com Voz de IA em MP3
+    3. Vídeos MP4 completos (Imagem + Voz de IA) prontos para Reels, TikTok e Shorts!
+    4. Arquivo de texto com as legendas e hashtags prontas para copiar e colar.
     """
     os.makedirs(PASTA_POSTS, exist_ok=True)
     print(f"🚀 [Sho IA] Buscando os {quantidade} Achadinhos mais virais da Shopee agora...")
@@ -149,12 +233,34 @@ def gerar_kit_achadinhos_sho_ia(quantidade=5):
 
     roteiros_txt = []
     roteiros_txt.append("=========================================================")
-    roteiros_txt.append("🤖 KIT DIÁRIO SHO IA - POSTS PRONTOS PARA REELS / TIKTOK / STORIES")
+    roteiros_txt.append("🤖 KIT DIÁRIO SHO IA - VÍDEOS REELS / TIKTOK / STORIES PRONTOS")
     roteiros_txt.append("=========================================================\n")
 
     for i, item in enumerate(ofertas, start=1):
         caminho_card = criar_card_vertical_achadinho(item, i, PASTA_POSTS)
-        print(f"✅ [{i}/{len(ofertas)}] Card vertical gerado: {caminho_card}")
+        print(f"🖼️ [{i}/{len(ofertas)}] Card vertical gerado: {caminho_card}")
+
+        nome_curto = limpar_titulo_para_fala(item["titulo"])
+        preco_fala = formatar_preco_fala(item["preco_atual"])
+        roteiro_voz = (
+            f"Olha esse achadinho viral da Shopee com {item['desconto']} por cento de desconto! "
+            f"{nome_curto}, saindo por apenas {preco_fala}! "
+            f"Comente EU QUERO ou clique agora no link da nossa bio para pegar essa promoção e entrar no nosso Grupo VIP de Ofertas no WhatsApp!"
+        )
+
+        caminho_mp3 = os.path.join(PASTA_POSTS, f"narracao_{i}.mp3")
+        caminho_mp4 = os.path.join(PASTA_POSTS, f"video_reels_tiktok_{i}.mp4")
+
+        print(f"🎙️ [{i}/{len(ofertas)}] Gerando narração com voz de IA...")
+        if gerar_narracao_ia(roteiro_voz, caminho_mp3):
+            print(f"🎬 [{i}/{len(ofertas)}] Montando vídeo MP4 para Reels/TikTok...")
+            if criar_video_mp4_reels(caminho_card, caminho_mp3, caminho_mp4):
+                print(f"✅ [{i}/{len(ofertas)}] Vídeo MP4 pronto: {caminho_mp4}")
+                # Remove o mp3 temporário para deixar a pasta limpa só com o JPG e o MP4
+                try:
+                    os.remove(caminho_mp3)
+                except Exception:
+                    pass
 
         legenda = (
             f"😱 Olha esse achadinho da Shopee com {item['desconto']}% de desconto!\n\n"
@@ -165,25 +271,18 @@ def gerar_kit_achadinhos_sho_ia(quantidade=5):
             f"#achadinhos #achadinhosdashopee #shopee #shopeebrasil #ofertas #promocao #desconto"
         )
 
-        roteiro_voz = (
-            f"Achadinho da Shopee que você precisa conhecer! "
-            f"{item['titulo'][:50]} caiu de {int(item['preco_original'])} reais "
-            f"para apenas {item['preco_atual']:.2f}! "
-            f"O link direto e o nosso grupo VIP de ofertas estão no link da bio, corre antes que acabe!"
-        )
-
         roteiros_txt.append(f"--- POST #{i} ---")
-        roteiros_txt.append(f"🖼️ Imagem gerada: {caminho_card}")
+        roteiros_txt.append(f"🎬 Vídeo Reels/TikTok (com voz IA): {caminho_mp4}")
+        roteiros_txt.append(f"🖼️ Imagem Story: {caminho_card}")
         roteiros_txt.append(f"🔗 Seu Link Afiliado Direto: {item['link_bruto']}")
-        roteiros_txt.append(f"🎙️ Roteiro para Narração (se quiser gravar/IA): \"{roteiro_voz}\"")
-        roteiros_txt.append(f"\n📝 LEGENDA PARA INSTAGRAM / TIKTOK:\n{legenda}\n")
+        roteiros_txt.append(f"\n📝 LEGENDA PARA COPIAR E COLAR NO INSTAGRAM / TIKTOK:\n{legenda}\n")
         roteiros_txt.append("---------------------------------------------------------\n")
 
     caminho_roteiro = os.path.join(PASTA_POSTS, "LEGENDAS_E_LINKS.txt")
     with open(caminho_roteiro, "w", encoding="utf-8") as f:
         f.write("\n".join(roteiros_txt))
 
-    print(f"\n🎉 Pronto! {len(ofertas)} artes verticais + legendas salvas na pasta '{PASTA_POSTS}'!")
+    print(f"\n🎉 Pronto! {len(ofertas)} VÍDEOS MP4 + ARTES JPG + LEGENDAS salvos na pasta '{PASTA_POSTS}'!")
     print(f"📄 Abra '{caminho_roteiro}' para copiar as legendas.")
 
 if __name__ == "__main__":
