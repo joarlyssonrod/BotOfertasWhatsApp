@@ -57204,5 +57204,33 @@
         "vendas": 0,
         "timestamp": 1795025417.5045087,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_JDJH3FGC82",
+        "link_bruto": "https://www.magazineluiza.com.br/guarda-roupa-casal-odisseia-6-portas-2-gavetas-com-espelho-onix-panorama-moveis/divulgador/oferta/jdjh3fgc82/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/guarda-roupa-casal-odisseia-6-portas-2-gavetas-com-espelho-onix-panorama-moveis/p/jdjh3fgc82/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/566869955117950128247558278960.png",
+        "titulo": "Guarda-Roupa Casal Odisseia 6 Portas Espelho",
+        "preco": 727.0,
+        "preco_original": 1403.2,
+        "desconto": 48.2,
+        "cupom": "BLACKINFLU",
+        "vendas": 0,
+        "timestamp": 1795032641.1213076,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_HB9B3C6905",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g17-4g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-fhd-60hz-bateria-5200-mah/p/hb9b3c6905/te/mg17/?seller_id=lojamotorolaoficial",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g17-4g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-fhd-60hz-bateria-5200-mah/p/hb9b3c6905/te/mg17/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/smartphone-motorola-moto-g17-4g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-fhd-60hz-bateria-5200-mah/lojamotorolaoficial/1788/defe3ed7821977ddddf292250de23577.jpeg",
+        "titulo": "Smartphone Motorola Moto G17 4G 128GB 4GB RAM + 8GB RAM Boost, Camera 50MP Sony Lytia 600, tela FHD 60hz, bateria 5200 mAh",
+        "preco": 899.0,
+        "preco_original": 1299.0,
+        "desconto": 30,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795032667.9264424,
+        "expirado": false
     }
 ]
