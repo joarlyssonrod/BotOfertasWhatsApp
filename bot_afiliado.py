@@ -121,6 +121,8 @@ def gerar_link_bot(url_produto, pagina_ativa=None):
     # 3. MAGAZINE LUIZA
     elif "magazineluiza.com.br" in url_limpa or "magazinevoce.com.br" in url_limpa:
         store_name = obter_store_name()
+        # Corrige links intermediários do Promobit (/divulgador/oferta/ -> /p/) que geram erro 404 na Magazine Você
+        url_limpa = url_limpa.replace("/divulgador/oferta/", "/p/")
         if "magazinevoce.com.br" in url_limpa:
             # Garante que usa o store_name correto no link de divulgador
             url_convertida = re.sub(r'magazinevoce\.com\.br/[a-zA-Z0-9_-]+', f'magazinevoce.com.br/{store_name}', url_limpa)

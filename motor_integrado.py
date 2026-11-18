@@ -276,7 +276,7 @@ def obter_id_unico(item_or_url):
             
     # 3. MAGAZINE LUIZA / MAGAZINE VOCE
     elif "magazineluiza.com" in url_limpa or "magazinevoce.com" in url_limpa:
-        magalu_match = re.search(r'/p/([a-zA-Z0-9]+)', url_limpa)
+        magalu_match = re.search(r'/(?:p|divulgador/oferta)/([a-zA-Z0-9]+)', url_limpa)
         if magalu_match:
             return f"MAGALU_{magalu_match.group(1).upper()}"
             
