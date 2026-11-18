@@ -14,6 +14,7 @@ from promobit_scraper import buscar_ofertas_promobit
 from categorizador import categorizar_produto
 from bot_afiliado import gerar_link_bot
 from whatsapp_sender import WhatsAppSender
+from gerador_vitrine import atualizar_vitrine_html, LINK_GRUPO_WHATSAPP
 
 # Configura o stdout para UTF-8 no Windows
 sys.stdout.reconfigure(encoding='utf-8')
@@ -40,8 +41,8 @@ BUSCAR_NO_PROMOBIT = True
 # Se False, envia qualquer boa oferta encontrada nas páginas de ofertas do dia.
 FILTRAR_OFERTAS_DO_DIA_POR_TERMOS = False
 
-# Limite máximo de ofertas que serão postadas nesta execução (para evitar inundar o grupo de uma vez)
-LIMITE_MENSAGENS_POR_RODADA = 19
+# Limite máximo de ofertas que serão postadas nesta execução (evita spam em execuções de 2 em 2 horas)
+LIMITE_MENSAGENS_POR_RODADA = 5
 
 # Desconto mínimo para aceitar uma oferta (%)
 DESCONTO_MINIMO_GERAL = 19
@@ -301,26 +302,43 @@ def obter_id_unico(item_or_url):
             
     return url_limpa.split("?")[0].split("#")[0]
 
-def formatar_mensagem_oferta(titulo, preco_original, preco_atual, desconto, link_afiliado, cupom=None, menor_preco=False):
-    """Gera o texto formatado para envio no WhatsApp com visual premium"""
-    msg = ""
+def gerar_chamada_persuasiva(titulo, desconto, preco_atual, menor_preco=False, vendas=0):
+    """Cria um gancho chamativo estilo 'Achadinhos' no topo da mensagem para aumentar cliques"""
     if menor_preco:
-        msg += "📉 *MENOR PREÇO HISTÓRICO REGISTRADO!*\n\n"
-        
-    msg += f"🔥 *{titulo}*\n\n"
+        return "🚨 *MENOR PREÇO HISTÓRICO REGISTRADO!* 🚨"
+    if vendas and vendas >= 1000:
+        return f"🏆 *CAMPEÃO DE VENDAS (+{vendas} vendidos)!*"
+    if desconto >= 50:
+        return "😱 *METADE DO PREÇO! DESCONTAÇO INSANO:*"
+    if preco_atual <= 35:
+        return "🪙 *ACHADINHO BARATINHO QUE VALE CADA CENTAVO:*"
+    if desconto >= 35:
+        return "⚡ *CAIU MUITO! OFERTA RELÂMPAGO:*"
+    chamadas = [
+        "🔥 *ACHADINHO EM PROMOÇÃO! OLHA ESSE PREÇO:*",
+        "🎯 *OPORTUNIDADE! BAIXOU AGORA:*",
+        "💥 *SUPER OFERTA LIBERADA:*"
+    ]
+    return random.choice(chamadas)
+
+def formatar_mensagem_oferta(titulo, preco_original, preco_atual, desconto, link_afiliado, cupom=None, menor_preco=False, vendas=0):
+    """Gera o texto formatado para envio no WhatsApp com visual persuasivo e link de convite"""
+    chamada = gerar_chamada_persuasiva(titulo, desconto, preco_atual, menor_preco, vendas)
+    msg = f"{chamada}\n\n"
+    msg += f"🛍️ *{titulo}*\n\n"
     
     if preco_original > preco_atual:
         msg += f"❌ De: ~R$ {preco_original:.2f}~\n"
         
-    msg += f"💰 *Por: R$ {preco_atual:.2f}*\n"
-    msg += f"📉 *Desconto: {desconto}% OFF*\n"
+    msg += f"💰 *Por apenas: R$ {preco_atual:.2f}* 🔥\n"
+    msg += f"📉 *Economia de {desconto}% OFF*\n"
     
     if cupom:
-        msg += f"🏷️ *Cupom ativo:* `{cupom}`\n"
+        msg += f"🏷️ *Use o Cupom:* `{cupom}`\n"
         
-    msg += f"\n🛒 *Compre com segurança aqui:* {link_afiliado}\n"
-    msg += "📢 *#publi* _(Como afiliado/associado, ganho com compras qualificadas)_\n\n"
-    msg += "⚠️ _Oferta sujeita a alteração de preço e estoque a qualquer momento._"
+    msg += f"\n🛒 *Pegue o seu aqui:* {link_afiliado}\n\n"
+    msg += f"📲 _Convide amigos pro grupo VIP:_ {LINK_GRUPO_WHATSAPP}\n"
+    msg += "⚠️ _Promoção sujeita a acabar a qualquer momento._"
     return msg
 
 def baixar_imagem(url, caminho_destino):
@@ -873,21 +891,25 @@ def git_sync_pull():
         print(f"⚠️ [Git Sync] Não foi possível atualizar do GitHub: {e}")
 
 def git_sync_push():
-    """Tenta commitar e enviar as atualizações do histórico para o GitHub"""
+    """Tenta commitar e enviar as atualizações do histórico e da vitrine web para o GitHub"""
     import subprocess
     try:
-        # Verifica se há alterações no historico_envios.json
+        arquivos_sync = [HISTORICO_FILE]
+        for arq_extra in ["index.html", "vitrine_ofertas.json"]:
+            if os.path.exists(arq_extra):
+                arquivos_sync.append(arq_extra)
+
         status_res = subprocess.run(
-            ["git", "status", "--porcelain", HISTORICO_FILE],
+            ["git", "status", "--porcelain"] + arquivos_sync,
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
             text=True,
             timeout=5
         )
         if status_res.stdout.strip():
-            print("📤 [Git Sync] Enviando novo histórico para o GitHub...")
-            subprocess.run(["git", "add", HISTORICO_FILE], check=True, timeout=5)
-            msg = f"Auto-update history: {int(time.time())}"
+            print("📤 [Git Sync] Enviando novo histórico e Vitrine Online para o GitHub...")
+            subprocess.run(["git", "add"] + arquivos_sync, check=True, timeout=5)
+            msg = f"Auto-update history & vitrine: {int(time.time())}"
             subprocess.run(["git", "commit", "-m", msg], check=True, timeout=5)
             push_res = subprocess.run(
                 ["git", "push"],
@@ -897,7 +919,7 @@ def git_sync_push():
                 timeout=20
             )
             if push_res.returncode == 0:
-                print("✅ [Git Sync] Histórico atualizado e enviado com sucesso ao GitHub!")
+                print("✅ [Git Sync] Histórico e Vitrine Online atualizados no GitHub!")
             else:
                 print(f"⚠️ [Git Sync] Falha no git push: {push_res.stderr.strip()}")
         else:
@@ -1088,7 +1110,8 @@ def orquestrar_bot():
                 desconto=item["desconto"],
                 link_afiliado=item["link_afiliado"],
                 cupom=item.get("cupom"),
-                menor_preco=menor_preco
+                menor_preco=menor_preco,
+                vendas=item.get("vendas", 0)
             )
             
             # Faz o download da imagem do produto se existir
@@ -1115,12 +1138,19 @@ def orquestrar_bot():
                     print(f"⚠️ Erro ao remover imagem temporária: {ex}")
             
             if sucesso:
+                item["id"] = item_id
                 # Adiciona ao histórico o objeto detalhado
                 historico.append({
                     "id": item_id,
                     "link_bruto": item["link_bruto"],
+                    "link_afiliado": item["link_afiliado"],
+                    "link_imagem": item.get("link_imagem", ""),
                     "titulo": item["titulo"],
                     "preco": float(item["preco_atual"]),
+                    "preco_original": float(item.get("preco_original", item["preco_atual"])),
+                    "desconto": item.get("desconto", 0),
+                    "cupom": item.get("cupom"),
+                    "vendas": item.get("vendas", 0),
                     "timestamp": time.time(),
                     "expirado": False
                 })
@@ -1135,6 +1165,12 @@ def orquestrar_bot():
         whatsapp.fechar()
     else:
         print("🚨 Falha ao conectar no WhatsApp Web. Verifique a sessão.")
+
+    # Atualiza a Vitrine Online (index.html) com as ofertas desta rodada e o histórico
+    try:
+        atualizar_vitrine_html(novas_ofertas=ofertas_prontas, historico=historico)
+    except Exception as vit_err:
+        print(f"⚠️ [Vitrine] Erro ao atualizar vitrine online: {vit_err}")
 
     git_sync_push()
     print("\n🏁 Operação concluída com sucesso!")

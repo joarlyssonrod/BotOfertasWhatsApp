@@ -1,42 +1,117 @@
+import os
 import re
+import json
 import urllib.parse
 import sys
-from shopee_api import converter_link_shopee
+from shopee_api import converter_link_shopee, ler_env_local
 from aliexpress_api import gerar_link_afiliado_aliexpress
-from magalu_scraper import obter_store_name
 
 # Configura o stdout para UTF-8 no Windows
 sys.stdout.reconfigure(encoding='utf-8')
 
+def obter_store_name():
+    """Retorna o nome da loja Magazine Voce do usuario sem depender do Playwright"""
+    env = ler_env_local()
+    return env.get("MAGALU_STORE_NAME", "magazinejoarlysson")
+
+def _converter_link_ml_api(url_limpa, affiliate_id="joarlyssonrodrigues"):
+    """
+    Tenta converter o link do Mercado Livre via API interna do Stripe/Linkbuilder
+    usando os cookies do .env ou sessao_ml.json para gerar o short_url (/sec/...) oficial.
+    """
+    try:
+        from curl_cffi import requests as cffi_requests
+    except ImportError:
+        import requests as cffi_requests
+
+    env = ler_env_local()
+    cookie_str = env.get("MERCADO_LIVRE_COOKIES", "")
+
+    # Se não tiver no .env, monta a partir do sessao_ml.json
+    if not cookie_str and os.path.exists("sessao_ml.json"):
+        try:
+            with open("sessao_ml.json", "r", encoding="utf-8") as f:
+                ml_data = json.load(f)
+                cookies_list = ml_data.get("cookies", [])
+                cookie_pairs = [f"{c['name']}={c['value']}" for c in cookies_list if "mercadoli" in c.get("domain", "")]
+                cookie_str = "; ".join(cookie_pairs)
+        except Exception:
+            pass
+
+    if not cookie_str:
+        return None
+
+    # Extrai _csrf se disponível nos cookies
+    csrf_match = re.search(r'_csrf=([^;\s]+)', cookie_str)
+    csrf_token = csrf_match.group(1) if csrf_match else ""
+
+    endpoint = "https://www.mercadolivre.com.br/affiliate-program/api/v2/stripe/user/links"
+    headers = {
+        "accept": "application/json, text/plain, */*",
+        "content-type": "application/json",
+        "cookie": cookie_str,
+        "origin": "https://produto.mercadolivre.com.br",
+        "referer": url_limpa,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    }
+    if csrf_token:
+        headers["x-csrf-token"] = csrf_token
+
+    payload = {
+        "url": url_limpa,
+        "tag": affiliate_id
+    }
+
+    try:
+        if hasattr(cffi_requests, "Session") and "curl_cffi" in cffi_requests.__name__:
+            resp = cffi_requests.post(endpoint, headers=headers, json=payload, impersonate="chrome110", timeout=10, verify=False)
+        else:
+            resp = cffi_requests.post(endpoint, headers=headers, json=payload, timeout=10, verify=False)
+
+        if resp.status_code == 200:
+            dados = resp.json()
+            short_url = dados.get("short_url") or dados.get("url")
+            if short_url:
+                print(f"✅ Link Mercado Livre oficial (/sec/) gerado com sucesso: {short_url}")
+                return short_url
+    except Exception as e:
+        print(f"⚠️ [ML Afiliado] Aviso ao tentar API Linkbuilder: {e}")
+
+    return None
+
 def gerar_link_bot(url_produto, pagina_ativa=None):
     """
-    Gera instantaneamente o link de afiliado para Mercado Livre ou Amazon.
-    Ignora a página ativa do Playwright pois a conversão agora é instantânea.
+    Gera instantaneamente o link de afiliado para Shopee, Amazon, Mercado Livre, Magalu ou AliExpress.
     """
     url_limpa = url_produto.strip()
+    env = ler_env_local()
     
     # 1. MERCADO LIVRE
     if "mercadolivre.com" in url_limpa or "mercadolibre.com" in url_limpa:
-        # Limpa parâmetros adicionais
+        # Remove parâmetros de afiliados de terceiros (como Promobit matt_tool_id=76706625)
         url_limpa = url_limpa.split("?")[0].split("#")[0]
-        affiliate_id = "joarlyssonrodrigues"
-        link_afiliado = f"{url_limpa}?affiliate={affiliate_id}"
-        print(f"✅ Link Mercado Livre convertido instantaneamente: {link_afiliado}")
+        affiliate_id = env.get("ML_AFFILIATE_ID", "joarlyssonrodrigues")
+        
+        # Tenta gerar o link curto oficial /sec/ via API do Linkbuilder
+        link_sec = _converter_link_ml_api(url_limpa, affiliate_id)
+        if link_sec:
+            return link_sec
+            
+        # Fallback com parâmetros de campanha limpa
+        link_afiliado = f"{url_limpa}?matt_word={affiliate_id}&affiliate={affiliate_id}"
+        print(f"✅ Link Mercado Livre convertido (fallback): {link_afiliado}")
         return link_afiliado
         
     # 2. AMAZON
     elif "amazon.com" in url_limpa:
-        # Decodifica o link para evitar problemas com caracteres especiais
         decoded_link = urllib.parse.unquote(url_limpa)
-        # Localiza o ASIN (Código identificador único da Amazon de 10 dígitos)
         asin_match = re.search(r'/(?:dp|gp/product)/([A-Z0-9]{10})', decoded_link, re.IGNORECASE)
-        affiliate_tag = "jrodrigues07-20"
+        affiliate_tag = env.get("AMAZON_AFFILIATE_TAG", "jrodrigues07-20")
         
         if asin_match:
             asin = asin_match.group(1)
             link_afiliado = f"https://www.amazon.com.br/dp/{asin}?tag={affiliate_tag}"
         else:
-            # Fallback se não encontrar o padrão clássico de ASIN
             url_limpa = url_limpa.split("?")[0].split("#")[0]
             link_afiliado = f"{url_limpa}?tag={affiliate_tag}"
             

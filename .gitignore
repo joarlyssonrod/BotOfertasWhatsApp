@@ -23,6 +23,8 @@ env/
 # Backups
 backup/
 backup_approved/
+backup_antes_sho_ia/
+posts_sho_ia/
 
 # Pasta de Desenvolvimento, Inspeção e Testes
 testes_dev/

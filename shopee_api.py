@@ -72,16 +72,28 @@ def enviar_requisicao_shopee(payload):
         print(f"❌ [Shopee API] Falha na conexao: {e}")
         return None
 
+def limpar_titulo_shopee(titulo):
+    """Remove spam de palavras-chave comuns em títulos da Shopee para deixar o nome mais limpo"""
+    if not titulo:
+        return "Oferta Shopee"
+    import re
+    # Remove colchetes e chaves promocionais no início ex: [PRONTA ENTREGA]
+    titulo = re.sub(r'^\[.*?\]\s*', '', titulo)
+    # Corta se for excessivamente longo mantendo palavras inteiras
+    if len(titulo) > 85:
+        titulo = titulo[:85].rsplit(' ', 1)[0] + "..."
+    return titulo.strip()
+
 def buscar_promocoes_shopee(termo, desconto_minimo=10, limite=5):
     """
     Busca promocoes na Shopee para um determinado termo de busca.
-    Retorna uma lista de dicionarios com as chaves padronizadas.
+    Prioriza produtos mais vendidos (sortType: 2) com boa avaliacao e alta comissao.
     """
-    print(f"🔍 [Shopee API] Garimpando ofertas para o termo: '{termo}'...")
+    print(f"🔍 [Shopee API] Garimpando ofertas campeãs para: '{termo}'...")
     
     graphql_query = """
     query GetProductList($keyword: String, $limit: Int) {
-      productOfferV2(keyword: $keyword, listType: 0, sortType: 1, page: 1, limit: $limit) {
+      productOfferV2(keyword: $keyword, listType: 0, sortType: 2, page: 1, limit: $limit) {
         nodes {
           itemId
           productName
@@ -91,6 +103,9 @@ def buscar_promocoes_shopee(termo, desconto_minimo=10, limite=5):
           priceMax
           imageUrl
           priceDiscountRate
+          commissionRate
+          sales
+          ratingStar
         }
       }
     }
@@ -100,7 +115,7 @@ def buscar_promocoes_shopee(termo, desconto_minimo=10, limite=5):
         "query": graphql_query,
         "variables": {
             "keyword": termo,
-            "limit": limite * 2 # Puxa um pouco mais para filtrarmos localmente por desconto minimo
+            "limit": max(limite * 4, 20)
         }
     }
     
@@ -117,106 +132,17 @@ def buscar_promocoes_shopee(termo, desconto_minimo=10, limite=5):
     
     for node in nodes:
         try:
-            titulo = node.get("productName")
+            titulo_bruto = node.get("productName")
+            titulo = limpar_titulo_shopee(titulo_bruto)
             link_afiliado = node.get("offerLink") or node.get("productLink")
             link_imagem = node.get("imageUrl")
             
             price_min_val = float(node.get("priceMin") or 0.0)
             price_max_val = float(node.get("priceMax") or 0.0)
             
-            # Se a variação de preço for muito grande (mais de 20%), é provável que seja "isca" (ex: acessórios/partes mais baratas)
+            # Se a variação de preço for muito grande (mais de 20%), é provável que seja "isca"
             if price_max_val > 0 and price_min_val > 0:
                 if price_max_val > price_min_val * 1.20:
-                    print(f"⚠️ [Shopee API] Ignorando produto com grande variação de preço (provável isca): '{titulo[:40]}...' (Min: {price_min_val} | Max: {price_max_val})")
-                    continue
-            
-            preco_atual = price_min_val
-            if preco_atual <= 0:
-                continue
-                
-            # Extrai taxa de desconto da API
-            desconto = int(node.get("priceDiscountRate") or 0)
-            
-            # Calcula o preco original aproximado se houver desconto
-            if desconto > 0:
-                preco_original = preco_atual / (1.0 - (desconto / 100.0))
-            else:
-                preco_original = preco_atual
-                desconto = 0
-                
-            if desconto >= desconto_minimo:
-                ofertas_validas.append({
-                    "titulo": titulo,
-                    "preco_original": preco_original,
-                    "preco_atual": preco_atual,
-                    "desconto": desconto,
-                    "link_bruto": link_afiliado, # O link bruto ja e o link de afiliado da Shopee
-                    "link_imagem": link_imagem,
-                    "itemId": node.get("itemId")
-                })
-                
-            if len(ofertas_validas) >= limite:
-                break
-        except Exception as e:
-            pass
-            
-    return ofertas_validas
-
-def buscar_ofertas_do_dia_shopee(desconto_minimo=10, limite=20):
-    """
-    Busca os produtos recomendados em destaque na Shopee.
-    Usa o listType de recomendacoes gerais ordenados por relevancia/desconto.
-    """
-    print("🔥 [Shopee API] Garimpando as ofertas em destaque recomendadas da Shopee...")
-    
-    graphql_query = """
-    query GetProductOffers($limit: Int) {
-      productOfferV2(listType: 0, sortType: 1, page: 1, limit: $limit) {
-        nodes {
-          itemId
-          productName
-          productLink
-          offerLink
-          priceMin
-          priceMax
-          imageUrl
-          priceDiscountRate
-        }
-      }
-    }
-    """
-    
-    payload = {
-        "query": graphql_query,
-        "variables": {
-            "limit": limite * 2
-        }
-    }
-    
-    res_data = enviar_requisicao_shopee(payload)
-    if not res_data:
-        return []
-        
-    if "errors" in res_data:
-        print(f"⚠️ [Shopee API] Erros no GraphQL: {res_data['errors']}")
-        return []
-        
-    nodes = res_data.get("data", {}).get("productOfferV2", {}).get("nodes", [])
-    ofertas_validas = []
-    
-    for node in nodes:
-        try:
-            titulo = node.get("productName")
-            link_afiliado = node.get("offerLink") or node.get("productLink")
-            link_imagem = node.get("imageUrl")
-            
-            price_min_val = float(node.get("priceMin") or 0.0)
-            price_max_val = float(node.get("priceMax") or 0.0)
-            
-            # Se a variação de preço for muito grande (mais de 20%), é provável que seja "isca" (ex: acessórios/partes mais baratas)
-            if price_max_val > 0 and price_min_val > 0:
-                if price_max_val > price_min_val * 1.20:
-                    print(f"⚠️ [Shopee API] Ignorando produto com grande variação de preço (provável isca): '{titulo[:40]}...' (Min: {price_min_val} | Max: {price_max_val})")
                     continue
             
             preco_atual = price_min_val
@@ -224,7 +150,14 @@ def buscar_ofertas_do_dia_shopee(desconto_minimo=10, limite=20):
                 continue
                 
             desconto = int(node.get("priceDiscountRate") or 0)
+            vendas = int(node.get("sales") or 0)
+            nota = float(node.get("ratingStar") or 0.0)
+            comissao_taxa = float(node.get("commissionRate") or 0.0)
             
+            # Filtra produtos com nota baixa (evita reclamações no grupo)
+            if nota > 0 and nota < 4.5:
+                continue
+                
             if desconto > 0:
                 preco_original = preco_atual / (1.0 - (desconto / 100.0))
             else:
@@ -239,15 +172,115 @@ def buscar_ofertas_do_dia_shopee(desconto_minimo=10, limite=20):
                     "desconto": desconto,
                     "link_bruto": link_afiliado,
                     "link_imagem": link_imagem,
-                    "itemId": node.get("itemId")
+                    "itemId": node.get("itemId"),
+                    "vendas": vendas,
+                    "nota": nota,
+                    "comissao_taxa": comissao_taxa,
+                    "loja": "Shopee"
                 })
-                
-            if len(ofertas_validas) >= limite:
-                break
-        except Exception as e:
+        except Exception:
             pass
             
-    return ofertas_validas
+    # Ordena priorizando uma combinação de comissão + volume de vendas + desconto
+    ofertas_validas.sort(key=lambda x: (x.get("comissao_taxa", 0) * 100) + min(x.get("vendas", 0) / 100, 30) + x.get("desconto", 0), reverse=True)
+    return ofertas_validas[:limite]
+
+def buscar_ofertas_do_dia_shopee(desconto_minimo=10, limite=20):
+    """
+    Busca os achadinhos campeões de vendas e comissão na Shopee (sortType: 2 = Mais vendidos).
+    """
+    print("🔥 [Shopee API] Garimpando os Achadinhos Mais Vendidos e com Alta Comissão na Shopee...")
+    
+    graphql_query = """
+    query GetProductOffers($limit: Int) {
+      productOfferV2(listType: 0, sortType: 2, page: 1, limit: $limit) {
+        nodes {
+          itemId
+          productName
+          productLink
+          offerLink
+          priceMin
+          priceMax
+          imageUrl
+          priceDiscountRate
+          commissionRate
+          sales
+          ratingStar
+        }
+      }
+    }
+    """
+    
+    payload = {
+        "query": graphql_query,
+        "variables": {
+            "limit": max(limite * 3, 40)
+        }
+    }
+    
+    res_data = enviar_requisicao_shopee(payload)
+    if not res_data:
+        return []
+        
+    if "errors" in res_data:
+        print(f"⚠️ [Shopee API] Erros no GraphQL: {res_data['errors']}")
+        return []
+        
+    nodes = res_data.get("data", {}).get("productOfferV2", {}).get("nodes", [])
+    ofertas_validas = []
+    
+    for node in nodes:
+        try:
+            titulo_bruto = node.get("productName")
+            titulo = limpar_titulo_shopee(titulo_bruto)
+            link_afiliado = node.get("offerLink") or node.get("productLink")
+            link_imagem = node.get("imageUrl")
+            
+            price_min_val = float(node.get("priceMin") or 0.0)
+            price_max_val = float(node.get("priceMax") or 0.0)
+            
+            if price_max_val > 0 and price_min_val > 0:
+                if price_max_val > price_min_val * 1.20:
+                    continue
+            
+            preco_atual = price_min_val
+            if preco_atual <= 0:
+                continue
+                
+            desconto = int(node.get("priceDiscountRate") or 0)
+            vendas = int(node.get("sales") or 0)
+            nota = float(node.get("ratingStar") or 0.0)
+            comissao_taxa = float(node.get("commissionRate") or 0.0)
+            
+            if nota > 0 and nota < 4.6:
+                continue
+                
+            if desconto > 0:
+                preco_original = preco_atual / (1.0 - (desconto / 100.0))
+            else:
+                preco_original = preco_atual
+                desconto = 0
+                
+            if desconto >= desconto_minimo:
+                ofertas_validas.append({
+                    "titulo": titulo,
+                    "preco_original": preco_original,
+                    "preco_atual": preco_atual,
+                    "desconto": desconto,
+                    "link_bruto": link_afiliado,
+                    "link_imagem": link_imagem,
+                    "itemId": node.get("itemId"),
+                    "vendas": vendas,
+                    "nota": nota,
+                    "comissao_taxa": comissao_taxa,
+                    "loja": "Shopee"
+                })
+        except Exception:
+            pass
+            
+    # Ordena priorizando produtos com mais vendas, maior comissão e bom desconto
+    ofertas_validas.sort(key=lambda x: (x.get("comissao_taxa", 0) * 100) + min(x.get("vendas", 0) / 100, 40) + x.get("desconto", 0), reverse=True)
+    return ofertas_validas[:limite]
 
 def converter_link_shopee(url_original):
     """
