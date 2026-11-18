@@ -57190,5 +57190,19 @@
         "preco": 249.99,
         "timestamp": 1795018056.6141918,
         "expirado": false
+    },
+    {
+        "id": "https://www.magazineluiza.com.br/freezer-horizontal-100l-inverter-bivolt-branco-midea/divulgador/oferta/be6c6a962j/pb/ofer/",
+        "link_bruto": "https://www.magazineluiza.com.br/freezer-horizontal-100l-inverter-bivolt-branco-midea/divulgador/oferta/be6c6a962j/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/freezer-horizontal-100l-inverter-bivolt-branco-midea/divulgador/oferta/be6c6a962j/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/432415351217950062757713390104.png",
+        "titulo": "Freezer Horizontal 100L Inverter Bivolt Branco Midea",
+        "preco": 1044.05,
+        "preco_original": 1769.0,
+        "desconto": 41.0,
+        "cupom": "MAGA5",
+        "vendas": 0,
+        "timestamp": 1795025417.5045087,
+        "expirado": false
     }
 ]
