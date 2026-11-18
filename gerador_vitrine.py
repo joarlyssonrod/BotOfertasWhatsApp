@@ -173,8 +173,9 @@ def atualizar_vitrine_html(novas_ofertas=None, historico=None):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Achadinhos & Ofertas VIP 🔥 | Descontos em Tempo Real</title>
-    <meta name="description" content="As melhores ofertas, bugs e achadinhos da Shopee, Amazon, Mercado Livre e Magalu monitorados por Inteligência Artificial.">
+    <title>Robô dos Achadinhos 🤖🔥 | Ofertas VIP em Tempo Real</title>
+    <link rel="icon" type="image/jpeg" href="logo_robo.jpg">
+    <meta name="description" content="O Robô dos Achadinhos monitora os menores preços da Shopee, Amazon, Mercado Livre e Magalu 24h por dia.">
     <style>
         :root {{
             --bg: #0f172a;
@@ -188,9 +189,19 @@ def atualizar_vitrine_html(novas_ofertas=None, historico=None):
         body {{ background: var(--bg); color: var(--text); padding-bottom: 60px; }}
         .hero {{
             background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #31102f 100%);
-            padding: 28px 16px;
+            padding: 26px 16px;
             text-align: center;
             border-bottom: 1px solid rgba(255,255,255,0.1);
+        }}
+        .brand-logo {{
+            width: 96px;
+            height: 96px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #ee4d2d;
+            box-shadow: 0 0 22px rgba(238, 77, 45, 0.5);
+            margin: 0 auto 10px;
+            display: block;
         }}
         .hero-badge {{
             display: inline-block;
@@ -199,11 +210,11 @@ def atualizar_vitrine_html(novas_ofertas=None, historico=None):
             border: 1px solid rgba(238, 77, 45, 0.4);
             padding: 4px 12px;
             border-radius: 999px;
-            font-size: 0.8rem;
+            font-size: 0.78rem;
             font-weight: 700;
             margin-bottom: 10px;
         }}
-        .hero h1 {{ font-size: 1.6rem; margin-bottom: 8px; line-height: 1.2; }}
+        .hero h1 {{ font-size: 1.65rem; margin-bottom: 8px; line-height: 1.2; }}
         .hero p {{ color: var(--muted); font-size: 0.95rem; max-width: 520px; margin: 0 auto 18px; }}
         .wpp-cta {{
             display: inline-flex;
@@ -403,9 +414,10 @@ def atualizar_vitrine_html(novas_ofertas=None, historico=None):
 </head>
 <body>
     <header class="hero">
-        <span class="hero-badge">⚡ MONITORADO POR IA 24H</span>
-        <h1>Achadinhos & Ofertas VIP 🔥</h1>
-        <p>As melhores promoções da Shopee, Amazon, Mercado Livre e Magalu antes de acabarem! Entre no grupo para receber no celular:</p>
+        <img src="logo_robo.jpg" alt="Robô dos Achadinhos" class="brand-logo">
+        <span class="hero-badge">🤖 @robo_dosachadinhos • MONITORADO 24H</span>
+        <h1>Robô dos Achadinhos 🔥</h1>
+        <p>Eu monitoro os menores preços da Shopee, Amazon, Mercado Livre e Magalu 24h! Entre no grupo para receber no celular:</p>
         <a href="{LINK_GRUPO_WHATSAPP}" target="_blank" class="wpp-cta">
             📲 ENTRAR NO GRUPO VIP DO WHATSAPP (GRÁTIS)
         </a>
