@@ -77,10 +77,13 @@ def atualizar_vitrine_html(novas_ofertas=None, historico=None):
                 cache.insert(0, registro)
                 ids_existentes.add(item_id)
 
-    # Se o cache estiver vazio ou pequeno, completa com os últimos itens do histórico
+    # Se o cache estiver pequeno, completa apenas com itens do histórico que tenham foto real (link_imagem)
     if len(cache) < 24 and historico:
         from bot_afiliado import gerar_link_bot
-        ultimos_hist = [h for h in reversed(historico) if isinstance(h, dict) and h.get("titulo") and h.get("preco", 0) > 0]
+        ultimos_hist = [
+            h for h in reversed(historico)
+            if isinstance(h, dict) and h.get("titulo") and h.get("preco", 0) > 0 and h.get("link_imagem")
+        ]
         for h in ultimos_hist[:30]:
             h_id = h.get("id")
             if h_id and h_id not in ids_existentes:
