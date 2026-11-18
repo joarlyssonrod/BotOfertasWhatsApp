@@ -115,7 +115,7 @@ def buscar_promocoes_shopee(termo, desconto_minimo=10, limite=5):
         "query": graphql_query,
         "variables": {
             "keyword": termo,
-            "limit": max(limite * 4, 20)
+            "limit": min(max(limite * 4, 20), 50)
         }
     }
     
@@ -214,7 +214,7 @@ def buscar_ofertas_do_dia_shopee(desconto_minimo=10, limite=20):
     payload = {
         "query": graphql_query,
         "variables": {
-            "limit": max(limite * 3, 40)
+            "limit": min(max(limite * 3, 40), 50)
         }
     }
     
