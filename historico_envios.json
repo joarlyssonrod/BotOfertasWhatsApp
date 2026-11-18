@@ -57232,5 +57232,33 @@
         "vendas": 0,
         "timestamp": 1795032667.9264424,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_HJCJH65EKG",
+        "link_bruto": "https://www.magazineluiza.com.br/vaso-sanitario-monobloco-completo-caixa-acoplada-privada-modelo-diamante-tubrax/divulgador/oferta/hjcjh65ekg/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/vaso-sanitario-monobloco-completo-caixa-acoplada-privada-modelo-diamante-tubrax/p/hjcjh65ekg/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/870329358717950068844674935844.png",
+        "titulo": "Vaso Sanitário Monobloco Completo - Caixa Acoplada Privada modelo Diamante Tubrax",
+        "preco": 606.25,
+        "preco_original": 1404.9,
+        "desconto": 56.8,
+        "cupom": "PEGA75",
+        "vendas": 0,
+        "timestamp": 1795039872.5041487,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4593869990",
+        "link_bruto": "https://www.mercadolivre.com.br/capacete-fechado-race-tech-volt/up/MLBU4593869990?pdp_filters=item_id%3AMLB4993950001&matt_event_ts=1795039427417&matt_d2id=6a049358-ff6c-4058-a3fd-0d88275b8ac1&matt_tracing_id=d476b85a-6293-4986-a918-f2a6299764bf#polycard_client=recommendations_home_affiliate-profile&wid=MLB4993950001&sid=recommendations-landings-me&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=f1cb072d-9d87-48e5-86b5-f4ab4e46498c&tracking_id=a88ce80f-6e2d-4b61-a034-8e71ab6dc8c2&c_id=/home/card-featured/element&c_uid=d3c53bc1-2141-460e-8774-6afed16d2c62",
+        "link_afiliado": "https://www.mercadolivre.com.br/capacete-fechado-race-tech-volt/up/MLBU4593869990?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+        "link_imagem": "https://i.promobit.com.br/500/323631063317950075502815204364.png",
+        "titulo": "Capacete Fechado Race Tech Volt",
+        "preco": 348.41,
+        "preco_original": 554.9,
+        "desconto": 37.2,
+        "cupom": "VEICPROMO",
+        "vendas": 0,
+        "timestamp": 1795039885.3206832,
+        "expirado": false
     }
 ]
