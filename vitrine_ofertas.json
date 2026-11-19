@@ -1,5 +1,18 @@
 [
   {
+    "id": "AMAZON_B0FDX9MDXK",
+    "titulo": "Samsung Galaxy Watch8 Smartwatch 44mm LTE Galaxy AI",
+    "preco_atual": 1069.0,
+    "preco_original": 1186.5900000000001,
+    "desconto": 10,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0FDX9MDXK?tag=joarlysson0d-20",
+    "link_imagem": "https://i.promobit.com.br/500/550192333317950961117749865185.png",
+    "cupom": "BLACKNUPAY20",
+    "vendas": 0,
+    "loja": "Amazon",
+    "timestamp": 1795097553.981708
+  },
+  {
     "id": "MAGALU_242406300",
     "titulo": "Smart TV 85\" Samsung 4K UHD Crystal UHD UN85U8000HGXZD One UI Tizen 2026",
     "preco_atual": 5669.4,
