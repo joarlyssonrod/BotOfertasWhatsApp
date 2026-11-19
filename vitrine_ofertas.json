@@ -1,5 +1,31 @@
 [
   {
+    "id": "AMAZON_B0FYJ1RKKP",
+    "titulo": "Ar Condicionado AIWA Split High Wall High Inverter 12.000 BTUs Frio AWS-AC-12F-EU",
+    "preco_atual": 1487.0,
+    "preco_original": 2560.98,
+    "desconto": 41,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0FYJ1RKKP?tag=joarlysson0d-20",
+    "link_imagem": "https://i.promobit.com.br/500/994358202717950872232676958630.jpg",
+    "cupom": "BLACKPRIME15",
+    "vendas": 0,
+    "loja": "Amazon",
+    "timestamp": 1795104774.2038205
+  },
+  {
+    "id": "SHOPEE_58269021620",
+    "titulo": "Projetor de Natal LED RGB Bivolt com Desenhos Natalinos em Movimento Luzes...",
+    "preco_atual": 61.35,
+    "preco_original": 87.64285714285715,
+    "desconto": 30,
+    "link_afiliado": "https://s.shopee.com.br/gRluAOh6O",
+    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mugzv5t2wgzna7",
+    "cupom": "",
+    "vendas": 162,
+    "loja": "Shopee",
+    "timestamp": 1795104774.2038085
+  },
+  {
     "id": "AMAZON_B0FDX9MDXK",
     "titulo": "Samsung Galaxy Watch8 Smartwatch 44mm LTE Galaxy AI",
     "preco_atual": 1069.0,

@@ -57316,5 +57316,33 @@
         "vendas": 0,
         "timestamp": 1795097553.4963193,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FYJ1RKKP",
+        "link_bruto": "https://www.amazon.com.br/dp/B0FYJ1RKKP?tag=promobit-d-20",
+        "link_afiliado": "https://www.amazon.com.br/dp/B0FYJ1RKKP?tag=joarlysson0d-20",
+        "link_imagem": "https://i.promobit.com.br/500/994358202717950872232676958630.jpg",
+        "titulo": "Ar Condicionado AIWA Split High Wall High Inverter 12.000 BTUs Frio AWS-AC-12F-EU",
+        "preco": 1487.0,
+        "preco_original": 2560.98,
+        "desconto": 41.9,
+        "cupom": "BLACKPRIME15",
+        "vendas": 0,
+        "timestamp": 1795104748.4491494,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58269021620",
+        "link_bruto": "https://s.shopee.com.br/gRluAOh6O",
+        "link_afiliado": "https://s.shopee.com.br/gRluAOh6O",
+        "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mugzv5t2wgzna7",
+        "titulo": "Projetor de Natal LED RGB Bivolt com Desenhos Natalinos em Movimento Luzes...",
+        "preco": 61.35,
+        "preco_original": 87.64285714285715,
+        "desconto": 30,
+        "cupom": null,
+        "vendas": 162,
+        "timestamp": 1795104773.8262386,
+        "expirado": false
     }
 ]
