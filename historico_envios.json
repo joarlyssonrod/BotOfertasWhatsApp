@@ -57344,5 +57344,33 @@
         "vendas": 162,
         "timestamp": 1795104773.8262386,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_23199020709",
+        "link_bruto": "https://s.shopee.com.br/4B1e4bBMzl",
+        "link_afiliado": "https://s.shopee.com.br/4B1e4bBMzl",
+        "link_imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfytb2po8gzk07",
+        "titulo": "Cozedor de Ovos Elétrico Portátil Cozinha à Vapor 110V/220V Cores disponíveis...",
+        "preco": 28.09,
+        "preco_original": 100.32142857142856,
+        "desconto": 72,
+        "cupom": null,
+        "vendas": 8000,
+        "timestamp": 1795119034.1057034,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_49800771681",
+        "link_bruto": "https://shopee.com.br/Monitor-Gamer-Curvo-AOC-AGON-G4Z-27-300Hz-0-3ms-HDR10-Base-Ajust%C3%A1vel-C27G4Z-P-i.564780452.49800771681?extraParams=%7B%22display_model_id%22%3A360068255886%2C%22model_selection_logic%22%3A3%7D&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTE1wAAAAzmaCRvFPoMASiyMqOldVKTs_UCH5Q2BnhUGra3nD1S09B0VKbLAgS7uZE1HRtbQiHrQ4TIEBmIiEOXhvkDTzS4Jqmh50SXhQF44PJ_cCQY_GGPFOqcCvhjHWi2WwKxO_2TMqCOi7OR6HoAhbedMtMwH9eTa9gKFaFbucQ2dVpGWpvTqMXzP-9eFuBQSgyK5yp0PI4RwbmswY_2sSkvPGtF0UPAC2Jrsz0gNGR_ZNbbKhbU2Fat-Y9y1h6MBl_X8jBTAEJeSOsRNey-tomWAyfKxuSl&image_ids=sg-11134201-821fz-mgmjwl6uw9vv13&mmp_pid=an_18140170000&uls_trackid=575rra5d000p&utm_campaign=id_b253e2043e44a7e8&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fvj8txptum11",
+        "link_afiliado": "https://s.shopee.com.br/9AQKI8ehtJ",
+        "link_imagem": "https://i.promobit.com.br/500/908099082917951178889716348418.jpg",
+        "titulo": "Monitor Gamer Curvo AOC AGON G4Z 27\" 300Hz 0,3ms HDR10 Base Ajustável C27G4ZP",
+        "preco": 827.0,
+        "preco_original": 2038.78,
+        "desconto": 59.4,
+        "cupom": "P1XDAY15AF",
+        "vendas": 0,
+        "timestamp": 1795119053.8291335,
+        "expirado": false
     }
 ]
