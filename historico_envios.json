@@ -57260,5 +57260,33 @@
         "vendas": 0,
         "timestamp": 1795039885.3206832,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_KC3DKH9KH6",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-mizuno-hawk-5-masculino/p/kc3dkh9kh6/es/oedc/?seller_id=netshoes",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-mizuno-hawk-5-masculino/p/kc3dkh9kh6/es/oedc/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-mizuno-hawk-5-masculino/netshoes/2fu-9729-072-42/816fb7f470a4a4f2b6523713a0685e3e.jpeg",
+        "titulo": "Tênis Mizuno Hawk 5 Masculino",
+        "preco": 208.99,
+        "preco_original": 359.99,
+        "desconto": 41,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795046850.9997637,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_241681800",
+        "link_bruto": "https://www.magazineluiza.com.br/freezer-vertical-electrolux-175l-1-porta-inverter-efficient-fei19t/divulgador/oferta/241681800/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/freezer-vertical-electrolux-175l-1-porta-inverter-efficient-fei19t/p/241681800/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/807660099717950063631365052404.png",
+        "titulo": "Freezer Vertical Electrolux 175L 1 Porta Inverter Efficient FEI19T",
+        "preco": 2079.05,
+        "preco_original": 2399.0,
+        "desconto": 13.3,
+        "cupom": "LU200",
+        "vendas": 0,
+        "timestamp": 1795046873.9964848,
+        "expirado": false
     }
 ]

@@ -1,5 +1,31 @@
 [
   {
+    "id": "MAGALU_KC3DKH9KH6",
+    "titulo": "Tênis Mizuno Hawk 5 Masculino",
+    "preco_atual": 208.99,
+    "preco_original": 359.99,
+    "desconto": 41,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-mizuno-hawk-5-masculino/p/kc3dkh9kh6/es/oedc/",
+    "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-mizuno-hawk-5-masculino/netshoes/2fu-9729-072-42/816fb7f470a4a4f2b6523713a0685e3e.jpeg",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795046874.327186
+  },
+  {
+    "id": "MAGALU_241681800",
+    "titulo": "Freezer Vertical Electrolux 175L 1 Porta Inverter Efficient FEI19T",
+    "preco_atual": 2079.05,
+    "preco_original": 2399.0,
+    "desconto": 13,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/freezer-vertical-electrolux-175l-1-porta-inverter-efficient-fei19t/p/241681800/pb/ofer/",
+    "link_imagem": "https://i.promobit.com.br/500/807660099717950063631365052404.png",
+    "cupom": "LU200",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795046874.3271744
+  },
+  {
     "id": "MAGALU_HJCJH65EKG",
     "titulo": "Vaso Sanitário Monobloco Completo - Caixa Acoplada Privada modelo Diamante Tubrax",
     "preco_atual": 606.25,
