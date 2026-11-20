@@ -57456,5 +57456,33 @@
         "vendas": 0,
         "timestamp": 1795183858.7133868,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_BDD7G29BH2",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-gel-thunderlight-2-masculino/p/bdd7g29bh2/es/osnr/?seller_id=netshoes",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-gel-thunderlight-2-masculino/p/bdd7g29bh2/es/osnr/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-asics-gel-thunderlight-2-masculino/netshoes/sg4-027v-026-41/408efce76e17b6686b166ce19e8e3297.jpeg",
+        "titulo": "Tênis Asics Gel-Thunderlight 2 Masculino",
+        "preco": 208.99,
+        "preco_original": 459.99,
+        "desconto": 54,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795198224.6059842,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_242044400",
+        "link_bruto": "https://www.magazineluiza.com.br/notebook-gamer-acer-nitro-v15-intel-core-i5-512gb-ssd-8gb-ram-156-full-hd-ips-nvidia-rtx-4050-6gb-linux-anv15-52-57mc/divulgador/oferta/242044400/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/notebook-gamer-acer-nitro-v15-intel-core-i5-512gb-ssd-8gb-ram-156-full-hd-ips-nvidia-rtx-4050-6gb-linux-anv15-52-57mc/p/242044400/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/712841848917946942193517584801.png",
+        "titulo": "Notebook Gamer Acer Nitro V15 Intel Core i5 512GB SSD 8GB RAM 156\" Full HD IPS Nvidia RTX 4050 6GB Linux ANV15-52-57MC",
+        "preco": 5639.1,
+        "preco_original": 8899.0,
+        "desconto": 36.6,
+        "cupom": "TECNO300",
+        "vendas": 0,
+        "timestamp": 1795198249.2094505,
+        "expirado": false
     }
 ]

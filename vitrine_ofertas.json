@@ -1,5 +1,31 @@
 [
   {
+    "id": "MAGALU_BDD7G29BH2",
+    "titulo": "Tênis Asics Gel-Thunderlight 2 Masculino",
+    "preco_atual": 208.99,
+    "preco_original": 459.99,
+    "desconto": 54,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-gel-thunderlight-2-masculino/p/bdd7g29bh2/es/osnr/",
+    "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-asics-gel-thunderlight-2-masculino/netshoes/sg4-027v-026-41/408efce76e17b6686b166ce19e8e3297.jpeg",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795198249.544074
+  },
+  {
+    "id": "MAGALU_242044400",
+    "titulo": "Notebook Gamer Acer Nitro V15 Intel Core i5 512GB SSD 8GB RAM 156\" Full HD IPS Nvidia RTX 4050 6GB Linux ANV15-52-57MC",
+    "preco_atual": 5639.1,
+    "preco_original": 8899.0,
+    "desconto": 36,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/notebook-gamer-acer-nitro-v15-intel-core-i5-512gb-ssd-8gb-ram-156-full-hd-ips-nvidia-rtx-4050-6gb-linux-anv15-52-57mc/p/242044400/pb/ofer/",
+    "link_imagem": "https://i.promobit.com.br/500/712841848917946942193517584801.png",
+    "cupom": "TECNO300",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795198249.5440643
+  },
+  {
     "id": "ML_MLB42110532",
     "titulo": "Cooktop de Indução Fischer 4 Bocas Vitrocerâmica com Touch Screen 220V",
     "preco_atual": 1026.0,
