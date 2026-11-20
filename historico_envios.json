@@ -57484,5 +57484,19 @@
         "vendas": 0,
         "timestamp": 1795198249.2094505,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B09ZHCLVXF",
+        "link_bruto": "https://www.amazon.com.br/dp/B09ZHCLVXF?tag=promobit-d-20",
+        "link_afiliado": "https://www.amazon.com.br/dp/B09ZHCLVXF?tag=joarlysson0d-20",
+        "link_imagem": "https://i.promobit.com.br/500/684593217917951811114262613861.png",
+        "titulo": "Philips Walita Cafeteira Espresso Superautomática Série 1200, 220V",
+        "preco": 1818.0,
+        "preco_original": 3999.0,
+        "desconto": 54.5,
+        "cupom": "CUPOM100OFF",
+        "vendas": 0,
+        "timestamp": 1795212664.7274373,
+        "expirado": false
     }
 ]

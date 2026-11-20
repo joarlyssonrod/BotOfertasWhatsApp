@@ -1,5 +1,18 @@
 [
   {
+    "id": "AMAZON_B09ZHCLVXF",
+    "titulo": "Philips Walita Cafeteira Espresso Superautomática Série 1200, 220V",
+    "preco_atual": 1818.0,
+    "preco_original": 3999.0,
+    "desconto": 54,
+    "link_afiliado": "https://www.amazon.com.br/dp/B09ZHCLVXF?tag=joarlysson0d-20",
+    "link_imagem": "https://i.promobit.com.br/500/684593217917951811114262613861.png",
+    "cupom": "CUPOM100OFF",
+    "vendas": 0,
+    "loja": "Amazon",
+    "timestamp": 1795212665.1602168
+  },
+  {
     "id": "MAGALU_BDD7G29BH2",
     "titulo": "Tênis Asics Gel-Thunderlight 2 Masculino",
     "preco_atual": 208.99,
