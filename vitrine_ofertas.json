@@ -1,5 +1,31 @@
 [
   {
+    "id": "MAGALU_DDAGE1JG0B",
+    "titulo": "Tenis Fila Prize Masculino",
+    "preco_atual": 199.49,
+    "preco_original": 299.99,
+    "desconto": 33,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-fila-prize-masculino/p/ddage1jg0b/es/osnr/",
+    "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-fila-prize-masculino/netshoes/sfk-07wu-304-39/e3dddd23860fc0c0a0b3746cc4deb6e3.jpeg",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795133514.2639985
+  },
+  {
+    "id": "SHOPEE_54619303745",
+    "titulo": "Conjunto de 4 jogos americanos de Natal para decoração de mesa festiva",
+    "preco_atual": 36.05,
+    "preco_original": 45.06249999999999,
+    "desconto": 20,
+    "link_afiliado": "https://s.shopee.com.br/8fU3xlboci",
+    "link_imagem": "https://cf.shopee.com.br/file/sg-11134201-8259r-mucy3xfzamme71",
+    "cupom": "",
+    "vendas": 20,
+    "loja": "Shopee",
+    "timestamp": 1795133514.2639852
+  },
+  {
     "id": "SHOPEE_23199020709",
     "titulo": "Cozedor de Ovos Elétrico Portátil Cozinha à Vapor 110V/220V Cores disponíveis...",
     "preco_atual": 28.09,
