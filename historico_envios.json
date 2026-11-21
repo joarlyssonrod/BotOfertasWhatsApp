@@ -57610,5 +57610,47 @@
         "vendas": 3436,
         "timestamp": 1795284504.9100375,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_AF098G5K45",
+        "link_bruto": "https://www.magazineluiza.com.br/panela-de-pressao-eletrica-5l-nutripro-inox-midea/divulgador/oferta/af098g5k45/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/panela-de-pressao-eletrica-5l-nutripro-inox-midea/p/af098g5k45/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/652883261817952132902774492513.png",
+        "titulo": "Panela de Pressão Elétrica 5L NutriPro Inox Midea",
+        "preco": 254.0,
+        "preco_original": 479.0,
+        "desconto": 47.0,
+        "cupom": "INFLUNOAPP",
+        "vendas": 0,
+        "timestamp": 1795291792.1071131,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_DGA865E9A8",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-air-fryer-elgin-quad-fry-42l-preta-com-tecnologia-air-circuit-360-127v-afg42/p/dga865e9a8/ep/efso/?seller_id=negociunoficial",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-air-fryer-elgin-quad-fry-42l-preta-com-tecnologia-air-circuit-360-127v-afg42/p/dga865e9a8/ep/efso/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/fritadeira-air-fryer-elgin-quad-fry-42l-preta-com-tecnologia-air-circuit-360-127v-afg42/negociunoficial/13694/23572dc7138b27e19286b92f178edf63.jpeg",
+        "titulo": "Fritadeira Air Fryer Elgin Quad Fry 4,2L Preta com Tecnologia Air Circuit 360 127V AFG42",
+        "preco": 208.05,
+        "preco_original": 319.0,
+        "desconto": 34,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795291813.8966722,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU5677158042",
+        "link_bruto": "https://www.mercadolivre.com.br/smart-tv-85-tcl-4k-uhd-qled-85p8l-google-tv-2025/up/MLBU5677158042?pdp_filters=item_id%3AMLB7876329570&matt_event_ts=1795291273378&matt_d2id=29614458-a3a9-4f8a-a36e-5171f428081c&matt_tracing_id=831aeef3-320a-400f-870b-4708b80f2f4b#polycard_client=recommendations_home_affiliate-profile&wid=MLB7876329570&sid=recommendations-landings-me&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=91b29833-188d-4b00-a856-1f6c3ffcf3b5&tracking_id=af04887c-c985-470c-af8b-6c0cd617ce1d&c_id=/home/card-featured/element&c_uid=2e12350f-4944-4a72-8c1f-bdd6aff191e4",
+        "link_afiliado": "https://www.mercadolivre.com.br/smart-tv-85-tcl-4k-uhd-qled-85p8l-google-tv-2025/up/MLBU5677158042?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+        "link_imagem": "https://i.promobit.com.br/500/612570981717952647596116252217.png",
+        "titulo": "Smart TV TCL 85\" QLED 4K WiFi Bluetooth Google TV HDR10+ Dolby Atmos Dolby Vision",
+        "preco": 6191.0,
+        "preco_original": 6554.05,
+        "desconto": 5.5,
+        "cupom": "TODOSITE2111",
+        "vendas": 0,
+        "timestamp": 1795291834.0002599,
+        "expirado": false
     }
 ]

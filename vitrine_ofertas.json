@@ -1,5 +1,44 @@
 [
   {
+    "id": "MAGALU_AF098G5K45",
+    "titulo": "Panela de Pressão Elétrica 5L NutriPro Inox Midea",
+    "preco_atual": 254.0,
+    "preco_original": 479.0,
+    "desconto": 47,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/panela-de-pressao-eletrica-5l-nutripro-inox-midea/p/af098g5k45/pb/ofer/",
+    "link_imagem": "https://i.promobit.com.br/500/652883261817952132902774492513.png",
+    "cupom": "INFLUNOAPP",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795291834.4656563
+  },
+  {
+    "id": "MAGALU_DGA865E9A8",
+    "titulo": "Fritadeira Air Fryer Elgin Quad Fry 4,2L Preta com Tecnologia Air Circuit 360 127V AFG42",
+    "preco_atual": 208.05,
+    "preco_original": 319.0,
+    "desconto": 34,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-air-fryer-elgin-quad-fry-42l-preta-com-tecnologia-air-circuit-360-127v-afg42/p/dga865e9a8/ep/efso/",
+    "link_imagem": "https://a-static.mlcdn.com.br/280x210/fritadeira-air-fryer-elgin-quad-fry-42l-preta-com-tecnologia-air-circuit-360-127v-afg42/negociunoficial/13694/23572dc7138b27e19286b92f178edf63.jpeg",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795291834.4656482
+  },
+  {
+    "id": "ML_MLBU5677158042",
+    "titulo": "Smart TV TCL 85\" QLED 4K WiFi Bluetooth Google TV HDR10+ Dolby Atmos Dolby Vision",
+    "preco_atual": 6191.0,
+    "preco_original": 6554.05,
+    "desconto": 5,
+    "link_afiliado": "https://www.mercadolivre.com.br/smart-tv-85-tcl-4k-uhd-qled-85p8l-google-tv-2025/up/MLBU5677158042?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+    "link_imagem": "https://i.promobit.com.br/500/612570981717952647596116252217.png",
+    "cupom": "TODOSITE2111",
+    "vendas": 0,
+    "loja": "Mercado Livre",
+    "timestamp": 1795291834.4656346
+  },
+  {
     "id": "SHOPEE_23193689334",
     "titulo": "Óculos de Sol Race Esportivo Feminino Baixa Pace Premium Bike Corrida Running uv400",
     "preco_atual": 64.99,
