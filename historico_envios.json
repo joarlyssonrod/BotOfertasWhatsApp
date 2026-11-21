@@ -57540,5 +57540,19 @@
         "vendas": 0,
         "timestamp": 1795219960.8968837,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FY6PBWWJ",
+        "link_bruto": "https://www.amazon.com.br/Controle-sem-fio-PlayStation-DualSenseTM/dp/B0FY6PBWWJ",
+        "link_afiliado": "https://www.amazon.com.br/dp/B0FY6PBWWJ?tag=joarlysson0d-20",
+        "link_imagem": "https://m.media-amazon.com/images/I/61jgxdGYgEL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+        "titulo": "Controle sem fio PlayStation DualSense™ – Galactic Purple",
+        "preco": 385.9,
+        "preco_original": 499.9,
+        "desconto": 22.0,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795262900.9063516,
+        "expirado": false
     }
 ]
