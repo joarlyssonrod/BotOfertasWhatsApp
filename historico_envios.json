@@ -57568,5 +57568,19 @@
         "vendas": 0,
         "timestamp": 1795270155.006162,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_22798340971",
+        "link_bruto": "https://s.shopee.com.br/9fMdoNtjXv",
+        "link_afiliado": "https://s.shopee.com.br/9fMdoNtjXv",
+        "link_imagem": "https://cf.shopee.com.br/file/sg-11134201-7ratu-maslvg11iag339",
+        "titulo": "Geladeira Multidoor 4 Portas HQ 426 L Frost Free Inverter Classe A HQ-426MDFF",
+        "preco": 3651.09,
+        "preco_original": 5449.388059701493,
+        "desconto": 33,
+        "cupom": null,
+        "vendas": 651,
+        "timestamp": 1795277460.6124544,
+        "expirado": false
     }
 ]
