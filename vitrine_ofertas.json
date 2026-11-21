@@ -1,5 +1,44 @@
 [
   {
+    "id": "MAGALU_BD66FCKFHB",
+    "titulo": "Tênis Asics Gel-Thunderlight 2 Masculino",
+    "preco_atual": 208.99,
+    "preco_original": 459.99,
+    "desconto": 54,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-gel-thunderlight-2-masculino/p/bd66fckfhb/es/osnr/",
+    "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-asics-gel-thunderlight-2-masculino/netshoes/sg4-02l7-004-40/1e87483079eca3ba04f515b9f64d72b5.jpeg",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795298994.7629218
+  },
+  {
+    "id": "MAGALU_242609100",
+    "titulo": "Monitor Gamer TCL 24G54 24\" Full HD Branco Bivolt",
+    "preco_atual": 639.0,
+    "preco_original": 999.0,
+    "desconto": 36,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/monitor-gamer-tcl-24g54-24-full-hd-branco-bivolt/p/242609100/pb/ofer/",
+    "link_imagem": "https://i.promobit.com.br/500/426939080317952134752084194720.png",
+    "cupom": "INFLUNOAPP",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795298994.762914
+  },
+  {
+    "id": "AMAZON_B0CQKJN2C6",
+    "titulo": "PlayStation5 Slim Edição Digital",
+    "preco_atual": 4169.0,
+    "preco_original": 4627.59,
+    "desconto": 10,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0CQKJN2C6?tag=joarlysson0d-20",
+    "link_imagem": "https://i.promobit.com.br/500/392147366617952945087033744418.jpg",
+    "cupom": "100OFF",
+    "vendas": 0,
+    "loja": "Amazon",
+    "timestamp": 1795298994.7629027
+  },
+  {
     "id": "MAGALU_AF098G5K45",
     "titulo": "Panela de Pressão Elétrica 5L NutriPro Inox Midea",
     "preco_atual": 254.0,
