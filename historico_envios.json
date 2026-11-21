@@ -57554,5 +57554,19 @@
         "vendas": 0,
         "timestamp": 1795262900.9063516,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0H4R84B65",
+        "link_bruto": "https://www.amazon.com.br/dp/B0H4R84B65?m=A2G6QWUVL1M4MD&tag=promobit-d-20",
+        "link_afiliado": "https://www.amazon.com.br/dp/B0H4R84B65?tag=joarlysson0d-20",
+        "link_imagem": "https://i.promobit.com.br/500/160408949517952690127396801053.jpg",
+        "titulo": "Câmera de ação SJ4000 4K Ultra HD à prova d'água- Câmera esportiva WiFi de 20MP estabilização eletrônica de im",
+        "preco": 237.59,
+        "preco_original": 380.0,
+        "desconto": 37.5,
+        "cupom": "15OFFELETRO",
+        "vendas": 0,
+        "timestamp": 1795270155.006162,
+        "expirado": false
     }
 ]
