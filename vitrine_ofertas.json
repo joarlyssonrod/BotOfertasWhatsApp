@@ -1,5 +1,44 @@
 [
   {
+    "id": "SHOPEE_22094226693",
+    "titulo": "Kit Funcional 1 Escada Agilidade 10 Cones 10 Pratos 1 Corda",
+    "preco_atual": 58.0,
+    "preco_original": 98.3050847457627,
+    "desconto": 41,
+    "link_afiliado": "https://s.shopee.com.br/7VIAYtHGHq",
+    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mqdqlo4illvl83",
+    "cupom": "",
+    "vendas": 389,
+    "loja": "Shopee",
+    "timestamp": 1795349560.9693048
+  },
+  {
+    "id": "MAGALU_KB28186GE6",
+    "titulo": "Tênis Adidas Response Runner 2 Masculino",
+    "preco_atual": 249.99,
+    "preco_original": 399.99,
+    "desconto": 37,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-response-runner-2-masculino/p/kb28186ge6/es/oedc/",
+    "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-adidas-response-runner-2-masculino/zattini/fba-86lu-036-41/068d0db9bf0a94b967e157418ed9abb9.jpeg",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795349560.9692998
+  },
+  {
+    "id": "SHOPEE_20199206047",
+    "titulo": "Air Fryer Britânia 4,2L Dura Mais 1500W BFR38",
+    "preco_atual": 199.0,
+    "preco_original": 248.75,
+    "desconto": 20,
+    "link_afiliado": "https://s.shopee.com.br/7pv0xVFzbs",
+    "link_imagem": "https://cf.shopee.com.br/file/sg-11134201-8258f-mudi8zi45c034a",
+    "cupom": "",
+    "vendas": 3325,
+    "loja": "Shopee",
+    "timestamp": 1795349560.9692855
+  },
+  {
     "id": "MAGALU_BD66FCKFHB",
     "titulo": "Tênis Asics Gel-Thunderlight 2 Masculino",
     "preco_atual": 208.99,
