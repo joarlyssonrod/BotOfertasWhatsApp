@@ -57834,5 +57834,33 @@
         "vendas": 0,
         "timestamp": 1795378260.4144225,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_JCK706CC99",
+        "link_bruto": "https://www.magazineluiza.com.br/water-cooler-husky-freezy-iluminacao-argb-240mm-amd-e-intel-preto-hwt200pt/divulgador/oferta/jck706cc99/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/water-cooler-husky-freezy-iluminacao-argb-240mm-amd-e-intel-preto-hwt200pt/p/jck706cc99/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/173567604317953837504497067921.png",
+        "titulo": "Water Cooler Husky Freezy, Iluminação ARGB, 240mm, AMD e Intel, Preto",
+        "preco": 99.0,
+        "preco_original": 288.88,
+        "desconto": 65.7,
+        "cupom": "CUPOMBLACK99",
+        "vendas": 0,
+        "timestamp": 1795385561.03324,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_241087700",
+        "link_bruto": "https://www.magazineluiza.com.br/botdoafiliado/divulgador/oferta/241087700/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/botdoafiliado/p/241087700/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/777987953017953838142624253842.png",
+        "titulo": "Controle PS5 e para PC sem Fio DualSense Sony Azul Claro",
+        "preco": 257.1,
+        "preco_original": 499.0,
+        "desconto": 48.5,
+        "cupom": "CUPOMBLACK99",
+        "vendas": 0,
+        "timestamp": 1795385580.9209962,
+        "expirado": false
     }
 ]
