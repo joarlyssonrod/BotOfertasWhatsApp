@@ -57820,5 +57820,19 @@
         "vendas": 0,
         "timestamp": 1795371071.208648,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_FF9B58C381",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-olympikus-corre-trilha-3/divulgador/oferta/ff9b58c381/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-olympikus-corre-trilha-3/p/ff9b58c381/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/746200504717953637729513352648.png",
+        "titulo": "Tênis Olympikus Corre Trilha 3",
+        "preco": 339.49,
+        "preco_original": 376.8339,
+        "desconto": 10.0,
+        "cupom": "CUPOMLU",
+        "vendas": 0,
+        "timestamp": 1795378260.4144225,
+        "expirado": false
     }
 ]
