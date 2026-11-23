@@ -57890,5 +57890,47 @@
         "vendas": 0,
         "timestamp": 1795435954.2306275,
         "expirado": false
+    },
+    {
+        "id": "https://shopee.com.br/opaanlp/864885808/19099303037",
+        "link_bruto": "https://shopee.com.br/opaanlp/864885808/19099303037?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAx61MF7al3GfwjoGWdJvCNFnSENiCnFElt-_HuoH_rNkgii5OvhCCx05IL50Ar_OkauPp1_9xrhCDqNnaBCahCAh0Sb_6hapmFUeiVy33_h2EwwvjAW73FjRGyMtklcvhSFXDkvslVR_hn1gx8ueKplQIRkbCclrq-n-Nztb_gjfphhQ6Z3RWi001bHSsYmrTbPvaI&mmp_pid=an_18140170000&uls_trackid=576qokql00c5&utm_campaign=id_b82a5d716ef686fd&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fw7n91rqbz1d",
+        "link_afiliado": "https://s.shopee.com.br/1CBMLvPFe?lp=aff",
+        "link_imagem": "https://i.promobit.com.br/500/424173860817954245306742255724.jpg",
+        "titulo": "Impressora Multifuncional HP Smart Tank 584 All In One Tanque de Tinta Colorida USB e Wi-Fi Bivolt",
+        "preco": 638.48,
+        "preco_original": 1081.94,
+        "desconto": 41.0,
+        "cupom": "R$85 Off Resgate",
+        "vendas": 0,
+        "timestamp": 1795443230.3341825,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GQJM9NJK",
+        "link_bruto": "https://www.amazon.com.br/Notebook-Gamer-Lenovo-IRX9-144Hz/dp/B0GQJM9NJK",
+        "link_afiliado": "https://www.amazon.com.br/dp/B0GQJM9NJK?tag=joarlysson0d-20",
+        "link_imagem": "https://m.media-amazon.com/images/I/81bU3fbzdzL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+        "titulo": "Notebook Gamer Lenovo LOQ IRX9 15.6\" 144Hz - Intel Core i5-13450HX, 8GB RAM, 512GB SSD, RTX 3050 6GB, Linux",
+        "preco": 4699.0,
+        "preco_original": 6199.0,
+        "desconto": 24.0,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795443252.6058877,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0HBFP4KT8",
+        "link_bruto": "https://www.amazon.com.br/dp/B0HBFP4KT8?tag=promobit-d-20",
+        "link_afiliado": "https://www.amazon.com.br/dp/B0HBFP4KT8?tag=joarlysson0d-20",
+        "link_imagem": "https://i.promobit.com.br/500/192790583017954327171675139606.png",
+        "titulo": "Smart TV 55\" Hisense 4K Hi-QLED QD68SG",
+        "preco": 1969.99,
+        "preco_original": 2186.6889,
+        "desconto": 10.0,
+        "cupom": "20BF26PRIME",
+        "vendas": 0,
+        "timestamp": 1795443273.3192468,
+        "expirado": false
     }
 ]

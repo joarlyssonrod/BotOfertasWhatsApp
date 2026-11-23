@@ -1,5 +1,44 @@
 [
   {
+    "id": "https://shopee.com.br/opaanlp/864885808/19099303037",
+    "titulo": "Impressora Multifuncional HP Smart Tank 584 All In One Tanque de Tinta Colorida USB e Wi-Fi Bivolt",
+    "preco_atual": 638.48,
+    "preco_original": 1081.94,
+    "desconto": 41,
+    "link_afiliado": "https://s.shopee.com.br/1CBMLvPFe?lp=aff",
+    "link_imagem": "https://i.promobit.com.br/500/424173860817954245306742255724.jpg",
+    "cupom": "R$85 Off Resgate",
+    "vendas": 0,
+    "loja": "Shopee",
+    "timestamp": 1795443274.0231867
+  },
+  {
+    "id": "AMAZON_B0GQJM9NJK",
+    "titulo": "Notebook Gamer Lenovo LOQ IRX9 15.6\" 144Hz - Intel Core i5-13450HX, 8GB RAM, 512GB SSD, RTX 3050 6GB, Linux",
+    "preco_atual": 4699.0,
+    "preco_original": 6199.0,
+    "desconto": 24,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0GQJM9NJK?tag=joarlysson0d-20",
+    "link_imagem": "https://m.media-amazon.com/images/I/81bU3fbzdzL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Amazon",
+    "timestamp": 1795443274.0231798
+  },
+  {
+    "id": "AMAZON_B0HBFP4KT8",
+    "titulo": "Smart TV 55\" Hisense 4K Hi-QLED QD68SG",
+    "preco_atual": 1969.99,
+    "preco_original": 2186.6889,
+    "desconto": 10,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0HBFP4KT8?tag=joarlysson0d-20",
+    "link_imagem": "https://i.promobit.com.br/500/192790583017954327171675139606.png",
+    "cupom": "20BF26PRIME",
+    "vendas": 0,
+    "loja": "Amazon",
+    "timestamp": 1795443274.0231702
+  },
+  {
     "id": "MAGALU_241087100",
     "titulo": "Controle DualSense PS5 Sony Branco",
     "preco_atual": 260.0,
