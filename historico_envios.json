@@ -57862,5 +57862,33 @@
         "vendas": 0,
         "timestamp": 1795385580.9209962,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_241087100",
+        "link_bruto": "https://www.magazineluiza.com.br/controle-sem-fio-dualsense-ps5-sony-playstation-branco/divulgador/oferta/241087100/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/controle-sem-fio-dualsense-ps5-sony-playstation-branco/p/241087100/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/341339084617953898509249820841.png",
+        "titulo": "Controle DualSense PS5 Sony Branco",
+        "preco": 260.0,
+        "preco_original": 499.0,
+        "desconto": 47.9,
+        "cupom": "BLACKMAGALU",
+        "vendas": 0,
+        "timestamp": 1795435932.233039,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_DE91HH9BBF",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-air-fryer-fmaxx-smart-fry-35-litros-preto/p/de91hh9bbf/ep/efso/?seller_id=eletrosid",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/fritadeira-air-fryer-fmaxx-smart-fry-35-litros-preto/p/de91hh9bbf/ep/efso/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/fritadeira-air-fryer-fmaxx-smart-fry-35-litros-preto/eletrosid/fmxv40/ae4200cad349092bbdcc8fa0472fbaa1.jpeg",
+        "titulo": "Fritadeira Air Fryer Fmaxx Smart Fry 3,5 Litros Preto",
+        "preco": 151.91,
+        "preco_original": 199.0,
+        "desconto": 23,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795435954.2306275,
+        "expirado": false
     }
 ]
