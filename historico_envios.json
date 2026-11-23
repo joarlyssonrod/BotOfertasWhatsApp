@@ -57974,5 +57974,47 @@
         "vendas": 0,
         "timestamp": 1795450325.604055,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_242092400",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-32-semp-full-hd-led-32s42r-roku-2026/p/242092400/et/elit/?seller_id=magazineluiza",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-32-semp-full-hd-led-32s42r-roku-2026/p/242092400/et/elit/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/smart-tv-32-semp-full-hd-led-32s42r-roku-2026/magazineluiza/242092400/e7024311e94f3a5a52bc83a7c66edff4.jpg",
+        "titulo": "Smart TV 32\" Semp Full HD LED 32S42R Roku 2026",
+        "preco": 854.05,
+        "preco_original": 1149.0,
+        "desconto": 25,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795457396.6289773,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB27727511",
+        "link_bruto": "https://www.mercadolivre.com.br/ar-condicionado-lg-inverter-smart-voice-ai-12000-btus-frio-r-32/p/MLB27727511?matt_event_ts=1795457099028&matt_d2id=3e9ea213-c390-43d9-a9ac-2e5277107478&matt_tracing_id=bca7d0ee-6854-477a-9988-522d0915115f#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=b21e1f60-da6b-4594-b96f-b4cb5dedbac5&tracking_id=cb310775-04d4-4be6-8db6-ae5ff0c12336&c_id=/home/card-featured/element&c_uid=35ec3aef-0e49-45af-a12d-52d447efd0e1",
+        "link_afiliado": "https://www.mercadolivre.com.br/ar-condicionado-lg-inverter-smart-voice-ai-12000-btus-frio-r-32/p/MLB27727511?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+        "link_imagem": "https://i.promobit.com.br/500/940982825317954562766202087346.png",
+        "titulo": "Ar Condicionado LG Inverter Smart Voice AI 12.000 BTUs Frio R-32",
+        "preco": 1949.0,
+        "preco_original": 2449.0,
+        "desconto": 20.4,
+        "cupom": "MELIGARANTE",
+        "vendas": 0,
+        "timestamp": 1795457421.8093495,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU5682834787",
+        "link_bruto": "https://www.mercadolivre.com.br/console-nintendo-switch-2-bundle-ea-sports-fc-27/up/MLBU5682834787?pdp_filters=item_id%3AMLB7902594392&matt_event_ts=1795456901784&matt_d2id=cd3a4922-31fe-4096-8f57-7a0e3a9f7efb&matt_tracing_id=c77c57ae-fd70-445c-9fa2-540cff9370f7#polycard_client=recommendations_home_affiliate-profile&wid=MLB7902594392&sid=recommendations-landings-me&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=9518c9dc-d4d7-4c3b-8442-b8ed2f081f81&tracking_id=44f38ebf-bbd6-452d-a6c6-c98afb3fdf9b&c_id=/home/card-featured/element&c_uid=0f7c4da9-1b73-48bb-80ed-004564b21247",
+        "link_afiliado": "https://www.mercadolivre.com.br/console-nintendo-switch-2-bundle-ea-sports-fc-27/up/MLBU5682834787?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+        "link_imagem": "https://i.promobit.com.br/500/450632248917954526243063938664.png",
+        "titulo": "Console Nintendo Switch 2 Bundle Ea Sports Fc 27",
+        "preco": 3509.1,
+        "preco_original": 4199.0,
+        "desconto": 16.4,
+        "cupom": "OFFPRATECH",
+        "vendas": 0,
+        "timestamp": 1795457438.007076,
+        "expirado": false
     }
 ]

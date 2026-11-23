@@ -1,5 +1,44 @@
 [
   {
+    "id": "MAGALU_242092400",
+    "titulo": "Smart TV 32\" Semp Full HD LED 32S42R Roku 2026",
+    "preco_atual": 854.05,
+    "preco_original": 1149.0,
+    "desconto": 25,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-32-semp-full-hd-led-32s42r-roku-2026/p/242092400/et/elit/",
+    "link_imagem": "https://a-static.mlcdn.com.br/280x210/smart-tv-32-semp-full-hd-led-32s42r-roku-2026/magazineluiza/242092400/e7024311e94f3a5a52bc83a7c66edff4.jpg",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795457438.3541517
+  },
+  {
+    "id": "ML_MLB27727511",
+    "titulo": "Ar Condicionado LG Inverter Smart Voice AI 12.000 BTUs Frio R-32",
+    "preco_atual": 1949.0,
+    "preco_original": 2449.0,
+    "desconto": 20,
+    "link_afiliado": "https://www.mercadolivre.com.br/ar-condicionado-lg-inverter-smart-voice-ai-12000-btus-frio-r-32/p/MLB27727511?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+    "link_imagem": "https://i.promobit.com.br/500/940982825317954562766202087346.png",
+    "cupom": "MELIGARANTE",
+    "vendas": 0,
+    "loja": "Mercado Livre",
+    "timestamp": 1795457438.3541434
+  },
+  {
+    "id": "ML_MLBU5682834787",
+    "titulo": "Console Nintendo Switch 2 Bundle Ea Sports Fc 27",
+    "preco_atual": 3509.1,
+    "preco_original": 4199.0,
+    "desconto": 16,
+    "link_afiliado": "https://www.mercadolivre.com.br/console-nintendo-switch-2-bundle-ea-sports-fc-27/up/MLBU5682834787?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+    "link_imagem": "https://i.promobit.com.br/500/450632248917954526243063938664.png",
+    "cupom": "OFFPRATECH",
+    "vendas": 0,
+    "loja": "Mercado Livre",
+    "timestamp": 1795457438.3541224
+  },
+  {
     "id": "SHOPEE_22899652875",
     "titulo": "Chinelo Ortopédico Adulto/Juvenil 2026",
     "preco_atual": 53.99,
@@ -997,32 +1036,6 @@
     "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820lv-mqhng85hlxxcfc",
     "cupom": "",
     "vendas": 99,
-    "loja": "Shopee",
-    "timestamp": 1795021321.0756774
-  },
-  {
-    "id": "https://s.shopee.com.br/40iCIi5aUG",
-    "titulo": "Suporte Controle PS5 DualSense Mesa Gamer [Tema/Máscara Oni] Impressão 3D",
-    "preco_atual": 56.25,
-    "preco_original": 75.0,
-    "desconto": 25,
-    "link_afiliado": "https://s.shopee.com.br/40iCIi5aUG",
-    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820l6-mm955iweaayuf6",
-    "cupom": "",
-    "vendas": 27,
-    "loja": "Shopee",
-    "timestamp": 1795021321.0756774
-  },
-  {
-    "id": "https://s.shopee.com.br/4B1cV14x9J",
-    "titulo": "Mouse Gamer com Fio RGB Estilo Cyberpunk 16000 DPI 7 Botõe",
-    "preco_atual": 48.99,
-    "preco_original": 59.74390243902439,
-    "desconto": 18,
-    "link_afiliado": "https://s.shopee.com.br/4B1cV14x9J",
-    "link_imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxg-mdl2zjrdhowl72",
-    "cupom": "",
-    "vendas": 222,
     "loja": "Shopee",
     "timestamp": 1795021321.0756774
   }
