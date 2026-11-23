@@ -57932,5 +57932,47 @@
         "vendas": 0,
         "timestamp": 1795443273.3192468,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_22899652875",
+        "link_bruto": "https://s.shopee.com.br/3LSdSYinHq",
+        "link_afiliado": "https://s.shopee.com.br/3LSdSYinHq",
+        "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mrtf47ohu7t184",
+        "titulo": "Chinelo Ortopédico Adulto/Juvenil 2026",
+        "preco": 53.99,
+        "preco_original": 99.98148148148148,
+        "desconto": 46,
+        "cupom": null,
+        "vendas": 1877,
+        "timestamp": 1795450286.8973548,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_58207585208",
+        "link_bruto": "https://s.shopee.com.br/2VtWT1lxyX",
+        "link_afiliado": "https://s.shopee.com.br/2VtWT1lxyX",
+        "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-ml7y33sssu87c1",
+        "titulo": "Chinelo de Dedo Masculino Tira Tecido Leve Antiderrapante Praia Piscina John Oliver...",
+        "preco": 44.99,
+        "preco_original": 80.33928571428571,
+        "desconto": 44,
+        "cupom": null,
+        "vendas": 486,
+        "timestamp": 1795450301.5998862,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0G4NKLR9Y",
+        "link_bruto": "https://www.amazon.com.br/gp/product/B0G4NKLR9Y/ref=ox_sc_saved_image_3?tag=promobit-d-20",
+        "link_afiliado": "https://www.amazon.com.br/dp/B0G4NKLR9Y?tag=joarlysson0d-20",
+        "link_imagem": "https://i.promobit.com.br/500/540816657917954490086459209511.jpg",
+        "titulo": "Cadeira Formula V Line Ergolux 2 Lite Mesh Preto",
+        "preco": 872.43,
+        "preco_original": 968.3973,
+        "desconto": 10.0,
+        "cupom": "TECH20",
+        "vendas": 0,
+        "timestamp": 1795450325.604055,
+        "expirado": false
     }
 ]

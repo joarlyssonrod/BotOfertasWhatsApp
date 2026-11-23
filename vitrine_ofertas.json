@@ -1,5 +1,44 @@
 [
   {
+    "id": "SHOPEE_22899652875",
+    "titulo": "Chinelo Ortopédico Adulto/Juvenil 2026",
+    "preco_atual": 53.99,
+    "preco_original": 99.98148148148148,
+    "desconto": 46,
+    "link_afiliado": "https://s.shopee.com.br/3LSdSYinHq",
+    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820li-mrtf47ohu7t184",
+    "cupom": "",
+    "vendas": 1877,
+    "loja": "Shopee",
+    "timestamp": 1795450326.287404
+  },
+  {
+    "id": "SHOPEE_58207585208",
+    "titulo": "Chinelo de Dedo Masculino Tira Tecido Leve Antiderrapante Praia Piscina John Oliver...",
+    "preco_atual": 44.99,
+    "preco_original": 80.33928571428571,
+    "desconto": 44,
+    "link_afiliado": "https://s.shopee.com.br/2VtWT1lxyX",
+    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820mf-ml7y33sssu87c1",
+    "cupom": "",
+    "vendas": 486,
+    "loja": "Shopee",
+    "timestamp": 1795450326.2873986
+  },
+  {
+    "id": "AMAZON_B0G4NKLR9Y",
+    "titulo": "Cadeira Formula V Line Ergolux 2 Lite Mesh Preto",
+    "preco_atual": 872.43,
+    "preco_original": 968.3973,
+    "desconto": 10,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0G4NKLR9Y?tag=joarlysson0d-20",
+    "link_imagem": "https://i.promobit.com.br/500/540816657917954490086459209511.jpg",
+    "cupom": "TECH20",
+    "vendas": 0,
+    "loja": "Amazon",
+    "timestamp": 1795450326.2873874
+  },
+  {
     "id": "https://shopee.com.br/opaanlp/864885808/19099303037",
     "titulo": "Impressora Multifuncional HP Smart Tank 584 All In One Tanque de Tinta Colorida USB e Wi-Fi Bivolt",
     "preco_atual": 638.48,
