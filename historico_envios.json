@@ -58016,5 +58016,19 @@
         "vendas": 0,
         "timestamp": 1795457438.007076,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU5979027942",
+        "link_bruto": "https://www.mercadolivre.com.br/monitor-gamer-tcl-25-qd-mini-led-full-hd-g64-300hz-25g64/up/MLBU5979027942?pdp_filters=item_id%3AMLB5583509843&matt_event_ts=1795464356992&matt_d2id=afb2bd28-238e-44b1-9dcb-b03c39c4d459&matt_tracing_id=74624194-ec2b-4dd7-8c2a-338f2d7f9e8f#polycard_client=recommendations_home_affiliate-profile&wid=MLB5583509843&sid=recommendations-landings-me&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=e9730e99-24cf-4616-a872-8da913d39618&tracking_id=a5127d11-d794-4de0-bc3d-af89ec4377cb&c_id=/home/card-featured/element&c_uid=b8628f4a-0bc2-494b-8a2b-ea22a6c27a4c",
+        "link_afiliado": "https://www.mercadolivre.com.br/monitor-gamer-tcl-25-qd-mini-led-full-hd-g64-300hz-25g64/up/MLBU5979027942?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+        "link_imagem": "https://i.promobit.com.br/500/266379859617954354614667175747.png",
+        "titulo": "Monitor Gamer Tcl 25\" Qled Mini Led 300Hz Full Hd G64 1ms (GtG) Freesync Hdr 600 nits 25G64",
+        "preco": 890.0,
+        "preco_original": 2300.0,
+        "desconto": 61.3,
+        "cupom": "MELIGARANTE",
+        "vendas": 0,
+        "timestamp": 1795464729.0203726,
+        "expirado": false
     }
 ]
