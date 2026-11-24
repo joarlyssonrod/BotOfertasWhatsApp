@@ -58030,5 +58030,61 @@
         "vendas": 0,
         "timestamp": 1795464729.0203726,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_GJB385GB87",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-gel-thunderlight-2-masculino/p/gjb385gb87/es/osnr/?seller_id=netshoes",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-gel-thunderlight-2-masculino/p/gjb385gb87/es/osnr/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-asics-gel-thunderlight-2-masculino/netshoes/sg4-02l7-004-44/1e87483079eca3ba04f515b9f64d72b5.jpeg",
+        "titulo": "Tênis Asics Gel-Thunderlight 2 Masculino",
+        "preco": 208.99,
+        "preco_original": 459.99,
+        "desconto": 54,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795522270.5158718,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_242558600",
+        "link_bruto": "https://www.magazineluiza.com.br/smartphone-motorola-edge-70-fusion-256gb-5g-12gb-ram-12gb-ram-boost-grafite-68-cam-dupla-50mp-13mp-selfie-32mp/divulgador/oferta/242558600/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-edge-70-fusion-256gb-5g-12gb-ram-12gb-ram-boost-grafite-68-cam-dupla-50mp-13mp-selfie-32mp/p/242558600/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/404821172717952854558973041979.png",
+        "titulo": "Smartphone Motorola Edge 70 Fusion 256GB 5G 12GB RAM +12GB RAM Boost Grafite 68\" Câm Dupla 50MP+13MP + Selfie 32MP",
+        "preco": 1869.1,
+        "preco_original": 3799.0,
+        "desconto": 50.8,
+        "cupom": "LU200",
+        "vendas": 0,
+        "timestamp": 1795522288.5095992,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_242558400",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g37-128gb-5g-4gb-ram-8gb-ram-boost-azul-nautico-67-cam-50mp-selfie-8mp/p/242558400/te/srmt/?seller_id=magazineluiza",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g37-128gb-5g-4gb-ram-8gb-ram-boost-azul-nautico-67-cam-50mp-selfie-8mp/p/242558400/te/srmt/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/smartphone-motorola-moto-g37-128gb-5g-4gb-ram-8gb-ram-boost-azul-nautico-67-cam-50mp-selfie-8mp/magazineluiza/242558400/2793aa7c221e598359d202036109c4a0.jpg",
+        "titulo": "Smartphone Motorola Moto G37 128GB 5G 4GB RAM +8GB RAM Boost Azul Náutico 6,7\" Câm. 50MP + Selfie 8MP",
+        "preco": 1079.1,
+        "preco_original": 2199.0,
+        "desconto": 50,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795522310.1132746,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_GCA1C54734",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-response-runner-2-masculino/p/gca1c54734/es/oedc/?seller_id=zattini",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-response-runner-2-masculino/p/gca1c54734/es/oedc/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-adidas-response-runner-2-masculino/zattini/fba-86lu-026-38/7673838e317b35737cd8e51920d244e3.jpeg",
+        "titulo": "Tênis Adidas Response Runner 2 Masculino",
+        "preco": 249.99,
+        "preco_original": 399.99,
+        "desconto": 37,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795522326.5045714,
+        "expirado": false
     }
 ]
