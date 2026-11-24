@@ -58086,5 +58086,47 @@
         "vendas": 0,
         "timestamp": 1795522326.5045714,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_17460396643",
+        "link_bruto": "https://s.shopee.com.br/AKcPG0t1qe",
+        "link_afiliado": "https://s.shopee.com.br/AKcPG0t1qe",
+        "link_imagem": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhjox6ltdn9ef0",
+        "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com...",
+        "preco": 32.99,
+        "preco_original": 206.18749999999997,
+        "desconto": 84,
+        "cupom": null,
+        "vendas": 1503,
+        "timestamp": 1795529436.5064404,
+        "expirado": false
+    },
+    {
+        "id": "SHOPEE_22795030307",
+        "link_bruto": "https://s.shopee.com.br/4fy2VbEbL5",
+        "link_afiliado": "https://s.shopee.com.br/4fy2VbEbL5",
+        "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-msmyilnzka9y79",
+        "titulo": "EPS-3091 Churrasqueira Elétrica De Mesa Epsilon Controle De Temperatura Grill...",
+        "preco": 93.95,
+        "preco_original": 199.8936170212766,
+        "desconto": 53,
+        "cupom": null,
+        "vendas": 1237,
+        "timestamp": 1795529450.4177797,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_238416700",
+        "link_bruto": "https://www.magazineluiza.com.br/smart-tv-55-4k-qned-lg-55qned80tsa-webos-24-processador-a5-ger7-wi-fi-bluetooth-com-alexa-e-chromecast-3-hdmi-2-us/divulgador/oferta/238416700/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-55-4k-qned-lg-55qned80tsa-webos-24-processador-a5-ger7-wi-fi-bluetooth-com-alexa-e-chromecast-3-hdmi-2-us/p/238416700/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/369004042117954834116462918288.png",
+        "titulo": "Smart TV 55\" 4K QNED LG 55QNED80TSA WebOS 24 Processador 5 Ger7 Wi-Fi Bluetooth com Alexa e Chromecast 3 HDMI 2 US",
+        "preco": 2309.05,
+        "preco_original": 4618.9,
+        "desconto": 50.0,
+        "cupom": "LU350",
+        "vendas": 0,
+        "timestamp": 1795529473.8145938,
+        "expirado": false
     }
 ]

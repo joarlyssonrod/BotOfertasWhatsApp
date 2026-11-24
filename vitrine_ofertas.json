@@ -1,5 +1,44 @@
 [
   {
+    "id": "SHOPEE_17460396643",
+    "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com...",
+    "preco_atual": 32.99,
+    "preco_original": 206.18749999999997,
+    "desconto": 84,
+    "link_afiliado": "https://s.shopee.com.br/AKcPG0t1qe",
+    "link_imagem": "https://cf.shopee.com.br/file/sg-11134201-8225c-mhjox6ltdn9ef0",
+    "cupom": "",
+    "vendas": 1503,
+    "loja": "Shopee",
+    "timestamp": 1795529474.200157
+  },
+  {
+    "id": "SHOPEE_22795030307",
+    "titulo": "EPS-3091 Churrasqueira Elétrica De Mesa Epsilon Controle De Temperatura Grill...",
+    "preco_atual": 93.95,
+    "preco_original": 199.8936170212766,
+    "desconto": 53,
+    "link_afiliado": "https://s.shopee.com.br/4fy2VbEbL5",
+    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820lc-msmyilnzka9y79",
+    "cupom": "",
+    "vendas": 1237,
+    "loja": "Shopee",
+    "timestamp": 1795529474.200152
+  },
+  {
+    "id": "MAGALU_238416700",
+    "titulo": "Smart TV 55\" 4K QNED LG 55QNED80TSA WebOS 24 Processador 5 Ger7 Wi-Fi Bluetooth com Alexa e Chromecast 3 HDMI 2 US",
+    "preco_atual": 2309.05,
+    "preco_original": 4618.9,
+    "desconto": 50,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-55-4k-qned-lg-55qned80tsa-webos-24-processador-a5-ger7-wi-fi-bluetooth-com-alexa-e-chromecast-3-hdmi-2-us/p/238416700/pb/ofer/",
+    "link_imagem": "https://i.promobit.com.br/500/369004042117954834116462918288.png",
+    "cupom": "LU350",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795529474.2001424
+  },
+  {
     "id": "MAGALU_GJB385GB87",
     "titulo": "Tênis Asics Gel-Thunderlight 2 Masculino",
     "preco_atual": 208.99,
@@ -997,45 +1036,6 @@
     "link_imagem": "https://cf.shopee.com.br/file/sg-11134201-8259p-mrlxh7mxu70g7e",
     "cupom": "",
     "vendas": 192,
-    "loja": "Shopee",
-    "timestamp": 1795021321.0756774
-  },
-  {
-    "id": "https://s.shopee.com.br/3g5LuEcp3a",
-    "titulo": "Bicicleta  Aro 29 GT Sprint MX7 24V index Freio Disco Alumínio Suspensão Aero MTB",
-    "preco_atual": 799.0,
-    "preco_original": 1288.7096774193549,
-    "desconto": 38,
-    "link_afiliado": "https://s.shopee.com.br/3g5LuEcp3a",
-    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-me910y70d7nmf6",
-    "cupom": "",
-    "vendas": 1821,
-    "loja": "Shopee",
-    "timestamp": 1795021321.0756774
-  },
-  {
-    "id": "https://s.shopee.com.br/2VtOY3Spvd",
-    "titulo": "ROMANTIC CROWN Kit 2 Copo Térmico Inox 1200ml/600ml Garrafa Térmica Inoxidável com...",
-    "preco_atual": 79.98,
-    "preco_original": 159.96,
-    "desconto": 50,
-    "link_afiliado": "https://s.shopee.com.br/2VtOY3Spvd",
-    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mrpp0yfxkemc2e",
-    "cupom": "",
-    "vendas": 502,
-    "loja": "Shopee",
-    "timestamp": 1795021321.0756774
-  },
-  {
-    "id": "https://s.shopee.com.br/8KrBIzp8CN",
-    "titulo": "Kit Lavagem Completa Shampoo Cera Tok Final Intense Sintra Fast Pneu Pretinho Vonixx",
-    "preco_atual": 153.58,
-    "preco_original": 196.8974358974359,
-    "desconto": 22,
-    "link_afiliado": "https://s.shopee.com.br/8KrBIzp8CN",
-    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820m4-mqxfxka52rd0a7",
-    "cupom": "",
-    "vendas": 2354,
     "loja": "Shopee",
     "timestamp": 1795021321.0756774
   }
