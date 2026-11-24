@@ -58170,5 +58170,33 @@
         "vendas": 0,
         "timestamp": 1795536673.5114956,
         "expirado": false
+    },
+    {
+        "id": "ML_MLB65560109",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s26-5g-256gb-12gb-ram-galaxy-ai-camera-tripla-de-501210-tela-de-63-azul/p/MLB65560109?matt_event_ts=1795543287845&matt_d2id=30e6c39c-c0d8-4599-9e1f-bbf0e739531f&matt_tracing_id=6b575e77-cab5-446c-849a-dd753dfa75e5#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=3c2e5707-001e-4a0b-bb7b-e549ec4573d6&tracking_id=88ab1b11-ebd3-4f0a-89a9-e08acdd585d7&c_id=/home/card-featured/element&c_uid=39c1518f-b3c4-4b9f-a047-f83cff971758",
+        "link_afiliado": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s26-5g-256gb-12gb-ram-galaxy-ai-camera-tripla-de-501210-tela-de-63-azul/p/MLB65560109?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+        "link_imagem": "https://i.promobit.com.br/500/525795945917955374113565713150.png",
+        "titulo": "Samsung Galaxy S26 5G, 256GB, 12GB RAM",
+        "preco": 3774.0,
+        "preco_original": 7799.0,
+        "desconto": 51.6,
+        "cupom": "OFERTAPRATECH",
+        "vendas": 0,
+        "timestamp": 1795543837.8990266,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_AG0CG2HB24",
+        "link_bruto": "https://www.magazineluiza.com.br/jogo-grand-theft-auto-gta-vi-ps5-tt000272ps5-playstation/divulgador/oferta/ag0cg2hb24/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/jogo-grand-theft-auto-gta-vi-ps5-tt000272ps5-playstation/p/ag0cg2hb24/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/904578984817955383495525579386.png",
+        "titulo": "Jogo Grand Theft Auto GTA VI, PS5 - TT000272PS5",
+        "preco": 345.0,
+        "preco_original": 449.9,
+        "desconto": 23.3,
+        "cupom": "CUPOMLU",
+        "vendas": 0,
+        "timestamp": 1795543863.561848,
+        "expirado": false
     }
 ]
