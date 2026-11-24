@@ -1,5 +1,44 @@
 [
   {
+    "id": "MAGALU_240351900",
+    "titulo": "Galaxy Watch 8 Bluetooth 40 mm",
+    "preco_atual": 979.1,
+    "preco_original": 2999.0,
+    "desconto": 67,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smartwatch-samsung-galaxy-watch8-40mm-grafite-32gb-bluetooth/p/240351900/pb/ofer/",
+    "link_imagem": "https://i.promobit.com.br/500/838312537117954714093443410782.png",
+    "cupom": "CARTEIRA100",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795536674.0410435
+  },
+  {
+    "id": "ML_MLB78949324",
+    "titulo": "Celular Samsung Galaxy S26 FE 128GB, 8GB RAM Tela 6,7\" Grafite",
+    "preco_atual": 1928.0,
+    "preco_original": 5499.0,
+    "desconto": 64,
+    "link_afiliado": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s26-fe-128gb-8gb-ram-tela-67-grafite/p/MLB78949324?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+    "link_imagem": "https://i.promobit.com.br/500/302415480017955251083703658389.png",
+    "cupom": "OFFPRATECH",
+    "vendas": 0,
+    "loja": "Mercado Livre",
+    "timestamp": 1795536674.041035
+  },
+  {
+    "id": "AMAZON_B0GS6H87T9",
+    "titulo": "Monitor Portátil AOC 15.6\" FHD IPS, USB-C, Capa Magnética, Alto-falantes",
+    "preco_atual": 364.19,
+    "preco_original": 699.0,
+    "desconto": 47,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0GS6H87T9?tag=joarlysson0d-20",
+    "link_imagem": "https://i.promobit.com.br/500/970735639117955245671280263450.png",
+    "cupom": "25BF26PRIME",
+    "vendas": 0,
+    "loja": "Amazon",
+    "timestamp": 1795536674.0410228
+  },
+  {
     "id": "SHOPEE_17460396643",
     "titulo": "Pistola de Massagem Muscular Portátil Elétrica Profissional Recarregável USB com...",
     "preco_atual": 32.99,
@@ -997,45 +1036,6 @@
     "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820ll-mmc8h9uyaoee6b",
     "cupom": "",
     "vendas": 286,
-    "loja": "Shopee",
-    "timestamp": 1795021321.0756774
-  },
-  {
-    "id": "https://s.shopee.com.br/80EKuNqOsH",
-    "titulo": "Copo Térmico 473ml GTA VI",
-    "preco_atual": 49.95,
-    "preco_original": 131.44736842105263,
-    "desconto": 62,
-    "link_afiliado": "https://s.shopee.com.br/80EKuNqOsH",
-    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820mg-mtzidcihks1vf6",
-    "cupom": "",
-    "vendas": 42,
-    "loja": "Shopee",
-    "timestamp": 1795021321.0756774
-  },
-  {
-    "id": "https://s.shopee.com.br/7fbUVlrfY3",
-    "titulo": "Bomba de Ar Calibrador Digital Portátil Recarregável com Powerbank Compressor...",
-    "preco_atual": 59.75,
-    "preco_original": 129.8913043478261,
-    "desconto": 54,
-    "link_afiliado": "https://s.shopee.com.br/7fbUVlrfY3",
-    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgz1ko75qj2d95",
-    "cupom": "",
-    "vendas": 807,
-    "loja": "Shopee",
-    "timestamp": 1795021321.0756774
-  },
-  {
-    "id": "https://s.shopee.com.br/7AfDuqtZZ0",
-    "titulo": "Cascata Cortina 300 Leds 3x3 Metros Amarelo Festa/Casamento/Eventos Quente e Branco",
-    "preco_atual": 35.0,
-    "preco_original": 64.81481481481481,
-    "desconto": 46,
-    "link_afiliado": "https://s.shopee.com.br/7AfDuqtZZ0",
-    "link_imagem": "https://cf.shopee.com.br/file/sg-11134201-8259p-mrlxh7mxu70g7e",
-    "cupom": "",
-    "vendas": 192,
     "loja": "Shopee",
     "timestamp": 1795021321.0756774
   }

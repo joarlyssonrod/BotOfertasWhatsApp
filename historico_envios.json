@@ -58128,5 +58128,47 @@
         "vendas": 0,
         "timestamp": 1795529473.8145938,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_240351900",
+        "link_bruto": "https://www.magazineluiza.com.br/smartwatch-samsung-galaxy-watch8-40mm-grafite-32gb-bluetooth/divulgador/oferta/240351900/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smartwatch-samsung-galaxy-watch8-40mm-grafite-32gb-bluetooth/p/240351900/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/838312537117954714093443410782.png",
+        "titulo": "Galaxy Watch 8 Bluetooth 40 mm",
+        "preco": 979.1,
+        "preco_original": 2999.0,
+        "desconto": 67.4,
+        "cupom": "CARTEIRA100",
+        "vendas": 0,
+        "timestamp": 1795536629.9419587,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB78949324",
+        "link_bruto": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s26-fe-128gb-8gb-ram-tela-67-grafite/p/MLB78949324?matt_event_ts=1795536190053&matt_d2id=04b433a4-dc61-48ed-9002-c054af8355a6&matt_tracing_id=f90c0ddd-a16d-4e3d-9909-6e79d84749c2#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=d631288a-d7b5-4a93-bf78-78d9ab20a6e1&tracking_id=78a0d269-5df6-4482-b60a-202d30cc88cf&c_id=/home/card-featured/element&c_uid=eec16c90-6b84-4443-a48d-7b9a186fbee8",
+        "link_afiliado": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s26-fe-128gb-8gb-ram-tela-67-grafite/p/MLB78949324?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+        "link_imagem": "https://i.promobit.com.br/500/302415480017955251083703658389.png",
+        "titulo": "Celular Samsung Galaxy S26 FE 128GB, 8GB RAM Tela 6,7\" Grafite",
+        "preco": 1928.0,
+        "preco_original": 5499.0,
+        "desconto": 64.9,
+        "cupom": "OFFPRATECH",
+        "vendas": 0,
+        "timestamp": 1795536651.9033365,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0GS6H87T9",
+        "link_bruto": "https://www.amazon.com.br/dp/B0GS6H87T9?tag=promobit-d-20",
+        "link_afiliado": "https://www.amazon.com.br/dp/B0GS6H87T9?tag=joarlysson0d-20",
+        "link_imagem": "https://i.promobit.com.br/500/970735639117955245671280263450.png",
+        "titulo": "Monitor Portátil AOC 15.6\" FHD IPS, USB-C, Capa Magnética, Alto-falantes",
+        "preco": 364.19,
+        "preco_original": 699.0,
+        "desconto": 47.9,
+        "cupom": "25BF26PRIME",
+        "vendas": 0,
+        "timestamp": 1795536673.5114956,
+        "expirado": false
     }
 ]
