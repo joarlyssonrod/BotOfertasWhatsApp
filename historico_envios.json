@@ -58268,5 +58268,47 @@
         "vendas": 0,
         "timestamp": 1795558289.5329745,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_242054600",
+        "link_bruto": "https://www.magazineluiza.com.br/samsung-galaxy-watch9-smartwatch-40mm-bt-galaxy-ai-cristal-de-safira-preto/divulgador/oferta/242054600/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/samsung-galaxy-watch9-smartwatch-40mm-bt-galaxy-ai-cristal-de-safira-preto/p/242054600/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/800274231317955358549134742204.png",
+        "titulo": "Samsung Galaxy Watch9 Smartwatch 40mm BT Galaxy AI Cristal de Safira Preto",
+        "preco": 1419.1,
+        "preco_original": 2999.0,
+        "desconto": 52.7,
+        "cupom": "LU200",
+        "vendas": 0,
+        "timestamp": 1795565598.0139408,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU1987513774",
+        "link_bruto": "https://www.mercadolivre.com.br/good-girl-carolina-herrera-edp-perfume-feminino-150ml/up/MLBU1987513774?pdp_filters=item_id%3AMLB4130425890&matt_event_ts=1795565101801&matt_d2id=ad0285be-1994-442c-8e22-e30586148c3a&matt_tracing_id=32d04267-c451-4329-8861-d5ab12d0b930#polycard_client=recommendations_home_affiliate-profile&wid=MLB4130425890&sid=recommendations-landings-me&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=718c1166-6283-4c17-abf5-bdf0d15ae06d&tracking_id=f1fcbe0e-de1c-4c4a-852e-1ea4f2c90ec5&c_id=/home/card-featured/element&c_uid=04dbdc83-b29d-4ac2-8f62-db3ca12ae596",
+        "link_afiliado": "https://www.mercadolivre.com.br/good-girl-carolina-herrera-edp-perfume-feminino-150ml/up/MLBU1987513774?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+        "link_imagem": "https://i.promobit.com.br/500/743179290617955403018912535359.png",
+        "titulo": "Good Girl Carolina Herrera Edp - Perfume Feminino 150ml",
+        "preco": 589.0,
+        "preco_original": 1145.9,
+        "desconto": 48.6,
+        "cupom": "VOCEDEZ",
+        "vendas": 0,
+        "timestamp": 1795565624.6128097,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU5805593272",
+        "link_bruto": "https://www.mercadolivre.com.br/ar-condicionado-lg-split-9000-btus-dual-inverter-frio-branco/up/MLBU5805593272?pdp_filters=item_id%3AMLB5509260971&matt_event_ts=1795564946305&matt_d2id=2cea5722-ec61-49a7-bec1-74585ca8fe3f&matt_tracing_id=21de4b51-6bbd-4d60-b6de-991f07646967#polycard_client=recommendations_home_affiliate-profile&wid=MLB5509260971&sid=recommendations-landings-me&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1ae21e77-940e-4c07-88e9-f832bf458a46&tracking_id=ad5c7220-0e8a-4845-8041-c8e495dd36ec&c_id=/home/card-featured/element&c_uid=bb1acb48-bfee-46d1-b7c3-0724cb1f07c9",
+        "link_afiliado": "https://www.mercadolivre.com.br/ar-condicionado-lg-split-9000-btus-dual-inverter-frio-branco/up/MLBU5805593272?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+        "link_imagem": "https://i.promobit.com.br/500/665601659017955643526299227176.png",
+        "titulo": "Ar Condicionado LG Split 9.000 Btus Dual Inverter Frio",
+        "preco": 1338.0,
+        "preco_original": 2567.88,
+        "desconto": 47.9,
+        "cupom": "TECHHOME",
+        "vendas": 0,
+        "timestamp": 1795565645.9056451,
+        "expirado": false
     }
 ]

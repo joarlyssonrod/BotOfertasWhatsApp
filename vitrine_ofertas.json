@@ -1,5 +1,44 @@
 [
   {
+    "id": "MAGALU_242054600",
+    "titulo": "Samsung Galaxy Watch9 Smartwatch 40mm BT Galaxy AI Cristal de Safira Preto",
+    "preco_atual": 1419.1,
+    "preco_original": 2999.0,
+    "desconto": 52,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/samsung-galaxy-watch9-smartwatch-40mm-bt-galaxy-ai-cristal-de-safira-preto/p/242054600/pb/ofer/",
+    "link_imagem": "https://i.promobit.com.br/500/800274231317955358549134742204.png",
+    "cupom": "LU200",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795565646.2493143
+  },
+  {
+    "id": "ML_MLBU1987513774",
+    "titulo": "Good Girl Carolina Herrera Edp - Perfume Feminino 150ml",
+    "preco_atual": 589.0,
+    "preco_original": 1145.9,
+    "desconto": 48,
+    "link_afiliado": "https://www.mercadolivre.com.br/good-girl-carolina-herrera-edp-perfume-feminino-150ml/up/MLBU1987513774?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+    "link_imagem": "https://i.promobit.com.br/500/743179290617955403018912535359.png",
+    "cupom": "VOCEDEZ",
+    "vendas": 0,
+    "loja": "Mercado Livre",
+    "timestamp": 1795565646.2493072
+  },
+  {
+    "id": "ML_MLBU5805593272",
+    "titulo": "Ar Condicionado LG Split 9.000 Btus Dual Inverter Frio",
+    "preco_atual": 1338.0,
+    "preco_original": 2567.88,
+    "desconto": 47,
+    "link_afiliado": "https://www.mercadolivre.com.br/ar-condicionado-lg-split-9000-btus-dual-inverter-frio-branco/up/MLBU5805593272?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+    "link_imagem": "https://i.promobit.com.br/500/665601659017955643526299227176.png",
+    "cupom": "TECHHOME",
+    "vendas": 0,
+    "loja": "Mercado Livre",
+    "timestamp": 1795565646.2492967
+  },
+  {
     "id": "SHOPEE_58256853481",
     "titulo": "INOVA Caixa De Som Bluetooth 8W TWS Caixinha Portátil IPX6 Som Estéreo Graves...",
     "preco_atual": 79.99,
@@ -999,44 +1038,5 @@
     "vendas": 0,
     "loja": "Magalu",
     "timestamp": 1795025417.94807
-  },
-  {
-    "id": "https://s.shopee.com.br/5VWzvmzuwW",
-    "titulo": "Fone de Ouvido Sem Fio Com Cancelamento De Ruído Bluetooth Pop-Up",
-    "preco_atual": 42.89,
-    "preco_original": 194.95454545454547,
-    "desconto": 78,
-    "link_afiliado": "https://s.shopee.com.br/5VWzvmzuwW",
-    "link_imagem": "https://cf.shopee.com.br/file/sg-11134201-7rffm-m4f5wo6pi7mjaa",
-    "cupom": "",
-    "vendas": 6169,
-    "loja": "Shopee",
-    "timestamp": 1795021321.0756774
-  },
-  {
-    "id": "https://s.shopee.com.br/5q9qKOyeGc",
-    "titulo": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas para Reparo de Carros...",
-    "preco_atual": 28.99,
-    "preco_original": 87.84848484848486,
-    "desconto": 67,
-    "link_afiliado": "https://s.shopee.com.br/5q9qKOyeGc",
-    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820l9-mqt86n8incape7",
-    "cupom": "",
-    "vendas": 15994,
-    "loja": "Shopee",
-    "timestamp": 1795021321.0756774
-  },
-  {
-    "id": "https://s.shopee.com.br/9AQIIWlxVS",
-    "titulo": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas Completa Reversível...",
-    "preco_atual": 29.9,
-    "preco_original": 130.0,
-    "desconto": 77,
-    "link_afiliado": "https://s.shopee.com.br/9AQIIWlxVS",
-    "link_imagem": "https://cf.shopee.com.br/file/sg-11134201-7rfi6-m96pnweedbdz0a",
-    "cupom": "",
-    "vendas": 2742,
-    "loja": "Shopee",
-    "timestamp": 1795021321.0756774
   }
 ]
