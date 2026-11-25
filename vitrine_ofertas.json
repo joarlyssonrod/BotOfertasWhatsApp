@@ -1,5 +1,18 @@
 [
   {
+    "id": "MAGALU_FCH9633B6G",
+    "titulo": "Tênis Adidas Response Runner 2 Masculino",
+    "preco_atual": 229.99,
+    "preco_original": 399.99,
+    "desconto": 42,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-adidas-response-runner-2-masculino/p/fch9633b6g/es/oedc/",
+    "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-adidas-response-runner-2-masculino/zattini/fba-86lu-036-38/068d0db9bf0a94b967e157418ed9abb9.jpeg",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795630252.110434
+  },
+  {
     "id": "SHOPEE_22798517148",
     "titulo": "Pegboard G Premium Mdf Setup Gamer Home Office  Preto",
     "preco_atual": 78.85,
@@ -1025,18 +1038,5 @@
     "vendas": 0,
     "loja": "Mercado Livre",
     "timestamp": 1795039885.8195696
-  },
-  {
-    "id": "MAGALU_JDJH3FGC82",
-    "titulo": "Guarda-Roupa Casal Odisseia 6 Portas Espelho",
-    "preco_atual": 727.0,
-    "preco_original": 1403.2,
-    "desconto": 48,
-    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/guarda-roupa-casal-odisseia-6-portas-2-gavetas-com-espelho-onix-panorama-moveis/p/jdjh3fgc82/pb/ofer/",
-    "link_imagem": "https://i.promobit.com.br/500/566869955117950128247558278960.png",
-    "cupom": "BLACKINFLU",
-    "vendas": 0,
-    "loja": "Magalu",
-    "timestamp": 1795032668.3220267
   }
 ]
