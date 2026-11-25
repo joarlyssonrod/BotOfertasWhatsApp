@@ -58310,5 +58310,33 @@
         "vendas": 0,
         "timestamp": 1795565645.9056451,
         "expirado": false
+    },
+    {
+        "id": "SHOPEE_22798517148",
+        "link_bruto": "https://s.shopee.com.br/gRvD0ICg5",
+        "link_afiliado": "https://s.shopee.com.br/gRvD0ICg5",
+        "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mrbnr0ke53ph59",
+        "titulo": "Pegboard G Premium Mdf Setup Gamer Home Office  Preto",
+        "preco": 78.85,
+        "preco_original": 394.25000000000006,
+        "desconto": 80,
+        "cupom": null,
+        "vendas": 625,
+        "timestamp": 1795608728.810677,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_KAHA4G3D6A",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-gel-thunderlight-2-masculino/p/kaha4g3d6a/es/osnr/?seller_id=netshoes",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-gel-thunderlight-2-masculino/p/kaha4g3d6a/es/osnr/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-asics-gel-thunderlight-2-masculino/netshoes/sg4-02l7-004-42/1e87483079eca3ba04f515b9f64d72b5.jpeg",
+        "titulo": "Tênis Asics Gel-Thunderlight 2 Masculino",
+        "preco": 198.54,
+        "preco_original": 459.99,
+        "desconto": 56,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795608748.4097145,
+        "expirado": false
     }
 ]

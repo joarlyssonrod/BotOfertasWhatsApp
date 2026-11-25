@@ -1,5 +1,31 @@
 [
   {
+    "id": "SHOPEE_22798517148",
+    "titulo": "Pegboard G Premium Mdf Setup Gamer Home Office  Preto",
+    "preco_atual": 78.85,
+    "preco_original": 394.25000000000006,
+    "desconto": 80,
+    "link_afiliado": "https://s.shopee.com.br/gRvD0ICg5",
+    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-mrbnr0ke53ph59",
+    "cupom": "",
+    "vendas": 625,
+    "loja": "Shopee",
+    "timestamp": 1795608748.868132
+  },
+  {
+    "id": "MAGALU_KAHA4G3D6A",
+    "titulo": "Tênis Asics Gel-Thunderlight 2 Masculino",
+    "preco_atual": 198.54,
+    "preco_original": 459.99,
+    "desconto": 56,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-gel-thunderlight-2-masculino/p/kaha4g3d6a/es/osnr/",
+    "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-asics-gel-thunderlight-2-masculino/netshoes/sg4-02l7-004-42/1e87483079eca3ba04f515b9f64d72b5.jpeg",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795608748.8681247
+  },
+  {
     "id": "MAGALU_242054600",
     "titulo": "Samsung Galaxy Watch9 Smartwatch 40mm BT Galaxy AI Cristal de Safira Preto",
     "preco_atual": 1419.1,
@@ -1012,31 +1038,5 @@
     "vendas": 0,
     "loja": "Magalu",
     "timestamp": 1795032668.3220267
-  },
-  {
-    "id": "MAGALU_HB9B3C6905",
-    "titulo": "Smartphone Motorola Moto G17 4G 128GB 4GB RAM + 8GB RAM Boost, Camera 50MP Sony Lytia 600, tela FHD 60hz, bateria 5200 mAh",
-    "preco_atual": 899.0,
-    "preco_original": 1299.0,
-    "desconto": 30,
-    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g17-4g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-fhd-60hz-bateria-5200-mah/p/hb9b3c6905/te/mg17/",
-    "link_imagem": "https://a-static.mlcdn.com.br/280x210/smartphone-motorola-moto-g17-4g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-fhd-60hz-bateria-5200-mah/lojamotorolaoficial/1788/defe3ed7821977ddddf292250de23577.jpeg",
-    "cupom": "",
-    "vendas": 0,
-    "loja": "Magalu",
-    "timestamp": 1795032668.322016
-  },
-  {
-    "id": "MAGALU_BE6C6A962J",
-    "titulo": "Freezer Horizontal 100L Inverter Bivolt Branco Midea",
-    "preco_atual": 1044.05,
-    "preco_original": 1769.0,
-    "desconto": 41,
-    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/freezer-horizontal-100l-inverter-bivolt-branco-midea/p/be6c6a962j/pb/ofer/",
-    "link_imagem": "https://i.promobit.com.br/500/432415351217950062757713390104.png",
-    "cupom": "MAGA5",
-    "vendas": 0,
-    "loja": "Magalu",
-    "timestamp": 1795025417.94807
   }
 ]
