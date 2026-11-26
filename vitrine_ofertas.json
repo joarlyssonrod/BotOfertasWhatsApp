@@ -1,5 +1,31 @@
 [
   {
+    "id": "MAGALU_241128800",
+    "titulo": "Controle Xbox Velocity Green",
+    "preco_atual": 283.1,
+    "preco_original": 539.9,
+    "desconto": 47,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/controle-para-xbox-sem-fio-ep2-40577-microsoft-velocity-green/p/241128800/pb/ofer/",
+    "link_imagem": "https://i.promobit.com.br/500/432929331717957289765937592297.png",
+    "cupom": "CUPOMINFLU40",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795731195.4093108
+  },
+  {
+    "id": "ML_MLBU4852141639",
+    "titulo": "Playstation 5 Slim Disk 1tb 1 Controle Branco Sony Branco",
+    "preco_atual": 4324.0,
+    "preco_original": 4950.0,
+    "desconto": 12,
+    "link_afiliado": "https://www.mercadolivre.com.br/playstation-5-slim-disk-1tb-1-controle-branco-sony/up/MLBU4852141639?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+    "link_imagem": "https://i.promobit.com.br/500/914166271217957292254209677010.png",
+    "cupom": "PROMOEXTRA",
+    "vendas": 0,
+    "loja": "Mercado Livre",
+    "timestamp": 1795731195.4092996
+  },
+  {
     "id": "MAGALU_CJCG464FKF",
     "titulo": "Volante Logitech G29 Driving Force PS5PS4PS3PC",
     "preco_atual": 819.0,
@@ -1012,31 +1038,5 @@
     "vendas": 20,
     "loja": "Shopee",
     "timestamp": 1795133514.2639852
-  },
-  {
-    "id": "SHOPEE_23199020709",
-    "titulo": "Cozedor de Ovos Elétrico Portátil Cozinha à Vapor 110V/220V Cores disponíveis...",
-    "preco_atual": 28.09,
-    "preco_original": 100.32142857142856,
-    "desconto": 72,
-    "link_afiliado": "https://s.shopee.com.br/4B1e4bBMzl",
-    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfytb2po8gzk07",
-    "cupom": "",
-    "vendas": 8000,
-    "loja": "Shopee",
-    "timestamp": 1795119054.2172625
-  },
-  {
-    "id": "SHOPEE_49800771681",
-    "titulo": "Monitor Gamer Curvo AOC AGON G4Z 27\" 300Hz 0,3ms HDR10 Base Ajustável C27G4ZP",
-    "preco_atual": 827.0,
-    "preco_original": 2038.78,
-    "desconto": 59,
-    "link_afiliado": "https://s.shopee.com.br/9AQKI8ehtJ",
-    "link_imagem": "https://i.promobit.com.br/500/908099082917951178889716348418.jpg",
-    "cupom": "P1XDAY15AF",
-    "vendas": 0,
-    "loja": "Shopee",
-    "timestamp": 1795119054.2172544
   }
 ]

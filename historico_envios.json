@@ -58464,5 +58464,33 @@
         "vendas": 0,
         "timestamp": 1795723836.207203,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_241128800",
+        "link_bruto": "https://www.magazineluiza.com.br/controle-para-xbox-sem-fio-ep2-40577-microsoft-velocity-green/divulgador/oferta/241128800/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/controle-para-xbox-sem-fio-ep2-40577-microsoft-velocity-green/p/241128800/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/432929331717957289765937592297.png",
+        "titulo": "Controle Xbox Velocity Green",
+        "preco": 283.1,
+        "preco_original": 539.9,
+        "desconto": 47.6,
+        "cupom": "CUPOMINFLU40",
+        "vendas": 0,
+        "timestamp": 1795731170.1224499,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLBU4852141639",
+        "link_bruto": "https://www.mercadolivre.com.br/playstation-5-slim-disk-1tb-1-controle-branco-sony/up/MLBU4852141639?pdp_filters=item_id%3AMLB7471552390&matt_event_ts=1795730765303&matt_d2id=b71b600d-a4d0-48b4-9857-696500fae86b&matt_tracing_id=3dbe721b-079a-43c6-910b-fdd884801efc#polycard_client=recommendations_home_affiliate-profile&wid=MLB7471552390&sid=recommendations-landings-me&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=517fc403-d550-4a3c-9597-888bfc91e99f&tracking_id=5ddc26c3-c6de-43c1-a64b-999b577c7b40&c_id=/home/card-featured/element&c_uid=2d3d8b29-5905-4c3b-97ea-a3c9b3f408ab",
+        "link_afiliado": "https://www.mercadolivre.com.br/playstation-5-slim-disk-1tb-1-controle-branco-sony/up/MLBU4852141639?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+        "link_imagem": "https://i.promobit.com.br/500/914166271217957292254209677010.png",
+        "titulo": "Playstation 5 Slim Disk 1tb 1 Controle Branco Sony Branco",
+        "preco": 4324.0,
+        "preco_original": 4950.0,
+        "desconto": 12.6,
+        "cupom": "PROMOEXTRA",
+        "vendas": 0,
+        "timestamp": 1795731195.0243785,
+        "expirado": false
     }
 ]
