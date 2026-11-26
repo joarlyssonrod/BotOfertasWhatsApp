@@ -58380,5 +58380,33 @@
         "vendas": 0,
         "timestamp": 1795702348.0254536,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_241870900",
+        "link_bruto": "https://www.magazineluiza.com.br/fire-tv-stick-hd-2a-geracao-modelo-2026-amazon-hd-hdmi-compativel-com-alexa/divulgador/oferta/241870900/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/fire-tv-stick-hd-2a-geracao-modelo-2026-amazon-hd-hdmi-compativel-com-alexa/p/241870900/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/690165452717956994754592803098.png",
+        "titulo": "Fire TV Stick HD 2ª Geração 2026 com Alexa",
+        "preco": 109.0,
+        "preco_original": 499.9,
+        "desconto": 78.2,
+        "cupom": "CUPOMLU",
+        "vendas": 0,
+        "timestamp": 1795709556.3212469,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_EKG7679CD0",
+        "link_bruto": "https://www.magazineluiza.com.br/tenis-new-balance-480-low/divulgador/oferta/ekg7679cd0/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-new-balance-480-low/p/ekg7679cd0/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/923253834017956509749608103082.png",
+        "titulo": "Tênis New Balance 480 Low Masculino - Preto",
+        "preco": 149.99,
+        "preco_original": 549.99,
+        "desconto": 72.7,
+        "cupom": "CUPOMLU",
+        "vendas": 0,
+        "timestamp": 1795709579.398331,
+        "expirado": false
     }
 ]

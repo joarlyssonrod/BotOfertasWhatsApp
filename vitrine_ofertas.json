@@ -1,5 +1,31 @@
 [
   {
+    "id": "MAGALU_241870900",
+    "titulo": "Fire TV Stick HD 2ª Geração 2026 com Alexa",
+    "preco_atual": 109.0,
+    "preco_original": 499.9,
+    "desconto": 78,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/fire-tv-stick-hd-2a-geracao-modelo-2026-amazon-hd-hdmi-compativel-com-alexa/p/241870900/pb/ofer/",
+    "link_imagem": "https://i.promobit.com.br/500/690165452717956994754592803098.png",
+    "cupom": "CUPOMLU",
+    "vendas": 0,
+    "loja": "Amazon",
+    "timestamp": 1795709579.7430253
+  },
+  {
+    "id": "MAGALU_EKG7679CD0",
+    "titulo": "Tênis New Balance 480 Low Masculino - Preto",
+    "preco_atual": 149.99,
+    "preco_original": 549.99,
+    "desconto": 72,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-new-balance-480-low/p/ekg7679cd0/pb/ofer/",
+    "link_imagem": "https://i.promobit.com.br/500/923253834017956509749608103082.png",
+    "cupom": "CUPOMLU",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795709579.7430155
+  },
+  {
     "id": "MAGALU_FH15DD5205",
     "titulo": "Notebook Lenovo IdeaPad Slim 3 15IWC11 Intel Core 3 8GB 256GB SSD Linux - 83WAS02100 Cosmic Blue",
     "preco_atual": 2484.11,
@@ -1012,31 +1038,5 @@
     "vendas": 0,
     "loja": "Magalu",
     "timestamp": 1795090191.8093815
-  },
-  {
-    "id": "MAGALU_KC3DKH9KH6",
-    "titulo": "Tênis Mizuno Hawk 5 Masculino",
-    "preco_atual": 208.99,
-    "preco_original": 359.99,
-    "desconto": 41,
-    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-mizuno-hawk-5-masculino/p/kc3dkh9kh6/es/oedc/",
-    "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-mizuno-hawk-5-masculino/netshoes/2fu-9729-072-42/816fb7f470a4a4f2b6523713a0685e3e.jpeg",
-    "cupom": "",
-    "vendas": 0,
-    "loja": "Magalu",
-    "timestamp": 1795046874.327186
-  },
-  {
-    "id": "MAGALU_241681800",
-    "titulo": "Freezer Vertical Electrolux 175L 1 Porta Inverter Efficient FEI19T",
-    "preco_atual": 2079.05,
-    "preco_original": 2399.0,
-    "desconto": 13,
-    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/freezer-vertical-electrolux-175l-1-porta-inverter-efficient-fei19t/p/241681800/pb/ofer/",
-    "link_imagem": "https://i.promobit.com.br/500/807660099717950063631365052404.png",
-    "cupom": "LU200",
-    "vendas": 0,
-    "loja": "Magalu",
-    "timestamp": 1795046874.3271744
   }
 ]
