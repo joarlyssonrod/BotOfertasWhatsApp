@@ -58408,5 +58408,33 @@
         "vendas": 0,
         "timestamp": 1795709579.398331,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_BB9GD709CA",
+        "link_bruto": "https://www.magazineluiza.com.br/console-sony-playstation-5-slim-digital-1tb-dualsense-branco/divulgador/oferta/bb9gd709ca/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/console-sony-playstation-5-slim-digital-1tb-dualsense-branco/p/bb9gd709ca/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/135285539417957115732678308466.png",
+        "titulo": "Console Sony PlayStation 5 Slim Digital 1TB DualSense Branco",
+        "preco": 3210.0,
+        "preco_original": 4900.0,
+        "desconto": 34.5,
+        "cupom": "SQUAD300BF",
+        "vendas": 0,
+        "timestamp": 1795716761.1980784,
+        "expirado": false
+    },
+    {
+        "id": "ML_MLB73096526",
+        "link_bruto": "https://www.mercadolivre.com.br/cervejeira-titanium-czd12mt-83l-cinza-escuro-consul-220v/p/MLB73096526?matt_event_ts=1795716430341&matt_d2id=d9392292-2bef-4177-9eda-d19cfae69d07&matt_tracing_id=d141ce41-ef4e-4788-baca-8b879884a2ff#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=fe5b144d-c4f2-4d6a-aeff-af02e852d2a4&tracking_id=bc8943e9-46bb-40e4-977b-45a04c7660a0&c_id=/home/card-featured/element&c_uid=78cedc3b-ba62-4dc1-badb-5cecdb10d53a",
+        "link_afiliado": "https://www.mercadolivre.com.br/cervejeira-titanium-czd12mt-83l-cinza-escuro-consul-220v/p/MLB73096526?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+        "link_imagem": "https://i.promobit.com.br/500/114679789417956906509522120069.png",
+        "titulo": "Cervejeira Titanium Czd12mt 83l Cinza Escuro Consul 220v",
+        "preco": 1266.41,
+        "preco_original": 1849.0,
+        "desconto": 31.5,
+        "cupom": "MODOCASA",
+        "vendas": 0,
+        "timestamp": 1795716781.2299461,
+        "expirado": false
     }
 ]
