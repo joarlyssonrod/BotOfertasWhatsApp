@@ -58366,5 +58366,19 @@
         "vendas": 0,
         "timestamp": 1795651805.0940864,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_FH15DD5205",
+        "link_bruto": "https://www.magazineluiza.com.br/notebook-lenovo-ideapad-slim-3-15iwc11-intel-core-3-8gb-256gb-ssd-linux-83was02100-cosmic-blue/divulgador/oferta/fh15dd5205/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/notebook-lenovo-ideapad-slim-3-15iwc11-intel-core-3-8gb-256gb-ssd-linux-83was02100-cosmic-blue/p/fh15dd5205/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/589879052517956347378529040072.png",
+        "titulo": "Notebook Lenovo IdeaPad Slim 3 15IWC11 Intel Core 3 8GB 256GB SSD Linux - 83WAS02100 Cosmic Blue",
+        "preco": 2484.11,
+        "preco_original": 3299.0,
+        "desconto": 24.7,
+        "cupom": "NOTE10",
+        "vendas": 0,
+        "timestamp": 1795702348.0254536,
+        "expirado": false
     }
 ]
