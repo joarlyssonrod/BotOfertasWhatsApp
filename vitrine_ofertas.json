@@ -1,5 +1,31 @@
 [
   {
+    "id": "MAGALU_CJCG464FKF",
+    "titulo": "Volante Logitech G29 Driving Force PS5PS4PS3PC",
+    "preco_atual": 819.0,
+    "preco_original": 2043.17,
+    "desconto": 59,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/volante-logitech-g29-driving-force-para-ps5-ps4-ps3-e-pc-941-000111/p/cjcg464fkf/pb/ofer/",
+    "link_imagem": "https://i.promobit.com.br/500/405366646417957219573677975475.png",
+    "cupom": "500SURPRESA",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795723837.0511959
+  },
+  {
+    "id": "MAGALU_GC6AH2E12B",
+    "titulo": "Tênis Asics Patriot 14 Masculino",
+    "preco_atual": 199.99,
+    "preco_original": 449.99,
+    "desconto": 55,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-patriot-14-masculino/p/gc6ah2e12b/es/oedc/",
+    "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-asics-patriot-14-masculino/netshoes/sg4-0156-006-43/ba751aae3004a2c9f05a620a85d824b6.jpeg",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795723837.051185
+  },
+  {
     "id": "MAGALU_BB9GD709CA",
     "titulo": "Console Sony PlayStation 5 Slim Digital 1TB DualSense Branco",
     "preco_atual": 3210.0,
@@ -1012,31 +1038,5 @@
     "vendas": 0,
     "loja": "Shopee",
     "timestamp": 1795119054.2172544
-  },
-  {
-    "id": "AMAZON_B0FYJ1RKKP",
-    "titulo": "Ar Condicionado AIWA Split High Wall High Inverter 12.000 BTUs Frio AWS-AC-12F-EU",
-    "preco_atual": 1487.0,
-    "preco_original": 2560.98,
-    "desconto": 41,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0FYJ1RKKP?tag=joarlysson0d-20",
-    "link_imagem": "https://i.promobit.com.br/500/994358202717950872232676958630.jpg",
-    "cupom": "BLACKPRIME15",
-    "vendas": 0,
-    "loja": "Amazon",
-    "timestamp": 1795104774.2038205
-  },
-  {
-    "id": "SHOPEE_58269021620",
-    "titulo": "Projetor de Natal LED RGB Bivolt com Desenhos Natalinos em Movimento Luzes...",
-    "preco_atual": 61.35,
-    "preco_original": 87.64285714285715,
-    "desconto": 30,
-    "link_afiliado": "https://s.shopee.com.br/gRluAOh6O",
-    "link_imagem": "https://cf.shopee.com.br/file/br-11134207-820la-mugzv5t2wgzna7",
-    "cupom": "",
-    "vendas": 162,
-    "loja": "Shopee",
-    "timestamp": 1795104774.2038085
   }
 ]

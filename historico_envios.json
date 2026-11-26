@@ -58436,5 +58436,33 @@
         "vendas": 0,
         "timestamp": 1795716781.2299461,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_CJCG464FKF",
+        "link_bruto": "https://www.magazineluiza.com.br/volante-logitech-g29-driving-force-para-ps5-ps4-ps3-e-pc-941-000111/divulgador/oferta/cjcg464fkf/pb/ofer/?promoter_id=50441&partner_id=3440",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/volante-logitech-g29-driving-force-para-ps5-ps4-ps3-e-pc-941-000111/p/cjcg464fkf/pb/ofer/",
+        "link_imagem": "https://i.promobit.com.br/500/405366646417957219573677975475.png",
+        "titulo": "Volante Logitech G29 Driving Force PS5PS4PS3PC",
+        "preco": 819.0,
+        "preco_original": 2043.17,
+        "desconto": 59.9,
+        "cupom": "500SURPRESA",
+        "vendas": 0,
+        "timestamp": 1795723813.4328635,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_GC6AH2E12B",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-patriot-14-masculino/p/gc6ah2e12b/es/oedc/?seller_id=netshoes",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-patriot-14-masculino/p/gc6ah2e12b/es/oedc/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-asics-patriot-14-masculino/netshoes/sg4-0156-006-43/ba751aae3004a2c9f05a620a85d824b6.jpeg",
+        "titulo": "Tênis Asics Patriot 14 Masculino",
+        "preco": 199.99,
+        "preco_original": 449.99,
+        "desconto": 55,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795723836.207203,
+        "expirado": false
     }
 ]
