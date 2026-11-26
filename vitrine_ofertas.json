@@ -1,5 +1,18 @@
 [
   {
+    "id": "AMAZON_B0C1L2R4HH",
+    "titulo": "Impressora Multifuncional HP Smart Tank 581 Wi-Fi, USB",
+    "preco_atual": 643.25,
+    "preco_original": 1099.0,
+    "desconto": 41,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0C1L2R4HH?tag=joarlysson0d-20",
+    "link_imagem": "https://i.promobit.com.br/500/833872366317956161598274747287.png",
+    "cupom": "BLACK75OFF",
+    "vendas": 0,
+    "loja": "Amazon",
+    "timestamp": 1795651805.5030777
+  },
+  {
     "id": "MAGALU_FCH9633B6G",
     "titulo": "Tênis Adidas Response Runner 2 Masculino",
     "preco_atual": 229.99,
@@ -1025,18 +1038,5 @@
     "vendas": 0,
     "loja": "Magalu",
     "timestamp": 1795039885.8195796
-  },
-  {
-    "id": "ML_MLBU4593869990",
-    "titulo": "Capacete Fechado Race Tech Volt",
-    "preco_atual": 348.41,
-    "preco_original": 554.9,
-    "desconto": 37,
-    "link_afiliado": "https://www.mercadolivre.com.br/capacete-fechado-race-tech-volt/up/MLBU4593869990?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
-    "link_imagem": "https://i.promobit.com.br/500/323631063317950075502815204364.png",
-    "cupom": "VEICPROMO",
-    "vendas": 0,
-    "loja": "Mercado Livre",
-    "timestamp": 1795039885.8195696
   }
 ]

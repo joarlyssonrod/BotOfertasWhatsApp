@@ -58352,5 +58352,19 @@
         "vendas": 0,
         "timestamp": 1795630251.1958668,
         "expirado": false
+    },
+    {
+        "id": "AMAZON_B0C1L2R4HH",
+        "link_bruto": "https://www.amazon.com.br/dp/B0C1L2R4HH?tag=promobit-d-20",
+        "link_afiliado": "https://www.amazon.com.br/dp/B0C1L2R4HH?tag=joarlysson0d-20",
+        "link_imagem": "https://i.promobit.com.br/500/833872366317956161598274747287.png",
+        "titulo": "Impressora Multifuncional HP Smart Tank 581 Wi-Fi, USB",
+        "preco": 643.25,
+        "preco_original": 1099.0,
+        "desconto": 41.5,
+        "cupom": "BLACK75OFF",
+        "vendas": 0,
+        "timestamp": 1795651805.0940864,
+        "expirado": false
     }
 ]
