@@ -1,5 +1,18 @@
 [
   {
+    "id": "MAGALU_241869700",
+    "titulo": "Smart TV 55\" TCL 4K UHD QLED 55T6C Google TV 2026",
+    "preco_atual": 2369.0,
+    "preco_original": 6198.0,
+    "desconto": 61,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-55-tcl-4k-uhd-qled-55t6c-google-tv-2026/p/241869700/et/elit/",
+    "link_imagem": "https://a-static.mlcdn.com.br/280x210/smart-tv-55-tcl-4k-uhd-qled-55t6c-google-tv-2026/magazineluiza/241869700/919fd563775b1ec365ffb14bb9e9b91b.jpg",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795781571.758933
+  },
+  {
     "id": "ML_MLB52056796",
     "titulo": "Caixa de som LG XBOOM XL5T 200W com 12 horas de bateria",
     "preco_atual": 648.72,
@@ -1025,18 +1038,5 @@
     "vendas": 0,
     "loja": "Mercado Livre",
     "timestamp": 1795183859.138406
-  },
-  {
-    "id": "MAGALU_AGC0ECHAA8",
-    "titulo": "Lava e Seca Samsung Inverter 117kg Inox",
-    "preco_atual": 2862.0,
-    "preco_original": 5539.57,
-    "desconto": 48,
-    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/lava-e-seca-samsung-wd11m-com-digital-inverter-wd11m4473px-inox-look-11-7kg/p/agc0echaa8/pb/ofer/",
-    "link_imagem": "https://i.promobit.com.br/500/830867406717943702598791755066.png",
-    "cupom": "Promobit300",
-    "vendas": 0,
-    "loja": "Magalu",
-    "timestamp": 1795183859.1383982
   }
 ]

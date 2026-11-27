@@ -58548,5 +58548,19 @@
         "vendas": 0,
         "timestamp": 1795738340.124949,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_241869700",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-55-tcl-4k-uhd-qled-55t6c-google-tv-2026/p/241869700/et/elit/?seller_id=magazineluiza",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-55-tcl-4k-uhd-qled-55t6c-google-tv-2026/p/241869700/et/elit/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/smart-tv-55-tcl-4k-uhd-qled-55t6c-google-tv-2026/magazineluiza/241869700/919fd563775b1ec365ffb14bb9e9b91b.jpg",
+        "titulo": "Smart TV 55\" TCL 4K UHD QLED 55T6C Google TV 2026",
+        "preco": 2369.0,
+        "preco_original": 6198.0,
+        "desconto": 61,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795781571.3346252,
+        "expirado": false
     }
 ]
