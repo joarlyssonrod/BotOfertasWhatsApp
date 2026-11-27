@@ -58562,5 +58562,33 @@
         "vendas": 0,
         "timestamp": 1795781571.3346252,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU5288199054",
+        "link_bruto": "https://www.mercadolivre.com.br/kit-starlink-mini-x-internet-via-satelite-antena-router/up/MLBU5288199054?pdp_filters=item_id%3AMLB7691382120&matt_event_ts=1795788237888&matt_d2id=bd4adb1c-c829-4cc1-8ce9-9a31ee82802f&matt_tracing_id=51a02f1d-7269-47a6-bf45-c4559a30fd04#polycard_client=recommendations_home_affiliate-profile&wid=MLB7691382120&sid=recommendations-landings-me&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=23e2af9a-2893-4a14-a115-413d57565a36&tracking_id=05ec4d56-f8ac-412b-a857-5e49d27eb31d&c_id=/home/card-featured/element&c_uid=33dfadde-965b-474c-a7d0-56b674151e0c",
+        "link_afiliado": "https://www.mercadolivre.com.br/kit-starlink-mini-x-internet-via-satelite-antena-router/up/MLBU5288199054?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+        "link_imagem": "https://i.promobit.com.br/500/341995588717957873179600849779.png",
+        "titulo": "Kit Starlink Mini X Internet Via Satélite (Antena + Roteador)",
+        "preco": 359.2,
+        "preco_original": 699.0,
+        "desconto": 48.6,
+        "cupom": "SOHOJEBF",
+        "vendas": 0,
+        "timestamp": 1795788689.8197696,
+        "expirado": false
+    },
+    {
+        "id": "AMAZON_B0FY47ZRZF",
+        "link_bruto": "https://www.amazon.com.br/Condicionado-Split-LG-Inverter-S3-Q09JA31E/dp/B0FY47ZRZF?tag=promobit-d-20",
+        "link_afiliado": "https://www.amazon.com.br/dp/B0FY47ZRZF?tag=joarlysson0d-20",
+        "link_imagem": "https://i.promobit.com.br/500/297932655117957816598285512652.jpg",
+        "titulo": "Ar Condicionado Split LG AI Smart Inverter Voice 9.000 BTUh Frio 220V",
+        "preco": 1666.0,
+        "preco_original": 1849.2600000000002,
+        "desconto": 10.0,
+        "cupom": "BLACK100OFF",
+        "vendas": 0,
+        "timestamp": 1795788713.814697,
+        "expirado": false
     }
 ]

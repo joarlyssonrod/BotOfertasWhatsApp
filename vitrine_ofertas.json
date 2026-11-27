@@ -1,5 +1,31 @@
 [
   {
+    "id": "ML_MLBU5288199054",
+    "titulo": "Kit Starlink Mini X Internet Via Satélite (Antena + Roteador)",
+    "preco_atual": 359.2,
+    "preco_original": 699.0,
+    "desconto": 48,
+    "link_afiliado": "https://www.mercadolivre.com.br/kit-starlink-mini-x-internet-via-satelite-antena-router/up/MLBU5288199054?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+    "link_imagem": "https://i.promobit.com.br/500/341995588717957873179600849779.png",
+    "cupom": "SOHOJEBF",
+    "vendas": 0,
+    "loja": "Mercado Livre",
+    "timestamp": 1795788714.2714415
+  },
+  {
+    "id": "AMAZON_B0FY47ZRZF",
+    "titulo": "Ar Condicionado Split LG AI Smart Inverter Voice 9.000 BTUh Frio 220V",
+    "preco_atual": 1666.0,
+    "preco_original": 1849.2600000000002,
+    "desconto": 10,
+    "link_afiliado": "https://www.amazon.com.br/dp/B0FY47ZRZF?tag=joarlysson0d-20",
+    "link_imagem": "https://i.promobit.com.br/500/297932655117957816598285512652.jpg",
+    "cupom": "BLACK100OFF",
+    "vendas": 0,
+    "loja": "Amazon",
+    "timestamp": 1795788714.2714295
+  },
+  {
     "id": "MAGALU_241869700",
     "titulo": "Smart TV 55\" TCL 4K UHD QLED 55T6C Google TV 2026",
     "preco_atual": 2369.0,
@@ -1012,31 +1038,5 @@
     "vendas": 0,
     "loja": "Magalu",
     "timestamp": 1795198249.544074
-  },
-  {
-    "id": "MAGALU_242044400",
-    "titulo": "Notebook Gamer Acer Nitro V15 Intel Core i5 512GB SSD 8GB RAM 156\" Full HD IPS Nvidia RTX 4050 6GB Linux ANV15-52-57MC",
-    "preco_atual": 5639.1,
-    "preco_original": 8899.0,
-    "desconto": 36,
-    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/notebook-gamer-acer-nitro-v15-intel-core-i5-512gb-ssd-8gb-ram-156-full-hd-ips-nvidia-rtx-4050-6gb-linux-anv15-52-57mc/p/242044400/pb/ofer/",
-    "link_imagem": "https://i.promobit.com.br/500/712841848917946942193517584801.png",
-    "cupom": "TECNO300",
-    "vendas": 0,
-    "loja": "Magalu",
-    "timestamp": 1795198249.5440643
-  },
-  {
-    "id": "ML_MLB42110532",
-    "titulo": "Cooktop de Indução Fischer 4 Bocas Vitrocerâmica com Touch Screen 220V",
-    "preco_atual": 1026.0,
-    "preco_original": 2500.0,
-    "desconto": 59,
-    "link_afiliado": "https://www.mercadolivre.com.br/cooktop-de-inducao-fischer-4-bocas-vitroceramica-com-touch-screen-220v/p/MLB42110532?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
-    "link_imagem": "https://i.promobit.com.br/500/914136728817951452325266182751.png",
-    "cupom": "TODO2011SITE",
-    "vendas": 0,
-    "loja": "Mercado Livre",
-    "timestamp": 1795183859.138406
   }
 ]
