@@ -58604,5 +58604,47 @@
         "vendas": 0,
         "timestamp": 1795795777.825596,
         "expirado": false
+    },
+    {
+        "id": "ML_MLBU6068708132",
+        "link_bruto": "https://www.mercadolivre.com.br/ar-condicionado-split-inverter-tcl-semp-12000-btus-frio-220v/up/MLBU6068708132?pdp_filters=item_id%3AMLB5617767363&matt_event_ts=1795802562902&matt_d2id=851b3328-0756-4f81-bf81-afa2078cbff0&matt_tracing_id=a1e6b373-7540-46ca-83d4-625fd2573c43#polycard_client=recommendations_home_affiliate-profile&wid=MLB5617767363&sid=recommendations-landings-me&reco_backend=item_decorator&reco_client=home_affiliate-profile&matt_tool_id=76706625&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=1a608c87-2382-4ec8-8234-e553703389c4&tracking_id=69687ddd-f231-4523-8d9e-7e5fae69cb88&c_id=/home/card-featured/element&c_uid=dfb6118a-1e0a-4eab-b4fb-11056cb64061",
+        "link_afiliado": "https://www.mercadolivre.com.br/ar-condicionado-split-inverter-tcl-semp-12000-btus-frio-220v/up/MLBU6068708132?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+        "link_imagem": "https://i.promobit.com.br/500/829547668817957955283689670986.png",
+        "titulo": "Ar Condicionado Split Inverter Tcl Semp 12000 Btus Frio 220v",
+        "preco": 1349.0,
+        "preco_original": 3694.9,
+        "desconto": 63.5,
+        "cupom": "TECHONOMELI",
+        "vendas": 0,
+        "timestamp": 1795803050.1962664,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_242558500",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g37-128gb-5g-4gb-ram-8gb-ram-boost-rosa-67-cam-50mp-selfie-8mp/p/242558500/te/srmt/?seller_id=magazineluiza",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g37-128gb-5g-4gb-ram-8gb-ram-boost-rosa-67-cam-50mp-selfie-8mp/p/242558500/te/srmt/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/smartphone-motorola-moto-g37-128gb-5g-4gb-ram-8gb-ram-boost-rosa-67-cam-50mp-selfie-8mp/magazineluiza/242558500/db93d46f7cc195c386e956e9d8559fca.jpg",
+        "titulo": "Smartphone Motorola Moto G37 128GB 5G 4GB RAM +8GB RAM Boost Rosa 6,7\" Câm. 50MP + Selfie 8MP",
+        "preco": 989.1,
+        "preco_original": 2199.0,
+        "desconto": 55,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795803063.3002508,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_241762800",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-43-lg-lb650-full-hd-lcd-43lb6500psb-webos-26-2026/p/241762800/et/elit/?seller_id=magazineluiza",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-43-lg-lb650-full-hd-lcd-43lb6500psb-webos-26-2026/p/241762800/et/elit/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/smart-tv-43-lg-lb650-full-hd-lcd-43lb6500psb-webos-26-2026/magazineluiza/241762800/fa928fbe1617c23c3e4218c239c3f56b.jpg",
+        "titulo": "Smart TV 43\" LG LB650 Full HD LCD 43LB6500PSB WebOS 26 2026",
+        "preco": 1799.1,
+        "preco_original": 2699.0,
+        "desconto": 33,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795803083.9130669,
+        "expirado": false
     }
 ]

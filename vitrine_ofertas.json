@@ -1,5 +1,44 @@
 [
   {
+    "id": "ML_MLBU6068708132",
+    "titulo": "Ar Condicionado Split Inverter Tcl Semp 12000 Btus Frio 220v",
+    "preco_atual": 1349.0,
+    "preco_original": 3694.9,
+    "desconto": 63,
+    "link_afiliado": "https://www.mercadolivre.com.br/ar-condicionado-split-inverter-tcl-semp-12000-btus-frio-220v/up/MLBU6068708132?matt_word=joarlyssonrodrigues&affiliate=joarlyssonrodrigues",
+    "link_imagem": "https://i.promobit.com.br/500/829547668817957955283689670986.png",
+    "cupom": "TECHONOMELI",
+    "vendas": 0,
+    "loja": "Mercado Livre",
+    "timestamp": 1795803084.3538718
+  },
+  {
+    "id": "MAGALU_242558500",
+    "titulo": "Smartphone Motorola Moto G37 128GB 5G 4GB RAM +8GB RAM Boost Rosa 6,7\" Câm. 50MP + Selfie 8MP",
+    "preco_atual": 989.1,
+    "preco_original": 2199.0,
+    "desconto": 55,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g37-128gb-5g-4gb-ram-8gb-ram-boost-rosa-67-cam-50mp-selfie-8mp/p/242558500/te/srmt/",
+    "link_imagem": "https://a-static.mlcdn.com.br/280x210/smartphone-motorola-moto-g37-128gb-5g-4gb-ram-8gb-ram-boost-rosa-67-cam-50mp-selfie-8mp/magazineluiza/242558500/db93d46f7cc195c386e956e9d8559fca.jpg",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795803084.3538647
+  },
+  {
+    "id": "MAGALU_241762800",
+    "titulo": "Smart TV 43\" LG LB650 Full HD LCD 43LB6500PSB WebOS 26 2026",
+    "preco_atual": 1799.1,
+    "preco_original": 2699.0,
+    "desconto": 33,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smart-tv-43-lg-lb650-full-hd-lcd-43lb6500psb-webos-26-2026/p/241762800/et/elit/",
+    "link_imagem": "https://a-static.mlcdn.com.br/280x210/smart-tv-43-lg-lb650-full-hd-lcd-43lb6500psb-webos-26-2026/magazineluiza/241762800/fa928fbe1617c23c3e4218c239c3f56b.jpg",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795803084.3538537
+  },
+  {
     "id": "https://shopee.com.br/opaanlp/1248266601/58250692708",
     "titulo": "Cerveja Premium 5L Barril Heineken",
     "preco_atual": 64.0,
@@ -999,44 +1038,5 @@
     "vendas": 0,
     "loja": "Amazon",
     "timestamp": 1795219961.2767577
-  },
-  {
-    "id": "AMAZON_B0GYFRGPZY",
-    "titulo": "Notebook Dell 15, Intel Core i5-1334U 13ª Geração, 8 GB RAM DDR5, 512 GB SSD NVMe, Tela 15.6\" Full HD 120 Hz Antirreflexo, Windows 11 Home, 1 Ano de Garantia — DC15-I51334U-A50",
-    "preco_atual": 3499.0,
-    "preco_original": 5299.0,
-    "desconto": 33,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0GYFRGPZY?tag=joarlysson0d-20",
-    "link_imagem": "https://m.media-amazon.com/images/I/5152rTpvy5L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "cupom": "",
-    "vendas": 0,
-    "loja": "Amazon",
-    "timestamp": 1795219961.276729
-  },
-  {
-    "id": "MAGALU_FHB1A74G8K",
-    "titulo": "Air Fryer Oven Electrolux Experience 12L por Rita Lobo 5 em 1 EAF85 Grafite Fritadeira Elétrica 1700W",
-    "preco_atual": 713.84,
-    "preco_original": 899.9,
-    "desconto": 20,
-    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/air-fryer-oven-electrolux-experience-12l-por-rita-lobo-5-em-1-eaf85-grafite-fritadeira-eletrica-1700w/p/fhb1a74g8k/ep/efso/",
-    "link_imagem": "https://a-static.mlcdn.com.br/280x210/air-fryer-oven-electrolux-experience-12l-por-rita-lobo-5-em-1-eaf85-grafite-fritadeira-eletrica-1700w/hjmagazine/skuhj00000844/7b5607a94bfb98276a572908d61352df.jpg",
-    "cupom": "",
-    "vendas": 0,
-    "loja": "Magalu",
-    "timestamp": 1795219961.27672
-  },
-  {
-    "id": "AMAZON_B09ZHCLVXF",
-    "titulo": "Philips Walita Cafeteira Espresso Superautomática Série 1200, 220V",
-    "preco_atual": 1818.0,
-    "preco_original": 3999.0,
-    "desconto": 54,
-    "link_afiliado": "https://www.amazon.com.br/dp/B09ZHCLVXF?tag=joarlysson0d-20",
-    "link_imagem": "https://i.promobit.com.br/500/684593217917951811114262613861.png",
-    "cupom": "CUPOM100OFF",
-    "vendas": 0,
-    "loja": "Amazon",
-    "timestamp": 1795212665.1602168
   }
 ]
