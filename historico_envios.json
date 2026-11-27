@@ -58590,5 +58590,19 @@
         "vendas": 0,
         "timestamp": 1795788713.814697,
         "expirado": false
+    },
+    {
+        "id": "https://shopee.com.br/opaanlp/1248266601/58250692708",
+        "link_bruto": "https://shopee.com.br/opaanlp/1248266601/58250692708?__mobile__=1&d_id=43766&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAzrvExX3BOC-fZT9zyFt6iyRShpKJmclf4bd-1lB2BkPFoT75H5V-GI6sDQShGVTR_sUWYiEkhyqcekBHW3GiB8oG6SmJuemvXOjAC1t0m1e50RVD7X64vznqG-QLSimRfzrjQy9y_npSMoq_jxzuAj5Zv6kQntHa1W3HW5Tcc-G5GP53D34ajpop2vrGYxXNuucBilWw&mmp_pid=an_18140170000&uls_trackid=577scspb00cc&utm_campaign=id_de6d8084e1c60068&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fwwzjgae9phn",
+        "link_afiliado": "https://s.shopee.com.br/6AmvDCcaky?lp=aff",
+        "link_imagem": "https://i.promobit.com.br/500/271668981417957819619134585411.jpg",
+        "titulo": "Cerveja Premium 5L Barril Heineken",
+        "preco": 64.0,
+        "preco_original": 166.67,
+        "desconto": 61.6,
+        "cupom": "C3RV3J410OFF",
+        "vendas": 0,
+        "timestamp": 1795795777.825596,
+        "expirado": false
     }
 ]

@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://shopee.com.br/opaanlp/1248266601/58250692708",
+    "titulo": "Cerveja Premium 5L Barril Heineken",
+    "preco_atual": 64.0,
+    "preco_original": 166.67,
+    "desconto": 61,
+    "link_afiliado": "https://s.shopee.com.br/6AmvDCcaky?lp=aff",
+    "link_imagem": "https://i.promobit.com.br/500/271668981417957819619134585411.jpg",
+    "cupom": "C3RV3J410OFF",
+    "vendas": 0,
+    "loja": "Shopee",
+    "timestamp": 1795795778.3741179
+  },
+  {
     "id": "ML_MLBU5288199054",
     "titulo": "Kit Starlink Mini X Internet Via Satélite (Antena + Roteador)",
     "preco_atual": 359.2,
@@ -1025,18 +1038,5 @@
     "vendas": 0,
     "loja": "Amazon",
     "timestamp": 1795212665.1602168
-  },
-  {
-    "id": "MAGALU_BDD7G29BH2",
-    "titulo": "Tênis Asics Gel-Thunderlight 2 Masculino",
-    "preco_atual": 208.99,
-    "preco_original": 459.99,
-    "desconto": 54,
-    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-gel-thunderlight-2-masculino/p/bdd7g29bh2/es/osnr/",
-    "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-asics-gel-thunderlight-2-masculino/netshoes/sg4-027v-026-41/408efce76e17b6686b166ce19e8e3297.jpeg",
-    "cupom": "",
-    "vendas": 0,
-    "loja": "Magalu",
-    "timestamp": 1795198249.544074
   }
 ]
