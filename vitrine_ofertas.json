@@ -1,5 +1,31 @@
 [
   {
+    "id": "https://shopee.com.br/opaanlp/498370128/58271614441",
+    "titulo": "Bundle Nintendo Switch 2 + Resort Sports Nacional",
+    "preco_atual": 3311.0,
+    "preco_original": 9999.76,
+    "desconto": 66,
+    "link_afiliado": "https://s.shopee.com.br/6AmvTtGPcE?lp=aff",
+    "link_imagem": "https://i.promobit.com.br/500/513631302117958076639470998867.jpg",
+    "cupom": "BF500AF",
+    "vendas": 0,
+    "loja": "Shopee",
+    "timestamp": 1795810382.8581991
+  },
+  {
+    "id": "MAGALU_241202100",
+    "titulo": "Smartphone Motorola Moto G67 5G 256GB 12GB (4GB RAM + 8GB RAM Boost) Câmera 50MP Sony Lytia 600 Tela 1.5K Extreme Amoled 120Hz Ultrarresistente",
+    "preco_atual": 1439.1,
+    "preco_original": 1999.0,
+    "desconto": 28,
+    "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g67-5g-256gb-12gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-1-5k-extreme-amoled-120hz-ultrarresistente/p/241202100/te/mg67/",
+    "link_imagem": "https://a-static.mlcdn.com.br/280x210/smartphone-motorola-moto-g67-5g-256gb-12gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-1-5k-extreme-amoled-120hz-ultrarresistente/magazineluiza/241202100/840a4ebc0308ead5fb4db1853d79ecff.jpg",
+    "cupom": "",
+    "vendas": 0,
+    "loja": "Magalu",
+    "timestamp": 1795810382.8581872
+  },
+  {
     "id": "ML_MLBU6068708132",
     "titulo": "Ar Condicionado Split Inverter Tcl Semp 12000 Btus Frio 220v",
     "preco_atual": 1349.0,
@@ -1012,31 +1038,5 @@
     "vendas": 0,
     "loja": "Amazon",
     "timestamp": 1795270155.9087462
-  },
-  {
-    "id": "AMAZON_B0FY6PBWWJ",
-    "titulo": "Controle sem fio PlayStation DualSense™ – Galactic Purple",
-    "preco_atual": 385.9,
-    "preco_original": 499.9,
-    "desconto": 22,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0FY6PBWWJ?tag=joarlysson0d-20",
-    "link_imagem": "https://m.media-amazon.com/images/I/61jgxdGYgEL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "cupom": "",
-    "vendas": 0,
-    "loja": "Amazon",
-    "timestamp": 1795262901.311429
-  },
-  {
-    "id": "AMAZON_B0B4PZL68N",
-    "titulo": "Panela Pressão Elétrica Midea 6L 12 Receitas - 127V",
-    "preco_atual": 287.0,
-    "preco_original": 749.0,
-    "desconto": 61,
-    "link_afiliado": "https://www.amazon.com.br/dp/B0B4PZL68N?tag=joarlysson0d-20",
-    "link_imagem": "https://i.promobit.com.br/500/479276437217951811121220037376.png",
-    "cupom": "20BLACKPRIME",
-    "vendas": 0,
-    "loja": "Amazon",
-    "timestamp": 1795219961.2767577
   }
 ]

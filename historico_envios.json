@@ -58646,5 +58646,33 @@
         "vendas": 0,
         "timestamp": 1795803083.9130669,
         "expirado": false
+    },
+    {
+        "id": "https://shopee.com.br/opaanlp/498370128/58271614441",
+        "link_bruto": "https://shopee.com.br/opaanlp/498370128/58271614441?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAx_m6ry6tCxboagp72Mt1dJi4VgzMmjGLvFB9QZ_3OE1UkNM8qRLiBjKhUOEz8trCJvDezRc4WLUg6k5slkCAWxV4yCBWuql1MkB4EZ1PLUZoI_qihItjA32lQC9p_TifvBOOyX9Q2AJ62zp_iNJ-IZqGaf8raGz5nJDvxLrpHWtB8aT80WKN5ewjCwPILnX9VU8IA&mmp_pid=an_18140170000&uls_trackid=577tpage00bu&utm_campaign=id_817fecfc15d4e16b&utm_content=----&utm_medium=affiliates&utm_source=an_18140170000&utm_term=fwxzr1xw7guu",
+        "link_afiliado": "https://s.shopee.com.br/6AmvTtGPcE?lp=aff",
+        "link_imagem": "https://i.promobit.com.br/500/513631302117958076639470998867.jpg",
+        "titulo": "Bundle Nintendo Switch 2 + Resort Sports Nacional",
+        "preco": 3311.0,
+        "preco_original": 9999.76,
+        "desconto": 66.9,
+        "cupom": "BF500AF",
+        "vendas": 0,
+        "timestamp": 1795810355.417595,
+        "expirado": false
+    },
+    {
+        "id": "MAGALU_241202100",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g67-5g-256gb-12gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-1-5k-extreme-amoled-120hz-ultrarresistente/p/241202100/te/mg67/?seller_id=magazineluiza",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/smartphone-motorola-moto-g67-5g-256gb-12gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-1-5k-extreme-amoled-120hz-ultrarresistente/p/241202100/te/mg67/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/smartphone-motorola-moto-g67-5g-256gb-12gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-1-5k-extreme-amoled-120hz-ultrarresistente/magazineluiza/241202100/840a4ebc0308ead5fb4db1853d79ecff.jpg",
+        "titulo": "Smartphone Motorola Moto G67 5G 256GB 12GB (4GB RAM + 8GB RAM Boost) Câmera 50MP Sony Lytia 600 Tela 1.5K Extreme Amoled 120Hz Ultrarresistente",
+        "preco": 1439.1,
+        "preco_original": 1999.0,
+        "desconto": 28,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795810382.414043,
+        "expirado": false
     }
 ]
