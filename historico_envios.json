@@ -58674,5 +58674,19 @@
         "vendas": 0,
         "timestamp": 1795810382.414043,
         "expirado": false
+    },
+    {
+        "id": "MAGALU_FG9G29D196",
+        "link_bruto": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-patriot-14-masculino/p/fg9g29d196/es/oedc/?seller_id=netshoes",
+        "link_afiliado": "https://www.magazinevoce.com.br/magazinejoarlysson/tenis-asics-patriot-14-masculino/p/fg9g29d196/es/oedc/",
+        "link_imagem": "https://a-static.mlcdn.com.br/280x210/tenis-asics-patriot-14-masculino/netshoes/sg4-0156-006-42/ba751aae3004a2c9f05a620a85d824b6.jpeg",
+        "titulo": "Tênis Asics Patriot 14 Masculino",
+        "preco": 199.99,
+        "preco_original": 449.99,
+        "desconto": 55,
+        "cupom": null,
+        "vendas": 0,
+        "timestamp": 1795824580.226727,
+        "expirado": false
     }
 ]
